@@ -81,33 +81,32 @@
   .c-now.sale { color:var(--red); }
   .c-now .cur { font-size:18px; font-weight:800; vertical-align:3px; margin-right:1px; }
 
-  /* ---------- spotlight ---------- */
-  .spot { flex:1.15 1 0; min-width:0; border-radius:14px; overflow:hidden; position:relative;
-    background:linear-gradient(180deg,var(--accent), var(--accent-2));
-    display:flex; flex-direction:column; padding:18px; }
-  .spot-tab { position:absolute; top:0; right:0; background:var(--red); color:var(--white);
-    font-family:'Anton'; font-size:20px; letter-spacing:1px; padding:8px 18px; border-bottom-left-radius:12px;
-    text-transform:uppercase; }
-  .spot-save-badge { position:absolute; top:60px; right:18px; background:var(--red); color:#fff;
-    width:120px; height:120px; border-radius:50%; display:flex; flex-direction:column; align-items:center;
-    justify-content:center; transform:rotate(8deg); box-shadow:0 6px 0 rgba(0,0,0,.25); line-height:1; }
-  .spot-save-badge .s1 { font-family:'Anton'; font-size:14px; letter-spacing:1px; }
-  .spot-save-badge .s2 { font-family:'Anton'; font-size:26px; }
-  .spot-img { flex:1 1 auto; min-height:0; border-radius:12px; margin-bottom:14px;
-    background:repeating-linear-gradient(45deg,#fff,#fff 14px,#f3f3f3 14px,#f3f3f3 28px);
-    border:2px dashed rgba(0,0,0,.18); display:flex; align-items:center; justify-content:center; }
-  .spot-img span { font-family:'Anton'; font-size:18px; color:rgba(0,0,0,.30); letter-spacing:2px; text-transform:uppercase; }
-  .spot-name { font-family:'Anton'; font-size:34px; line-height:.98; color:var(--accent-ink); text-transform:uppercase; }
-  .spot-model { margin-top:4px; font-size:15px; font-weight:800; letter-spacing:1.5px;
-    color:rgba(0,0,0,.55); text-transform:uppercase; }
-  .spot-feats { margin:12px 0; display:flex; flex-direction:column; gap:7px; }
-  .spot-feat { display:flex; align-items:center; gap:9px; font-size:17px; font-weight:800; color:var(--accent-ink); }
-  .spot-feat .ck { width:24px; height:24px; border-radius:6px; flex:0 0 auto; background:var(--teal-deep);
-    color:#fff; font-size:15px; display:flex; align-items:center; justify-content:center; }
-  .spot-prices { margin-top:auto; }
-  .spot-was { font-size:24px; font-weight:800; color:rgba(0,0,0,.45); text-decoration:line-through; }
-  .spot-now { font-family:'Archivo'; font-weight:900; font-size:74px; line-height:.85; color:var(--accent-ink); white-space:nowrap; }
-  .spot-now .cur { font-size:34px; vertical-align:14px; margin-right:3px; }
+  /* ---------- full-screen spotlight page ---------- */
+  .fspot { flex:1 1 auto; margin:16px 0; display:flex; gap:26px; min-height:0; }
+  .fspot-img { flex:1 1 0; min-width:0; border-radius:16px;
+    background:repeating-linear-gradient(45deg,#fff,#fff 22px,#f1f1f1 22px,#f1f1f1 44px);
+    border:3px dashed rgba(255,255,255,.12); display:flex; align-items:center; justify-content:center; }
+  .fspot-img span { font-family:'Anton'; font-size:40px; color:rgba(0,0,0,.16); letter-spacing:3px; text-transform:uppercase; }
+  .fspot-panel { flex:1 1 0; min-width:0; border-radius:16px; position:relative; overflow:hidden;
+    background:linear-gradient(180deg,var(--accent),var(--accent-2)); display:flex; flex-direction:column; padding:40px; }
+  .fspot-tab { position:absolute; top:0; right:0; background:var(--red); color:#fff;
+    font-family:'Anton'; font-size:30px; letter-spacing:2px; padding:12px 28px; border-bottom-left-radius:16px; text-transform:uppercase; }
+  .fspot-save { position:absolute; top:92px; right:38px; background:var(--red); color:#fff;
+    width:196px; height:196px; border-radius:50%; display:flex; flex-direction:column; align-items:center; justify-content:center;
+    transform:rotate(8deg); box-shadow:0 8px 0 rgba(0,0,0,.25); line-height:1; }
+  .fspot-save .s1 { font-family:'Anton'; font-size:26px; letter-spacing:2px; }
+  .fspot-save .s2 { font-family:'Anton'; font-size:44px; }
+  .fspot-name { font-family:'Anton'; font-size:78px; line-height:.95; color:var(--accent-ink); text-transform:uppercase; max-width:76%; }
+  .fspot-model { margin-top:12px; font-size:26px; font-weight:800; letter-spacing:1.5px; color:rgba(0,0,0,.55); text-transform:uppercase; }
+  .fspot-war { margin-left:14px; color:var(--accent-ink); font-weight:900; white-space:nowrap; }
+  .fspot-feats { margin:24px 0; display:flex; flex-direction:column; gap:14px; }
+  .fspot-feat { display:flex; align-items:center; gap:14px; font-size:29px; font-weight:800; color:var(--accent-ink); }
+  .fspot-feat .ck { width:38px; height:38px; border-radius:9px; flex:0 0 auto; background:var(--teal-deep); color:#fff;
+    font-size:23px; display:flex; align-items:center; justify-content:center; }
+  .fspot-prices { margin-top:auto; }
+  .fspot-was { font-size:40px; font-weight:800; color:rgba(0,0,0,.42); text-decoration:line-through; }
+  .fspot-now { font-family:'Archivo'; font-weight:900; font-size:148px; line-height:.82; color:var(--accent-ink); white-space:nowrap; }
+  .fspot-now .cur { font-size:62px; vertical-align:28px; margin-right:6px; }
 
   /* ---------- essentials bar ---------- */
   .ess { flex:0 0 auto; height:152px; background:linear-gradient(180deg,#081012,var(--bar));
@@ -163,9 +162,9 @@
 <script>
 const CONFIG = {
   DATA_URL: "https://raw.githubusercontent.com/MJamesA/hisense-menu-board/main/deals.json",
-  PAGE_SECONDS: 14,        // rotation speed when there are overflow pages
-  COLUMNS_PER_PAGE: 3,     // category columns shown beside the spotlight
-  ITEMS_PER_COLUMN: 4,     // cards per category column
+  PAGE_SECONDS: 14,        // rotation speed when there are multiple pages
+  COLUMNS_PER_PAGE: 4,     // category columns per grid page (spotlights are now their own pages)
+  ITEMS_PER_COLUMN: 4,     // cards per category column  -> 16 main items per page
   ESSENTIALS_PER_PAGE: 6,  // small-appliance cards along the bottom
   REFETCH_MINUTES: 5
 };
@@ -191,20 +190,26 @@ function priceHtml(p, cls) {
 }
 
 function buildPages(data) {
-  const cols = (data.columns || []).filter(c => c.items && c.items.length);
-  const ess  = (data.essentials || []);
+  const cols  = (data.columns || []).filter(c => c.items && c.items.length);
+  const ess   = (data.essentials || []);
+  const spots = (data.spotlights || []).filter(Boolean);
+  const pages = [];
+
+  // Grid pages: 4 category columns + a slice of essentials per page.
   const colPages = chunk(cols, CONFIG.COLUMNS_PER_PAGE);
   const essPages = chunk(ess, CONFIG.ESSENTIALS_PER_PAGE);
-  const n = Math.max(colPages.length, essPages.length, 1);
-  const pages = [];
-  for (let i = 0; i < n; i++) {
+  const nGrid = Math.max(colPages.length, essPages.length);
+  for (let i = 0; i < nGrid; i++) {
     pages.push({
-      meta: data,
+      type: 'grid', meta: data,
       cols: colPages[i] || [],
-      ess: essPages.length ? essPages[i % essPages.length] : [],
-      spotlight: data.spotlight || null
+      ess: essPages.length ? essPages[i % essPages.length] : []
     });
   }
+
+  // Spotlight pages: one full-screen page per featured item.
+  spots.forEach(p => pages.push({ type: 'spot', meta: data, product: p }));
+
   return pages;
 }
 
@@ -240,23 +245,42 @@ function renderColumn(col) {
   return cards.join("");
 }
 
-function renderSpotlight(p, accent) {
-  if (!p) return `<div class="spot"></div>`;
-  const feats = (p.features || "").split("|").map(f=>f.trim()).filter(Boolean).slice(0,5);
+function renderHeader(m) {
+  return `
+    <div class="hdr">
+      <div class="wordmark">Hisense<span class="dot">.</span></div>
+      <div class="bar"></div>
+      <div class="title">${esc(m.title || 'MEGA SAVERS')}</div>
+      ${m.footerText ? `<div class="warranty-pill">✓ ${esc(m.footerText)}</div>` : ""}
+      <div class="hdr-meta">
+        <div class="m1">ALL PRICES IN GH₵</div>
+        <div class="m2">${esc(m.validText || '')}</div>
+      </div>
+    </div>`;
+}
+
+// Full-screen page dedicated to one featured product.
+function renderSpotPage(page) {
+  const m = page.meta, p = page.product;
+  const feats = (p.features || "").split("|").map(f=>f.trim()).filter(Boolean).slice(0,6);
   const hasSale = p.sale != null && p.regular != null && p.sale < p.regular;
   const nowV = hasSale ? p.sale : (p.regular != null ? p.regular : p.sale);
   const save = hasSale ? (p.regular - p.sale) : null;
+  const war = warrantyLabel(p.warranty);
   return `
-    <div class="spot">
-      <div class="spot-tab">${accent === 'teal' ? 'FEATURED' : 'BEST DEAL'}</div>
-      ${save!=null ? `<div class="spot-save-badge"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
-      <div class="spot-img"><span>${esc(p.model || 'Featured')}</span></div>
-      <div class="spot-name">${esc(p.name)}</div>
-      <div class="spot-model">${p.model ? 'Model · ' + esc(p.model) : ''}${p.warranty ? `<span class="spot-war">⛨ ${esc(warrantyLabel(p.warranty))}</span>` : ''}</div>
-      <div class="spot-feats">${feats.map(f=>`<div class="spot-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
-      <div class="spot-prices">
-        ${hasSale ? `<div class="spot-was">GH₵${money(p.regular)}</div>` : ""}
-        <div class="spot-now"><span class="cur">GH₵</span>${nowV!=null?money(nowV):"&mdash;"}</div>
+    ${renderHeader(m)}
+    <div class="fspot">
+      <div class="fspot-img"><span>${esc(p.model || 'Featured')}</span></div>
+      <div class="fspot-panel">
+        <div class="fspot-tab">${m.accent === 'teal' ? 'FEATURED' : 'BEST DEAL'}</div>
+        ${save!=null ? `<div class="fspot-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
+        <div class="fspot-name">${esc(p.name)}</div>
+        <div class="fspot-model">${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fspot-war">⛨ ${esc(war)}</span>` : ''}</div>
+        <div class="fspot-feats">${feats.map(f=>`<div class="fspot-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
+        <div class="fspot-prices">
+          ${hasSale ? `<div class="fspot-was">GH₵${money(p.regular)}</div>` : ""}
+          <div class="fspot-now"><span class="cur">GH₵</span>${nowV!=null?money(nowV):"&mdash;"}</div>
+        </div>
       </div>
     </div>`;
 }
@@ -276,6 +300,10 @@ function renderEssCard(it) {
 }
 
 function renderPage(page) {
+  return page.type === 'spot' ? renderSpotPage(page) : renderGridPage(page);
+}
+
+function renderGridPage(page) {
   const m = page.meta;
   const colsHtml = page.cols.map((c) => `
       <div class="col">
@@ -291,20 +319,8 @@ function renderPage(page) {
     : `<div class="ess-card" style="visibility:hidden"></div>`;
 
   return `
-    <div class="hdr">
-      <div class="wordmark">Hisense<span class="dot">.</span></div>
-      <div class="bar"></div>
-      <div class="title">${esc(m.title || 'MEGA SAVERS')}</div>
-      ${m.footerText ? `<div class="warranty-pill">✓ ${esc(m.footerText)}</div>` : ""}
-      <div class="hdr-meta">
-        <div class="m1">ALL PRICES IN GH₵</div>
-        <div class="m2">${esc(m.validText || '')}</div>
-      </div>
-    </div>
-    <div class="main">
-      ${colsHtml}
-      ${renderSpotlight(page.spotlight, m.accent)}
-    </div>
+    ${renderHeader(m)}
+    <div class="main">${colsHtml}</div>
     <div class="ess">
       <div class="ess-label"><div class="e1">Everyday<br>Essentials</div><div class="e2">Small Appliances</div></div>
       <div class="ess-items">${essItems}</div>
@@ -350,8 +366,9 @@ function fetchData(isFirst) {
     .then(r => { if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
     .then(data => {
       if (!data || data.ok === false) throw new Error((data&&data.error)||"bad payload");
-      const total = (data.columns||[]).reduce((n,c)=>n+(c.items?c.items.length:0),0) + (data.essentials||[]).length;
-      if (!total && !data.spotlight) {
+      const total = (data.columns||[]).reduce((n,c)=>n+(c.items?c.items.length:0),0)
+                  + (data.essentials||[]).length + (data.spotlights||[]).length;
+      if (!total) {
         if (!firstLoadDone) loadingEl.querySelector('.sub').textContent = "No deals selected yet";
         statusEl.textContent = "⚠ Empty selection"; statusEl.classList.add('warn'); return;
       }
