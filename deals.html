@@ -51,19 +51,21 @@
   .hdr-meta .m1 { font-family:'Anton'; font-size:24px; color:var(--teal); letter-spacing:1px; }
   .hdr-meta .m2 { font-size:15px; font-weight:800; color:var(--muted-d); letter-spacing:1.5px; text-transform:uppercase; }
 
-  /* ---------- main row ---------- */
-  .main { flex:1 1 auto; display:flex; gap:16px; margin:16px 0; min-height:0; }
-  .col { flex:1 1 0; min-width:0; background:rgba(8,18,20,.55);
-    border:2px solid var(--bar-edge); border-radius:14px; padding:12px;
-    display:flex; flex-direction:column; }
-  .col-head { flex:0 0 auto; display:flex; align-items:center; gap:12px; padding:4px 4px 12px; }
-  .col-accent { width:7px; height:30px; border-radius:4px; flex:0 0 auto;
+  /* ---------- main (single category, up to 10 cards = 2 cols × 5) ---------- */
+  .main-single { flex:1 1 auto; display:flex; flex-direction:column; margin:14px 0; min-height:0;
+    background:rgba(8,18,20,.5); border:2px solid var(--bar-edge); border-radius:14px; padding:16px 18px; }
+  .cat-banner { flex:0 0 auto; display:flex; align-items:center; gap:14px; padding:2px 2px 14px; }
+  .col-accent { width:9px; height:38px; border-radius:5px; flex:0 0 auto;
     background:linear-gradient(180deg,var(--teal),var(--teal-deep)); }
-  .col-title { font-family:'Anton'; font-size:27px; color:var(--white); text-transform:uppercase;
+  .col-title { font-family:'Anton'; font-size:40px; color:var(--white); text-transform:uppercase;
     letter-spacing:.5px; line-height:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-  .cards { flex:1 1 auto; display:flex; flex-direction:column; gap:10px; min-height:0; }
+  .pageno { margin-left:auto; font-family:'Anton'; font-size:22px; color:var(--muted-d); letter-spacing:1px; }
+  .grid2 { flex:1 1 auto; min-height:0; display:grid; grid-template-columns:1fr 1fr;
+    grid-template-rows:repeat(5,1fr); grid-auto-flow:column; gap:12px 18px; }
+  .ess-solo { justify-content:stretch; }
+  .ess-solo .ess { flex:1 1 auto; height:auto; }
 
-  .card { flex:1 1 0; min-height:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
+  .card { min-height:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
     border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 20px;
     box-shadow:0 4px 0 rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.5); }
   .c-body { flex:1 1 auto; min-width:0; }
@@ -162,14 +164,14 @@
 <script>
 const CONFIG = {
   DATA_URL: "https://raw.githubusercontent.com/MJamesA/hisense-menu-board/main/deals.json",
-  PAGE_SECONDS: 14,        // rotation speed when there are multiple pages
-  COLUMNS_PER_PAGE: 4,     // category columns per grid page (spotlights are now their own pages)
-  ITEMS_PER_COLUMN: 4,     // cards per category column  -> 16 main items per page
-  ESSENTIALS_PER_PAGE: 6,  // small-appliance cards along the bottom
+  PAGE_SECONDS: 14,         // rotation speed when there are multiple pages
+  MAX_ITEMS_PER_PAGE: 10,   // up to 10 product cards per category grid page
+  GRID_ROWS: 5,             // laid out as 2 columns × 5 rows = 10
+  ESSENTIALS_PER_PAGE: 6,   // small-appliance cards along the bottom bar
   REFETCH_MINUTES: 5
 };
 
-let PAGES = [], pageIndex = 0, rotateTimer = null, firstLoadDone = false;
+let PAGES = [], pageIndex = 0, rotateTimer = null, firstLoadDone = false, ESS_OFFSET = 0;
 const stageEl = document.getElementById('stage');
 const loadingEl = document.getElementById('loading');
 const statusEl = document.getElementById('status');
@@ -189,26 +191,46 @@ function priceHtml(p, cls) {
   return `<div class="${cls}-now">${cur}${v!=null?money(v):"&mdash;"}</div>`;
 }
 
+let ESS_CHUNKS = [];   // essentials chunks, distributed across grid pages (cycles each loop)
+
 function buildPages(data) {
   const cols  = (data.columns || []).filter(c => c.items && c.items.length);
-  const ess   = (data.essentials || []);
   const spots = (data.spotlights || []).filter(Boolean);
+  ESS_CHUNKS  = chunk(data.essentials || [], CONFIG.ESSENTIALS_PER_PAGE);
+
+  // Group spotlights by their (grouped) category so they sit next to that category.
+  const spotsByCat = {};
+  spots.forEach(s => { (spotsByCat[s.category] = spotsByCat[s.category] || []).push(s); });
+
   const pages = [];
+  let gridSeq = 0;   // running index of grid pages, for distributing essentials
 
-  // Grid pages: 4 category columns + a slice of essentials per page.
-  const colPages = chunk(cols, CONFIG.COLUMNS_PER_PAGE);
-  const essPages = chunk(ess, CONFIG.ESSENTIALS_PER_PAGE);
-  const nGrid = Math.max(colPages.length, essPages.length);
-  for (let i = 0; i < nGrid; i++) {
-    pages.push({
-      type: 'grid', meta: data,
-      cols: colPages[i] || [],
-      ess: essPages.length ? essPages[i % essPages.length] : []
+  // For each category: its grid pages (<=10 items), then its spotlight pages.
+  cols.forEach(col => {
+    const itemPages = chunk(col.items, CONFIG.MAX_ITEMS_PER_PAGE);
+    itemPages.forEach((items, idx) => {
+      pages.push({
+        type: 'grid', meta: data, category: col.category, items: items,
+        pageNo: idx + 1, pageCount: itemPages.length, gridSeq: gridSeq++
+      });
     });
-  }
+    (spotsByCat[col.category] || []).forEach(s => {
+      pages.push({ type: 'spot', meta: data, product: s });
+    });
+    delete spotsByCat[col.category];   // mark as placed
+  });
 
-  // Spotlight pages: one full-screen page per featured item.
-  spots.forEach(p => pages.push({ type: 'spot', meta: data, product: p }));
+  // Spotlights whose category has no product columns -> their own pages at the end.
+  Object.keys(spotsByCat).forEach(cat => {
+    spotsByCat[cat].forEach(s => pages.push({ type: 'spot', meta: data, product: s }));
+  });
+
+  // Essentials with no main at all -> their own pages (otherwise they ride the grid pages,
+  // so MORE essentials than main never creates blank pages).
+  if (!gridSeq && ESS_CHUNKS.length) {
+    ESS_CHUNKS.forEach(c => pages.push({ type: 'ess', meta: data, ess: c }));
+    ESS_CHUNKS = [];
+  }
 
   return pages;
 }
@@ -224,25 +246,19 @@ function warrantyLabel(w) {
   return w.toUpperCase();
 }
 
-function renderColumn(col) {
-  const cards = [];
-  for (let i = 0; i < CONFIG.ITEMS_PER_COLUMN; i++) {
-    const it = col.items[i];
-    if (!it) { cards.push(`<div class="card" style="visibility:hidden"></div>`); continue; }
-    const war = warrantyLabel(it.warranty);
-    cards.push(`
-      <div class="card">
-        <div class="c-body">
-          <div class="c-name">${esc(it.name)}</div>
-          <div class="c-sub">
-            ${it.model ? `<span class="c-model">${esc(it.model)}</span>` : ""}
-            ${war ? `<span class="c-war">${esc(war)}</span>` : ""}
-          </div>
+function renderCard(it) {
+  const war = warrantyLabel(it.warranty);
+  return `
+    <div class="card">
+      <div class="c-body">
+        <div class="c-name">${esc(it.name)}</div>
+        <div class="c-sub">
+          ${it.model ? `<span class="c-model">${esc(it.model)}</span>` : ""}
+          ${war ? `<span class="c-war">${esc(war)}</span>` : ""}
         </div>
-        <div class="c-price">${priceHtml(it, "c")}</div>
-      </div>`);
-  }
-  return cards.join("");
+      </div>
+      <div class="c-price">${priceHtml(it, "c")}</div>
+    </div>`;
 }
 
 function renderHeader(m) {
@@ -300,36 +316,47 @@ function renderEssCard(it) {
 }
 
 function renderPage(page) {
-  return page.type === 'spot' ? renderSpotPage(page) : renderGridPage(page);
+  if (page.type === 'spot') return renderSpotPage(page);
+  if (page.type === 'ess')  return renderEssPage(page);
+  return renderGridPage(page);
 }
 
-function renderGridPage(page) {
-  const m = page.meta;
-  const colsHtml = page.cols.map((c) => `
-      <div class="col">
-        <div class="col-head">
-          <span class="col-accent"></span>
-          <div class="col-title">${esc(c.category)}</div>
-        </div>
-        <div class="cards">${renderColumn(c)}</div>
-      </div>`).join("");
-
-  const essItems = page.ess.length
-    ? page.ess.map(renderEssCard).join("")
-    : `<div class="ess-card" style="visibility:hidden"></div>`;
-
+function essBar(items) {
   return `
-    ${renderHeader(m)}
-    <div class="main">${colsHtml}</div>
     <div class="ess">
       <div class="ess-label"><div class="e1">Everyday<br>Essentials</div><div class="e2">Small Appliances</div></div>
-      <div class="ess-items">${essItems}</div>
+      <div class="ess-items">${items.map(renderEssCard).join("")}</div>
     </div>`;
+}
+
+// One category, up to 10 cards (2 columns × 5), with the essentials bar below.
+function renderGridPage(page) {
+  const m = page.meta;
+  const cards = page.items.map(renderCard).join("");
+  // essentials ride the grid pages and cycle each loop (never create blank pages)
+  const ess = ESS_CHUNKS.length ? ESS_CHUNKS[(page.gridSeq + ESS_OFFSET) % ESS_CHUNKS.length] : [];
+  const pageNo = page.pageCount > 1 ? `<span class="pageno">PAGE ${page.pageNo} OF ${page.pageCount}</span>` : '';
+  return `
+    ${renderHeader(m)}
+    <div class="main-single">
+      <div class="cat-banner"><span class="col-accent"></span><div class="col-title">${esc(page.category)}</div>${pageNo}</div>
+      <div class="grid2">${cards}</div>
+    </div>
+    ${ess.length ? essBar(ess) : ''}`;
+}
+
+// Essentials-only page (used only when nothing else was selected).
+function renderEssPage(page) {
+  return `
+    ${renderHeader(page.meta)}
+    <div class="main-single ess-solo">${essBar(page.ess)}</div>`;
 }
 
 function showPage(idx) {
   if (!PAGES.length) return;
-  pageIndex = ((idx % PAGES.length) + PAGES.length) % PAGES.length;
+  const newIndex = ((idx % PAGES.length) + PAGES.length) % PAGES.length;
+  if (newIndex === 0 && idx !== 0 && PAGES.length > 1) ESS_OFFSET++;   // new loop -> rotate essentials
+  pageIndex = newIndex;
   const page = PAGES[pageIndex];
   // Spotlight theme follows price: promo -> gold "BEST DEAL", regular-only -> teal "FEATURED".
   let teal = page.meta.accent === 'teal';
