@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T12:22:12.326Z",
+  "generatedAt": "2026-06-25T12:22:49.172Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -910,15 +910,6 @@
           "regular": 850,
           "sale": null,
           "features": "Long-Lasting 20Hr Lithium Battery | Powerful & Whisper-Quiet DC Motor | Ghana Certified 3-Star Energy Rating | 12 Precision Speed Cooling Levels | Full-Function Wireless Remote Control | Integrated USB Mobile Charging Port | Built-In Soft LED Night Light | Wide-Angle Oscillation & Tilt Head | Adjustable Height Telescopic Stand",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Fan",
-          "name": "18\" RECHARGABLE STANDING FAN",
-          "model": "AMFKYS45AC18",
-          "regular": 950,
-          "sale": null,
-          "features": "Long-Lasting 20Hr Lithium Battery | Powerful & Whisper-Quiet DC Motor | Integrated USB Mobile Charging Port | Built-In Soft LED Night Light | 12 Precision Speed Cooling Levels | Adjustable Height Telescopic Stand | Wide-Angle Oscillation & Tilt Head | Full-Function Wireless Remote Control | Ghana Certified 3-Star Energy Rating",
           "warranty": "1 Year"
         },
         {
@@ -3178,6 +3169,15 @@
       "regular": 2300,
       "sale": 2030,
       "features": "High-Power 3-Burner Rapid Heating | Independent Quad-Zone Cooking | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Heat & Flame Control | Robust Build for Daily Heavy Use",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Fan",
+      "name": "18\" RECHARGABLE STANDING FAN",
+      "model": "AMFKYS45AC18",
+      "regular": 950,
+      "sale": null,
+      "features": "Long-Lasting 20Hr Lithium Battery | Powerful & Whisper-Quiet DC Motor | Integrated USB Mobile Charging Port | Built-In Soft LED Night Light | 12 Precision Speed Cooling Levels | Adjustable Height Telescopic Stand | Wide-Angle Oscillation & Tilt Head | Full-Function Wireless Remote Control | Ghana Certified 3-Star Energy Rating",
       "warranty": "1 Year"
     }
   ],
