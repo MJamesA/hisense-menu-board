@@ -43,6 +43,10 @@
   .title { font-family:'Anton'; font-size:54px; line-height:1; color:var(--yellow);
     text-transform:uppercase; letter-spacing:1px; flex:1 1 auto; white-space:nowrap;
     overflow:hidden; text-overflow:ellipsis; }
+  .warranty-pill { flex:0 0 auto; background:rgba(25,199,182,.15); border:2px solid var(--teal-deep);
+    color:var(--teal); font-family:'Anton'; font-size:22px; letter-spacing:1px; padding:8px 16px;
+    border-radius:10px; text-transform:uppercase; white-space:nowrap; }
+  .spot-war { margin-left:10px; color:var(--teal-deep); font-weight:900; white-space:nowrap; }
   .hdr-meta { text-align:right; line-height:1.25; }
   .hdr-meta .m1 { font-family:'Anton'; font-size:24px; color:var(--teal); letter-spacing:1px; }
   .hdr-meta .m2 { font-size:15px; font-weight:800; color:var(--muted-d); letter-spacing:1.5px; text-transform:uppercase; }
@@ -53,24 +57,24 @@
     border:2px solid var(--bar-edge); border-radius:14px; padding:12px;
     display:flex; flex-direction:column; }
   .col-head { flex:0 0 auto; display:flex; align-items:center; gap:12px; padding:4px 4px 12px; }
-  .col-num { width:42px; height:42px; border-radius:9px; flex:0 0 auto;
-    background:linear-gradient(180deg,var(--teal),var(--teal-deep)); color:#04201d;
-    font-family:'Anton'; font-size:24px; display:flex; align-items:center; justify-content:center; }
+  .col-accent { width:7px; height:30px; border-radius:4px; flex:0 0 auto;
+    background:linear-gradient(180deg,var(--teal),var(--teal-deep)); }
   .col-title { font-family:'Anton'; font-size:27px; color:var(--white); text-transform:uppercase;
     letter-spacing:.5px; line-height:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   .cards { flex:1 1 auto; display:flex; flex-direction:column; gap:10px; min-height:0; }
 
   .card { flex:1 1 0; min-height:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
-    border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 16px;
+    border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 20px;
     box-shadow:0 4px 0 rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.5); }
-  .rank { flex:0 0 auto; width:46px; height:46px; border-radius:9px;
-    background:linear-gradient(180deg,var(--teal),var(--teal-deep)); color:#04201d;
-    font-family:'Anton'; font-size:22px; display:flex; align-items:center; justify-content:center; }
   .c-body { flex:1 1 auto; min-width:0; }
-  .c-name { font-weight:900; font-size:21px; line-height:1.04; color:var(--ink); text-transform:uppercase;
+  .c-name { font-weight:900; font-size:22px; line-height:1.04; color:var(--ink); text-transform:uppercase;
     overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
-  .c-model { margin-top:3px; font-size:13px; font-weight:700; color:var(--muted); letter-spacing:1px;
+  .c-sub { margin-top:5px; display:flex; align-items:center; gap:8px; min-width:0; }
+  .c-model { font-size:13px; font-weight:700; color:var(--muted); letter-spacing:1px;
     text-transform:uppercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .c-war { flex:0 0 auto; font-size:11px; font-weight:900; letter-spacing:.5px; color:var(--teal-deep);
+    background:rgba(14,143,131,.13); border:1px solid rgba(14,143,131,.34); padding:2px 7px;
+    border-radius:5px; text-transform:uppercase; white-space:nowrap; }
   .c-price { flex:0 0 auto; text-align:right; line-height:1; display:flex; flex-direction:column; align-items:flex-end; }
   .c-was { font-size:15px; font-weight:700; color:var(--muted); text-decoration:line-through; margin-bottom:2px; }
   .c-now { font-family:'Archivo'; font-weight:900; font-size:30px; color:var(--ink); white-space:nowrap; }
@@ -204,17 +208,31 @@ function buildPages(data) {
   return pages;
 }
 
-function renderColumn(col, startRank) {
+function warrantyLabel(w) {
+  if (!w) return "";
+  // "5 YEARS" -> "5-YR WARRANTY", "3 MONTHS" -> "3-MO WARRANTY"
+  const m = w.match(/(\d+)\s*(YEAR|YR|MONTH|MO)/i);
+  if (m) {
+    const unit = /MONTH|MO/i.test(m[2]) ? "MO" : "YR";
+    return m[1] + "-" + unit + " WARRANTY";
+  }
+  return w.toUpperCase();
+}
+
+function renderColumn(col) {
   const cards = [];
   for (let i = 0; i < CONFIG.ITEMS_PER_COLUMN; i++) {
     const it = col.items[i];
     if (!it) { cards.push(`<div class="card" style="visibility:hidden"></div>`); continue; }
+    const war = warrantyLabel(it.warranty);
     cards.push(`
       <div class="card">
-        <div class="rank">#${startRank + i}</div>
         <div class="c-body">
           <div class="c-name">${esc(it.name)}</div>
-          ${it.model ? `<div class="c-model">${esc(it.model)}</div>` : ""}
+          <div class="c-sub">
+            ${it.model ? `<span class="c-model">${esc(it.model)}</span>` : ""}
+            ${war ? `<span class="c-war">${esc(war)}</span>` : ""}
+          </div>
         </div>
         <div class="c-price">${priceHtml(it, "c")}</div>
       </div>`);
@@ -234,7 +252,7 @@ function renderSpotlight(p, accent) {
       ${save!=null ? `<div class="spot-save-badge"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
       <div class="spot-img"><span>${esc(p.model || 'Featured')}</span></div>
       <div class="spot-name">${esc(p.name)}</div>
-      ${p.model ? `<div class="spot-model">Model · ${esc(p.model)}</div>` : ""}
+      <div class="spot-model">${p.model ? 'Model · ' + esc(p.model) : ''}${p.warranty ? `<span class="spot-war">⛨ ${esc(warrantyLabel(p.warranty))}</span>` : ''}</div>
       <div class="spot-feats">${feats.map(f=>`<div class="spot-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
       <div class="spot-prices">
         ${hasSale ? `<div class="spot-was">GH₵${money(p.regular)}</div>` : ""}
@@ -259,20 +277,14 @@ function renderEssCard(it) {
 
 function renderPage(page) {
   const m = page.meta;
-  // continuous ranks across this page's columns
-  let rank = 1;
-  const colsHtml = page.cols.map((c, i) => {
-    const html = `
+  const colsHtml = page.cols.map((c) => `
       <div class="col">
         <div class="col-head">
-          <div class="col-num">${String(i+1).padStart(2,'0')}</div>
+          <span class="col-accent"></span>
           <div class="col-title">${esc(c.category)}</div>
         </div>
-        <div class="cards">${renderColumn(c, rank)}</div>
-      </div>`;
-    rank += CONFIG.ITEMS_PER_COLUMN;
-    return html;
-  }).join("");
+        <div class="cards">${renderColumn(c)}</div>
+      </div>`).join("");
 
   const essItems = page.ess.length
     ? page.ess.map(renderEssCard).join("")
@@ -283,6 +295,7 @@ function renderPage(page) {
       <div class="wordmark">Hisense<span class="dot">.</span></div>
       <div class="bar"></div>
       <div class="title">${esc(m.title || 'MEGA SAVERS')}</div>
+      ${m.footerText ? `<div class="warranty-pill">✓ ${esc(m.footerText)}</div>` : ""}
       <div class="hdr-meta">
         <div class="m1">ALL PRICES IN GH₵</div>
         <div class="m2">${esc(m.validText || '')}</div>
