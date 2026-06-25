@@ -14,6 +14,7 @@
     --yellow:#ffd21e; --red:#ff2e2e;
     --cream:#f6f1e3; --ink:#14110a; --muted:#8a8270; --muted-d:#5d6f72; --white:#fff;
     --accent:#f5b800;        /* spotlight accent (gold by default) */
+    --accent-2:#c79400;      /* darker accent for the spotlight gradient */
     --accent-ink:#221a00;
   }
   * { margin:0; padding:0; box-sizing:border-box; }
@@ -78,7 +79,7 @@
 
   /* ---------- spotlight ---------- */
   .spot { flex:1.15 1 0; min-width:0; border-radius:14px; overflow:hidden; position:relative;
-    background:linear-gradient(180deg,var(--accent), color-mix(in srgb, var(--accent) 78%, #000));
+    background:linear-gradient(180deg,var(--accent), var(--accent-2));
     display:flex; flex-direction:column; padding:18px; }
   .spot-tab { position:absolute; top:0; right:0; background:var(--red); color:var(--white);
     font-family:'Anton'; font-size:20px; letter-spacing:1px; padding:8px 18px; border-bottom-left-radius:12px;
@@ -94,7 +95,7 @@
   .spot-img span { font-family:'Anton'; font-size:18px; color:rgba(0,0,0,.30); letter-spacing:2px; text-transform:uppercase; }
   .spot-name { font-family:'Anton'; font-size:34px; line-height:.98; color:var(--accent-ink); text-transform:uppercase; }
   .spot-model { margin-top:4px; font-size:15px; font-weight:800; letter-spacing:1.5px;
-    color:color-mix(in srgb, var(--accent-ink) 70%, transparent); text-transform:uppercase; }
+    color:rgba(0,0,0,.55); text-transform:uppercase; }
   .spot-feats { margin:12px 0; display:flex; flex-direction:column; gap:7px; }
   .spot-feat { display:flex; align-items:center; gap:9px; font-size:17px; font-weight:800; color:var(--accent-ink); }
   .spot-feat .ck { width:24px; height:24px; border-radius:6px; flex:0 0 auto; background:var(--teal-deep);
@@ -125,7 +126,7 @@
   .ess-now .cur { font-size:14px; font-weight:800; }
 
   /* theme: teal accent variant */
-  .stage-teal { --accent:#19c7b6; --accent-ink:#04201d; }
+  .stage-teal { --accent:#19c7b6; --accent-2:#0e8f83; --accent-ink:#04201d; }
 
   /* loading + status */
   #loading { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center;
