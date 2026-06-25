@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T14:31:01.319Z",
+  "generatedAt": "2026-06-25T15:41:44.408Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -815,47 +815,6 @@
       ]
     },
     {
-      "category": "Built-In Appliances",
-      "items": [
-        {
-          "category": "Built-In Appliances",
-          "name": "BUILT IN OVEN",
-          "model": "OVASBI64S",
-          "regular": 18900,
-          "sale": 13000,
-          "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Built-In Appliances",
-          "name": "BUILT IN STEAM OVEN",
-          "model": "OVASBI78G",
-          "regular": 24000,
-          "sale": 16500,
-          "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Built-In Appliances",
-          "name": "248L BUILT-IN FRIDGE",
-          "model": "RFN3183I",
-          "regular": 12500,
-          "sale": 11000,
-          "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Built-In Appliances",
-          "name": "212L BUILT-IN FREEZER",
-          "model": "FN31831I",
-          "regular": 13000,
-          "sale": 9000,
-          "features": "Built-In Integrated Design | Total No-Frost Technology | Energy Efficient Operation | 7 Dedicated Freezer Drawers | Advanced Fast-Freeze Function | Soft-Closing Door System | Flexible Reversible Door | Classic White Exterior Finish | Eco-Friendly R600a Refrigerant",
-          "warranty": "3 Years"
-        }
-      ]
-    },
-    {
       "category": "Fan",
       "items": [
         {
@@ -1632,16 +1591,102 @@
       ]
     },
     {
+      "category": "Mobile Phones",
+      "items": [
+        {
+          "category": "Mobile Phones",
+          "name": "C40 MOBILE PHONE",
+          "model": "AM-C40",
+          "regular": 580,
+          "sale": 300,
+          "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "H72 INFINITY MOBILE PHONE",
+          "model": "H72",
+          "regular": 1600,
+          "sale": 1200,
+          "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "E72 MOBILE PHONE",
+          "model": "E72",
+          "regular": 1300,
+          "sale": 970,
+          "features": "Latest Android 16 Operating System | Large 6.52” HD+ Sleek Design Display | Massive 128GB ROM & 6GB RAM Memory | All-Day 5000mAh High-Capacity Battery | High-Speed 4G LTE Reliable Network | Secure Side Fingerprint Smart Unlock | Dual SIM Support for Easy Connectivity | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U42 LITE MOBILE PHONE",
+          "model": "HWCD102E",
+          "regular": 790,
+          "sale": 600,
+          "features": "Compact 5.0” Durable Design Display | Reliable 3G Network Connectivity | Efficient Android Go Edition OS | 16GB ROM & 1GB RAM Essential Memory | Dual SIM & Dedicated SD Card Slot | All-Day 2000mAh Power Capacity | 5MP Rear Camera with Built-in Flash | Classic Professional Black Color",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U605 MOBILE PHONE",
+          "model": "HS-U605",
+          "regular": 350,
+          "sale": 200,
+          "features": "Ultra-Compact 4.1” Pocket-Sized Display | Efficient Quad-Core Processing Power | Reliable 3G Network Connectivity | Expandable Storage via MicroSD Slot | Versatile Dual SIM & Single SIM Support | Classic 5MP Rear & 2MP Selfie Cameras | Smooth Android 8.1 Oreo Performance | Built-in 1GB RAM & 8GB ROM Storage | Energy-Efficient 1500mAh Battery",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U71 MOBILE PHONE",
+          "model": "HWCD119E",
+          "regular": null,
+          "sale": null,
+          "features": "Large 6.0” Durable Design Display | Ample 32GB ROM & 2GB RAM Storage | Efficient Android Go Edition OS | Reliable 3000mAh All-Day Battery | Dual Flashlight for Extra Visibility | Double 5MP Rear & Front Camera System | Dual SIM & Dedicated SD Card Support | Protective TPU Cover Included Free | Reliable 3G & PHF Network Connectivity",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U963 MOBILE PHONE",
+          "model": "HS-U963",
+          "regular": null,
+          "sale": null,
+          "features": "High-Speed 4G LTE Reliable Network | Compact 5.0” Hand-Friendly Display | Efficient Quad-Core Processing Power | Dual SIM Support for Easy Connectivity | Expandable Storage Up to 32GB MicroSD | Smooth Android 9.1 Operating System | Reliable 2000mAh All-Day Battery | 5MP Rear & 2MP Front Selfie Cameras | Built-in 1GB RAM & 8GB ROM Storage",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U53 MOBILE PHONE",
+          "model": "U53",
+          "regular": 900,
+          "sale": 690,
+          "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "X8 FEATURE PHONE",
+          "model": "AM-X8",
+          "regular": null,
+          "sale": null,
+          "features": "Massive 1800mAh Long-Life Battery | Built-In Wireless FM Radio Antenna | Compact 1.7” Bright Display Screen | Reliable Dual SIM Dual Standby | Expandable Storage Up to 16GB ROM | Essential Bluetooth & Flashlight | Efficient 32MB RAM & 32MB Storage | Clear 0.8MP Rear Capture Camera | Rugged Lightweight Portable Design",
+          "warranty": "1 Year"
+        }
+      ]
+    },
+    {
       "category": "Small Items",
       "items": [
         {
           "category": "Small Items",
-          "name": "16GB SD CARD",
-          "model": "16GB SDCARD",
-          "regular": 50,
-          "sale": 30,
+          "name": "H72 PRO MOBILE PHONE",
+          "model": "H72 PRO",
+          "regular": 1900,
+          "sale": 1350,
           "features": "",
-          "warranty": ""
+          "warranty": "1 Year"
         }
       ]
     },
@@ -1853,15 +1898,6 @@
         },
         {
           "category": "Microwave oven",
-          "name": "25L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
-          "model": "H25MOBS6G",
-          "regular": 1500,
-          "sale": null,
-          "features": "25L Compact Cooking Capacity | 900 Watts Microwave Power | 1000 Watts High-Performance Grill | Sleek Black Finish with Mirror Door | Advanced Digital Control System | 10 Variable Power Level Settings | 25 Automatic Preset Cooking Menus | Specialized Crispy Grill Function | Weight & Time Defrost Technology",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Microwave oven",
           "name": "25L BLACK MICROWAVE MECHANICAL PUSH OPEN",
           "model": "H25MOBS14",
           "regular": 1190,
@@ -1881,15 +1917,6 @@
         {
           "category": "Microwave oven",
           "name": "34L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
-          "model": "HMAS3410SSG",
-          "regular": 1800,
-          "sale": null,
-          "features": "Massive 34L Family-Sized Capacity | Powerful 1200W Rapid Cooking System | Versatile Crispy Grill & Combo Modes | 25 Auto-Programmed Cooking Menus | Durable & Sleek Stainless Steel Design | Premium White LED Digital Display | Precision 10-Level Microwave Power | Smart Eco Mode & Mute Functionality | Intelligent Weight & Time Defrost",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Microwave oven",
-          "name": "34L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
           "model": "H34MOBS10HG",
           "regular": 1700,
           "sale": null,
@@ -1903,15 +1930,6 @@
           "regular": 1580,
           "sale": null,
           "features": "Massive 34L Family-Sized Capacity | Sleek & Modern Stylish Black Design | Premium White LED Digital Display | Specialized Melt & Soften Functions | Instant +30 Second Quick Start | Smart Eco Mode & Mute Functionality | Rapid Express Cook & Auto Reheat | Secure Child Safety Lock Protection | Intuitive Precision Digital Controls",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Microwave oven",
-          "name": "42L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
-          "model": "HMMG4210DSG",
-          "regular": 1900,
-          "sale": null,
-          "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Powerful 1200W - 2800W Variable Grill | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Integrated Child Safety Lock System | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
           "warranty": "1 Year"
         }
       ]
@@ -1980,15 +1998,6 @@
           "regular": 8400,
           "sale": null,
           "features": "New Item Coming Soon",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Showcases",
-          "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
-          "model": "FL-81WC",
-          "regular": 11990,
-          "sale": null,
-          "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
           "warranty": "5 Years"
         }
       ]
@@ -2061,6 +2070,15 @@
         },
         {
           "category": "Sound Systems",
+          "name": "2.1CH MULTIMEDIA\nSPEAKER SYSTEM",
+          "model": "F210X",
+          "regular": 480,
+          "sale": 320,
+          "features": "Bluetooth 4.0 Wireless Music Streaming | Total Power Output Of 15W RMS | Wooden Cabinet For Low Distortion Bass | High Density MDF Subwoofer Design | Four Inch Bass Driver For Subwoofer | Digital FM Radio With PLL Technology | Storage For Up To 100 FM Stations | Plug And Play USB Dual Format Decoding | Bluetooth Range Works Up To 15 Meters",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
           "name": "2.1CH MINI HI-FI SPEAKERS \nWITH SUBWOOFER",
           "model": "HA700",
           "regular": 3200,
@@ -2075,15 +2093,6 @@
           "regular": 3100,
           "sale": 2090,
           "features": "High-Performance Super Bass Boost | 15-Hour Long-Lasting Battery Playtime | Rugged Waterproof Exterior Build | Dynamic Multi-Color Party Lighting | Dedicated Guitar Input for Musicians | Advanced Bluetooth & Aux Connectivity | Plug & Play USB (MP3/WMA/WAV) Support | Integrated FM Radio Tuner | Dual Power Modes (Built-in Battery & DC Input)",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
-          "name": "2.0CH RECHARGEABLE  WIRELESS PARTY ROCKER",
-          "model": "HP110",
-          "regular": 3700,
-          "sale": 2690,
-          "features": "High Energy Efficiency For Power Savings | Powerful 300W Max Audio Performance | Fast Bluetooth Wireless Audio Streaming | Advanced Bass Boost Sound Technology | Dual 5.25 Inch Woofers And Tweeters | Dynamic Flashing LED Light Effects | Versatile Karaoke And Guitar Inputs | Professional EQ Adjustment Settings | Clear LED Display For Easy Navigation",
           "warranty": "3 Years"
         },
         {
@@ -2147,15 +2156,6 @@
           "regular": 2400,
           "sale": 1690,
           "features": "5.1ch Sleek & Stylish Home Theater | Cinema-Grade Dolby Atmos Support | Massive 540W Max High-Output Power | Dual (2) Additional Surround Speakers | Professional 6-Mode Equalizer System | Advanced DTS Connectivity & Pure Surround | Smart Roku TV Ready Integration | HDMI ARC & Optical Digital Inputs | Multi-Source Bluetooth & USB Playback",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
-          "name": "4.1.2CH HOME THEATRE\nWIRELESS SUBWOOFER",
-          "model": "HT SATURN",
-          "regular": 5250,
-          "sale": 3990,
-          "features": "Advanced Wireless Subwoofer System | Dual (2) High-Speed HDMI Inputs | HDMI Output with ARC Support | Precision Crystal-Clear Audio Output | Seamless Bluetooth Audio Streaming | High-Fidelity Optical Digital Input | Plug & Play USB Media Playback | Universal Aux-In (3.5mm) Connectivity | Multi-Source Smart Audio Switching",
           "warranty": "3 Years"
         },
         {
@@ -2259,24 +2259,6 @@
         },
         {
           "category": "Sound Systems",
-          "name": "TOSHIBA 5.1CH SOUNDBAR WITH WIRELESS SUBWOOFER",
-          "model": "M510WR",
-          "regular": 2990,
-          "sale": 2200,
-          "features": "Energy Efficient Audio Design | Powerful Five Hundred Watts Output | Premium Five Point One Audio Channel | Elite Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Immersive Surround Sound Experience | Deep Rich Dynamic Bass Performance | High Fidelity Home Theater System",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
-          "name": "7.1.2CH SOUNDBAR\nWIRELESS SUBWOOFER",
-          "model": "U5120GW+",
-          "regular": 7500,
-          "sale": 5590,
-          "features": "Sleek & Stylish High-Profile Soundbar | Cinema-Grade Dolby Atmos Surround Sound | Massive 570W Total High-Output Power | Advanced 7.1.2 Surround System Architecture | High-Performance Wireless Subwoofer | 4K HDR Pass-Through for Ultra-HD Visuals | Advanced HDMI ARC & Optical Connectivity | Bluetooth 4.2 & Type-C/USB Multimedia Ports | Full-Function Wireless Remote Control",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
           "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
           "model": "11000-G21",
           "regular": 3500,
@@ -2345,15 +2327,6 @@
           "regular": 6700,
           "sale": 4790,
           "features": "Integrated DVD Player with Video Output | Universal Wireless Smartphone Charging Platform | Anti-Slip Safety Pad for Charging Platform | Dynamic Amp & Speaker Flashing LED Lights | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Professional Multi-Band Equalizer System | Independent Bass & Treble Tuning Controls | HDMI Video Output & USB Media Playback",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
-          "name": "PROFESSIONAL PA \nSPEAKER SYSTEM",
-          "model": "PA300A",
-          "regular": 6800,
-          "sale": 4790,
-          "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
           "warranty": "3 Years"
         }
       ]
@@ -2949,85 +2922,8 @@
       ]
     },
     {
-      "category": "Laser TVs",
-      "items": [
-        {
-          "category": "Laser TVs",
-          "name": "100\" L9\nLASER TELEVISION",
-          "model": "100LASER-L9",
-          "regular": 52000,
-          "sale": 42000,
-          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "120\" L9 \nLASER TELEVISION",
-          "model": "#N/A",
-          "regular": 60000,
-          "sale": 48000,
-          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "150\" T68\nLASER TELEVISION",
-          "model": "T68",
-          "regular": 115000,
-          "sale": null,
-          "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
-          "model": "C2ULTRA",
-          "regular": 32000,
-          "sale": 24990,
-          "features": "Features Needed",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
-          "model": "PX1-PRO",
-          "regular": 36000,
-          "sale": 28590,
-          "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
-          "model": "PX3-PRO",
-          "regular": 39000,
-          "sale": 29990,
-          "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
-          "warranty": "5 Years"
-        }
-      ]
-    },
-    {
       "category": "Water Dispensors",
       "items": [
-        {
-          "category": "Water Dispensors",
-          "name": "100L DOMESTIC \nWATER HEATER",
-          "model": "SEWHC100W",
-          "regular": 2750,
-          "sale": 1870,
-          "features": "Massive 100-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Water Dispensors",
-          "name": "150L DOMESTIC \nWATER HEATER",
-          "model": "SEWHC150W",
-          "regular": 3900,
-          "sale": 2650,
-          "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
-          "warranty": "1 Year"
-        },
         {
           "category": "Water Dispensors",
           "name": "15L DOMESTIC \nWATER HEATER",
@@ -3084,15 +2980,6 @@
         },
         {
           "category": "Water Dispensors",
-          "name": "INSTANTANEOUS \nWATER HEATER - PREMIUM",
-          "model": "SEIWHDCEX68PRE",
-          "regular": 3600,
-          "sale": 2400,
-          "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Water Dispensors",
           "name": "INSTANTANEOUS \nWATER HEATER - DHC6",
           "model": "SEIWHDHC6W",
           "regular": 1940,
@@ -3111,15 +2998,6 @@
         },
         {
           "category": "Water Dispensors",
-          "name": "2.2L TABLETOP ICE MAKER",
-          "model": "ICM10W",
-          "regular": 1900,
-          "sale": null,
-          "features": "High-Capacity 12kg Fresh Ice Daily Output | Quick-Cycle Delivery (Fresh Ice in Minutes) | Dual Size Selection (Small & Large Ice Bullets) | Smart Intuitive Soft-Touch Control Panel | Removable Ice Basket for Easy Serving | Intelligent Water Level Low Indicator | High-Efficiency Energy Saving Compressor | Automatic Overflow Protection & Full Indicator | Compact, Portable & User-Friendly Design",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Water Dispensors",
           "name": "BOTTOM LOADING\nWATER DISPENSER",
           "model": "AMWDB175B",
           "regular": 2220,
@@ -3129,29 +3007,11 @@
         },
         {
           "category": "Water Dispensors",
-          "name": "3-IN-1 INTELLIGENT\nWATER DISPENSER",
-          "model": "AMWDT308BK",
-          "regular": 2250,
-          "sale": null,
-          "features": "Premium Freestanding Bottom-Loading Design | Dual-Station: 1L Rapid Kettle & 1.5L Tea Infuser | Smart Heating with Automatic \"Keep Warm\" Mode | Intelligent Motorized Water Sliding Plate System | Intuitive Touch Button Interface with LED Display | Full-Function Remote Control for Effortless Operation | Instant Safety Child Lock for Heat Protection | Integrated Auto Power-Off & Overheat Protection | Hidden Bottle Storage for a Sleek Modern Aesthetic",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Water Dispensors",
           "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
           "model": "AMWDT555S",
           "regular": 1550,
           "sale": null,
           "features": "Classic Freestanding Top-Loading Configuration | Dual Temperature Hot & Cold Water Dispensers | Advanced Compressor Cooling for Instant Chill | High-Efficiency Fast Cooling Performance | Energy-Saving Operation with Low Noise Output | Integrated Storage Cabinet for Cups & Snacks | Sleek & Durable Premium Silver Exterior | High-Capacity 2.0-Litre Internal Water Tank | Instant Safety Child Lock for Hot Water Access",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Water Dispensors",
-          "name": "FILTRATION COLD/HOT\nWATER DISPENSER",
-          "model": "AMWDT530B",
-          "regular": 2750,
-          "sale": 2000,
-          "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
           "warranty": "3 Years"
         }
       ]
@@ -3249,6 +3109,33 @@
       "warranty": "1 Year"
     },
     {
+      "category": "Built-In Appliances",
+      "name": "BUILT IN OVEN",
+      "model": "OVASBI64S",
+      "regular": 18900,
+      "sale": 13000,
+      "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Built-In Appliances",
+      "name": "BUILT IN STEAM OVEN",
+      "model": "OVASBI78G",
+      "regular": 24000,
+      "sale": 16500,
+      "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Built-In Appliances",
+      "name": "212L BUILT-IN FREEZER",
+      "model": "FN31831I",
+      "regular": 13000,
+      "sale": 9000,
+      "features": "Built-In Integrated Design | Total No-Frost Technology | Energy Efficient Operation | 7 Dedicated Freezer Drawers | Advanced Fast-Freeze Function | Soft-Closing Door System | Flexible Reversible Door | Classic White Exterior Finish | Eco-Friendly R600a Refrigerant",
+      "warranty": "3 Years"
+    },
+    {
       "category": "Fan",
       "name": "18\" RECHARGABLE STANDING FAN",
       "model": "AMFKYS45AC18",
@@ -3321,6 +3208,33 @@
       "warranty": "1 Year"
     },
     {
+      "category": "Television Commercial",
+      "name": "65\" INTERACTIVE\nDISPLAY BOARD",
+      "model": "65WM6FE",
+      "regular": 31200,
+      "sale": null,
+      "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Television Commercial",
+      "name": "75\" INTERACTIVE\nDISPLAY BOARD",
+      "model": "75WM6FE",
+      "regular": 35200,
+      "sale": null,
+      "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Television Commercial",
+      "name": "86\" INTERACTIVE\nDISPLAY BOARD",
+      "model": "86WR6CE",
+      "regular": 42200,
+      "sale": null,
+      "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+      "warranty": "3 Years"
+    },
+    {
       "category": "Iron",
       "name": "ELECTRIC IRON\nA1-8011",
       "model": "A1-8011",
@@ -3328,6 +3242,159 @@
       "sale": 320,
       "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
       "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L DIGITAL PLASTIC KETTLE",
+      "model": "HK17DWD",
+      "regular": 550,
+      "sale": null,
+      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Microwave oven",
+      "name": "25L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+      "model": "H25MOBS6G",
+      "regular": 1500,
+      "sale": null,
+      "features": "25L Compact Cooking Capacity | 900 Watts Microwave Power | 1000 Watts High-Performance Grill | Sleek Black Finish with Mirror Door | Advanced Digital Control System | 10 Variable Power Level Settings | 25 Automatic Preset Cooking Menus | Specialized Crispy Grill Function | Weight & Time Defrost Technology",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Showcases",
+      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-81WC",
+      "regular": 11990,
+      "sale": null,
+      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "2.1CH MULTIMEDIA SPEAKER",
+      "model": "A180X",
+      "regular": 700,
+      "sale": 480,
+      "features": "New Classic Geometric Aesthetic | Fingerprint-Free Matte Finish | Premium Wood Cabinet Construction | Advanced 4.0 Bluetooth Connectivity | Plug & Play USB Audio Port | 100 Station FM Radio Storage | Bright Wide-Angle LED Display | High-Output Loudspeaker System | Full-Function Wireless Remote",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "4.1.2CH HOME THEATRE\nWIRELESS SUBWOOFER",
+      "model": "HT SATURN",
+      "regular": 5250,
+      "sale": 3990,
+      "features": "Advanced Wireless Subwoofer System | Dual (2) High-Speed HDMI Inputs | HDMI Output with ARC Support | Precision Crystal-Clear Audio Output | Seamless Bluetooth Audio Streaming | High-Fidelity Optical Digital Input | Plug & Play USB Media Playback | Universal Aux-In (3.5mm) Connectivity | Multi-Source Smart Audio Switching",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "TOSHIBA 5.1CH SOUNDBAR WITH WIRELESS SUBWOOFER",
+      "model": "M510WR",
+      "regular": 2990,
+      "sale": 2200,
+      "features": "Energy Efficient Audio Design | Powerful Five Hundred Watts Output | Premium Five Point One Audio Channel | Elite Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Immersive Surround Sound Experience | Deep Rich Dynamic Bass Performance | High Fidelity Home Theater System",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "7.1.2CH SOUNDBAR\nWIRELESS SUBWOOFER",
+      "model": "U5120GW+",
+      "regular": 7500,
+      "sale": 5590,
+      "features": "Sleek & Stylish High-Profile Soundbar | Cinema-Grade Dolby Atmos Surround Sound | Massive 570W Total High-Output Power | Advanced 7.1.2 Surround System Architecture | High-Performance Wireless Subwoofer | 4K HDR Pass-Through for Ultra-HD Visuals | Advanced HDMI ARC & Optical Connectivity | Bluetooth 4.2 & Type-C/USB Multimedia Ports | Full-Function Wireless Remote Control",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Laser TVs",
+      "name": "100\" L9\nLASER TELEVISION",
+      "model": "100LASER-L9",
+      "regular": 52000,
+      "sale": 42000,
+      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Laser TVs",
+      "name": "120\" L9 \nLASER TELEVISION",
+      "model": "#N/A",
+      "regular": 60000,
+      "sale": 48000,
+      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Laser TVs",
+      "name": "150\" T68\nLASER TELEVISION",
+      "model": "T68",
+      "regular": 115000,
+      "sale": null,
+      "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Laser TVs",
+      "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
+      "model": "C2ULTRA",
+      "regular": 32000,
+      "sale": 24990,
+      "features": "Features Needed",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Laser TVs",
+      "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
+      "model": "PX1-PRO",
+      "regular": 36000,
+      "sale": 28590,
+      "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Laser TVs",
+      "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
+      "model": "PX3-PRO",
+      "regular": 39000,
+      "sale": 29990,
+      "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "100L DOMESTIC \nWATER HEATER",
+      "model": "SEWHC100W",
+      "regular": 2750,
+      "sale": 1870,
+      "features": "Massive 100-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "INSTANTANEOUS \nWATER HEATER - PREMIUM",
+      "model": "SEIWHDCEX68PRE",
+      "regular": 3600,
+      "sale": 2400,
+      "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "2.2L TABLETOP ICE MAKER",
+      "model": "ICM10W",
+      "regular": 1900,
+      "sale": null,
+      "features": "High-Capacity 12kg Fresh Ice Daily Output | Quick-Cycle Delivery (Fresh Ice in Minutes) | Dual Size Selection (Small & Large Ice Bullets) | Smart Intuitive Soft-Touch Control Panel | Removable Ice Basket for Easy Serving | Intelligent Water Level Low Indicator | High-Efficiency Energy Saving Compressor | Automatic Overflow Protection & Full Indicator | Compact, Portable & User-Friendly Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "3-IN-1 INTELLIGENT\nWATER DISPENSER",
+      "model": "AMWDT308BK",
+      "regular": 2250,
+      "sale": null,
+      "features": "Premium Freestanding Bottom-Loading Design | Dual-Station: 1L Rapid Kettle & 1.5L Tea Infuser | Smart Heating with Automatic \"Keep Warm\" Mode | Intelligent Motorized Water Sliding Plate System | Intuitive Touch Button Interface with LED Display | Full-Function Remote Control for Effortless Operation | Instant Safety Child Lock for Heat Protection | Integrated Auto Power-Off & Overheat Protection | Hidden Bottle Storage for a Sleek Modern Aesthetic",
+      "warranty": "3 Years"
     }
   ],
   "spotlights": [
@@ -3422,6 +3489,15 @@
       "warranty": "1 Year"
     },
     {
+      "category": "Built-In Appliances",
+      "name": "248L BUILT-IN FRIDGE",
+      "model": "RFN3183I",
+      "regular": 12500,
+      "sale": 11000,
+      "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
+      "warranty": "3 Years"
+    },
+    {
       "category": "Refrigerators",
       "name": "46 BOTTLE\nWINE COOLER",
       "model": "RW3N122GSLF",
@@ -3512,13 +3588,58 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Kettles",
-      "name": "1.7L DIGITAL PLASTIC KETTLE",
-      "model": "HK17DWD",
-      "regular": 550,
+      "category": "Microwave oven",
+      "name": "34L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+      "model": "HMAS3410SSG",
+      "regular": 1800,
       "sale": null,
-      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
+      "features": "Massive 34L Family-Sized Capacity | Powerful 1200W Rapid Cooking System | Versatile Crispy Grill & Combo Modes | 25 Auto-Programmed Cooking Menus | Durable & Sleek Stainless Steel Design | Premium White LED Digital Display | Precision 10-Level Microwave Power | Smart Eco Mode & Mute Functionality | Intelligent Weight & Time Defrost",
       "warranty": "1 Year"
+    },
+    {
+      "category": "Microwave oven",
+      "name": "42L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+      "model": "HMMG4210DSG",
+      "regular": 1900,
+      "sale": null,
+      "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Powerful 1200W - 2800W Variable Grill | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Integrated Child Safety Lock System | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "2.0CH RECHARGEABLE  WIRELESS PARTY ROCKER",
+      "model": "HP110",
+      "regular": 3700,
+      "sale": 2690,
+      "features": "High Energy Efficiency For Power Savings | Powerful 300W Max Audio Performance | Fast Bluetooth Wireless Audio Streaming | Advanced Bass Boost Sound Technology | Dual 5.25 Inch Woofers And Tweeters | Dynamic Flashing LED Light Effects | Versatile Karaoke And Guitar Inputs | Professional EQ Adjustment Settings | Clear LED Display For Easy Navigation",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "PROFESSIONAL PA \nSPEAKER SYSTEM",
+      "model": "PA300A",
+      "regular": 6800,
+      "sale": 4790,
+      "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "150L DOMESTIC \nWATER HEATER",
+      "model": "SEWHC150W",
+      "regular": 3900,
+      "sale": 2650,
+      "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "FILTRATION COLD/HOT\nWATER DISPENSER",
+      "model": "AMWDT530B",
+      "regular": 2750,
+      "sale": 2000,
+      "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
+      "warranty": "3 Years"
     }
   ],
   "essentials": [
@@ -3911,6 +4032,15 @@
     },
     {
       "category": "Small Items",
+      "name": "16GB SD CARD",
+      "model": "16GB SDCARD",
+      "regular": 50,
+      "sale": 30,
+      "features": "",
+      "warranty": ""
+    },
+    {
+      "category": "Small Items",
       "name": "W15 BLUETOOTH SPEAKER",
       "model": "W15",
       "regular": 400,
@@ -3980,24 +4110,6 @@
       "sale": 80,
       "features": "",
       "warranty": ""
-    },
-    {
-      "category": "Sound Systems",
-      "name": "2.1CH MULTIMEDIA SPEAKER",
-      "model": "A180X",
-      "regular": 700,
-      "sale": 480,
-      "features": "New Classic Geometric Aesthetic | Fingerprint-Free Matte Finish | Premium Wood Cabinet Construction | Advanced 4.0 Bluetooth Connectivity | Plug & Play USB Audio Port | 100 Station FM Radio Storage | Bright Wide-Angle LED Display | High-Output Loudspeaker System | Full-Function Wireless Remote",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Sound Systems",
-      "name": "2.1CH MULTIMEDIA\nSPEAKER SYSTEM",
-      "model": "F210X",
-      "regular": 480,
-      "sale": 320,
-      "features": "Bluetooth 4.0 Wireless Music Streaming | Total Power Output Of 15W RMS | Wooden Cabinet For Low Distortion Bass | High Density MDF Subwoofer Design | Four Inch Bass Driver For Subwoofer | Digital FM Radio With PLL Technology | Storage For Up To 100 FM Stations | Plug And Play USB Dual Format Decoding | Bluetooth Range Works Up To 15 Meters",
-      "warranty": "3 Years"
     },
     {
       "category": "Sound Systems",
@@ -4080,5 +4192,28 @@
       "features": "Advanced 6-Stage Integrated Filtration Process | Ultrafiltration (UF) 0.1 Micron Precision Membrane | Dual High-Efficiency Encapsulated Filter Cartridges | Premium Mixture of Bamboo & Coconut Carbon | Active Granular Silver-Impregnated Powder | Encapsulated Filter to Prevent Contamination | Easy Tool-Free Filter Replacement Design | Rapid & Simple DIY Self-Installation Kit | Minimal Maintenance & Long-Life Performance",
       "warranty": "1 Year"
     }
-  ]
+  ],
+  "layouts": {
+    "Air Conditioners": "10m1f",
+    "Blenders": "10m1f",
+    "Freezers": "10m1f",
+    "Washing Machines": "10m1f",
+    "Electric Cooker": "10m1f",
+    "Fan": "10m1f",
+    "Refrigerators": "10m1f",
+    "Gas Cooker": "10m1f",
+    "Iron": "10m1f",
+    "Mobile Phones": "10m1f",
+    "Small Items": "10m1f",
+    "Kettles": "10m1f",
+    "Microwave oven": "10m1f",
+    "Showcases": "10m1f",
+    "Sound Systems": "10m1f",
+    "Televisions": "10m1f",
+    "Water Dispensors": "5m2f",
+    "Built-In Appliances": "3feat",
+    "Television Commercial": "3feat",
+    "Laser TVs": "3feat",
+    "Wall Bracket": "10m1f"
+  }
 }
