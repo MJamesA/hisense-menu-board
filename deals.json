@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T15:41:44.408Z",
+  "generatedAt": "2026-06-25T16:36:02.001Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -1595,15 +1595,6 @@
       "items": [
         {
           "category": "Mobile Phones",
-          "name": "C40 MOBILE PHONE",
-          "model": "AM-C40",
-          "regular": 580,
-          "sale": 300,
-          "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
           "name": "H72 INFINITY MOBILE PHONE",
           "model": "H72",
           "regular": 1600,
@@ -1640,38 +1631,11 @@
         },
         {
           "category": "Mobile Phones",
-          "name": "U71 MOBILE PHONE",
-          "model": "HWCD119E",
-          "regular": null,
-          "sale": null,
-          "features": "Large 6.0” Durable Design Display | Ample 32GB ROM & 2GB RAM Storage | Efficient Android Go Edition OS | Reliable 3000mAh All-Day Battery | Dual Flashlight for Extra Visibility | Double 5MP Rear & Front Camera System | Dual SIM & Dedicated SD Card Support | Protective TPU Cover Included Free | Reliable 3G & PHF Network Connectivity",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U963 MOBILE PHONE",
-          "model": "HS-U963",
-          "regular": null,
-          "sale": null,
-          "features": "High-Speed 4G LTE Reliable Network | Compact 5.0” Hand-Friendly Display | Efficient Quad-Core Processing Power | Dual SIM Support for Easy Connectivity | Expandable Storage Up to 32GB MicroSD | Smooth Android 9.1 Operating System | Reliable 2000mAh All-Day Battery | 5MP Rear & 2MP Front Selfie Cameras | Built-in 1GB RAM & 8GB ROM Storage",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
           "name": "U53 MOBILE PHONE",
           "model": "U53",
           "regular": 900,
           "sale": 690,
           "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "X8 FEATURE PHONE",
-          "model": "AM-X8",
-          "regular": null,
-          "sale": null,
-          "features": "Massive 1800mAh Long-Life Battery | Built-In Wireless FM Radio Antenna | Compact 1.7” Bright Display Screen | Reliable Dual SIM Dual Standby | Expandable Storage Up to 16GB ROM | Essential Bluetooth & Flashlight | Efficient 32MB RAM & 32MB Storage | Clear 0.8MP Rear Capture Camera | Rugged Lightweight Portable Design",
           "warranty": "1 Year"
         }
       ]
@@ -1681,10 +1645,10 @@
       "items": [
         {
           "category": "Small Items",
-          "name": "H72 PRO MOBILE PHONE",
-          "model": "H72 PRO",
-          "regular": 1900,
-          "sale": 1350,
+          "name": "H50 ZOOM MOBILE PHONE",
+          "model": "H50 Zoom",
+          "regular": 2500,
+          "sale": 1500,
           "features": "",
           "warranty": "1 Year"
         }
@@ -3244,6 +3208,24 @@
       "warranty": "1 Year"
     },
     {
+      "category": "Mobile Phones",
+      "name": "C40 MOBILE PHONE",
+      "model": "AM-C40",
+      "regular": 580,
+      "sale": 300,
+      "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "H72 PRO MOBILE PHONE",
+      "model": "H72 PRO",
+      "regular": 1900,
+      "sale": 1350,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
       "category": "Kettles",
       "name": "1.7L DIGITAL PLASTIC KETTLE",
       "model": "HK17DWD",
@@ -3259,6 +3241,15 @@
       "regular": 1500,
       "sale": null,
       "features": "25L Compact Cooking Capacity | 900 Watts Microwave Power | 1000 Watts High-Performance Grill | Sleek Black Finish with Mirror Door | Advanced Digital Control System | 10 Variable Power Level Settings | 25 Automatic Preset Cooking Menus | Specialized Crispy Grill Function | Weight & Time Defrost Technology",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Microwave oven",
+      "name": "34L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+      "model": "HMAS3410SSG",
+      "regular": 1800,
+      "sale": null,
+      "features": "Massive 34L Family-Sized Capacity | Powerful 1200W Rapid Cooking System | Versatile Crispy Grill & Combo Modes | 25 Auto-Programmed Cooking Menus | Durable & Sleek Stainless Steel Design | Premium White LED Digital Display | Precision 10-Level Microwave Power | Smart Eco Mode & Mute Functionality | Intelligent Weight & Time Defrost",
       "warranty": "1 Year"
     },
     {
@@ -3585,15 +3576,6 @@
       "regular": 1900,
       "sale": 1650,
       "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Microwave oven",
-      "name": "34L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
-      "model": "HMAS3410SSG",
-      "regular": 1800,
-      "sale": null,
-      "features": "Massive 34L Family-Sized Capacity | Powerful 1200W Rapid Cooking System | Versatile Crispy Grill & Combo Modes | 25 Auto-Programmed Cooking Menus | Durable & Sleek Stainless Steel Design | Premium White LED Digital Display | Precision 10-Level Microwave Power | Smart Eco Mode & Mute Functionality | Intelligent Weight & Time Defrost",
       "warranty": "1 Year"
     },
     {
@@ -4203,7 +4185,7 @@
     "Refrigerators": "10m1f",
     "Gas Cooker": "10m1f",
     "Iron": "10m1f",
-    "Mobile Phones": "10m1f",
+    "Mobile Phones": "5m2f",
     "Small Items": "10m1f",
     "Kettles": "10m1f",
     "Microwave oven": "10m1f",
