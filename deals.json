@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T10:41:12.946Z",
+  "generatedAt": "2026-06-25T10:43:52.314Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -9,6 +9,15 @@
     {
       "category": "Air Conditioners",
       "items": [
+        {
+          "category": "Air Conditioners",
+          "name": "1.0HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH09DH",
+          "regular": 3850,
+          "sale": 2690,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
         {
           "category": "Air Conditioners",
           "name": "1.0HP SPLIT\nAIR CONDITIONER",
@@ -29,11 +38,38 @@
         },
         {
           "category": "Air Conditioners",
+          "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "HAS12TR4RVDTG",
+          "regular": 5200,
+          "sale": null,
+          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
           "name": "1.5HP INVERTER COOL WITH \nWIFI & SMART EYE AC",
           "model": "AST-12UW4RXVQH00B",
           "regular": 7790,
           "sale": null,
           "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+          "model": "12TR4RMEDJ01",
+          "regular": 9700,
+          "sale": null,
+          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP SPLIT\nAIR CONDITIONER",
+          "model": "12CR4SVDTG01",
+          "regular": 4290,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -102,6 +138,15 @@
         {
           "category": "Air Conditioners",
           "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH24DH",
+          "regular": 8200,
+          "sale": 5790,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
           "model": "HAS24TR4RBBDTG",
           "regular": 8990,
           "sale": null,
@@ -128,11 +173,11 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "6.0HP INVERTER - COOLING \n& HEATING CEILING AC",
-          "model": "AUV-60UR6SNC5",
-          "regular": 32500,
+          "name": "4.5HP FLOOR STANDING \nAIR CONDITIONER",
+          "model": "AUF-42CR6SDMPH",
+          "regular": 19800,
           "sale": null,
-          "features": "Floor/Ceiling AC System | Light commercial system | In stock and available | Speak to our Corporate Sales team",
+          "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
           "warranty": "5 Years"
         }
       ]
@@ -180,6 +225,33 @@
           "sale": 1750,
           "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
           "warranty": "2 Years"
+        },
+        {
+          "category": "Blenders",
+          "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+          "model": "BLC2880S",
+          "regular": 2500,
+          "sale": 2230,
+          "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "MECHANICAL BLENDER \n2.0L DT-767",
+          "model": "DT-767",
+          "regular": 950,
+          "sale": 850,
+          "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Blenders",
+          "name": "DIGITAL BLENDER \n2.2L DT-780",
+          "model": "DT-780",
+          "regular": 1250,
+          "sale": 1120,
+          "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
+          "warranty": "1 Year"
         },
         {
           "category": "Blenders",
@@ -323,6 +395,15 @@
         },
         {
           "category": "Freezers",
+          "name": "310L CHEST FREEZER",
+          "model": "FC-40DD4HA",
+          "regular": 4290,
+          "sale": null,
+          "features": "Rapid Cooling & Deep Freeze Function | Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Freezers",
           "name": "366L CHEST FREEZER",
           "model": "FC-48DD4SG",
           "regular": 5700,
@@ -373,6 +454,15 @@
           "regular": 10500,
           "sale": null,
           "features": "High Energy Efficiency Performance | Optimized Power \nConsumption Operation | Smart Inverter \nCompression Technology | Fast Freezing \nRapid Functionality | Total No Frost \nCooling Mechanism | Electronic Temperature \nControl System | Multi Air Flow \nDistribution Channels | Reversible Door\n Hinge Configuration | Eco Friendly Refrigerant Gas R600a",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Freezers",
+          "name": "235L INVERTER \nUPRIGHT FREEZER",
+          "model": "RS-31WC4SA",
+          "regular": 6800,
+          "sale": null,
+          "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -3069,15 +3159,6 @@
   ],
   "featured": [
     {
-      "category": "Air Conditioners",
-      "name": "1.0HP SPLIT INVERTER\nAIR CONDITIONER",
-      "model": "ACAMCH09DH",
-      "regular": 3850,
-      "sale": 2690,
-      "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-      "warranty": "5 Years"
-    },
-    {
       "category": "Blenders",
       "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
       "model": "BLC2880B",
@@ -3117,96 +3198,15 @@
   "spotlights": [
     {
       "category": "Air Conditioners",
-      "name": "4.5HP FLOOR STANDING \nAIR CONDITIONER",
-      "model": "AUF-42CR6SDMPH",
-      "regular": 19800,
-      "sale": null,
-      "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Blenders",
-      "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
-      "model": "BLC2880S",
-      "regular": 2500,
-      "sale": 2230,
-      "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Blenders",
-      "name": "MECHANICAL BLENDER \n2.0L DT-767",
-      "model": "DT-767",
-      "regular": 950,
-      "sale": 850,
-      "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
-      "warranty": "2 Years"
-    },
-    {
-      "category": "Blenders",
-      "name": "DIGITAL BLENDER \n2.2L DT-780",
-      "model": "DT-780",
-      "regular": 1250,
-      "sale": 1120,
-      "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Freezers",
-      "name": "310L CHEST FREEZER",
-      "model": "FC-40DD4HA",
-      "regular": 4290,
-      "sale": null,
-      "features": "Rapid Cooling & Deep Freeze Function | Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Freezers",
-      "name": "235L INVERTER \nUPRIGHT FREEZER",
-      "model": "RS-31WC4SA",
-      "regular": 6800,
-      "sale": null,
-      "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
+      "name": "1.5HP INVERTER - COOLING & \nHEATING AIR CONDITIONER",
+      "model": "12UW4GXETV00",
+      "regular": 5800,
+      "sale": 4200,
+      "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
       "warranty": "5 Years"
     }
   ],
   "essentials": [
-    {
-      "category": "Air Conditioners",
-      "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
-      "model": "HAS12TR4RVDTG",
-      "regular": 5200,
-      "sale": null,
-      "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Air Conditioners",
-      "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
-      "model": "12TR4RMEDJ01",
-      "regular": 9700,
-      "sale": null,
-      "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Air Conditioners",
-      "name": "1.5HP SPLIT\nAIR CONDITIONER",
-      "model": "12CR4SVDTG01",
-      "regular": 4290,
-      "sale": null,
-      "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Air Conditioners",
-      "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
-      "model": "ACAMCH24DH",
-      "regular": 8200,
-      "sale": 5790,
-      "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-      "warranty": "5 Years"
-    },
     {
       "category": "Wall Bracket",
       "name": "AC WALL BRACKET",
