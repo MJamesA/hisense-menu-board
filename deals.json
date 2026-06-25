@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T10:43:52.314Z",
+  "generatedAt": "2026-06-25T11:00:22.799Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -61,24 +61,6 @@
           "regular": 9700,
           "sale": null,
           "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "1.5HP SPLIT\nAIR CONDITIONER",
-          "model": "12CR4SVDTG01",
-          "regular": 4290,
-          "sale": null,
-          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
-          "model": "AUF-96CR6SDA",
-          "regular": 49900,
-          "sale": 45000,
-          "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
           "warranty": "5 Years"
         },
         {
@@ -179,29 +161,6 @@
           "sale": null,
           "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
           "warranty": "5 Years"
-        }
-      ]
-    },
-    {
-      "category": "Wall Bracket",
-      "items": [
-        {
-          "category": "Wall Bracket",
-          "name": "MTN PROMOTIONAL OFFER #1",
-          "model": "MTN001",
-          "regular": 1020,
-          "sale": 0.0001,
-          "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-          "warranty": "Not Applicable"
-        },
-        {
-          "category": "Wall Bracket",
-          "name": "MTN PROMOTIONAL OFFER #2",
-          "model": "MTN002",
-          "regular": 680,
-          "sale": 340,
-          "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-          "warranty": "Not Applicable"
         }
       ]
     },
@@ -3159,6 +3118,15 @@
   ],
   "featured": [
     {
+      "category": "Air Conditioners",
+      "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
+      "model": "AUF-96CR6SDA",
+      "regular": 49900,
+      "sale": 45000,
+      "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
+      "warranty": "5 Years"
+    },
+    {
       "category": "Blenders",
       "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
       "model": "BLC2880B",
@@ -3204,6 +3172,33 @@
       "sale": 4200,
       "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
       "warranty": "5 Years"
+    },
+    {
+      "category": "Air Conditioners",
+      "name": "1.5HP SPLIT\nAIR CONDITIONER",
+      "model": "12CR4SVDTG01",
+      "regular": 4290,
+      "sale": null,
+      "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Wall Bracket",
+      "name": "MTN PROMOTIONAL OFFER #1",
+      "model": "MTN001",
+      "regular": 1020,
+      "sale": 0.0001,
+      "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
+      "warranty": "Not Applicable"
+    },
+    {
+      "category": "Wall Bracket",
+      "name": "MTN PROMOTIONAL OFFER #2",
+      "model": "MTN002",
+      "regular": 680,
+      "sale": 340,
+      "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
+      "warranty": "Not Applicable"
     }
   ],
   "essentials": [
