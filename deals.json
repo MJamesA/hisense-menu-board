@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T16:44:07.667Z",
+  "generatedAt": "2026-06-25T17:07:12.126Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -9,15 +9,6 @@
     {
       "category": "Air Conditioners",
       "items": [
-        {
-          "category": "Air Conditioners",
-          "name": "1.0HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "ACAMCH09DH",
-          "regular": 3850,
-          "sale": 2690,
-          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-          "warranty": "5 Years"
-        },
         {
           "category": "Air Conditioners",
           "name": "1.0HP SPLIT\nAIR CONDITIONER",
@@ -29,10 +20,55 @@
         },
         {
           "category": "Air Conditioners",
+          "name": "1.5HP SPLIT\nAIR CONDITIONER",
+          "model": "12CR4SVDTG01",
+          "regular": 4290,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.0HP SPLIT \nAIR CONDITIONER",
+          "model": "HAS18CR4SFATG4",
+          "regular": 6200,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP SPLIT \nAIR CONDITIONER",
+          "model": "HAS24CR4SQBTG4",
+          "regular": 8290,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.0HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH09DH",
+          "regular": 3850,
+          "sale": 2690,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
           "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
           "model": "ACAMCH12DH",
           "regular": 4150,
           "sale": 2990,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.0HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH18DH",
+          "regular": 6400,
+          "sale": 4490,
           "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
           "warranty": "5 Years"
         },
@@ -47,11 +83,20 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "1.5HP INVERTER COOL WITH \nWIFI & SMART EYE AC",
-          "model": "AST-12UW4RXVQH00B",
-          "regular": 7790,
+          "name": "2.0HP SPLIT INVERTER \nAIR CONDITIONER",
+          "model": "HAS18TR4RGSKG",
+          "regular": 6600,
           "sale": null,
-          "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
+          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "HAS24TR4RBBDTG",
+          "regular": 8990,
+          "sale": null,
+          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
           "warranty": "5 Years"
         },
         {
@@ -65,33 +110,6 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "1.5HP SPLIT\nAIR CONDITIONER",
-          "model": "12CR4SVDTG01",
-          "regular": 4290,
-          "sale": null,
-          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "2.0HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "ACAMCH18DH",
-          "regular": 6400,
-          "sale": 4490,
-          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "2.0HP SPLIT INVERTER \nAIR CONDITIONER",
-          "model": "HAS18TR4RGSKG",
-          "regular": 6600,
-          "sale": null,
-          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
           "name": "2.0HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
           "model": "AS18TW4RBADJ00",
           "regular": 11700,
@@ -101,11 +119,20 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "2.0HP SPLIT \nAIR CONDITIONER",
-          "model": "HAS18CR4SFATG4",
-          "regular": 6200,
+          "name": "2.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+          "model": "AS24TR4RBBDJ01",
+          "regular": 13690,
           "sale": null,
-          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP INVERTER COOL WITH \nWIFI & SMART EYE AC",
+          "model": "AST-12UW4RXVQH00B",
+          "regular": 7790,
+          "sale": null,
+          "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
           "warranty": "5 Years"
         },
         {
@@ -124,33 +151,6 @@
           "regular": 17800,
           "sale": null,
           "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "HAS24TR4RBBDTG",
-          "regular": 8990,
-          "sale": null,
-          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "2.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
-          "model": "AS24TR4RBBDJ01",
-          "regular": 13690,
-          "sale": null,
-          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "2.5HP SPLIT \nAIR CONDITIONER",
-          "model": "HAS24CR4SQBTG4",
-          "regular": 8290,
-          "sale": null,
-          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -2300,66 +2300,12 @@
       "items": [
         {
           "category": "Televisions",
-          "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
-          "model": "100E80KAVS",
-          "regular": 38000,
-          "sale": 25990,
-          "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Professional 144Hz Game Mode Pro | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
-          "model": "100E75LEVS",
-          "regular": 28000,
-          "sale": 19990,
-          "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
-          "model": "110UXNQ",
-          "regular": 185000,
-          "sale": 138000,
-          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
-          "model": "116UX",
-          "regular": 250000,
-          "sale": 159900,
-          "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "32” DIGITAL SATELLITE \nANDROID TELEVISION",
-          "model": "TVAM32ANDSTV",
-          "regular": 1950,
-          "sale": 1500,
-          "features": "Sleek Frameless & Modern Panel Design | Powerful Android 12 Smart OS Integration | Full HD 1080p High-Definition Clarity | Cinema-Grade Dolby Audio Sound System | Built-in WiFi & High-Speed LAN Ethernet | Screen Mirroring & Kindlink Content Sharing | Pre-installed Netflix, YouTube & Movie Ark | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Televisions",
           "name": "32” DIGITAL SATELLITE\nTELEVISION",
           "model": "32A5200FS",
           "regular": 1550,
           "sale": 950,
           "features": "Sleek Metal Bezelless Modern Design | Full HD 1080p High-Definition Resolution | Advanced Natural Colour Enhancer Tech | Clear & Immersive Cinematic Picture Quality | Dolby Digital Plus Professional Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Wall Bracket & Remote Control Included",
           "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "32” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
-          "model": "TVAM32DSTVDG",
-          "regular": 1650,
-          "sale": 940,
-          "features": "Premium Elegant Slim-Profile Design | Full HD 1080p High-Definition Resolution | Ultra-Durable Double Glass Screen Protection | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Ports | Intuitive User-Friendly Smart Interface | Independent Bass & Treble Audio Controls | Universal Headphone & AV Input Ports | Complimentary Wall Bracket Included",
-          "warranty": "3 Years"
         },
         {
           "category": "Televisions",
@@ -2381,56 +2327,11 @@
         },
         {
           "category": "Televisions",
-          "name": "32” DIGITAL SATELLITE \nSMART QLED TELEVISION",
-          "model": "32A5Q",
-          "regular": 2800,
-          "sale": 2100,
-          "features": "Full HD 1080p Resolution with HDR10 | Advanced VIDAA Smart Voice Assistance | Cinema-Grade Dolby Atmos Audio Support | High-Speed Dual-Band WiFi & LAN Ethernet | Game Mode Plus for Ultra-Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | High-Speed Optical & Headphone Audio Outs",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "32” DIGITAL SATELLITE\nSMART TELEVISION",
-          "model": "32A4Q",
-          "regular": 2400,
-          "sale": 1390,
-          "features": "Sleek Metal Bezelless Modern Design | Integrated Smart TV with In-Built WiFi & LAN | Pre-installed Netflix, YouTube & NBA Apps | One-Touch Remote Access to Top Content | Cinema-Grade Dolby Audio & Equalizer System | Digital Satellite TV Reception (Built-In Tuner) | Smart Screen Mirroring & Content Sharing | Dual (2) HDMI & Dual (2) USB Connectivity | Digital Audio Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "40” DIGITAL SATELLITE \nSMART QLED TELEVISION",
-          "model": "40A5Q",
-          "regular": 3890,
-          "sale": 2700,
-          "features": "Vibrant Quantum Dot Colour Technology | Full HD 1080p Resolution with HDR10 | In-Built High-Speed Dual-Band WiFi & LAN | Cinema-Grade Dolby Atmos Surround Sound | Advanced Game Mode Plus for Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | Wireless Cast Feature & Screen Mirroring",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
-          "model": "TVAM43ANDDSDG",
-          "regular": 2800,
-          "sale": 2100,
-          "features": "Sleek Slim and Frameless Panel Design | Ultra-HD 4K 2160p Cinematic Resolution | Advanced Dolby System Audio Technology | In-Built High-Speed WiFi & LAN Ethernet | Smart Screen Mirroring & Content Casting | Integrated Digital and Satellite TV Tuner | Triple (3) HDMI & Dual (2) USB Connectivity | High-Speed Coaxial Digital Audio Output | Full-Function Remote & Wall Bracket Included",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
-          "model": "43B7101UWSQO",
-          "regular": 3200,
-          "sale": 2300,
-          "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "43\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
-          "model": "SAMCH43M10GP",
-          "regular": 3300,
-          "sale": 2400,
-          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistant | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with ARC Support | High-Speed Wi-Fi & LAN Connectivity | Eco-Friendly Energy Efficient Design",
+          "name": "32” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
+          "model": "TVAM32DSTVDG",
+          "regular": 1650,
+          "sale": 940,
+          "features": "Premium Elegant Slim-Profile Design | Full HD 1080p High-Definition Resolution | Ultra-Durable Double Glass Screen Protection | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Ports | Intuitive User-Friendly Smart Interface | Independent Bass & Treble Audio Controls | Universal Headphone & AV Input Ports | Complimentary Wall Bracket Included",
           "warranty": "3 Years"
         },
         {
@@ -2441,15 +2342,6 @@
           "sale": 1700,
           "features": "Full HD 1080p High-Definition Resolution | Clear & Immersive Cinematic Picture Quality | Advanced Natural Colour Enhancer Tech | Cinema-Grade Dolby Digital Plus Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Universal Headphone & AV Input Ports | Wall Bracket & Remote Control Included",
           "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "43” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
-          "model": "TVAM43DSTVDG",
-          "regular": 2500,
-          "sale": 1600,
-          "features": "High-Definition 1080p HD Resolution | Superior Visual Clarity & Brilliant Color | Integrated Digital & Satellite TV Tuner | Access to Diverse Satellite Free Channels | High-Volume Quality Audio Sound System | Intuitive User-Friendly Media Interface | Triple (3) HDMI & Dual (2) USB Connectivity | Sleek & Durable Integrated TV Stand | Energy-Efficient LED Display Technology",
-          "warranty": "3 Years"
         },
         {
           "category": "Televisions",
@@ -2471,11 +2363,20 @@
         },
         {
           "category": "Televisions",
-          "name": "43” DIGITAL SMART\n QLED TELEVISION",
-          "model": "43A4Q",
-          "regular": 4300,
-          "sale": 3090,
-          "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
+          "name": "43” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
+          "model": "TVAM43DSTVDG",
+          "regular": 2500,
+          "sale": 1600,
+          "features": "High-Definition 1080p HD Resolution | Superior Visual Clarity & Brilliant Color | Integrated Digital & Satellite TV Tuner | Access to Diverse Satellite Free Channels | High-Volume Quality Audio Sound System | Intuitive User-Friendly Media Interface | Triple (3) HDMI & Dual (2) USB Connectivity | Sleek & Durable Integrated TV Stand | Energy-Efficient LED Display Technology",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "32” DIGITAL SATELLITE\nSMART TELEVISION",
+          "model": "32A4Q",
+          "regular": 2400,
+          "sale": 1390,
+          "features": "Sleek Metal Bezelless Modern Design | Integrated Smart TV with In-Built WiFi & LAN | Pre-installed Netflix, YouTube & NBA Apps | One-Touch Remote Access to Top Content | Cinema-Grade Dolby Audio & Equalizer System | Digital Satellite TV Reception (Built-In Tuner) | Smart Screen Mirroring & Content Sharing | Dual (2) HDMI & Dual (2) USB Connectivity | Digital Audio Output",
           "warranty": "5 Years"
         },
         {
@@ -2486,6 +2387,69 @@
           "sale": 2690,
           "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring",
           "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "32” DIGITAL SATELLITE \nSMART QLED TELEVISION",
+          "model": "32A5Q",
+          "regular": 2800,
+          "sale": 2100,
+          "features": "Full HD 1080p Resolution with HDR10 | Advanced VIDAA Smart Voice Assistance | Cinema-Grade Dolby Atmos Audio Support | High-Speed Dual-Band WiFi & LAN Ethernet | Game Mode Plus for Ultra-Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | High-Speed Optical & Headphone Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "40” DIGITAL SATELLITE \nSMART QLED TELEVISION",
+          "model": "40A5Q",
+          "regular": 3890,
+          "sale": 2700,
+          "features": "Vibrant Quantum Dot Colour Technology | Full HD 1080p Resolution with HDR10 | In-Built High-Speed Dual-Band WiFi & LAN | Cinema-Grade Dolby Atmos Surround Sound | Advanced Game Mode Plus for Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | Wireless Cast Feature & Screen Mirroring",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "43” DIGITAL SMART\n QLED TELEVISION",
+          "model": "43A4Q",
+          "regular": 4300,
+          "sale": 3090,
+          "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
+          "model": "TVAM43ANDDSDG",
+          "regular": 2800,
+          "sale": 2100,
+          "features": "Sleek Slim and Frameless Panel Design | Ultra-HD 4K 2160p Cinematic Resolution | Advanced Dolby System Audio Technology | In-Built High-Speed WiFi & LAN Ethernet | Smart Screen Mirroring & Content Casting | Integrated Digital and Satellite TV Tuner | Triple (3) HDMI & Dual (2) USB Connectivity | High-Speed Coaxial Digital Audio Output | Full-Function Remote & Wall Bracket Included",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "32” DIGITAL SATELLITE \nANDROID TELEVISION",
+          "model": "TVAM32ANDSTV",
+          "regular": 1950,
+          "sale": 1500,
+          "features": "Sleek Frameless & Modern Panel Design | Powerful Android 12 Smart OS Integration | Full HD 1080p High-Definition Clarity | Cinema-Grade Dolby Audio Sound System | Built-in WiFi & High-Speed LAN Ethernet | Screen Mirroring & Kindlink Content Sharing | Pre-installed Netflix, YouTube & Movie Ark | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
+          "model": "43B7101UWSQO",
+          "regular": 3200,
+          "sale": 2300,
+          "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "43\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH43M10GP",
+          "regular": 3300,
+          "sale": 2400,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistant | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with ARC Support | High-Speed Wi-Fi & LAN Connectivity | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
         },
         {
           "category": "Televisions",
@@ -2531,15 +2495,6 @@
           "sale": 4100,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Smooth 4K 60Hz High Refresh Rate | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "50'' SMART\nQLED TELEVISION",
-          "model": "50Q5S",
-          "regular": null,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Smart QLED 4K Display | Quantum Dot Color Technology | Ultra Slim Modern Design | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI And USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
-          "warranty": "5 Years"
         },
         {
           "category": "Televisions",
@@ -2831,6 +2786,42 @@
         },
         {
           "category": "Televisions",
+          "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
+          "model": "100E80KAVS",
+          "regular": 38000,
+          "sale": 25990,
+          "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Professional 144Hz Game Mode Pro | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
+          "model": "100E75LEVS",
+          "regular": 28000,
+          "sale": 19990,
+          "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
+          "model": "110UXNQ",
+          "regular": 185000,
+          "sale": 138000,
+          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
+          "model": "116UX",
+          "regular": 250000,
+          "sale": 159900,
+          "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
           "name": "32” DIGITAL HD\nSMART TV",
           "model": "32V35RP",
           "regular": 2600,
@@ -2984,20 +2975,20 @@
   "featured": [
     {
       "category": "Air Conditioners",
-      "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
-      "model": "AUF-96CR6SDA",
-      "regular": 49900,
-      "sale": 45000,
-      "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Air Conditioners",
       "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
       "model": "ACAMCH24DH",
       "regular": 8200,
       "sale": 5790,
       "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Air Conditioners",
+      "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
+      "model": "AUF-96CR6SDA",
+      "regular": 49900,
+      "sale": 45000,
+      "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
       "warranty": "5 Years"
     },
     {
@@ -4198,5 +4189,32 @@
     "Laser TVs": "3feat",
     "Wall Bracket": "10m1f"
   },
-  "categoryOrder": []
+  "categoryOrder": [
+    "Air Conditioners",
+    "Wall Bracket",
+    "Blenders",
+    "Freezers",
+    "CLEANING",
+    "Washing Machines",
+    "Electric Cooker",
+    "Built-In Appliances",
+    "Sandwich Makers",
+    "Fan",
+    "Refrigerators",
+    "Gas Cooker",
+    "Television Commercial",
+    "Iron",
+    "Items",
+    "Small Items",
+    "Kettles",
+    "Mobile Phones",
+    "Microwave oven",
+    "Showcases",
+    "Sound Systems",
+    "Toasters",
+    "Televisions",
+    "Spare Parts-Television",
+    "Laser TVs",
+    "Water Dispensors"
+  ]
 }
