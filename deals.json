@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T16:36:02.001Z",
+  "generatedAt": "2026-06-25T16:44:07.667Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -4197,5 +4197,6 @@
     "Television Commercial": "3feat",
     "Laser TVs": "3feat",
     "Wall Bracket": "10m1f"
-  }
+  },
+  "categoryOrder": []
 }
