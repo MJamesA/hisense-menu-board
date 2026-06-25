@@ -1,3 +1,11 @@
-{ "ok": true, "generatedAt": "", "title": "MEGA SAVERS", "accent": "gold",
-  "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT", "footerText": "WHILE STOCKS LAST · 2-YEAR WARRANTY",
-  "columns": [], "spotlight": null, "essentials": [] }
+{
+  "ok": true,
+  "generatedAt": "2026-06-25T01:56:35.461Z",
+  "title": "MEGA SAVERS",
+  "accent": "gold",
+  "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
+  "footerText": "WHILE STOCKS LAST · 2-YEAR WARRANTY",
+  "columns": [],
+  "spotlight": null,
+  "essentials": []
+}
