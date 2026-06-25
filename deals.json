@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T17:07:12.126Z",
+  "generatedAt": "2026-06-25T23:26:18.390Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -441,6 +441,38 @@
           "sale": null,
           "features": "New Item Coming Soon",
           "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "CLEANING",
+      "items": [
+        {
+          "category": "CLEANING",
+          "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+          "model": "SVC180FW",
+          "regular": 1650,
+          "sale": 1480,
+          "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Power | 2-in-1 Versatile Function | LED Status Indicators | Motorized Turbo Brush | On-Board Attachment Storage | Ergonomic Easy-Grip Handle | Easy-Empty Dirt Container & Nozzle",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "CLEANING",
+          "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+          "model": "SVCS216FW",
+          "regular": 1500,
+          "sale": 1330,
+          "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Modes | Dual Function Versatility | LED Status Indicators | Motorized Turbo Brush | Precision Suction Nozzle | On-Board Attachment Storage | Ergonomic Handle & Dirt Container",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "CLEANING",
+          "name": "G-FORCE AIR PRO\nVACUUM CLEANER",
+          "model": "VCEA03GAPRACY",
+          "regular": 1800,
+          "sale": 1600,
+          "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels",
+          "warranty": "1 Year"
         }
       ]
     },
@@ -2777,15 +2809,6 @@
         },
         {
           "category": "Televisions",
-          "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
-          "model": "100Z670RP",
-          "regular": 29000,
-          "sale": 21990,
-          "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
           "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
           "model": "100E80KAVS",
           "regular": 38000,
@@ -2819,18 +2842,14 @@
           "sale": 159900,
           "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
           "warranty": "5 Years"
-        },
+        }
+      ]
+    },
+    {
+      "category": "Toshiba TVs",
+      "items": [
         {
-          "category": "Televisions",
-          "name": "32” DIGITAL HD\nSMART TV",
-          "model": "32V35RP",
-          "regular": 2600,
-          "sale": 1590,
-          "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
+          "category": "Toshiba TVs",
           "name": "43” DIGITAL 2K\nSMART TELEVISION",
           "model": "43V35RP",
           "regular": 3600,
@@ -2839,7 +2858,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "Toshiba TVs",
           "name": "50\" SMART QLED \n4K TELEVISION",
           "model": "50V45RP",
           "regular": 5800,
@@ -2848,7 +2867,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "Toshiba TVs",
           "name": "65\" SMART QLED \n4K TELEVISION",
           "model": "65V45RP",
           "regular": 9900,
@@ -2857,7 +2876,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "Toshiba TVs",
           "name": "75\" SMART MINI LED\n4K TELEVISION",
           "model": "75V77RP",
           "regular": 17900,
@@ -2866,7 +2885,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "Toshiba TVs",
           "name": "85\" SMART MINI LED\n4K TELEVISION",
           "model": "85V77RP",
           "regular": 24990,
@@ -2990,6 +3009,33 @@
       "sale": 45000,
       "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
       "warranty": "5 Years"
+    },
+    {
+      "category": "Wall Bracket",
+      "name": "DSTV DECODER & ACCESSORIES OFFER",
+      "model": "Model 1",
+      "regular": 633,
+      "sale": 0.0001,
+      "features": "Special Offer | 3 months Access subscription free | Energy Efficient Digital Performance | Crystal Clear High Definition Viewing | Dynamic Content Discovery Search Options | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Wall Bracket",
+      "name": "MTN PROMOTIONAL OFFER #1",
+      "model": "MTN001",
+      "regular": 1020,
+      "sale": 0.0001,
+      "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
+      "warranty": "Not Applicable"
+    },
+    {
+      "category": "Wall Bracket",
+      "name": "MTN PROMOTIONAL OFFER #2",
+      "model": "MTN002",
+      "regular": 680,
+      "sale": 340,
+      "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
+      "warranty": "Not Applicable"
     },
     {
       "category": "Blenders",
@@ -3289,6 +3335,24 @@
       "warranty": "3 Years"
     },
     {
+      "category": "Toshiba TVs",
+      "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
+      "model": "100Z670RP",
+      "regular": 29000,
+      "sale": 21990,
+      "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Toshiba TVs",
+      "name": "32” DIGITAL HD\nSMART TV",
+      "model": "32V35RP",
+      "regular": 2600,
+      "sale": 1590,
+      "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
+      "warranty": "5 Years"
+    },
+    {
       "category": "Laser TVs",
       "name": "100\" L9\nLASER TELEVISION",
       "model": "100LASER-L9",
@@ -3388,33 +3452,6 @@
       "sale": 4200,
       "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
       "warranty": "5 Years"
-    },
-    {
-      "category": "Wall Bracket",
-      "name": "DSTV DECODER & ACCESSORIES OFFER",
-      "model": "Model 1",
-      "regular": 633,
-      "sale": 0.0001,
-      "features": "Special Offer | 3 months Access subscription free | Energy Efficient Digital Performance | Crystal Clear High Definition Viewing | Dynamic Content Discovery Search Options | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Wall Bracket",
-      "name": "MTN PROMOTIONAL OFFER #1",
-      "model": "MTN001",
-      "regular": 1020,
-      "sale": 0.0001,
-      "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-      "warranty": "Not Applicable"
-    },
-    {
-      "category": "Wall Bracket",
-      "name": "MTN PROMOTIONAL OFFER #2",
-      "model": "MTN002",
-      "regular": 680,
-      "sale": 340,
-      "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-      "warranty": "Not Applicable"
     },
     {
       "category": "Blenders",
@@ -3776,33 +3813,6 @@
       "regular": 800,
       "sale": 710,
       "features": "Precision Digital LED Control Panel | Powerful Ice Crushing Technology | Dedicated Dry Grinder Attachment | On-the-Go Drinking Spout Lid | Versatile High, Low & Pulse Speeds | Secure & Stable Non-Slip Suction Feet | Energy Efficient Smart Performance",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "CLEANING",
-      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
-      "model": "SVC180FW",
-      "regular": 1650,
-      "sale": 1480,
-      "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Power | 2-in-1 Versatile Function | LED Status Indicators | Motorized Turbo Brush | On-Board Attachment Storage | Ergonomic Easy-Grip Handle | Easy-Empty Dirt Container & Nozzle",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "CLEANING",
-      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
-      "model": "SVCS216FW",
-      "regular": 1500,
-      "sale": 1330,
-      "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Modes | Dual Function Versatility | LED Status Indicators | Motorized Turbo Brush | Precision Suction Nozzle | On-Board Attachment Storage | Ergonomic Handle & Dirt Container",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "CLEANING",
-      "name": "G-FORCE AIR PRO\nVACUUM CLEANER",
-      "model": "VCEA03GAPRACY",
-      "regular": 1800,
-      "sale": 1600,
-      "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels",
       "warranty": "1 Year"
     },
     {
@@ -4170,6 +4180,7 @@
     "Air Conditioners": "10m1f",
     "Blenders": "10m1f",
     "Freezers": "10m1f",
+    "CLEANING": "3feat",
     "Washing Machines": "10m1f",
     "Electric Cooker": "10m1f",
     "Fan": "10m1f",
@@ -4183,11 +4194,12 @@
     "Showcases": "10m1f",
     "Sound Systems": "10m1f",
     "Televisions": "10m1f",
+    "Toshiba TVs": "5m2f",
     "Water Dispensors": "5m2f",
+    "Wall Bracket": "3feat",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat",
-    "Laser TVs": "3feat",
-    "Wall Bracket": "10m1f"
+    "Laser TVs": "3feat"
   },
   "categoryOrder": [
     "Air Conditioners",
@@ -4213,6 +4225,7 @@
     "Sound Systems",
     "Toasters",
     "Televisions",
+    "Toshiba TVs",
     "Spare Parts-Television",
     "Laser TVs",
     "Water Dispensors"
