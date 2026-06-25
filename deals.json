@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T03:13:13.488Z",
+  "generatedAt": "2026-06-25T10:28:30.386Z",
   "title": "MEGA SAVERS",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -1744,103 +1744,8 @@
       ]
     },
     {
-      "category": "Mobile Phones",
-      "items": [
-        {
-          "category": "Mobile Phones",
-          "name": "C40 MOBILE PHONE",
-          "model": "AM-C40",
-          "regular": 580,
-          "sale": 300,
-          "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "H72 INFINITY MOBILE PHONE",
-          "model": "H72",
-          "regular": 1600,
-          "sale": 1200,
-          "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "E72 MOBILE PHONE",
-          "model": "E72",
-          "regular": 1300,
-          "sale": 970,
-          "features": "Latest Android 16 Operating System | Large 6.52” HD+ Sleek Design Display | Massive 128GB ROM & 6GB RAM Memory | All-Day 5000mAh High-Capacity Battery | High-Speed 4G LTE Reliable Network | Secure Side Fingerprint Smart Unlock | Dual SIM Support for Easy Connectivity | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U42 LITE MOBILE PHONE",
-          "model": "HWCD102E",
-          "regular": 790,
-          "sale": 600,
-          "features": "Compact 5.0” Durable Design Display | Reliable 3G Network Connectivity | Efficient Android Go Edition OS | 16GB ROM & 1GB RAM Essential Memory | Dual SIM & Dedicated SD Card Slot | All-Day 2000mAh Power Capacity | 5MP Rear Camera with Built-in Flash | Classic Professional Black Color",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U605 MOBILE PHONE",
-          "model": "HS-U605",
-          "regular": 350,
-          "sale": 200,
-          "features": "Ultra-Compact 4.1” Pocket-Sized Display | Efficient Quad-Core Processing Power | Reliable 3G Network Connectivity | Expandable Storage via MicroSD Slot | Versatile Dual SIM & Single SIM Support | Classic 5MP Rear & 2MP Selfie Cameras | Smooth Android 8.1 Oreo Performance | Built-in 1GB RAM & 8GB ROM Storage | Energy-Efficient 1500mAh Battery",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U71 MOBILE PHONE",
-          "model": "HWCD119E",
-          "regular": null,
-          "sale": null,
-          "features": "Large 6.0” Durable Design Display | Ample 32GB ROM & 2GB RAM Storage | Efficient Android Go Edition OS | Reliable 3000mAh All-Day Battery | Dual Flashlight for Extra Visibility | Double 5MP Rear & Front Camera System | Dual SIM & Dedicated SD Card Support | Protective TPU Cover Included Free | Reliable 3G & PHF Network Connectivity",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U963 MOBILE PHONE",
-          "model": "HS-U963",
-          "regular": null,
-          "sale": null,
-          "features": "High-Speed 4G LTE Reliable Network | Compact 5.0” Hand-Friendly Display | Efficient Quad-Core Processing Power | Dual SIM Support for Easy Connectivity | Expandable Storage Up to 32GB MicroSD | Smooth Android 9.1 Operating System | Reliable 2000mAh All-Day Battery | 5MP Rear & 2MP Front Selfie Cameras | Built-in 1GB RAM & 8GB ROM Storage",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U53 MOBILE PHONE",
-          "model": "U53",
-          "regular": 900,
-          "sale": 690,
-          "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "X8 FEATURE PHONE",
-          "model": "AM-X8",
-          "regular": null,
-          "sale": null,
-          "features": "Massive 1800mAh Long-Life Battery | Built-In Wireless FM Radio Antenna | Compact 1.7” Bright Display Screen | Reliable Dual SIM Dual Standby | Expandable Storage Up to 16GB ROM | Essential Bluetooth & Flashlight | Efficient 32MB RAM & 32MB Storage | Clear 0.8MP Rear Capture Camera | Rugged Lightweight Portable Design",
-          "warranty": "1 Year"
-        }
-      ]
-    },
-    {
       "category": "Small Items",
       "items": [
-        {
-          "category": "Small Items",
-          "name": "H72 PRO MOBILE PHONE",
-          "model": "H72 PRO",
-          "regular": 1900,
-          "sale": 1350,
-          "features": "",
-          "warranty": "1 Year"
-        },
         {
           "category": "Small Items",
           "name": "16GB SD CARD",
