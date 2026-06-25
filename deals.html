@@ -46,6 +46,9 @@
   .warranty-pill { flex:0 0 auto; background:rgba(25,199,182,.15); border:2px solid var(--teal-deep);
     color:var(--teal); font-family:'Anton'; font-size:22px; letter-spacing:1px; padding:8px 16px;
     border-radius:10px; text-transform:uppercase; white-space:nowrap; }
+  .nationwide-pill { flex:0 0 auto; background:linear-gradient(180deg,var(--yellow),#e6b800); color:#211c00;
+    font-family:'Anton'; font-size:22px; letter-spacing:1px; padding:8px 18px; border-radius:10px;
+    text-transform:uppercase; white-space:nowrap; box-shadow:0 3px 0 rgba(0,0,0,.3); }
   .spot-war { margin-left:10px; color:var(--teal-deep); font-weight:900; white-space:nowrap; }
   .hdr-meta { text-align:right; line-height:1.25; }
   .hdr-meta .m1 { font-family:'Anton'; font-size:24px; color:var(--teal); letter-spacing:1px; }
@@ -179,6 +182,17 @@
   #status { position:absolute; left:8px; bottom:6px; font-size:12px; font-weight:700; letter-spacing:1px;
     color:rgba(255,255,255,.16); text-transform:uppercase; z-index:30; }
   #status.warn { color:rgba(255,200,40,.5); }
+  #status { cursor:pointer; pointer-events:auto; }   /* click toggles dev mode */
+
+  /* dev mode bar (un-scaled, fixed to viewport) */
+  #devbar { position:fixed; bottom:14px; left:50%; transform:translateX(-50%); z-index:50;
+    display:none; align-items:center; gap:10px; background:#0c1719; border:2px solid var(--teal-deep);
+    border-radius:12px; padding:8px 12px; box-shadow:0 8px 24px rgba(0,0,0,.5); }
+  #devbar.on { display:flex; }
+  #devbar button { background:#16302f; color:var(--teal); border:1px solid var(--teal-deep);
+    border-radius:8px; padding:8px 12px; font-weight:800; font-size:14px; cursor:pointer; font-family:inherit; }
+  #devbar button:hover { background:#1d3f3d; }
+  #devinfo { color:#cfeeea; font-weight:700; font-size:14px; letter-spacing:.4px; padding:0 6px; white-space:nowrap; }
 </style>
 </head>
 <body>
@@ -193,6 +207,14 @@
   </div>
 </div>
 
+<div id="devbar">
+  <button onclick="devNav(-1)">◀ Prev</button>
+  <span id="devinfo">DEV</span>
+  <button onclick="devNav(1)">Next ▶</button>
+  <button onclick="fetchData(false)" title="Re-fetch latest data">↻ Reload</button>
+  <button onclick="toggleDev()">Exit dev</button>
+</div>
+
 <script>
 const CONFIG = {
   DATA_URL: "https://raw.githubusercontent.com/MJamesA/hisense-menu-board/main/deals.json",
@@ -203,7 +225,7 @@ const CONFIG = {
   REFETCH_MINUTES: 5
 };
 
-let PAGES = [], pageIndex = 0, rotateTimer = null, firstLoadDone = false, ESS_OFFSET = 0;
+let PAGES = [], pageIndex = 0, rotateTimer = null, firstLoadDone = false, ESS_OFFSET = 0, DEV = false;
 const stageEl = document.getElementById('stage');
 const loadingEl = document.getElementById('loading');
 const statusEl = document.getElementById('status');
@@ -314,6 +336,7 @@ function renderHeader(m) {
       <div class="wordmark">Hisense<span class="dot">.</span></div>
       <div class="bar"></div>
       <div class="title">${esc(m.title || 'MEGA SAVERS')}</div>
+      <div class="nationwide-pill">${esc(m.nationwideText || 'Nationwide Prices')}</div>
       ${m.footerText ? `<div class="warranty-pill">✓ ${esc(m.footerText)}</div>` : ""}
       <div class="hdr-meta">
         <div class="m1">ALL PRICES IN GH₵</div>
@@ -447,11 +470,32 @@ function showPage(idx) {
   stageEl.querySelectorAll('.page').forEach(l => {
     if (l !== incoming) { l.classList.remove('is-active'); setTimeout(()=>l.remove(), 700); }
   });
+  if (DEV) updateDevInfo();
 }
 
 function startRotation() {
   if (rotateTimer) clearInterval(rotateTimer);
-  if (PAGES.length > 1) rotateTimer = setInterval(()=>showPage(pageIndex+1), CONFIG.PAGE_SECONDS*1000);
+  rotateTimer = null;
+  if (!DEV && PAGES.length > 1) rotateTimer = setInterval(()=>showPage(pageIndex+1), CONFIG.PAGE_SECONDS*1000);
+}
+
+/* ---- dev mode: pause rotation + step through pages manually ---- */
+function toggleDev() {
+  DEV = !DEV;
+  document.getElementById('devbar').classList.toggle('on', DEV);
+  startRotation();          // pauses when DEV, resumes auto-rotation when off
+  updateDevInfo();
+}
+function devNav(d) { if (PAGES.length) showPage(pageIndex + d); }
+function updateDevInfo() {
+  const el = document.getElementById('devinfo'); if (!el) return;
+  const p = PAGES[pageIndex] || {};
+  let label = p.type || '—';
+  if (p.type === 'grid') label = 'MAIN · ' + (p.category || '') +
+      (p.pageCount > 1 ? ' (' + p.pageNo + '/' + p.pageCount + ')' : '') + (p.featured ? ' + featured' : '');
+  else if (p.type === 'spot') label = 'SPOTLIGHT · ' + ((p.product && p.product.name) || '');
+  else if (p.type === 'ess') label = 'ESSENTIALS';
+  el.textContent = 'DEV · ' + (PAGES.length ? (pageIndex + 1) + '/' + PAGES.length : '0') + ' · ' + label;
 }
 
 function apply(data, isFirst) {
@@ -494,6 +538,21 @@ function scaleStage() {
   stageEl.style.transform = "scale(" + s + ")";
 }
 window.addEventListener('resize', scaleStage);
+
+// Dev mode: toggle with 'd' or by clicking the status pill; ?dev=1 starts in it.
+// Arrow keys / space step through pages; "↻ Reload" re-fetches data.
+window.addEventListener('keydown', (e) => {
+  const k = (e.key || '').toLowerCase();
+  if (k === 'd') { toggleDev(); }
+  else if (DEV && (k === 'arrowright' || k === ' ')) { e.preventDefault(); devNav(1); }
+  else if (DEV && k === 'arrowleft') { devNav(-1); }
+});
+statusEl.addEventListener('click', toggleDev);
+if (new URLSearchParams(location.search).get('dev') === '1') {
+  DEV = true;
+  document.getElementById('devbar').classList.add('on');
+}
+
 scaleStage();
 fetchData(true);
 setInterval(()=>fetchData(false), CONFIG.REFETCH_MINUTES*60*1000);
