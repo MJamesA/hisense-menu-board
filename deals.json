@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T12:00:22.250Z",
+  "generatedAt": "2026-06-25T12:04:45.341Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -52,6 +52,15 @@
           "regular": 7790,
           "sale": null,
           "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+          "model": "12TR4RMEDJ01",
+          "regular": 9700,
+          "sale": null,
+          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
           "warranty": "5 Years"
         },
         {
@@ -193,6 +202,15 @@
           "sale": 1750,
           "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
           "warranty": "2 Years"
+        },
+        {
+          "category": "Blenders",
+          "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+          "model": "BLC2880B",
+          "regular": 2300,
+          "sale": 2050,
+          "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+          "warranty": "1 Year"
         },
         {
           "category": "Blenders",
@@ -395,6 +413,15 @@
           "regular": 7250,
           "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Freezers",
+          "name": "701L CHEST FREEZER",
+          "model": "FC-94DD4HA",
+          "regular": 9400,
+          "sale": null,
+          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
         {
@@ -3175,15 +3202,6 @@
   "spotlights": [
     {
       "category": "Air Conditioners",
-      "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
-      "model": "12TR4RMEDJ01",
-      "regular": 9700,
-      "sale": null,
-      "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Air Conditioners",
       "name": "1.5HP INVERTER - COOLING & \nHEATING AIR CONDITIONER",
       "model": "12UW4GXETV00",
       "regular": 5800,
@@ -3217,24 +3235,6 @@
       "sale": 340,
       "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
       "warranty": "Not Applicable"
-    },
-    {
-      "category": "Blenders",
-      "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
-      "model": "BLC2880B",
-      "regular": 2300,
-      "sale": 2050,
-      "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Freezers",
-      "name": "701L CHEST FREEZER",
-      "model": "FC-94DD4HA",
-      "regular": 9400,
-      "sale": null,
-      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-      "warranty": "5 Years"
     }
   ],
   "essentials": [
