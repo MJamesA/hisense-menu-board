@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T02:14:05.725Z",
+  "generatedAt": "2026-06-25T16:44:04.774Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2861,6 +2861,17 @@
       "sale": 970,
       "warranty": "1 Year",
       "features": "Latest Android 16 Operating System | Large 6.52” HD+ Sleek Design Display | Massive 128GB ROM & 6GB RAM Memory | All-Day 5000mAh High-Capacity Battery | High-Speed 4G LTE Reliable Network | Secure Side Fingerprint Smart Unlock | Dual SIM Support for Easy Connectivity | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish"
+    },
+    {
+      "acuId": "HS-H50 ZOOM",
+      "tag": "A6",
+      "category": "Mobile Phones",
+      "name": "H50 ZOOM MOBILE PHONE",
+      "model": "H50 Zoom",
+      "regular": 2500,
+      "sale": 1500,
+      "warranty": "1 Year",
+      "features": ""
     },
     {
       "acuId": "HS-H50 ZOOM",
