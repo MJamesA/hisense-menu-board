@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T11:07:51.803Z",
+  "generatedAt": "2026-06-25T12:00:22.250Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -3164,15 +3164,6 @@
     },
     {
       "category": "Freezers",
-      "name": "701L CHEST FREEZER",
-      "model": "FC-94DD4HA",
-      "regular": 9400,
-      "sale": null,
-      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Freezers",
       "name": "400L CHEST FREEZER",
       "model": "DSC-400W",
       "regular": 4990,
@@ -3235,6 +3226,15 @@
       "sale": 2050,
       "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
       "warranty": "1 Year"
+    },
+    {
+      "category": "Freezers",
+      "name": "701L CHEST FREEZER",
+      "model": "FC-94DD4HA",
+      "regular": 9400,
+      "sale": null,
+      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
+      "warranty": "5 Years"
     }
   ],
   "essentials": [
