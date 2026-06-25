@@ -272,7 +272,7 @@ function renderSpotPage(page) {
     <div class="fspot">
       <div class="fspot-img"><span>${esc(p.model || 'Featured')}</span></div>
       <div class="fspot-panel">
-        <div class="fspot-tab">${m.accent === 'teal' ? 'FEATURED' : 'BEST DEAL'}</div>
+        <div class="fspot-tab">${hasSale ? 'BEST DEAL' : 'FEATURED'}</div>
         ${save!=null ? `<div class="fspot-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
         <div class="fspot-name">${esc(p.name)}</div>
         <div class="fspot-model">${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fspot-war">⛨ ${esc(war)}</span>` : ''}</div>
@@ -331,8 +331,14 @@ function showPage(idx) {
   if (!PAGES.length) return;
   pageIndex = ((idx % PAGES.length) + PAGES.length) % PAGES.length;
   const page = PAGES[pageIndex];
+  // Spotlight theme follows price: promo -> gold "BEST DEAL", regular-only -> teal "FEATURED".
+  let teal = page.meta.accent === 'teal';
+  if (page.type === 'spot') {
+    const p = page.product;
+    teal = !(p.sale != null && p.regular != null && p.sale < p.regular);
+  }
   const incoming = document.createElement('div');
-  incoming.className = 'page' + (page.meta.accent === 'teal' ? ' stage-teal' : '');
+  incoming.className = 'page' + (teal ? ' stage-teal' : '');
   incoming.innerHTML = renderPage(page);
   stageEl.appendChild(incoming);
   void incoming.offsetWidth;
