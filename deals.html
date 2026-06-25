@@ -51,9 +51,12 @@
   .hdr-meta .m1 { font-family:'Anton'; font-size:24px; color:var(--teal); letter-spacing:1px; }
   .hdr-meta .m2 { font-size:15px; font-weight:800; color:var(--muted-d); letter-spacing:1.5px; text-transform:uppercase; }
 
-  /* ---------- main (single category, up to 10 cards = 2 cols × 5) ---------- */
-  .main-single { flex:1 1 auto; display:flex; flex-direction:column; margin:14px 0; min-height:0;
+  /* ---------- main page: category grid (left) + featured panel (right) ---------- */
+  .main { flex:1 1 auto; display:flex; gap:16px; margin:14px 0; min-height:0; }
+  .grid-area { flex:1 1 auto; min-width:0; display:flex; flex-direction:column;
     background:rgba(8,18,20,.5); border:2px solid var(--bar-edge); border-radius:14px; padding:16px 18px; }
+  .main.has-featured .grid-area { flex:2.25 1 0; }
+  .main-single { flex:1 1 auto; display:flex; flex-direction:column; margin:14px 0; min-height:0; }
   .cat-banner { flex:0 0 auto; display:flex; align-items:center; gap:14px; padding:2px 2px 14px; }
   .col-accent { width:9px; height:38px; border-radius:5px; flex:0 0 auto;
     background:linear-gradient(180deg,var(--teal),var(--teal-deep)); }
@@ -64,6 +67,35 @@
     grid-template-rows:repeat(5,1fr); grid-auto-flow:column; gap:12px 18px; }
   .ess-solo { justify-content:stretch; }
   .ess-solo .ess { flex:1 1 auto; height:auto; }
+
+  /* featured / best-deal panel */
+  .fpanel { flex:1 1 0; min-width:0; border-radius:14px; position:relative; overflow:hidden;
+    display:flex; flex-direction:column; padding:18px; }
+  .fpanel.gold { background:linear-gradient(180deg,#f5b800,#c79400); --pi:#221a00; }
+  .fpanel.teal { background:linear-gradient(180deg,#19c7b6,#0e8f83); --pi:#04201d; }
+  .fpanel-tab { position:absolute; top:0; right:0; background:var(--red); color:#fff;
+    font-family:'Anton'; font-size:21px; letter-spacing:1px; padding:8px 18px; border-bottom-left-radius:12px; text-transform:uppercase; }
+  .fpanel-save { position:absolute; top:56px; right:18px; background:var(--red); color:#fff;
+    width:116px; height:116px; border-radius:50%; display:flex; flex-direction:column; align-items:center;
+    justify-content:center; transform:rotate(8deg); box-shadow:0 6px 0 rgba(0,0,0,.25); line-height:1; }
+  .fpanel-save .s1 { font-family:'Anton'; font-size:14px; letter-spacing:1px; }
+  .fpanel-save .s2 { font-family:'Anton'; font-size:25px; }
+  .fpanel-img { flex:1 1 auto; min-height:0; border-radius:12px; margin-bottom:12px;
+    background:repeating-linear-gradient(45deg,#fff,#fff 16px,#f1f1f1 16px,#f1f1f1 32px);
+    border:2px dashed rgba(0,0,0,.16); display:flex; align-items:center; justify-content:center; }
+  .fpanel-img span { font-family:'Anton'; font-size:18px; color:rgba(0,0,0,.28); letter-spacing:2px; text-transform:uppercase; }
+  .fpanel-name { font-family:'Anton'; font-size:32px; line-height:.98; color:var(--pi); text-transform:uppercase; }
+  .fpanel-model { margin-top:4px; font-size:14px; font-weight:800; letter-spacing:1px; color:rgba(0,0,0,.5); text-transform:uppercase; }
+  .fpanel-war { margin-left:8px; color:var(--pi); font-weight:900; }
+  .fpanel-feats { margin:11px 0; display:flex; flex-direction:column; gap:6px; }
+  .fpanel-feat { display:flex; align-items:center; gap:9px; font-size:15px; font-weight:800; color:var(--pi); }
+  .fpanel-feat .ck { width:21px; height:21px; border-radius:6px; flex:0 0 auto; background:var(--teal-deep);
+    color:#fff; font-size:13px; display:flex; align-items:center; justify-content:center; }
+  .fpanel.teal .fpanel-feat .ck { background:#04201d; }
+  .fpanel-prices { margin-top:auto; }
+  .fpanel-was { font-size:22px; font-weight:800; color:rgba(0,0,0,.42); text-decoration:line-through; }
+  .fpanel-now { font-family:'Archivo'; font-weight:900; font-size:62px; line-height:.85; color:var(--pi); white-space:nowrap; }
+  .fpanel-now .cur { font-size:30px; vertical-align:12px; margin-right:3px; }
 
   .card { min-height:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
     border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 20px;
@@ -193,40 +225,55 @@ function priceHtml(p, cls) {
 
 let ESS_CHUNKS = [];   // essentials chunks, distributed across grid pages (cycles each loop)
 
+// Split items into pages of <=maxPer, BALANCED so the last page isn't tiny:
+// 44 items -> [9,9,9,9,8] (5 pages) rather than [10,10,10,10,4].
+function balancedChunk(items, maxPer) {
+  const n = Math.max(1, Math.ceil(items.length / maxPer));
+  const base = Math.floor(items.length / n);
+  let rem = items.length % n, k = 0;
+  const pages = [];
+  for (let i = 0; i < n; i++) {
+    const size = base + (rem > 0 ? 1 : 0); if (rem > 0) rem--;
+    pages.push(items.slice(k, k + size)); k += size;
+  }
+  return pages;
+}
+
 function buildPages(data) {
   const cols  = (data.columns || []).filter(c => c.items && c.items.length);
+  const feats = (data.featured || []).filter(Boolean);
   const spots = (data.spotlights || []).filter(Boolean);
   ESS_CHUNKS  = chunk(data.essentials || [], CONFIG.ESSENTIALS_PER_PAGE);
 
-  // Group spotlights by their (grouped) category so they sit next to that category.
-  const spotsByCat = {};
-  spots.forEach(s => { (spotsByCat[s.category] = spotsByCat[s.category] || []).push(s); });
+  const featByCat = {}, spotsByCat = {};
+  feats.forEach(f => (featByCat[f.category] = featByCat[f.category] || []).push(f));
+  spots.forEach(s => (spotsByCat[s.category] = spotsByCat[s.category] || []).push(s));
 
   const pages = [];
   let gridSeq = 0;   // running index of grid pages, for distributing essentials
 
-  // For each category: its grid pages (<=10 items), then its spotlight pages.
+  // For each category: balanced grid pages (<=10) each with ONE featured panel,
+  // then that category's spotlight full pages.
   cols.forEach(col => {
-    const itemPages = chunk(col.items, CONFIG.MAX_ITEMS_PER_PAGE);
+    const itemPages = balancedChunk(col.items, CONFIG.MAX_ITEMS_PER_PAGE);
+    // one featured per page: prefer this category's featured items, else any featured
+    const pool = (featByCat[col.category] && featByCat[col.category].length) ? featByCat[col.category] : feats;
     itemPages.forEach((items, idx) => {
       pages.push({
         type: 'grid', meta: data, category: col.category, items: items,
-        pageNo: idx + 1, pageCount: itemPages.length, gridSeq: gridSeq++
+        pageNo: idx + 1, pageCount: itemPages.length, gridSeq: gridSeq++,
+        featured: pool.length ? pool[idx % pool.length] : null
       });
     });
-    (spotsByCat[col.category] || []).forEach(s => {
-      pages.push({ type: 'spot', meta: data, product: s });
-    });
-    delete spotsByCat[col.category];   // mark as placed
+    (spotsByCat[col.category] || []).forEach(s => pages.push({ type: 'spot', meta: data, product: s }));
+    delete spotsByCat[col.category];
   });
 
   // Spotlights whose category has no product columns -> their own pages at the end.
-  Object.keys(spotsByCat).forEach(cat => {
-    spotsByCat[cat].forEach(s => pages.push({ type: 'spot', meta: data, product: s }));
-  });
+  Object.keys(spotsByCat).forEach(cat =>
+    spotsByCat[cat].forEach(s => pages.push({ type: 'spot', meta: data, product: s })));
 
-  // Essentials with no main at all -> their own pages (otherwise they ride the grid pages,
-  // so MORE essentials than main never creates blank pages).
+  // Essentials with no main at all -> their own pages (never creates blank pages otherwise).
   if (!gridSeq && ESS_CHUNKS.length) {
     ESS_CHUNKS.forEach(c => pages.push({ type: 'ess', meta: data, ess: c }));
     ESS_CHUNKS = [];
@@ -329,20 +376,47 @@ function essBar(items) {
     </div>`;
 }
 
-// One category, up to 10 cards (2 columns × 5), with the essentials bar below.
+// One category (≤10 cards, 2 cols × 5) + a Featured/Best-Deal panel + essentials bar.
 function renderGridPage(page) {
   const m = page.meta;
   const cards = page.items.map(renderCard).join("");
   // essentials ride the grid pages and cycle each loop (never create blank pages)
   const ess = ESS_CHUNKS.length ? ESS_CHUNKS[(page.gridSeq + ESS_OFFSET) % ESS_CHUNKS.length] : [];
   const pageNo = page.pageCount > 1 ? `<span class="pageno">PAGE ${page.pageNo} OF ${page.pageCount}</span>` : '';
+  const fp = page.featured ? renderFeaturedPanel(page.featured) : '';
   return `
     ${renderHeader(m)}
-    <div class="main-single">
-      <div class="cat-banner"><span class="col-accent"></span><div class="col-title">${esc(page.category)}</div>${pageNo}</div>
-      <div class="grid2">${cards}</div>
+    <div class="main ${page.featured ? 'has-featured' : ''}">
+      <div class="grid-area">
+        <div class="cat-banner"><span class="col-accent"></span><div class="col-title">${esc(page.category)}</div>${pageNo}</div>
+        <div class="grid2">${cards}</div>
+      </div>
+      ${fp}
     </div>
     ${ess.length ? essBar(ess) : ''}`;
+}
+
+// The Featured/Best-Deal panel (one per main page). Gold "BEST DEAL" if it has a
+// promo price, else teal "FEATURED".
+function renderFeaturedPanel(p) {
+  const feats = (p.features || "").split("|").map(f=>f.trim()).filter(Boolean).slice(0,5);
+  const hasSale = p.sale != null && p.regular != null && p.sale < p.regular;
+  const nowV = hasSale ? p.sale : (p.regular != null ? p.regular : p.sale);
+  const save = hasSale ? (p.regular - p.sale) : null;
+  const war = warrantyLabel(p.warranty);
+  return `
+    <div class="fpanel ${hasSale ? 'gold' : 'teal'}">
+      <div class="fpanel-tab">${hasSale ? 'BEST DEAL' : 'FEATURED'}</div>
+      ${save!=null ? `<div class="fpanel-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
+      <div class="fpanel-img"><span>${esc(p.model || 'Featured')}</span></div>
+      <div class="fpanel-name">${esc(p.name)}</div>
+      <div class="fpanel-model">${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fpanel-war">⛨ ${esc(war)}</span>` : ''}</div>
+      <div class="fpanel-feats">${feats.map(f=>`<div class="fpanel-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
+      <div class="fpanel-prices">
+        ${hasSale ? `<div class="fpanel-was">GH₵${money(p.regular)}</div>` : ""}
+        <div class="fpanel-now"><span class="cur">GH₵</span>${nowV!=null?money(nowV):"&mdash;"}</div>
+      </div>
+    </div>`;
 }
 
 // Essentials-only page (used only when nothing else was selected).
