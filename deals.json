@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T12:22:49.172Z",
+  "generatedAt": "2026-06-25T14:31:01.319Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -946,15 +946,6 @@
         },
         {
           "category": "Refrigerators",
-          "name": "46 BOTTLE\nWINE COOLER",
-          "model": "RW3N122GSLF",
-          "regular": 6200,
-          "sale": 5550,
-          "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "45L MINI BAR FRIDGE",
           "model": "RS-06DR4SA",
           "regular": 1280,
@@ -1005,15 +996,6 @@
           "regular": 2460,
           "sale": null,
           "features": "Spacious & Organized Double Door Design | Energy Efficient Eco-Friendly Cooling | Sleek & Modern Silver Exterior Finish | Bright & Clear Interior LED Lighting | Durable & Easy-to-Clean Glass Shelves | Simple Mechanical Temperature Control | Organized Door Racks for Extra Storage | Stable & Adjustable Leveling Feet | Eco-Safe R600a High-Efficiency Cooling",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "130L TABLE TOP FRIDGE",
-          "model": "RS-13DR4SG",
-          "regular": 1660,
-          "sale": null,
-          "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
           "warranty": "5 Years"
         },
         {
@@ -1144,15 +1126,6 @@
         },
         {
           "category": "Refrigerators",
-          "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
-          "model": "RD-27DR4SB",
-          "regular": 3300,
-          "sale": null,
-          "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "223L DOUBLE DOOR FRIDGE",
           "model": "RD-29DC4SA",
           "regular": 4200,
@@ -1185,15 +1158,6 @@
           "regular": 4400,
           "sale": null,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | High-Visibility Interior | Adjustable Leveling Feet",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "264L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
-          "model": "RD-35DC4SB",
-          "regular": 4500,
-          "sale": null,
-          "features": "Energy Efficient Technology | Integrated Water Dispenser | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet",
           "warranty": "5 Years"
         },
         {
@@ -1288,29 +1252,11 @@
         },
         {
           "category": "Refrigerators",
-          "name": "510L DOUBLE DOOR \nINVERTER FRIDGE",
-          "model": "RD-66WR4SA",
-          "regular": 8250,
-          "sale": null,
-          "features": "Durable Inverter Technology | Energy Efficient System | Multi Air Flow Cooling System | Fresh Zone & No-Frost Freezer | Large Fruit & Vegetable Crisper | Spill-Proof Glass Shelves | Precision Temperature Control | Low Noise and  LED Interior Lighting | Eco-Friendly R600a Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "518L SIDE-BY-SIDE FRIDGE",
           "model": "RC-67WS4SA",
           "regular": 8900,
           "sale": null,
           "features": "Sleek Side-by-Side Design | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Precise Temperature Control | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
-          "model": "RC-67WS4S3",
-          "regular": 12500,
-          "sale": null,
-          "features": "5-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -1360,15 +1306,6 @@
         },
         {
           "category": "Refrigerators",
-          "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
-          "model": "RC-67WC4SA",
-          "regular": 32000,
-          "sale": null,
-          "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "558L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
           "model": "RS558N3AG2",
           "regular": 11500,
@@ -1383,15 +1320,6 @@
           "regular": 26500,
           "sale": 19500,
           "features": "Luxury Cross Door Configuration | Premium Graphite Black Finish | Advanced Metal Tech & Triple Zone Cooling | My Fresh Choice Fridge-Freezer Switch | Smart Auto-Adjustable Cantilever Shelves | Quick Cooling & Fast Freezing Modes | Sleek Metal Recessed Handle Design | Integrated Auto Humidity Control Zone | Energy Efficient Smart Performance",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
-          "model": "RC-74WS4S3",
-          "regular": 13900,
-          "sale": null,
-          "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -1441,15 +1369,6 @@
         },
         {
           "category": "Refrigerators",
-          "name": "628L CROSS DOOR \nFRIDGE WITH SCREEN",
-          "model": "RS9P628GTF2",
-          "regular": 33000,
-          "sale": null,
-          "features": "Sleek Side-by-Side Design | 21-Inch Smart Display Screen | ConnectLife App Smart Connectivity | Frost-Free Inverter Technology | Ice Cube Maker & Water Dispenser | Multi Air Flow Cooling Technology | Super Freeze & Super Cold Features | LED Control Panel & Child Lock | Eco-Friendly R600a Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "630L FRENCH DOOR FRIDGE",
           "model": "RF5P630NMS1",
           "regular": 13500,
@@ -1465,30 +1384,21 @@
           "sale": null,
           "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "670L CROSS DOOR\nINVERTER FRIDGE",
-          "model": "",
-          "regular": 17500,
-          "sale": null,
-          "features": "",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "688L SIDE-BY-SIDE FRIDGE",
-          "model": "BCD-668W",
-          "regular": 13500,
-          "sale": null,
-          "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant",
-          "warranty": "5 Years"
         }
       ]
     },
     {
       "category": "Gas Cooker",
       "items": [
+        {
+          "category": "Gas Cooker",
+          "name": "3 BURNER GAS COOKER",
+          "model": "GST-T22",
+          "regular": 450,
+          "sale": 400,
+          "features": "Table-Top Configuration | Durable Stainless Steel Body | High-Efficiency Gas Burners | Instant Auto-Ignition System | Low Gas Consumption Tech | Stainless Steel Drip Trays | Removable Pot Support Grids | Easy-to-Clean Surface | 3 Independent Burners",
+          "warranty": "2 Years"
+        },
         {
           "category": "Gas Cooker",
           "name": "4 BURNER AND 52L \nFREE STANDING GAS OVEN",
@@ -1532,15 +1442,6 @@
           "regular": 4250,
           "sale": null,
           "features": "4 Gas Burners & Gas Oven System | Premium Stainless Steel Cooktop | Infrared Cooking & Grill Function | Oven & Grill Convection Fan | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Premium Soft-Closing Oven Door | Easy-Clean Enamel Interior",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
-          "name": "3 GAS + 1 ELECTRIC BURNER\nFREE STANDING GAS OVEN",
-          "model": "60*60 Gas Oven (Model 5)",
-          "regular": 4650,
-          "sale": null,
-          "features": "Hybrid 3 Gas Burners & 1 Electric Hob | 1000W High-Performance Electric Plate | Premium Stainless Steel Top Surface | Instant Auto-Ignition (Top Burners) | Heavy-Duty Cast Iron Top Grids | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Glass Top Lid / Cover | Matte Black Professional Burner Caps",
           "warranty": "3 Years"
         },
         {
@@ -1590,15 +1491,6 @@
         },
         {
           "category": "Gas Cooker",
-          "name": "5 BURNER FREE\nSTANDING GAS OVEN",
-          "model": "GC60x90M7",
-          "regular": 8750,
-          "sale": null,
-          "features": "5 High-Efficiency Euro Pool Burners | Massive Gas Oven with Thermostat | Dual Oven Heating (Top & Bottom) | Integrated Chicken Rotisserie System | Precision Mechanic Cooking Timer | Full Auto-Ignition (Burners & Oven) | Heavy-Duty Cast Iron Top Grids | Double-Layered Black Glass Oven Door | Protective Glass Top Lid / Cover",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
           "name": "4 GAS + 2 ELECTRIC BURNER FREE STANDING OVEN",
           "model": "HF942GEES",
           "regular": 7300,
@@ -1618,20 +1510,29 @@
         {
           "category": "Gas Cooker",
           "name": "4 BURNER + 1 WOK GAS HOB",
-          "model": "HG1986SB",
-          "regular": 10800,
-          "sale": 7600,
-          "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
-          "name": "4 BURNER + 1 WOK GAS HOB",
           "model": "HG1776SB",
           "regular": 10500,
           "sale": 7400,
           "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 75 × 52.6 cm",
           "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "1 BURNER TABLE\nTOP GAS COOKER",
+          "model": "GS1-15SBC",
+          "regular": 600,
+          "sale": null,
+          "features": "Durable & Robust Stainless Steel Body | Heavy-Duty Protective Enamel Supports | Hassle-Free Instant Auto-Ignition | Energy-Efficient Low Gas Consumption | Portable High-Performance Tabletop | Precision Flame Control Technology | Easy-to-Clean Corrosion-Resistant Top",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "2 BURNER TABLE \nTOP GAS COOKER",
+          "model": "GS2-07RB",
+          "regular": 1200,
+          "sale": null,
+          "features": "Glossy Tempered Glass Surface | Durable Heavy-Duty Enamel Supports | Professional Cast Iron Pan Supports | Enhanced Flame Failure Safety System | Precision High-Efficiency Gas Burners | Sleek & Modern Easy-to-Clean Top | Robust Construction for Long Life",
+          "warranty": "1 Year"
         }
       ]
     },
@@ -1640,11 +1541,92 @@
       "items": [
         {
           "category": "Iron",
-          "name": "STEAM GENERATOR\nELECTRIC IRON",
-          "model": "SIGH2400BB",
-          "regular": 1900,
-          "sale": 1650,
-          "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
+          "name": "ELECTRIC IRON\nA1-8001",
+          "model": "A1-8001",
+          "regular": 270,
+          "sale": 240,
+          "features": "Powerful 1600W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nA1-8003",
+          "model": "A1-8003",
+          "regular": 300,
+          "sale": 260,
+          "features": "Powerful 2200W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nA1-8005",
+          "model": "A1-8005",
+          "regular": 470,
+          "sale": 420,
+          "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Professional Dry & Steam Iron Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nA1-8008",
+          "model": "A1-8008",
+          "regular": 370,
+          "sale": 320,
+          "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nA1-8009",
+          "model": "A1-8009",
+          "regular": 320,
+          "sale": 285,
+          "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nA1-8010",
+          "model": "A1-8010",
+          "regular": 340,
+          "sale": 305,
+          "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nCLASSIC GREEN",
+          "model": "HSIH1800GRT",
+          "regular": 240,
+          "sale": null,
+          "features": "Powerful 1800W Rapid Heating System | Sleek Classic Green Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nPREMIUM WHITE",
+          "model": "H28SIWES1",
+          "regular": 450,
+          "sale": null,
+          "features": "Ultra-Powerful 2800W Rapid Heating | Premium White Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nSTEAMCARE PLUS",
+          "model": "SIH2200DGT",
+          "regular": 360,
+          "sale": 310,
+          "features": "Powerful 2200W Rapid Heating System | Extra-Long 2.5m Cable for Easy Reach | Convenient 280ml Water Tank Capacity | Professional SteamCare Plus Technology | Integrated Self-Clean & Anti-Drip | Advanced Anti-Calc Scale Prevention | Ergonomic Design for Comfort Grip",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Iron",
+          "name": "ELECTRIC IRON\nSTYLISH BLUE",
+          "model": "H22SIBES1",
+          "regular": 300,
+          "sale": null,
+          "features": "Powerful 2200W Rapid Heating System | Elegant Stylish Blue Modern Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
           "warranty": "1 Year"
         }
       ]
@@ -1660,6 +1642,101 @@
           "sale": 30,
           "features": "",
           "warranty": ""
+        }
+      ]
+    },
+    {
+      "category": "Kettles",
+      "items": [
+        {
+          "category": "Kettles",
+          "name": "1.7L CLEAR GLASS KETTLE",
+          "model": "KEAMGC1.7L",
+          "regular": 360,
+          "sale": 320,
+          "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L RAINBOW GLASS KETTLE",
+          "model": "KEAMGR1.7L",
+          "regular": 420,
+          "sale": 370,
+          "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L INOX STAINLESS STEEL KETTLE",
+          "model": "H17KSSS2",
+          "regular": 400,
+          "sale": null,
+          "features": "Powerful 2200W Rapid Boiling System | Premium Strix Control Technology | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Simple & Intuitive Easy-to-Use Design | Integrated Boil-Dry Safety System | Sleek & Durable Ergonomic Body",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L BLACK PLASTIC KETTLE",
+          "model": "KEAMPB1.7L",
+          "regular": 290,
+          "sale": 255,
+          "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L WHITE PLASTIC KETTLE",
+          "model": "KEAMPW1.7L",
+          "regular": 290,
+          "sale": 255,
+          "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L BLACK PLASTIC KETTLE",
+          "model": "H17KBKS1",
+          "regular": 200,
+          "sale": null,
+          "features": "High-Power 2000W Rapid Boiling | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Ergonomic Handle for Secure Grip | Non-Slip Rubber Feet for Stability | Integrated Boil-Dry Safety System | Simple & Intuitive Easy-to-Use Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L STAINLES STEEL KETTLE",
+          "model": "H17KSSS1",
+          "regular": 270,
+          "sale": null,
+          "features": "Powerful 2200W Rapid Boiling System | Convenient 360-Degree Cordless Design | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.8L STAINLESS STEEL KETTLE",
+          "model": "YQ-660",
+          "regular": 400,
+          "sale": 360,
+          "features": "Efficient 1850W Rapid Boiling System | Durable Stainless Steel Body | Automatic Shut-Off Safety Protection | Integrated Boil-Dry Safety System | On/Off Switch with LED Power Light | 360-Degree Cordless Swivel Base | Sleek & Modern Easy-to-Clean Surface",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.8L CLASSIC BLACK KETTLE",
+          "model": "KEAMSS1.8L",
+          "regular": 390,
+          "sale": 340,
+          "features": "Elegant & Timeless Classic Black Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.8L PREMIER BLACK KETTLE",
+          "model": "KEAMSB1.8L",
+          "regular": 360,
+          "sale": 320,
+          "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
+          "warranty": "1 Year"
         }
       ]
     },
@@ -3179,6 +3256,78 @@
       "sale": null,
       "features": "Long-Lasting 20Hr Lithium Battery | Powerful & Whisper-Quiet DC Motor | Integrated USB Mobile Charging Port | Built-In Soft LED Night Light | 12 Precision Speed Cooling Levels | Adjustable Height Telescopic Stand | Wide-Angle Oscillation & Tilt Head | Full-Function Wireless Remote Control | Ghana Certified 3-Star Energy Rating",
       "warranty": "1 Year"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
+      "model": "RD-27DR4SB",
+      "regular": 3300,
+      "sale": null,
+      "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "264L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
+      "model": "RD-35DC4SB",
+      "regular": 4500,
+      "sale": null,
+      "features": "Energy Efficient Technology | Integrated Water Dispenser | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "510L DOUBLE DOOR \nINVERTER FRIDGE",
+      "model": "RD-66WR4SA",
+      "regular": 8250,
+      "sale": null,
+      "features": "Durable Inverter Technology | Energy Efficient System | Multi Air Flow Cooling System | Fresh Zone & No-Frost Freezer | Large Fruit & Vegetable Crisper | Spill-Proof Glass Shelves | Precision Temperature Control | Low Noise and  LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
+      "model": "RC-67WC4SA",
+      "regular": 32000,
+      "sale": null,
+      "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "670L CROSS DOOR\nINVERTER FRIDGE",
+      "model": "",
+      "regular": 17500,
+      "sale": null,
+      "features": "",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "3 GAS + 1 ELECTRIC BURNER\nFREE STANDING GAS OVEN",
+      "model": "60*60 Gas Oven (Model 5)",
+      "regular": 4650,
+      "sale": null,
+      "features": "Hybrid 3 Gas Burners & 1 Electric Hob | 1000W High-Performance Electric Plate | Premium Stainless Steel Top Surface | Instant Auto-Ignition (Top Burners) | Heavy-Duty Cast Iron Top Grids | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Glass Top Lid / Cover | Matte Black Professional Burner Caps",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "3 BURNER TABLE\nTOP GAS COOKER",
+      "model": "GS3-07RBB",
+      "regular": 1600,
+      "sale": null,
+      "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8011",
+      "model": "A1-8011",
+      "regular": 360,
+      "sale": 320,
+      "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+      "warranty": "1 Year"
     }
   ],
   "spotlights": [
@@ -3270,6 +3419,105 @@
       "regular": 1400,
       "sale": null,
       "features": "Precision Digital Touch Control Panel | Dual Independent Cooking Baskets | 8 Smart-Logic Preset Programs | Synced Finish & Temperature Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "46 BOTTLE\nWINE COOLER",
+      "model": "RW3N122GSLF",
+      "regular": 6200,
+      "sale": 5550,
+      "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "130L TABLE TOP FRIDGE",
+      "model": "RS-13DR4SG",
+      "regular": 1660,
+      "sale": null,
+      "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+      "model": "RC-67WS4S3",
+      "regular": 12500,
+      "sale": null,
+      "features": "5-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+      "model": "RC-74WS4S3",
+      "regular": 13900,
+      "sale": null,
+      "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "628L CROSS DOOR \nFRIDGE WITH SCREEN",
+      "model": "RS9P628GTF2",
+      "regular": 33000,
+      "sale": null,
+      "features": "Sleek Side-by-Side Design | 21-Inch Smart Display Screen | ConnectLife App Smart Connectivity | Frost-Free Inverter Technology | Ice Cube Maker & Water Dispenser | Multi Air Flow Cooling Technology | Super Freeze & Super Cold Features | LED Control Panel & Child Lock | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "688L SIDE-BY-SIDE FRIDGE",
+      "model": "BCD-668W",
+      "regular": 13500,
+      "sale": null,
+      "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "5 BURNER FREE\nSTANDING GAS OVEN",
+      "model": "GC60x90M7",
+      "regular": 8750,
+      "sale": null,
+      "features": "5 High-Efficiency Euro Pool Burners | Massive Gas Oven with Thermostat | Dual Oven Heating (Top & Bottom) | Integrated Chicken Rotisserie System | Precision Mechanic Cooking Timer | Full Auto-Ignition (Burners & Oven) | Heavy-Duty Cast Iron Top Grids | Double-Layered Black Glass Oven Door | Protective Glass Top Lid / Cover",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "4 BURNER + 1 WOK GAS HOB",
+      "model": "HG1986SB",
+      "regular": 10800,
+      "sale": 7600,
+      "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8006",
+      "model": "A1-8006",
+      "regular": 500,
+      "sale": 440,
+      "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Dry & Vertical Steam Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "STEAM GENERATOR\nELECTRIC IRON",
+      "model": "SIGH2400BB",
+      "regular": 1900,
+      "sale": 1650,
+      "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L DIGITAL PLASTIC KETTLE",
+      "model": "HK17DWD",
+      "regular": 550,
+      "sale": null,
+      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
       "warranty": "1 Year"
     }
   ],
@@ -3536,150 +3784,6 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Gas Cooker",
-      "name": "3 BURNER GAS COOKER",
-      "model": "GST-T22",
-      "regular": 450,
-      "sale": 400,
-      "features": "Table-Top Configuration | Durable Stainless Steel Body | High-Efficiency Gas Burners | Instant Auto-Ignition System | Low Gas Consumption Tech | Stainless Steel Drip Trays | Removable Pot Support Grids | Easy-to-Clean Surface | 3 Independent Burners",
-      "warranty": "2 Years"
-    },
-    {
-      "category": "Gas Cooker",
-      "name": "1 BURNER TABLE\nTOP GAS COOKER",
-      "model": "GS1-15SBC",
-      "regular": 600,
-      "sale": null,
-      "features": "Durable & Robust Stainless Steel Body | Heavy-Duty Protective Enamel Supports | Hassle-Free Instant Auto-Ignition | Energy-Efficient Low Gas Consumption | Portable High-Performance Tabletop | Precision Flame Control Technology | Easy-to-Clean Corrosion-Resistant Top",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Gas Cooker",
-      "name": "2 BURNER TABLE \nTOP GAS COOKER",
-      "model": "GS2-07RB",
-      "regular": 1200,
-      "sale": null,
-      "features": "Glossy Tempered Glass Surface | Durable Heavy-Duty Enamel Supports | Professional Cast Iron Pan Supports | Enhanced Flame Failure Safety System | Precision High-Efficiency Gas Burners | Sleek & Modern Easy-to-Clean Top | Robust Construction for Long Life",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Gas Cooker",
-      "name": "3 BURNER TABLE\nTOP GAS COOKER",
-      "model": "GS3-07RBB",
-      "regular": 1600,
-      "sale": null,
-      "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8001",
-      "model": "A1-8001",
-      "regular": 270,
-      "sale": 240,
-      "features": "Powerful 1600W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8003",
-      "model": "A1-8003",
-      "regular": 300,
-      "sale": 260,
-      "features": "Powerful 2200W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8005",
-      "model": "A1-8005",
-      "regular": 470,
-      "sale": 420,
-      "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Professional Dry & Steam Iron Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8006",
-      "model": "A1-8006",
-      "regular": 500,
-      "sale": 440,
-      "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Dry & Vertical Steam Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8008",
-      "model": "A1-8008",
-      "regular": 370,
-      "sale": 320,
-      "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8009",
-      "model": "A1-8009",
-      "regular": 320,
-      "sale": 285,
-      "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8010",
-      "model": "A1-8010",
-      "regular": 340,
-      "sale": 305,
-      "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nA1-8011",
-      "model": "A1-8011",
-      "regular": 360,
-      "sale": 320,
-      "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nCLASSIC GREEN",
-      "model": "HSIH1800GRT",
-      "regular": 240,
-      "sale": null,
-      "features": "Powerful 1800W Rapid Heating System | Sleek Classic Green Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nPREMIUM WHITE",
-      "model": "H28SIWES1",
-      "regular": 450,
-      "sale": null,
-      "features": "Ultra-Powerful 2800W Rapid Heating | Premium White Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nSTEAMCARE PLUS",
-      "model": "SIH2200DGT",
-      "regular": 360,
-      "sale": 310,
-      "features": "Powerful 2200W Rapid Heating System | Extra-Long 2.5m Cable for Easy Reach | Convenient 280ml Water Tank Capacity | Professional SteamCare Plus Technology | Integrated Self-Clean & Anti-Drip | Advanced Anti-Calc Scale Prevention | Ergonomic Design for Comfort Grip",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "ELECTRIC IRON\nSTYLISH BLUE",
-      "model": "H22SIBES1",
-      "regular": 300,
-      "sale": null,
-      "features": "Powerful 2200W Rapid Heating System | Elegant Stylish Blue Modern Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
-      "warranty": "1 Year"
-    },
-    {
       "category": "Items",
       "name": "DIGITAL TV FLAT\nPANEL ANTENNA",
       "model": "AV-163C",
@@ -3876,105 +3980,6 @@
       "sale": 80,
       "features": "",
       "warranty": ""
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L DIGITAL PLASTIC KETTLE",
-      "model": "HK17DWD",
-      "regular": 550,
-      "sale": null,
-      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L CLEAR GLASS KETTLE",
-      "model": "KEAMGC1.7L",
-      "regular": 360,
-      "sale": 320,
-      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L RAINBOW GLASS KETTLE",
-      "model": "KEAMGR1.7L",
-      "regular": 420,
-      "sale": 370,
-      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L INOX STAINLESS STEEL KETTLE",
-      "model": "H17KSSS2",
-      "regular": 400,
-      "sale": null,
-      "features": "Powerful 2200W Rapid Boiling System | Premium Strix Control Technology | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Simple & Intuitive Easy-to-Use Design | Integrated Boil-Dry Safety System | Sleek & Durable Ergonomic Body",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L BLACK PLASTIC KETTLE",
-      "model": "KEAMPB1.7L",
-      "regular": 290,
-      "sale": 255,
-      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L WHITE PLASTIC KETTLE",
-      "model": "KEAMPW1.7L",
-      "regular": 290,
-      "sale": 255,
-      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L BLACK PLASTIC KETTLE",
-      "model": "H17KBKS1",
-      "regular": 200,
-      "sale": null,
-      "features": "High-Power 2000W Rapid Boiling | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Ergonomic Handle for Secure Grip | Non-Slip Rubber Feet for Stability | Integrated Boil-Dry Safety System | Simple & Intuitive Easy-to-Use Design",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L STAINLES STEEL KETTLE",
-      "model": "H17KSSS1",
-      "regular": 270,
-      "sale": null,
-      "features": "Powerful 2200W Rapid Boiling System | Convenient 360-Degree Cordless Design | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.8L STAINLESS STEEL KETTLE",
-      "model": "YQ-660",
-      "regular": 400,
-      "sale": 360,
-      "features": "Efficient 1850W Rapid Boiling System | Durable Stainless Steel Body | Automatic Shut-Off Safety Protection | Integrated Boil-Dry Safety System | On/Off Switch with LED Power Light | 360-Degree Cordless Swivel Base | Sleek & Modern Easy-to-Clean Surface",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.8L CLASSIC BLACK KETTLE",
-      "model": "KEAMSS1.8L",
-      "regular": 390,
-      "sale": 340,
-      "features": "Elegant & Timeless Classic Black Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.8L PREMIER BLACK KETTLE",
-      "model": "KEAMSB1.8L",
-      "regular": 360,
-      "sale": 320,
-      "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
-      "warranty": "1 Year"
     },
     {
       "category": "Sound Systems",
