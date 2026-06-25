@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T10:30:01.163Z",
+  "generatedAt": "2026-06-25T10:41:12.946Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -9,15 +9,6 @@
     {
       "category": "Air Conditioners",
       "items": [
-        {
-          "category": "Air Conditioners",
-          "name": "1.0HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "ACAMCH09DH",
-          "regular": 3850,
-          "sale": 2690,
-          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-          "warranty": "5 Years"
-        },
         {
           "category": "Air Conditioners",
           "name": "1.0HP SPLIT\nAIR CONDITIONER",
@@ -38,47 +29,11 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "HAS12TR4RVDTG",
-          "regular": 5200,
-          "sale": null,
-          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
           "name": "1.5HP INVERTER COOL WITH \nWIFI & SMART EYE AC",
           "model": "AST-12UW4RXVQH00B",
           "regular": 7790,
           "sale": null,
           "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
-          "model": "12TR4RMEDJ01",
-          "regular": 9700,
-          "sale": null,
-          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "1.5HP INVERTER - COOLING & \nHEATING AIR CONDITIONER",
-          "model": "12UW4GXETV00",
-          "regular": 5800,
-          "sale": 4200,
-          "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "1.5HP SPLIT\nAIR CONDITIONER",
-          "model": "12CR4SVDTG01",
-          "regular": 4290,
-          "sale": null,
-          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -147,15 +102,6 @@
         {
           "category": "Air Conditioners",
           "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "ACAMCH24DH",
-          "regular": 8200,
-          "sale": 5790,
-          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
           "model": "HAS24TR4RBBDTG",
           "regular": 8990,
           "sale": null,
@@ -182,12 +128,35 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "4.5HP FLOOR STANDING \nAIR CONDITIONER",
-          "model": "AUF-42CR6SDMPH",
-          "regular": 19800,
+          "name": "6.0HP INVERTER - COOLING \n& HEATING CEILING AC",
+          "model": "AUV-60UR6SNC5",
+          "regular": 32500,
           "sale": null,
-          "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
+          "features": "Floor/Ceiling AC System | Light commercial system | In stock and available | Speak to our Corporate Sales team",
           "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "Wall Bracket",
+      "items": [
+        {
+          "category": "Wall Bracket",
+          "name": "MTN PROMOTIONAL OFFER #1",
+          "model": "MTN001",
+          "regular": 1020,
+          "sale": 0.0001,
+          "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
+          "warranty": "Not Applicable"
+        },
+        {
+          "category": "Wall Bracket",
+          "name": "MTN PROMOTIONAL OFFER #2",
+          "model": "MTN002",
+          "regular": 680,
+          "sale": 340,
+          "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
+          "warranty": "Not Applicable"
         }
       ]
     },
@@ -205,57 +174,12 @@
         },
         {
           "category": "Blenders",
-          "name": "COMMERCIAL BLENDER\n1.5L MECHANICAL",
-          "model": "DT-K80T",
-          "regular": 3200,
-          "sale": 2850,
-          "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Blenders",
           "name": "DIGITAL THERMAL BLENDER\nDT8110",
           "model": "DT-8110",
           "regular": 1950,
           "sale": 1750,
           "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
           "warranty": "2 Years"
-        },
-        {
-          "category": "Blenders",
-          "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
-          "model": "BLC2880B",
-          "regular": 2300,
-          "sale": 2050,
-          "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Blenders",
-          "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
-          "model": "BLC2880S",
-          "regular": 2500,
-          "sale": 2230,
-          "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Blenders",
-          "name": "MECHANICAL BLENDER \n2.0L DT-767",
-          "model": "DT-767",
-          "regular": 950,
-          "sale": 850,
-          "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
-          "warranty": "2 Years"
-        },
-        {
-          "category": "Blenders",
-          "name": "DIGITAL BLENDER \n2.2L DT-780",
-          "model": "DT-780",
-          "regular": 1250,
-          "sale": 1120,
-          "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
-          "warranty": "1 Year"
         },
         {
           "category": "Blenders",
@@ -399,24 +323,6 @@
         },
         {
           "category": "Freezers",
-          "name": "700L CHEST FREEZER",
-          "model": "ARC-700",
-          "regular": 7890,
-          "sale": 7090,
-          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
-          "name": "310L CHEST FREEZER",
-          "model": "FC-40DD4HA",
-          "regular": 4290,
-          "sale": null,
-          "features": "Rapid Cooling & Deep Freeze Function | Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
           "name": "366L CHEST FREEZER",
           "model": "FC-48DD4SG",
           "regular": 5700,
@@ -444,15 +350,6 @@
         },
         {
           "category": "Freezers",
-          "name": "701L CHEST FREEZER",
-          "model": "FC-94DD4HA",
-          "regular": 9400,
-          "sale": null,
-          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
           "name": "248L CHEST FREEZER",
           "model": "DSC-248W",
           "regular": 3500,
@@ -471,29 +368,11 @@
         },
         {
           "category": "Freezers",
-          "name": "400L CHEST FREEZER",
-          "model": "DSC-400W",
-          "regular": 4990,
-          "sale": 4590,
-          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
           "name": "310L UPRIGHT FRIDGE",
           "model": "FT5K310GSF2",
           "regular": 10500,
           "sale": null,
           "features": "High Energy Efficiency Performance | Optimized Power \nConsumption Operation | Smart Inverter \nCompression Technology | Fast Freezing \nRapid Functionality | Total No Frost \nCooling Mechanism | Electronic Temperature \nControl System | Multi Air Flow \nDistribution Channels | Reversible Door\n Hinge Configuration | Eco Friendly Refrigerant Gas R600a",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
-          "name": "235L INVERTER \nUPRIGHT FREEZER",
-          "model": "RS-31WC4SA",
-          "regular": 6800,
-          "sale": null,
-          "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -1740,6 +1619,20 @@
           "sale": 7400,
           "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 75 × 52.6 cm",
           "warranty": "3 Years"
+        }
+      ]
+    },
+    {
+      "category": "Iron",
+      "items": [
+        {
+          "category": "Iron",
+          "name": "STEAM GENERATOR\nELECTRIC IRON",
+          "model": "SIGH2400BB",
+          "regular": 1900,
+          "sale": 1650,
+          "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
+          "warranty": "1 Year"
         }
       ]
     },
@@ -3119,6 +3012,15 @@
         },
         {
           "category": "Water Dispensors",
+          "name": "NATURE \nWATER FILTER",
+          "model": "SEWFNW",
+          "regular": 2780,
+          "sale": 1800,
+          "features": "Advanced Innovative Nano Alumina Fiber Technology | Optimum Multi-Stage Water Filtration Solution | Elegant, Modern & Exceptionally Slimline Design | Integrated Designer Manual On/Off Flow Valve | Innovative \"Push & Click\" Secure Filter Locking | Quick & Tool-Free Easy Filter Replacement System | Dual Installation Versatility (Wall or Countertop) | Modern Space-Saving Compact Architecture | High-Efficiency Flow with Zero Water Wastage",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
           "name": "2.2L TABLETOP ICE MAKER",
           "model": "ICM10W",
           "regular": 1900,
@@ -3165,50 +3067,32 @@
       ]
     }
   ],
-  "spotlights": [
+  "featured": [
     {
       "category": "Air Conditioners",
-      "name": "1.5HP INVERTER COOL WITH \nWIFI & SMART EYE AC",
-      "model": "AST-12UW4RXVQH00B",
-      "regular": 7790,
-      "sale": null,
-      "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
+      "name": "1.0HP SPLIT INVERTER\nAIR CONDITIONER",
+      "model": "ACAMCH09DH",
+      "regular": 3850,
+      "sale": 2690,
+      "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
       "warranty": "5 Years"
     },
     {
-      "category": "Wall Bracket",
-      "name": "DSTV DECODER & ACCESSORIES OFFER",
-      "model": "Model 1",
-      "regular": 633,
-      "sale": 0.0001,
-      "features": "Special Offer | 3 months Access subscription free | Energy Efficient Digital Performance | Crystal Clear High Definition Viewing | Dynamic Content Discovery Search Options | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
+      "category": "Blenders",
+      "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+      "model": "BLC2880B",
+      "regular": 2300,
+      "sale": 2050,
+      "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
       "warranty": "1 Year"
     },
     {
-      "category": "Wall Bracket",
-      "name": "MTN PROMOTIONAL OFFER #1",
-      "model": "MTN001",
-      "regular": 1020,
-      "sale": 0.0001,
-      "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-      "warranty": "Not Applicable"
-    },
-    {
-      "category": "Wall Bracket",
-      "name": "MTN PROMOTIONAL OFFER #2",
-      "model": "MTN002",
-      "regular": 680,
-      "sale": 340,
-      "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-      "warranty": "Not Applicable"
-    },
-    {
       "category": "Freezers",
-      "name": "366L CHEST FREEZER",
-      "model": "FC-48DD4SG",
-      "regular": 5700,
-      "sale": null,
-      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
+      "name": "700L CHEST FREEZER",
+      "model": "ARC-700",
+      "regular": 7890,
+      "sale": 7090,
+      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
       "warranty": "5 Years"
     },
     {
@@ -3221,67 +3105,24 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Washing Machines",
-      "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-      "model": "XQG100-BH148DC1",
-      "regular": 21900,
-      "sale": null,
-      "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Washing Machines",
-      "name": "16 PLACE CAPACITY\nDISHWASHER",
-      "model": "HS673C90BME",
-      "regular": 7150,
-      "sale": null,
-      "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Washing Machines",
-      "name": "8KG FRONT LOAD\nTUMBLE DRYER",
-      "model": "TDAS8HX",
-      "regular": 18000,
-      "sale": 13600,
-      "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+      "category": "Freezers",
+      "name": "400L CHEST FREEZER",
+      "model": "DSC-400W",
+      "regular": 4990,
+      "sale": 4590,
+      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
       "warranty": "5 Years"
-    },
+    }
+  ],
+  "spotlights": [
     {
-      "category": "Built-In Appliances",
-      "name": "212L BUILT-IN FREEZER",
-      "model": "FN31831I",
-      "regular": 13000,
-      "sale": 9000,
-      "features": "Built-In Integrated Design | Total No-Frost Technology | Energy Efficient Operation | 7 Dedicated Freezer Drawers | Advanced Fast-Freeze Function | Soft-Closing Door System | Flexible Reversible Door | Classic White Exterior Finish | Eco-Friendly R600a Refrigerant",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Built-In Appliances",
-      "name": "248L BUILT-IN FRIDGE",
-      "model": "RFN3183I",
-      "regular": 12500,
-      "sale": 11000,
-      "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Built-In Appliances",
-      "name": "BUILT IN STEAM OVEN",
-      "model": "OVASBI78G",
-      "regular": 24000,
-      "sale": 16500,
-      "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Built-In Appliances",
-      "name": "BUILT IN OVEN",
-      "model": "OVASBI64S",
-      "regular": 18900,
-      "sale": 13000,
-      "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-      "warranty": "3 Years"
+      "category": "Air Conditioners",
+      "name": "4.5HP FLOOR STANDING \nAIR CONDITIONER",
+      "model": "AUF-42CR6SDMPH",
+      "regular": 19800,
+      "sale": null,
+      "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
+      "warranty": "5 Years"
     },
     {
       "category": "Blenders",
@@ -3293,241 +3134,79 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Refrigerators",
-      "name": "46 BOTTLE\nWINE COOLER",
-      "model": "RW3N122GSLF",
-      "regular": 6200,
-      "sale": 5550,
-      "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
-      "warranty": "5 Years"
+      "category": "Blenders",
+      "name": "MECHANICAL BLENDER \n2.0L DT-767",
+      "model": "DT-767",
+      "regular": 950,
+      "sale": 850,
+      "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
+      "warranty": "2 Years"
     },
     {
-      "category": "Refrigerators",
-      "name": "130L TABLE TOP FRIDGE",
-      "model": "RS-13DR4SG",
-      "regular": 1660,
-      "sale": null,
-      "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Refrigerators",
-      "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
-      "model": "RD-27DR4SB",
-      "regular": 3300,
-      "sale": null,
-      "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Refrigerators",
-      "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
-      "model": "RC-67WC4SA",
-      "regular": 32000,
-      "sale": null,
-      "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Refrigerators",
-      "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
-      "model": "RC-67WS4S3",
-      "regular": 12500,
-      "sale": null,
-      "features": "5-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Gas Cooker",
-      "name": "5 BURNER FREE\nSTANDING GAS OVEN",
-      "model": "GC60x90M7",
-      "regular": 8750,
-      "sale": null,
-      "features": "5 High-Efficiency Euro Pool Burners | Massive Gas Oven with Thermostat | Dual Oven Heating (Top & Bottom) | Integrated Chicken Rotisserie System | Precision Mechanic Cooking Timer | Full Auto-Ignition (Burners & Oven) | Heavy-Duty Cast Iron Top Grids | Double-Layered Black Glass Oven Door | Protective Glass Top Lid / Cover",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Gas Cooker",
-      "name": "4 BURNER + 1 WOK GAS HOB",
-      "model": "HG1986SB",
-      "regular": 10800,
-      "sale": 7600,
-      "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Iron",
-      "name": "STEAM GENERATOR\nELECTRIC IRON",
-      "model": "SIGH2400BB",
-      "regular": 1900,
-      "sale": 1650,
-      "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
+      "category": "Blenders",
+      "name": "DIGITAL BLENDER \n2.2L DT-780",
+      "model": "DT-780",
+      "regular": 1250,
+      "sale": 1120,
+      "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
       "warranty": "1 Year"
     },
     {
-      "category": "Microwave oven",
-      "name": "42L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
-      "model": "HMMG4210DSG",
-      "regular": 1900,
+      "category": "Freezers",
+      "name": "310L CHEST FREEZER",
+      "model": "FC-40DD4HA",
+      "regular": 4290,
       "sale": null,
-      "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Powerful 1200W - 2800W Variable Grill | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Integrated Child Safety Lock System | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
-      "warranty": "1 Year"
+      "features": "Rapid Cooling & Deep Freeze Function | Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
+      "warranty": "5 Years"
     },
     {
-      "category": "Microwave oven",
-      "name": "20L SILVER MICROWAVE \nGRILL MECHANICAL CONTROL",
-      "model": "H20MOMS1HG",
-      "regular": 1200,
+      "category": "Freezers",
+      "name": "235L INVERTER \nUPRIGHT FREEZER",
+      "model": "RS-31WC4SA",
+      "regular": 6800,
       "sale": null,
-      "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Sleek Silver Finish with Pull Handle Door | Premium Mirror Glass Door | Dual Combination Grill Function | 5 Variable Power Level Settings | Precision Mechanical Control System | Dedicated Defrost Technology | Integrated 35-Minute Safety Timer",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Showcases",
-      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
-      "model": "FL-81WC",
-      "regular": 11990,
-      "sale": null,
-      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
-      "model": "PX3-PRO",
-      "regular": 39000,
-      "sale": 29990,
-      "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
-      "model": "PX1-PRO",
-      "regular": 36000,
-      "sale": 28590,
-      "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
-      "model": "C2ULTRA",
-      "regular": 32000,
-      "sale": 24990,
-      "features": "Features Needed",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "150\" T68\nLASER TELEVISION",
-      "model": "T68",
-      "regular": 115000,
-      "sale": null,
-      "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "120\" L9 \nLASER TELEVISION",
-      "model": "#N/A",
-      "regular": 60000,
-      "sale": 48000,
-      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "100\" L9\nLASER TELEVISION",
-      "model": "100LASER-L9",
-      "regular": 52000,
-      "sale": 42000,
-      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Water Dispensors",
-      "name": "NATURE \nWATER FILTER",
-      "model": "SEWFNW",
-      "regular": 2780,
-      "sale": 1800,
-      "features": "Advanced Innovative Nano Alumina Fiber Technology | Optimum Multi-Stage Water Filtration Solution | Elegant, Modern & Exceptionally Slimline Design | Integrated Designer Manual On/Off Flow Valve | Innovative \"Push & Click\" Secure Filter Locking | Quick & Tool-Free Easy Filter Replacement System | Dual Installation Versatility (Wall or Countertop) | Modern Space-Saving Compact Architecture | High-Efficiency Flow with Zero Water Wastage",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Water Dispensors",
-      "name": "INSTANTANEOUS \nWATER HEATER - PREMIUM",
-      "model": "SEIWHDCEX68PRE",
-      "regular": 3600,
-      "sale": 2400,
-      "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Water Dispensors",
-      "name": "150L DOMESTIC \nWATER HEATER",
-      "model": "SEWHC150W",
-      "regular": 3900,
-      "sale": 2650,
-      "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Televisions",
-      "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
-      "model": "100E80KAVS",
-      "regular": 38000,
-      "sale": 25990,
-      "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Professional 144Hz Game Mode Pro | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Televisions",
-      "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
-      "model": "110UXNQ",
-      "regular": 185000,
-      "sale": 138000,
-      "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Televisions",
-      "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
-      "model": "116UX",
-      "regular": 250000,
-      "sale": 159900,
-      "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Televisions",
-      "name": "32” DIGITAL SATELLITE\nTELEVISION",
-      "model": "32A5200FS",
-      "regular": 1550,
-      "sale": 950,
-      "features": "Sleek Metal Bezelless Modern Design | Full HD 1080p High-Definition Resolution | Advanced Natural Colour Enhancer Tech | Clear & Immersive Cinematic Picture Quality | Dolby Digital Plus Professional Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Wall Bracket & Remote Control Included",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Televisions",
-      "name": "43” DIGITAL SMART\n QLED TELEVISION",
-      "model": "43A4Q",
-      "regular": 4300,
-      "sale": 3090,
-      "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Televisions",
-      "name": "98\" SMART DIGITAL \nULED TELEVISION",
-      "model": "98E7G-PRO",
-      "regular": 37000,
-      "sale": 32750,
-      "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
+      "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years"
     }
   ],
   "essentials": [
+    {
+      "category": "Air Conditioners",
+      "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
+      "model": "HAS12TR4RVDTG",
+      "regular": 5200,
+      "sale": null,
+      "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Air Conditioners",
+      "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+      "model": "12TR4RMEDJ01",
+      "regular": 9700,
+      "sale": null,
+      "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Air Conditioners",
+      "name": "1.5HP SPLIT\nAIR CONDITIONER",
+      "model": "12CR4SVDTG01",
+      "regular": 4290,
+      "sale": null,
+      "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Air Conditioners",
+      "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
+      "model": "ACAMCH24DH",
+      "regular": 8200,
+      "sale": 5790,
+      "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+      "warranty": "5 Years"
+    },
     {
       "category": "Wall Bracket",
       "name": "AC WALL BRACKET",
@@ -3545,6 +3224,15 @@
       "sale": null,
       "features": "Ideal for 2.0HP & 2.5HP AC Units | Heavy-Duty 180kg Max Load Capacity | Anti-Rust Powder Coating for Outdoors | High-Strength Hard Steel Structure | Universal & Adjustable Mounting Patterns | Complete Installation Hardware Included | Quick & Easy DIY Installation Process | Step-by-Step User Manual Included | Reliable & Secure Wall-Mount Support",
       "warranty": "Not Applicable"
+    },
+    {
+      "category": "Wall Bracket",
+      "name": "DSTV DECODER & ACCESSORIES OFFER",
+      "model": "Model 1",
+      "regular": 633,
+      "sale": 0.0001,
+      "features": "Special Offer | 3 months Access subscription free | Energy Efficient Digital Performance | Crystal Clear High Definition Viewing | Dynamic Content Discovery Search Options | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
+      "warranty": "1 Year"
     },
     {
       "category": "Blenders",
@@ -3706,6 +3394,15 @@
       "regular": 800,
       "sale": 710,
       "features": "Precision Digital LED Control Panel | Powerful Ice Crushing Technology | Dedicated Dry Grinder Attachment | On-the-Go Drinking Spout Lid | Versatile High, Low & Pulse Speeds | Secure & Stable Non-Slip Suction Feet | Energy Efficient Smart Performance",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "COMMERCIAL BLENDER\n1.5L MECHANICAL",
+      "model": "DT-K80T",
+      "regular": 3200,
+      "sale": 2850,
+      "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
       "warranty": "1 Year"
     },
     {
@@ -3967,15 +3664,6 @@
       "regular": 450,
       "sale": null,
       "features": "Ultra-Powerful 2800W Rapid Heating | Premium White Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Iron",
-      "name": "STEAM GENERATOR\nELECTRIC IRON",
-      "model": "SIGH2400BB",
-      "regular": 1900,
-      "sale": 1650,
-      "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
       "warranty": "1 Year"
     },
     {
@@ -4381,15 +4069,6 @@
       "regular": 2620,
       "sale": 1700,
       "features": "Advanced 0.01 Micron Ultrafiltration Precision | Silverlite™ Stone Anti-Bacterial Growth Shield | Smart Filter Change Alarm for Timely Maintenance | Integrated Manual On/Off Flow Control Valve | Premium Stainless Steel Flexible Output Tube | Hygienic One-Way Nozzle to Prevent Back-Flow | Eco-Friendly Performance (No Electricity Needed) | Quick & Simple Tool-Free Filter Replacement | Pure Gravity-Fed Technology for Silent Operation",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Water Dispensors",
-      "name": "NATURE \nWATER FILTER",
-      "model": "SEWFNW",
-      "regular": 2780,
-      "sale": 1800,
-      "features": "Advanced Innovative Nano Alumina Fiber Technology | Optimum Multi-Stage Water Filtration Solution | Elegant, Modern & Exceptionally Slimline Design | Integrated Designer Manual On/Off Flow Valve | Innovative \"Push & Click\" Secure Filter Locking | Quick & Tool-Free Easy Filter Replacement System | Dual Installation Versatility (Wall or Countertop) | Modern Space-Saving Compact Architecture | High-Efficiency Flow with Zero Water Wastage",
       "warranty": "1 Year"
     },
     {
