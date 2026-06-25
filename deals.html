@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Hisense Deals Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg:#060d0e; --bar:#0c1719; --bar-edge:#15292c;
+    --teal:#19c7b6; --teal-deep:#0e8f83;
+    --yellow:#ffd21e; --red:#ff2e2e;
+    --cream:#f6f1e3; --ink:#14110a; --muted:#8a8270; --muted-d:#5d6f72; --white:#fff;
+    --accent:#f5b800;        /* spotlight accent (gold by default) */
+    --accent-ink:#221a00;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:100%; height:100%; overflow:hidden; background:#000;
+    font-family:'Archivo',system-ui,sans-serif; -webkit-font-smoothing:antialiased; }
+
+  #viewport { position:fixed; inset:0; display:flex; align-items:center; justify-content:center;
+    background:radial-gradient(120% 90% at 50% -10%, #0c1c1f 0%, var(--bg) 55%, #03080a 100%); }
+  #stage { position:relative; width:1920px; height:1080px; transform-origin:center center;
+    overflow:hidden; padding:26px;
+    background:radial-gradient(130% 100% at 50% 0%, #0d1e21 0%, var(--bg) 60%, #04090b 100%);
+    display:flex; flex-direction:column; }
+
+  /* page crossfade */
+  .page { position:absolute; inset:26px; display:flex; flex-direction:column;
+    opacity:0; transition:opacity .6s ease; pointer-events:none; }
+  .page.is-active { opacity:1; }
+
+  /* ---------- header ---------- */
+  .hdr { flex:0 0 auto; height:88px; background:linear-gradient(180deg,var(--bar),#081012);
+    border:2px solid var(--bar-edge); border-radius:14px;
+    display:flex; align-items:center; padding:0 30px; gap:24px; }
+  .wordmark { font-family:'Anton'; font-size:46px; color:var(--white); text-transform:uppercase; line-height:1; }
+  .wordmark .dot { color:var(--teal); }
+  .hdr .bar { width:3px; height:52px; background:linear-gradient(180deg,transparent,var(--teal-deep),transparent); }
+  .title { font-family:'Anton'; font-size:54px; line-height:1; color:var(--yellow);
+    text-transform:uppercase; letter-spacing:1px; flex:1 1 auto; white-space:nowrap;
+    overflow:hidden; text-overflow:ellipsis; }
+  .hdr-meta { text-align:right; line-height:1.25; }
+  .hdr-meta .m1 { font-family:'Anton'; font-size:24px; color:var(--teal); letter-spacing:1px; }
+  .hdr-meta .m2 { font-size:15px; font-weight:800; color:var(--muted-d); letter-spacing:1.5px; text-transform:uppercase; }
+
+  /* ---------- main row ---------- */
+  .main { flex:1 1 auto; display:flex; gap:16px; margin:16px 0; min-height:0; }
+  .col { flex:1 1 0; min-width:0; background:rgba(8,18,20,.55);
+    border:2px solid var(--bar-edge); border-radius:14px; padding:12px;
+    display:flex; flex-direction:column; }
+  .col-head { flex:0 0 auto; display:flex; align-items:center; gap:12px; padding:4px 4px 12px; }
+  .col-num { width:42px; height:42px; border-radius:9px; flex:0 0 auto;
+    background:linear-gradient(180deg,var(--teal),var(--teal-deep)); color:#04201d;
+    font-family:'Anton'; font-size:24px; display:flex; align-items:center; justify-content:center; }
+  .col-title { font-family:'Anton'; font-size:27px; color:var(--white); text-transform:uppercase;
+    letter-spacing:.5px; line-height:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .cards { flex:1 1 auto; display:flex; flex-direction:column; gap:10px; min-height:0; }
+
+  .card { flex:1 1 0; min-height:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
+    border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 16px;
+    box-shadow:0 4px 0 rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.5); }
+  .rank { flex:0 0 auto; width:46px; height:46px; border-radius:9px;
+    background:linear-gradient(180deg,var(--teal),var(--teal-deep)); color:#04201d;
+    font-family:'Anton'; font-size:22px; display:flex; align-items:center; justify-content:center; }
+  .c-body { flex:1 1 auto; min-width:0; }
+  .c-name { font-weight:900; font-size:21px; line-height:1.04; color:var(--ink); text-transform:uppercase;
+    overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+  .c-model { margin-top:3px; font-size:13px; font-weight:700; color:var(--muted); letter-spacing:1px;
+    text-transform:uppercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .c-price { flex:0 0 auto; text-align:right; line-height:1; display:flex; flex-direction:column; align-items:flex-end; }
+  .c-was { font-size:15px; font-weight:700; color:var(--muted); text-decoration:line-through; margin-bottom:2px; }
+  .c-now { font-family:'Archivo'; font-weight:900; font-size:30px; color:var(--ink); white-space:nowrap; }
+  .c-now.sale { color:var(--red); }
+  .c-now .cur { font-size:18px; font-weight:800; vertical-align:3px; margin-right:1px; }
+
+  /* ---------- spotlight ---------- */
+  .spot { flex:1.15 1 0; min-width:0; border-radius:14px; overflow:hidden; position:relative;
+    background:linear-gradient(180deg,var(--accent), color-mix(in srgb, var(--accent) 78%, #000));
+    display:flex; flex-direction:column; padding:18px; }
+  .spot-tab { position:absolute; top:0; right:0; background:var(--red); color:var(--white);
+    font-family:'Anton'; font-size:20px; letter-spacing:1px; padding:8px 18px; border-bottom-left-radius:12px;
+    text-transform:uppercase; }
+  .spot-save-badge { position:absolute; top:60px; right:18px; background:var(--red); color:#fff;
+    width:120px; height:120px; border-radius:50%; display:flex; flex-direction:column; align-items:center;
+    justify-content:center; transform:rotate(8deg); box-shadow:0 6px 0 rgba(0,0,0,.25); line-height:1; }
+  .spot-save-badge .s1 { font-family:'Anton'; font-size:14px; letter-spacing:1px; }
+  .spot-save-badge .s2 { font-family:'Anton'; font-size:26px; }
+  .spot-img { flex:1 1 auto; min-height:0; border-radius:12px; margin-bottom:14px;
+    background:repeating-linear-gradient(45deg,#fff,#fff 14px,#f3f3f3 14px,#f3f3f3 28px);
+    border:2px dashed rgba(0,0,0,.18); display:flex; align-items:center; justify-content:center; }
+  .spot-img span { font-family:'Anton'; font-size:18px; color:rgba(0,0,0,.30); letter-spacing:2px; text-transform:uppercase; }
+  .spot-name { font-family:'Anton'; font-size:34px; line-height:.98; color:var(--accent-ink); text-transform:uppercase; }
+  .spot-model { margin-top:4px; font-size:15px; font-weight:800; letter-spacing:1.5px;
+    color:color-mix(in srgb, var(--accent-ink) 70%, transparent); text-transform:uppercase; }
+  .spot-feats { margin:12px 0; display:flex; flex-direction:column; gap:7px; }
+  .spot-feat { display:flex; align-items:center; gap:9px; font-size:17px; font-weight:800; color:var(--accent-ink); }
+  .spot-feat .ck { width:24px; height:24px; border-radius:6px; flex:0 0 auto; background:var(--teal-deep);
+    color:#fff; font-size:15px; display:flex; align-items:center; justify-content:center; }
+  .spot-prices { margin-top:auto; }
+  .spot-was { font-size:24px; font-weight:800; color:rgba(0,0,0,.45); text-decoration:line-through; }
+  .spot-now { font-family:'Archivo'; font-weight:900; font-size:74px; line-height:.85; color:var(--accent-ink); white-space:nowrap; }
+  .spot-now .cur { font-size:34px; vertical-align:14px; margin-right:3px; }
+
+  /* ---------- essentials bar ---------- */
+  .ess { flex:0 0 auto; height:152px; background:linear-gradient(180deg,#081012,var(--bar));
+    border:2px solid var(--bar-edge); border-radius:14px; display:flex; align-items:stretch; padding:12px; gap:12px; }
+  .ess-label { flex:0 0 168px; display:flex; flex-direction:column; justify-content:center; padding-left:8px; }
+  .ess-label .e1 { font-family:'Anton'; font-size:34px; color:var(--yellow); line-height:.92; text-transform:uppercase; }
+  .ess-label .e2 { font-size:14px; font-weight:800; letter-spacing:2px; color:var(--muted-d); text-transform:uppercase; }
+  .ess-items { flex:1 1 auto; display:flex; gap:12px; }
+  .ess-card { flex:1 1 0; min-width:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
+    border-radius:10px; padding:10px 12px; display:flex; flex-direction:column; justify-content:center;
+    box-shadow:0 4px 0 rgba(0,0,0,.25); }
+  .ess-name { font-weight:900; font-size:16px; line-height:1.02; color:var(--ink); text-transform:uppercase;
+    overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+  .ess-model { font-size:11px; font-weight:700; color:var(--muted); letter-spacing:.5px; text-transform:uppercase;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:2px 0 4px; }
+  .ess-price { display:flex; align-items:baseline; gap:6px; }
+  .ess-was { font-size:13px; font-weight:700; color:var(--muted); text-decoration:line-through; }
+  .ess-now { font-family:'Archivo'; font-weight:900; font-size:24px; color:var(--ink); }
+  .ess-now.sale { color:var(--red); }
+  .ess-now .cur { font-size:14px; font-weight:800; }
+
+  /* theme: teal accent variant */
+  .stage-teal { --accent:#19c7b6; --accent-ink:#04201d; }
+
+  /* loading + status */
+  #loading { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center;
+    justify-content:center; gap:26px; z-index:20;
+    background:radial-gradient(120% 90% at 50% 30%, #0d1e21 0%, var(--bg) 70%); }
+  #loading .lm { font-family:'Anton'; font-size:54px; color:var(--white); text-transform:uppercase; letter-spacing:2px; }
+  #loading .lm .dot { color:var(--teal); }
+  #loading .sub { font-size:22px; font-weight:700; letter-spacing:3px; color:var(--muted-d); text-transform:uppercase; }
+  .spinner { width:58px; height:58px; border:6px solid rgba(25,199,182,.2); border-top-color:var(--teal);
+    border-radius:50%; animation:spin .9s linear infinite; }
+  @keyframes spin { to { transform:rotate(360deg); } }
+  #loading.hide { opacity:0; pointer-events:none; transition:opacity .5s; }
+  #status { position:absolute; left:8px; bottom:6px; font-size:12px; font-weight:700; letter-spacing:1px;
+    color:rgba(255,255,255,.16); text-transform:uppercase; z-index:30; }
+  #status.warn { color:rgba(255,200,40,.5); }
+</style>
+</head>
+<body>
+<div id="viewport">
+  <div id="stage">
+    <div id="loading">
+      <div class="spinner"></div>
+      <div class="lm">Hisense<span class="dot">.</span></div>
+      <div class="sub">Loading deals&hellip;</div>
+    </div>
+    <div id="status"></div>
+  </div>
+</div>
+
+<script>
+const CONFIG = {
+  DATA_URL: "https://raw.githubusercontent.com/MJamesA/hisense-menu-board/main/deals.json",
+  PAGE_SECONDS: 14,        // rotation speed when there are overflow pages
+  COLUMNS_PER_PAGE: 3,     // category columns shown beside the spotlight
+  ITEMS_PER_COLUMN: 4,     // cards per category column
+  ESSENTIALS_PER_PAGE: 6,  // small-appliance cards along the bottom
+  REFETCH_MINUTES: 5
+};
+
+let PAGES = [], pageIndex = 0, rotateTimer = null, firstLoadDone = false;
+const stageEl = document.getElementById('stage');
+const loadingEl = document.getElementById('loading');
+const statusEl = document.getElementById('status');
+
+const money = n => (n == null) ? "" : Math.round(n).toLocaleString("en-US");
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const chunk = (a,n) => { const o=[]; for(let i=0;i<a.length;i+=n) o.push(a.slice(i,i+n)); return o; };
+
+function priceHtml(p, cls) {
+  const hasSale = p.sale != null && p.regular != null && p.sale < p.regular;
+  const cur = '<span class="cur">GH₵</span>';
+  if (hasSale) {
+    return `<div class="${cls}-was">GH₵${money(p.regular)}</div>
+            <div class="${cls}-now sale">${cur}${money(p.sale)}</div>`;
+  }
+  const v = p.regular != null ? p.regular : p.sale;
+  return `<div class="${cls}-now">${cur}${v!=null?money(v):"&mdash;"}</div>`;
+}
+
+function buildPages(data) {
+  const cols = (data.columns || []).filter(c => c.items && c.items.length);
+  const ess  = (data.essentials || []);
+  const colPages = chunk(cols, CONFIG.COLUMNS_PER_PAGE);
+  const essPages = chunk(ess, CONFIG.ESSENTIALS_PER_PAGE);
+  const n = Math.max(colPages.length, essPages.length, 1);
+  const pages = [];
+  for (let i = 0; i < n; i++) {
+    pages.push({
+      meta: data,
+      cols: colPages[i] || [],
+      ess: essPages.length ? essPages[i % essPages.length] : [],
+      spotlight: data.spotlight || null
+    });
+  }
+  return pages;
+}
+
+function renderColumn(col, startRank) {
+  const cards = [];
+  for (let i = 0; i < CONFIG.ITEMS_PER_COLUMN; i++) {
+    const it = col.items[i];
+    if (!it) { cards.push(`<div class="card" style="visibility:hidden"></div>`); continue; }
+    cards.push(`
+      <div class="card">
+        <div class="rank">#${startRank + i}</div>
+        <div class="c-body">
+          <div class="c-name">${esc(it.name)}</div>
+          ${it.model ? `<div class="c-model">${esc(it.model)}</div>` : ""}
+        </div>
+        <div class="c-price">${priceHtml(it, "c")}</div>
+      </div>`);
+  }
+  return cards.join("");
+}
+
+function renderSpotlight(p, accent) {
+  if (!p) return `<div class="spot"></div>`;
+  const feats = (p.features || "").split("|").map(f=>f.trim()).filter(Boolean).slice(0,5);
+  const hasSale = p.sale != null && p.regular != null && p.sale < p.regular;
+  const nowV = hasSale ? p.sale : (p.regular != null ? p.regular : p.sale);
+  const save = hasSale ? (p.regular - p.sale) : null;
+  return `
+    <div class="spot">
+      <div class="spot-tab">${accent === 'teal' ? 'FEATURED' : 'BEST DEAL'}</div>
+      ${save!=null ? `<div class="spot-save-badge"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
+      <div class="spot-img"><span>${esc(p.model || 'Featured')}</span></div>
+      <div class="spot-name">${esc(p.name)}</div>
+      ${p.model ? `<div class="spot-model">Model · ${esc(p.model)}</div>` : ""}
+      <div class="spot-feats">${feats.map(f=>`<div class="spot-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
+      <div class="spot-prices">
+        ${hasSale ? `<div class="spot-was">GH₵${money(p.regular)}</div>` : ""}
+        <div class="spot-now"><span class="cur">GH₵</span>${nowV!=null?money(nowV):"&mdash;"}</div>
+      </div>
+    </div>`;
+}
+
+function renderEssCard(it) {
+  const hasSale = it.sale != null && it.regular != null && it.sale < it.regular;
+  const cur = '<span class="cur">GH₵</span>';
+  const price = hasSale
+    ? `<span class="ess-was">GH₵${money(it.regular)}</span><span class="ess-now sale">${cur}${money(it.sale)}</span>`
+    : `<span class="ess-now">${cur}${money(it.regular!=null?it.regular:it.sale)}</span>`;
+  return `
+    <div class="ess-card">
+      <div class="ess-name">${esc(it.name)}</div>
+      ${it.model ? `<div class="ess-model">${esc(it.model)}</div>` : ""}
+      <div class="ess-price">${price}</div>
+    </div>`;
+}
+
+function renderPage(page) {
+  const m = page.meta;
+  // continuous ranks across this page's columns
+  let rank = 1;
+  const colsHtml = page.cols.map((c, i) => {
+    const html = `
+      <div class="col">
+        <div class="col-head">
+          <div class="col-num">${String(i+1).padStart(2,'0')}</div>
+          <div class="col-title">${esc(c.category)}</div>
+        </div>
+        <div class="cards">${renderColumn(c, rank)}</div>
+      </div>`;
+    rank += CONFIG.ITEMS_PER_COLUMN;
+    return html;
+  }).join("");
+
+  const essItems = page.ess.length
+    ? page.ess.map(renderEssCard).join("")
+    : `<div class="ess-card" style="visibility:hidden"></div>`;
+
+  return `
+    <div class="hdr">
+      <div class="wordmark">Hisense<span class="dot">.</span></div>
+      <div class="bar"></div>
+      <div class="title">${esc(m.title || 'MEGA SAVERS')}</div>
+      <div class="hdr-meta">
+        <div class="m1">ALL PRICES IN GH₵</div>
+        <div class="m2">${esc(m.validText || '')}</div>
+      </div>
+    </div>
+    <div class="main">
+      ${colsHtml}
+      ${renderSpotlight(page.spotlight, m.accent)}
+    </div>
+    <div class="ess">
+      <div class="ess-label"><div class="e1">Everyday<br>Essentials</div><div class="e2">Small Appliances</div></div>
+      <div class="ess-items">${essItems}</div>
+    </div>`;
+}
+
+function showPage(idx) {
+  if (!PAGES.length) return;
+  pageIndex = ((idx % PAGES.length) + PAGES.length) % PAGES.length;
+  const page = PAGES[pageIndex];
+  const incoming = document.createElement('div');
+  incoming.className = 'page' + (page.meta.accent === 'teal' ? ' stage-teal' : '');
+  incoming.innerHTML = renderPage(page);
+  stageEl.appendChild(incoming);
+  void incoming.offsetWidth;
+  incoming.classList.add('is-active');
+  stageEl.querySelectorAll('.page').forEach(l => {
+    if (l !== incoming) { l.classList.remove('is-active'); setTimeout(()=>l.remove(), 700); }
+  });
+}
+
+function startRotation() {
+  if (rotateTimer) clearInterval(rotateTimer);
+  if (PAGES.length > 1) rotateTimer = setInterval(()=>showPage(pageIndex+1), CONFIG.PAGE_SECONDS*1000);
+}
+
+function apply(data, isFirst) {
+  const wasEmpty = PAGES.length === 0;
+  PAGES = buildPages(data);
+  if (pageIndex >= PAGES.length) pageIndex = 0;
+  if (wasEmpty) { showPage(0); startRotation(); }
+  else { startRotation(); }
+  if (isFirst && !firstLoadDone) {
+    firstLoadDone = true;
+    loadingEl.classList.add('hide');
+    setTimeout(()=>loadingEl.style.display='none', 600);
+  }
+}
+
+function fetchData(isFirst) {
+  const url = CONFIG.DATA_URL + (CONFIG.DATA_URL.indexOf("?")===-1?"?":"&") + "_cb=" + Date.now();
+  fetch(url, { cache:"no-store" })
+    .then(r => { if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
+    .then(data => {
+      if (!data || data.ok === false) throw new Error((data&&data.error)||"bad payload");
+      const total = (data.columns||[]).reduce((n,c)=>n+(c.items?c.items.length:0),0) + (data.essentials||[]).length;
+      if (!total && !data.spotlight) {
+        if (!firstLoadDone) loadingEl.querySelector('.sub').textContent = "No deals selected yet";
+        statusEl.textContent = "⚠ Empty selection"; statusEl.classList.add('warn'); return;
+      }
+      apply(data, isFirst);
+      statusEl.classList.remove('warn'); statusEl.textContent = "● live";
+    })
+    .catch(err => {
+      console.error("deals feed failed:", err);
+      statusEl.textContent = "⚠ Feed unreachable (showing last data)"; statusEl.classList.add('warn');
+      if (isFirst && !firstLoadDone) loadingEl.querySelector('.sub').textContent = "Cannot reach feed — retrying…";
+    });
+}
+
+function scaleStage() {
+  const s = Math.min(window.innerWidth/1920, window.innerHeight/1080);
+  stageEl.style.transform = "scale(" + s + ")";
+}
+window.addEventListener('resize', scaleStage);
+scaleStage();
+fetchData(true);
+setInterval(()=>fetchData(false), CONFIG.REFETCH_MINUTES*60*1000);
+const bootRetry = setInterval(()=>{ if(firstLoadDone||PAGES.length){clearInterval(bootRetry);return;} fetchData(true); }, 15000);
+</script>
+</body>
+</html>
