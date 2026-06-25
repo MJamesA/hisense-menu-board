@@ -54,20 +54,18 @@
   .hdr-meta .m1 { font-family:'Anton'; font-size:24px; color:var(--teal); letter-spacing:1px; }
   .hdr-meta .m2 { font-size:15px; font-weight:800; color:var(--muted-d); letter-spacing:1.5px; text-transform:uppercase; }
 
-  /* ---------- main page: category grid (left) + featured panel (right) ---------- */
-  .main { flex:1 1 auto; display:flex; gap:16px; margin:14px 0; min-height:0; }
-  .grid-area { flex:1 1 auto; min-width:0; display:flex; flex-direction:column;
-    background:rgba(8,18,20,.5); border:2px solid var(--bar-edge); border-radius:14px; padding:16px 18px; }
-  .main.has-featured .grid-area { flex:2.25 1 0; }
+  /* ---------- main page: banner on top, then main grid columns + featured panels ---------- */
+  .main-wrap { flex:1 1 auto; display:flex; flex-direction:column; margin:14px 0; min-height:0; }
   .main-single { flex:1 1 auto; display:flex; flex-direction:column; margin:14px 0; min-height:0; }
-  .cat-banner { flex:0 0 auto; display:flex; align-items:center; gap:14px; padding:2px 2px 14px; }
+  .cat-banner { flex:0 0 auto; display:flex; align-items:center; gap:14px; padding:2px 2px 12px; }
   .col-accent { width:9px; height:38px; border-radius:5px; flex:0 0 auto;
     background:linear-gradient(180deg,var(--teal),var(--teal-deep)); }
   .col-title { font-family:'Anton'; font-size:40px; color:var(--white); text-transform:uppercase;
     letter-spacing:.5px; line-height:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   .pageno { margin-left:auto; font-family:'Anton'; font-size:22px; color:var(--muted-d); letter-spacing:1px; }
-  .grid2 { flex:1 1 auto; min-height:0; display:grid; grid-template-columns:1fr 1fr;
-    grid-template-rows:repeat(5,1fr); grid-auto-flow:column; gap:12px 18px; }
+  .main-row { flex:1 1 auto; display:flex; gap:16px; min-height:0; }
+  .gridbox { min-width:0; display:grid; grid-template-rows:repeat(5,1fr); grid-auto-flow:column; gap:12px 18px;
+    background:rgba(8,18,20,.5); border:2px solid var(--bar-edge); border-radius:14px; padding:16px 18px; }
   .ess-solo { justify-content:stretch; }
   .ess-solo .ess { flex:1 1 auto; height:auto; }
 
@@ -261,41 +259,53 @@ function balancedChunk(items, maxPer) {
   return pages;
 }
 
-function buildPages(data) {
-  const cols  = (data.columns || []).filter(c => c.items && c.items.length);
-  const feats = (data.featured || []).filter(Boolean);
-  const spots = (data.spotlights || []).filter(Boolean);
-  ESS_CHUNKS  = chunk(data.essentials || [], CONFIG.ESSENTIALS_PER_PAGE);
+// Per-category page templates: main items per page + featured panels per page.
+const LAYOUTS = {
+  '3feat':  { main: 0,  featured: 3 },
+  '5m2f':   { main: 5,  featured: 2 },
+  '10m1f':  { main: 10, featured: 1 },
+  '15m0f':  { main: 15, featured: 0 }
+};
 
+function buildPages(data) {
+  const colByCat = {};
+  (data.columns || []).forEach(c => { colByCat[c.category] = c.items || []; });
   const featByCat = {}, spotsByCat = {};
-  feats.forEach(f => (featByCat[f.category] = featByCat[f.category] || []).push(f));
-  spots.forEach(s => (spotsByCat[s.category] = spotsByCat[s.category] || []).push(s));
+  (data.featured || []).filter(Boolean).forEach(f => (featByCat[f.category] = featByCat[f.category] || []).push(f));
+  (data.spotlights || []).filter(Boolean).forEach(s => (spotsByCat[s.category] = spotsByCat[s.category] || []).push(s));
+  const layouts = data.layouts || {};
+  ESS_CHUNKS = chunk(data.essentials || [], CONFIG.ESSENTIALS_PER_PAGE);
+
+  // Category order: columns first (sheet order), then featured-only, then spotlight-only.
+  const order = [];
+  (data.columns || []).forEach(c => { if (order.indexOf(c.category) < 0) order.push(c.category); });
+  Object.keys(featByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
+  Object.keys(spotsByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
 
   const pages = [];
-  let gridSeq = 0;   // running index of grid pages, for distributing essentials
+  let gridSeq = 0;
 
-  // For each category: balanced grid pages (<=10) each with ONE featured panel,
+  // Per category: build grid pages by its layout (M main / F featured per page),
   // then that category's spotlight full pages.
-  cols.forEach(col => {
-    const itemPages = balancedChunk(col.items, CONFIG.MAX_ITEMS_PER_PAGE);
-    // one featured per page: prefer this category's featured items, else any featured
-    const pool = (featByCat[col.category] && featByCat[col.category].length) ? featByCat[col.category] : feats;
-    itemPages.forEach((items, idx) => {
+  order.forEach(cat => {
+    const L = LAYOUTS[layouts[cat]] || LAYOUTS['10m1f'];
+    const mainItems = colByCat[cat] || [];
+    const catFeat = featByCat[cat] || [];
+    const mainPages = L.main > 0 ? balancedChunk(mainItems, L.main) : [];
+    const featPages = L.featured > 0 ? chunk(catFeat, L.featured) : [];
+    const nPages = Math.max(mainPages.length, featPages.length);
+    for (let i = 0; i < nPages; i++) {
       pages.push({
-        type: 'grid', meta: data, category: col.category, items: items,
-        pageNo: idx + 1, pageCount: itemPages.length, gridSeq: gridSeq++,
-        featured: pool.length ? pool[idx % pool.length] : null
+        type: 'grid', meta: data, category: cat, layout: L,
+        items: mainPages[i] || [],
+        featuredItems: featPages.length ? featPages[i % featPages.length] : [],
+        pageNo: i + 1, pageCount: nPages, gridSeq: gridSeq++
       });
-    });
-    (spotsByCat[col.category] || []).forEach(s => pages.push({ type: 'spot', meta: data, product: s }));
-    delete spotsByCat[col.category];
+    }
+    (spotsByCat[cat] || []).forEach(s => pages.push({ type: 'spot', meta: data, product: s }));
   });
 
-  // Spotlights whose category has no product columns -> their own pages at the end.
-  Object.keys(spotsByCat).forEach(cat =>
-    spotsByCat[cat].forEach(s => pages.push({ type: 'spot', meta: data, product: s })));
-
-  // Essentials with no main at all -> their own pages (never creates blank pages otherwise).
+  // Essentials with no main/featured at all -> their own pages (no blank pages otherwise).
   if (!gridSeq && ESS_CHUNKS.length) {
     ESS_CHUNKS.forEach(c => pages.push({ type: 'ess', meta: data, ess: c }));
     ESS_CHUNKS = [];
@@ -399,22 +409,28 @@ function essBar(items) {
     </div>`;
 }
 
-// One category (≤10 cards, 2 cols × 5) + a Featured/Best-Deal panel + essentials bar.
+// One category laid out by its template: a main grid of N columns (ceil(main/5))
+// plus F featured panels side by side, then the essentials bar.
 function renderGridPage(page) {
   const m = page.meta;
+  const L = page.layout || LAYOUTS['10m1f'];
+  const mainCols = L.main > 0 ? Math.ceil(L.main / 5) : 0;
   const cards = page.items.map(renderCard).join("");
+  const panels = (page.featuredItems || []).map(renderFeaturedPanel).join("");
   // essentials ride the grid pages and cycle each loop (never create blank pages)
   const ess = ESS_CHUNKS.length ? ESS_CHUNKS[(page.gridSeq + ESS_OFFSET) % ESS_CHUNKS.length] : [];
   const pageNo = page.pageCount > 1 ? `<span class="pageno">PAGE ${page.pageNo} OF ${page.pageCount}</span>` : '';
-  const fp = page.featured ? renderFeaturedPanel(page.featured) : '';
+  const banner = `<div class="cat-banner"><span class="col-accent"></span><div class="col-title">${esc(page.category)}</div>${pageNo}</div>`;
+  const gridBox = mainCols > 0 ? `
+      <div class="gridbox" style="flex:${mainCols} 1 0; grid-template-columns:repeat(${mainCols},1fr)">${cards}</div>` : '';
   return `
     ${renderHeader(m)}
-    <div class="main ${page.featured ? 'has-featured' : ''}">
-      <div class="grid-area">
-        <div class="cat-banner"><span class="col-accent"></span><div class="col-title">${esc(page.category)}</div>${pageNo}</div>
-        <div class="grid2">${cards}</div>
+    <div class="main-wrap">
+      ${banner}
+      <div class="main-row">
+        ${gridBox}
+        ${panels}
       </div>
-      ${fp}
     </div>
     ${ess.length ? essBar(ess) : ''}`;
 }
