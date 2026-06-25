@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T02:47:16.690Z",
+  "generatedAt": "2026-06-25T03:00:01.812Z",
   "title": "MEGA SAVERS",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -220,6 +220,101 @@
           "sale": 340,
           "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
           "warranty": "Not Applicable"
+        }
+      ]
+    },
+    {
+      "category": "Blenders",
+      "items": [
+        {
+          "category": "Blenders",
+          "name": "KITCHEN MACHINE + \nFOOD PROCESSOR",
+          "model": "MMC1500",
+          "regular": 3200,
+          "sale": 2850,
+          "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "COMMERCIAL BLENDER\n1.5L MECHANICAL",
+          "model": "DT-K80T",
+          "regular": 3200,
+          "sale": 2850,
+          "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "DIGITAL THERMAL BLENDER\nDT8110",
+          "model": "DT-8110",
+          "regular": 1950,
+          "sale": 1750,
+          "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Blenders",
+          "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+          "model": "BLC2880B",
+          "regular": 2300,
+          "sale": 2050,
+          "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+          "model": "BLC2880S",
+          "regular": 2500,
+          "sale": 2230,
+          "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "MECHANICAL BLENDER \n2.0L DT-767",
+          "model": "DT-767",
+          "regular": 950,
+          "sale": 850,
+          "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Blenders",
+          "name": "DIGITAL BLENDER \n2.2L DT-780",
+          "model": "DT-780",
+          "regular": 1250,
+          "sale": 1120,
+          "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "MECHANICAL BLENDER \n2.2L DT-710",
+          "model": "DT-710",
+          "regular": 1100,
+          "sale": 990,
+          "features": "Powerful 1800W Heavy-Duty Motor | High-Speed 11,000 RPM Blending | Massive 2.2L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Cutting Blade | Versatile Design for All Kitchen Needs",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Blenders",
+          "name": "COMMERCIAL BLENDER\n2.5L MECHANICAL",
+          "model": "BLC1680",
+          "regular": 2190,
+          "sale": 1950,
+          "features": "Ultra-Powerful 1680W High-Speed Motor | Massive 2.5L Extra-Large Capacity | Quiet-Tech Sound Dampening Shield | Reliable Manual Mechanical Controls | Heavy-Duty Safety Interlock System | Instant Pulse & Texture Control | Leak-Resistant Secure Seal Lid",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "MECHANICAL BLENDER\n23L EASY-POUR TAP",
+          "model": "BLC2708A",
+          "regular": 2390,
+          "sale": 2140,
+          "features": "Massive 23L Industrial Capacity Jar | Powerful 1680W Commercial-Grade Motor | Integrated Easy-Pour Discharge Tap | Heavy-Duty Manual Mechanical Control | Instant Pulse for Precision Textures | Secure Leak-Resistant Seal Lid | Stable Non-Slip Rubber Grip Feet",
+          "warranty": "1 Year"
         }
       ]
     },
@@ -976,6 +1071,976 @@
           "warranty": "1 Year"
         }
       ]
+    },
+    {
+      "category": "Refrigerators",
+      "items": [
+        {
+          "category": "Refrigerator",
+          "name": "34 BOTTLE\nWINE COOLER",
+          "model": "RW3N094GALF",
+          "regular": 2800,
+          "sale": null,
+          "features": "Energy Efficient Technology | 34-Can Storage Capacity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Advanced Cooling System | Adjustable Internal Shelving | Low Vibration Operation",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "46 BOTTLE\nWINE COOLER",
+          "model": "RW3N122GSLF",
+          "regular": 6200,
+          "sale": 5550,
+          "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "45L MINI BAR FRIDGE",
+          "model": "RS-06DR4SA",
+          "regular": 1280,
+          "sale": 1150,
+          "features": "Space-Saving Reversible Door Design | Eco-Friendly R600a Natural Refrigerant | Ultra-Quiet Low Noise Operation | Energy Efficient Environment-Friendly | Adjustable Thermostat Temperature Control | Integrated 2-Liter Bottle Door Rack | Flexible Installation for Tight Spaces | Sustainable Green Cooling Technology | Durable & Compact Interior Layout",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "86L DOUBLE DOOR FRIDGE",
+          "model": "ARFT-87",
+          "regular": 2300,
+          "sale": 2060,
+          "features": "Classic Top-Mount Freezer Design | Eco-Friendly R600a Natural Refrigerant | Sleek Silver Finish with Recessed Handle | Energy Efficient & Cost-Saving System | Reliable Upper-Mounted Defrost System | Integrated Tall-Bottle Door Racks | Stable & Adjustable Leveling Feet | Durable Rust-Resistant Silver Exterior | Spacious & Organized Interior Storage",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "91L DOUBLE DOOR FRIDGE",
+          "model": "RT1N091NED1",
+          "regular": 1950,
+          "sale": null,
+          "features": "Spacious & Organized Double Door Design | Sleek & Modern Silver Exterior Finish | Eco-Friendly R600a Natural Refrigerant | Energy Efficient & High-Saving System | Durable & Easy-to-Clean Glass Shelves | Bright & Clear Interior LED Lighting | Simple Mechanical Temperature Control | Stable & Adjustable Leveling Feet | Manual Defrost with Reliable Cooling",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "117L DOUBLE DOOR \nBOTTOM MOUNT FRIDGE",
+          "model": "ARFB-121",
+          "regular": 2600,
+          "sale": 2330,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Shelving | Integrated Bottle Storage Racks | Manual Defrost System",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "121L TABLE TOP FRIDGE",
+          "model": "FT1-15SG",
+          "regular": 1990,
+          "sale": 1790,
+          "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "123 DOUBLE DOOR FRIDGE",
+          "model": "RT1N123NED1",
+          "regular": 2460,
+          "sale": null,
+          "features": "Spacious & Organized Double Door Design | Energy Efficient Eco-Friendly Cooling | Sleek & Modern Silver Exterior Finish | Bright & Clear Interior LED Lighting | Durable & Easy-to-Clean Glass Shelves | Simple Mechanical Temperature Control | Organized Door Racks for Extra Storage | Stable & Adjustable Leveling Feet | Eco-Safe R600a High-Efficiency Cooling",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "130L TABLE TOP FRIDGE",
+          "model": "RS-13DR4SG",
+          "regular": 1660,
+          "sale": null,
+          "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "130L DOUBLE DOOR \nTOP MOUNT FRIDGE",
+          "model": "ARFT-132",
+          "regular": 2500,
+          "sale": 2240,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Storage Shelving | High-Visibility Interior | Manual Temperature Control",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "138L DOUBLE DOOR \nTOP MOUNT FRIDGE",
+          "model": "ARFT-142",
+          "regular": 2600,
+          "sale": 2330,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "150L SINGLE DOOR FRIDGE",
+          "model": "RS-20DR4HG",
+          "regular": 2750,
+          "sale": 2470,
+          "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | Adjustable Leveling Feet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "156L DOUBLE DOOR FRIDGE",
+          "model": "RD-20DR4SA",
+          "regular": 3000,
+          "sale": null,
+          "features": "Double Door Fridge-Freezer | Energy Efficient Technology | Mechanical Temperature Control | Spacious Interior Glass Shelves | Integrated Door Storage Racks | Convenient Manual Defrost | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "157L DOUBLE DOOR \nBOTTOM MOUNT FRIDGE",
+          "model": "ARFB-159",
+          "regular": 2900,
+          "sale": 2600,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | 3 Spacious Freezer Drawers | Deep-Freeze Storage Capacity | Space-Saving Recessed Handle | Adjustable Leveling Feet | Precision Temperature Control",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "168L DOUBLE DOOR \nTOP MOUNT FRIDGE",
+          "model": "ARFT172",
+          "regular": 3000,
+          "sale": 2690,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Storage Shelving | Manual Temperature Control | High-Visibility Interior Lighting",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "171L DOUBLE DOOR FRIDGE",
+          "model": "RB1N171NAC1",
+          "regular": 2990,
+          "sale": null,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Deep-Freeze Storage Capacity | Bottom-Mounted Freezer System | Space-Saving Recessed Handle | Adjustable Leveling Feet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "171L DOUBLE DOOR \nEFM FRIDGE",
+          "model": "RD-23DC4SA",
+          "regular": 4350,
+          "sale": 3900,
+          "features": "5-Star Energy Efficiency Rating | Super Environment Friendly Design | Bottom-Mounted Freezer Section | Flexible Reversible Door System | Sleek Silver Exterior Finish | Precision Temperature Control | Ultra-Low Noise Operation | Convenient Manual Defrost | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "176L SINGLE DOOR FRIDGE \nWITH WATER DISPENSER",
+          "model": "RS-23DR4SB",
+          "regular": 2750,
+          "sale": null,
+          "features": "3-Star Energy Efficiency Rating | Super Environment Friendly | Precision Temperature Control | Ultra-Low Noise Operation | Eco-Friendly R600a Refrigerant | Space-Saving Reversible Door | Sleek Silver Exterior Finish | Convenient Manual Defrost | Integrated Freezer Compartment",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
+          "model": "FC2D-26DI",
+          "regular": 3450,
+          "sale": 3100,
+          "features": "Energy Efficient Technology | Sleek Dark Inox Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
+          "model": "FC2D-26DS",
+          "regular": 3400,
+          "sale": 3050,
+          "features": "Energy Efficient Technology | Sleek Dark Stainless Steel Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
+          "model": "FC2D-26IN",
+          "regular": 3350,
+          "sale": 3000,
+          "features": "Energy Efficient Technology | Sleek Inox Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "200L DOUBLE DOOR \nTOP MOUNT FRIDGE",
+          "model": "ARFT-213",
+          "regular": 3180,
+          "sale": 2860,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "205L DOUBLE DOOR FRIDGE",
+          "model": "RD-27DR4SA",
+          "regular": 3200,
+          "sale": null,
+          "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Convenient Manual Defrost | Eco-Friendly R600a Gas | Adjustable Leveling Feet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
+          "model": "RD-27DR4SB",
+          "regular": 3300,
+          "sale": null,
+          "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "223L DOUBLE DOOR FRIDGE",
+          "model": "RD-29DC4SA",
+          "regular": 4200,
+          "sale": null,
+          "features": "Energy Efficient Technology | Bottom-Mounted Freezer Section | Sleek Silver Exterior Finish | Premium Glass Storage Shelves | Eco-Friendly R600a Refrigerant | Convenient Manual Defrost | Space-Saving Recessed Handle | Adjustable Leveling Feet | Integrated Door Storage Racks",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "227L DOUBLE DOOR FRIDGE",
+          "model": "ARFB229",
+          "regular": 3900,
+          "sale": 3500,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | 3 Spacious Freezer Drawers | Integrated Bottle Storage Racks | Space-Saving Recessed Handle | Adjustable Leveling Feet | Precision Temperature Control",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "243L DOUBLE DOOR FRIDGE",
+          "model": "RD-34DC4SB",
+          "regular": 4350,
+          "sale": null,
+          "features": "Energy Efficient Technology | Integrated Water Dispenser | Internal Water Storage Tank | Bottom-Mounted Freezer Section | Mechanical Temperature Control | Premium Glass Storage Shelves | Deep Freezer Storage Drawers | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "264L DOUBLE DOOR FRIDGE",
+          "model": "RD-35DC4SA",
+          "regular": 4400,
+          "sale": null,
+          "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | High-Visibility Interior | Adjustable Leveling Feet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "264L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
+          "model": "RD-35DC4SB",
+          "regular": 4500,
+          "sale": null,
+          "features": "Energy Efficient Technology | Integrated Water Dispenser | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "302L DOUBLE DOOR FRIDGE",
+          "model": "RD-39DR4SA",
+          "regular": 4900,
+          "sale": null,
+          "features": "Double Door Fridge-Freezer | Modern Top-Mounted Freezer Layout | Energy Efficient & Cost-Saving System | Bright & Clear Interior LED Lighting | Dual Grip & Recessed Handle Design | Durable & Flexible Glass Shelves | Sleek & Modern Silver Exterior Finish | Eco-Friendly R600a Gas | Reliable Manual Defrost Technology",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "305L DOUBLE DOOR FRIDGE",
+          "model": "RT305N1EG1",
+          "regular": 4400,
+          "sale": null,
+          "features": "Energy Efficient Cooling Performance | High Performance Inverter Compressor | Modern Top Mount Design Finish | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | High Density Thermal Insulation | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "348L TOP MOUNTED \nDOUBLE DOOR FRIDGE",
+          "model": "ARFT-365W",
+          "regular": 4990,
+          "sale": 4450,
+          "features": "Energy Efficient Cooling Performance | Modern Top Mount Design Finish | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | High Density Thermal Insulation | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "375L DOUBLE DOOR FRIDGE",
+          "model": "RD-54W",
+          "regular": 4990,
+          "sale": 4450,
+          "features": "Energy Efficient 3 Star Rating | Advanced Total No Frost Technology | Consistent Multi Airflow Cooling System | Durable Inverter Compressor Performance | Bright Energy Saving Interior LED Light | Reliable Mechanical Temperature Control | Large Moisture Fresh Crisper Drawer | Flexible Reversible Door Design | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "415L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
+          "model": "ARC-431W",
+          "regular": 9390,
+          "sale": 8450,
+          "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Luxury Cross Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "421L CROSS DOOR FRIDGE",
+          "model": "FR4D-58",
+          "regular": 8900,
+          "sale": 7990,
+          "features": "Cross Door Configuration | Energy Efficient Frost-Free Technology | Smart Touch Control Panel | Anti-Bacterial Deodorizer | Fresh Zone & Crisper Drawers | Panel Lock Security Function | Movable Glass Storage Shelving | Sleek Black Exterior Finish | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "470L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
+          "model": "RQ-56WCS",
+          "regular": 11800,
+          "sale": null,
+          "features": "Cross Door Configuration | Energy Efficient Technology | Total Frost-Free Operation | Multi Air Flow Cooling System | Integrated Water Dispenser | Premium Glass Storage Shelves | Precision Temperature Control | Internal LED Lasting Light | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "490L FRENCH DOOR FRIDGE\nWITH ICE & WATER DISPENSER",
+          "model": "RF7P490STS2",
+          "regular": 19900,
+          "sale": null,
+          "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling For Uniform Temp | Metal Cooling Retains Cold Air | Power Cool For Rapid Chilling | Power Freeze For Fast Ice Making | Large Box For Fresh Fruit And Veg | Durable Tempered Glass Shelving | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "504L DOUBLE DOOR FRIDGE\nWITH DISPENSER",
+          "model": "RB3P504NMF1",
+          "regular": 8900,
+          "sale": null,
+          "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling System For Freshness | Optimal Fresh Zone Maintains Flavor | Premium Black Finish | Power Freeze Function For Fast Freezing | Durable Tempered Glass Shelves | Integrated Water Dispenser | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "504L DOUBLE DOOR FRIDGE",
+          "model": "RB3P504NAC2",
+          "regular": 9990,
+          "sale": null,
+          "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling For Uniform Temp | Optimal Fresh Zone For Meat And Fish | Power Cool For Quick Food Chilling | Power Freeze For Fast Ice Making | Durable Tempered Glass Shelving | Flexible Storage With Adjustable Bins | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "510L DOUBLE DOOR \nINVERTER FRIDGE",
+          "model": "RD-66WR4SA",
+          "regular": 8250,
+          "sale": null,
+          "features": "Durable Inverter Technology | Energy Efficient System | Multi Air Flow Cooling System | Fresh Zone & No-Frost Freezer | Large Fruit & Vegetable Crisper | Spill-Proof Glass Shelves | Precision Temperature Control | Low Noise and  LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "518L SIDE-BY-SIDE FRIDGE",
+          "model": "RC-67WS4SA",
+          "regular": 8900,
+          "sale": null,
+          "features": "Sleek Side-by-Side Design | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Precise Temperature Control | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+          "model": "RC-67WS4S3",
+          "regular": 12500,
+          "sale": null,
+          "features": "5-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "518L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
+          "model": "H680SM1B-WD",
+          "regular": 10900,
+          "sale": 9800,
+          "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "528L SIDE-BY-SIDE FRIDGE",
+          "model": "RS528P5AS3",
+          "regular": 12500,
+          "sale": null,
+          "features": "Sleek Side-by-Side Design | Water Dispenser & Ice Maker | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "532L SIDE-BY-SIDE FRIDGE",
+          "model": "FR2D-69",
+          "regular": 9900,
+          "sale": 8900,
+          "features": "Sleek Side-by-Side Design | Energy Efficient Technology | Smart & Eco Cooling Modes | Total Frost-Free Technology | Touch Control Panel & LED Display | Sleek Black Finish & Recessed Handle | 3 Star Energy | Movable Glass Storage Shelving | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "535L SIDE-BY-SIDE FRIDGE",
+          "model": "RC-70WS",
+          "regular": 14500,
+          "sale": null,
+          "features": "Sleek Side-by-Side Design | Water Dispenser & Ice Maker | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "545L CROSS DOOR FRIDGE",
+          "model": "RC-68WC4SB",
+          "regular": 23000,
+          "sale": null,
+          "features": "Cross Door Configuration | Inverter Energy Efficient Tech | Total Frost-Free Operation | Multi-Function Touch Panel | Multi Air Flow Cooling System | 4.2L Water Dispenser & Ice Maker | Triple Zone Storage Compartment | Anti-Bacterial Guard Technology | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
+          "model": "RC-67WC4SA",
+          "regular": 32000,
+          "sale": null,
+          "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "558L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
+          "model": "RS558N3AG2",
+          "regular": 11500,
+          "sale": null,
+          "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "560L CROSS DOOR\nINVERTER FRIDGE",
+          "model": "RC-73WC4SB",
+          "regular": 26500,
+          "sale": 19500,
+          "features": "Luxury Cross Door Configuration | Premium Graphite Black Finish | Advanced Metal Tech & Triple Zone Cooling | My Fresh Choice Fridge-Freezer Switch | Smart Auto-Adjustable Cantilever Shelves | Quick Cooling & Fast Freezing Modes | Sleek Metal Recessed Handle Design | Integrated Auto Humidity Control Zone | Energy Efficient Smart Performance",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+          "model": "RC-74WS4S3",
+          "regular": 13900,
+          "sale": null,
+          "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "595L SIDE-BY-SIDE \nFRIDGE",
+          "model": "FR2D-80",
+          "regular": 9900,
+          "sale": 8800,
+          "features": "High Energy Efficiency Rating | Total 595L Large Storage Capacity | Premium Dark Inox Exterior Finish | Side By Side Door Configuration | Advanced Cooling System Technology | Spacious Multi Shelf Organization | Internal Bright Led Lighting | Durable Transparent Storage Bins | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "600L CROSS DOOR INVERTER\nFRIDGE WITH WINDOW DOOR",
+          "model": "RQ9P600GTL",
+          "regular": 26900,
+          "sale": null,
+          "features": "Energy Efficient A Plus Rating | Total No Frost Cooling Technology | Durable Digital Inverter Compressor | Visible Window For Easy Viewing | Multi Air Flow System For Freshness | Large Capacity Cross Door Design | Triple Zone Temperature Control | Internal Led Lighting For Visibility | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "605L CROSS DOOR\nINVERTER FRIDGE",
+          "model": "RQ-79WC",
+          "regular": 19900,
+          "sale": null,
+          "features": "Advanced Energy Efficient Inverter | Luxury Cross Door Design Finish | High Performance Inverter Compressor | Sophisticated Black Glass Exterior | Flexible Four Door Configuration | Precision Digital Temperature Control | Optimized Air Flow System | Spacious Interior Storage Shelves | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "610L FRENCH DOOR FRIDGE\nWITH WATER DISPENSER",
+          "model": "RF5P610SPS1",
+          "regular": 20900,
+          "sale": null,
+          "features": "Advanced Energy Efficient Inverter | Luxury French Door Design Finish | High Performance Inverter Compressor | Integrated Water and Ice Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Flexible Interior Storage Shelves | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "622L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
+          "model": "ARS-646W",
+          "regular": 10490,
+          "sale": 9400,
+          "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Modern Side by Side Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "628L CROSS DOOR \nFRIDGE WITH SCREEN",
+          "model": "RS9P628GTF2",
+          "regular": 33000,
+          "sale": null,
+          "features": "Sleek Side-by-Side Design | 21-Inch Smart Display Screen | ConnectLife App Smart Connectivity | Frost-Free Inverter Technology | Ice Cube Maker & Water Dispenser | Multi Air Flow Cooling Technology | Super Freeze & Super Cold Features | LED Control Panel & Child Lock | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "630L FRENCH DOOR FRIDGE",
+          "model": "RF5P630NMS1",
+          "regular": 13500,
+          "sale": null,
+          "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Modern French Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Amcon White Goods",
+          "name": "601L CROSS DOOR\nINVERTER FRIDGE",
+          "model": "ARC-661W",
+          "regular": 11000,
+          "sale": null,
+          "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "670L CROSS DOOR\nINVERTER FRIDGE",
+          "model": "",
+          "regular": 17500,
+          "sale": null,
+          "features": "",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerator",
+          "name": "688L SIDE-BY-SIDE FRIDGE",
+          "model": "BCD-668W",
+          "regular": 13500,
+          "sale": null,
+          "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "Gas Cooker",
+      "items": [
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER AND 52L \nFREE STANDING GAS OVEN",
+          "model": "GC50x50K50",
+          "regular": 2700,
+          "sale": null,
+          "features": "4 High-Efficiency Gas Burners | Spacious 52L Gas Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grill | 2-in-1 Grill & Oven Function | Integrated Rotisserie for Grilling | Instant Automatic Ignition System | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER FREE \nSTANDING GAS OVEN",
+          "model": "50*50 Gas Oven (Model1)",
+          "regular": 3300,
+          "sale": null,
+          "features": "4 High-Efficiency Euro Pool Burners | Stainless Steel Top Panel Finish | Instant Auto-Ignition (Top Burners) | Durable Semi-Cast Iron Grids | Matte Black Enamel Burner Caps | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Metal Top Cover | Included Professional Oven Tray",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER AND 67L\nFREE STANDING GAS OVEN",
+          "model": "GC50X55K52",
+          "regular": 2790,
+          "sale": null,
+          "features": "4 High-Efficiency Gas Burners | Extra-Large 67L Gas Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Instant Automatic Ignition System | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER FREE \nSTANDING GAS OVEN",
+          "model": "50*60 Gas Oven (Model 2)",
+          "regular": 3650,
+          "sale": null,
+          "features": "4 High-Efficiency Euro Pool Burners | Durable Heavy-Duty Thick Metal Body | Premium Stainless Steel Top Panel | Instant Auto-Ignition (Top Burners) | Semi-Cast Iron Grids (Matte Black) | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Metal Top Cover | Included Professional Oven Tray",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER FREE\nSTANDING GAS OVEN",
+          "model": "HFG60121X",
+          "regular": 4250,
+          "sale": null,
+          "features": "4 Gas Burners & Gas Oven System | Premium Stainless Steel Cooktop | Infrared Cooking & Grill Function | Oven & Grill Convection Fan | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Premium Soft-Closing Oven Door | Easy-Clean Enamel Interior",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "3 GAS + 1 ELECTRIC BURNER\nFREE STANDING GAS OVEN",
+          "model": "60*60 Gas Oven (Model 5)",
+          "regular": 4650,
+          "sale": null,
+          "features": "Hybrid 3 Gas Burners & 1 Electric Hob | 1000W High-Performance Electric Plate | Premium Stainless Steel Top Surface | Instant Auto-Ignition (Top Burners) | Heavy-Duty Cast Iron Top Grids | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Glass Top Lid / Cover | Matte Black Professional Burner Caps",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "3 GAS + 1 ELECTRIC BURNER FREE STANDING OVEN",
+          "model": "HF631GEES",
+          "regular": 4400,
+          "sale": null,
+          "features": "Energy Efficient Cooking Performance | Premium Stainless Steel Finish | Modern 60 by 60 Centimeter Design | Three High Performance Gas Burners | One Versatile Electric Hotplate | Multifunctional Electric Oven Combi | Free Standing Cooker Configuration | Durable Gas And Electric Components | Eco Friendly Cooking Solution",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER AND 85L\nFREE STANDING GAS OVEN",
+          "model": "GC60X60K62",
+          "regular": 3400,
+          "sale": null,
+          "features": "4 High-Efficiency Gas Burners | Massive 85L Large Capacity Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Instant Automatic Ignition System | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 HOT PLATE FREE STANDING \nELECTRIC OVEN",
+          "model": "GC60X604HP",
+          "regular": 3900,
+          "sale": null,
+          "features": "4 High-Powered Electric Hot Plates | Spacious Multi-Function Electric Oven | Integrated Grill & Oven Function | Precision Thermostat Control | Internal Oven Lamp for Visibility | Protective Metal Top Cover | Included Oven Tray & Storage Grid | Durable Easy-to-Clean Exterior | Easy-to-Install & Maintain",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 HOT PLATE AND 85L FREE \nSTANDING ELECTRIC OVEN",
+          "model": "GC60x60K64",
+          "regular": 3800,
+          "sale": null,
+          "features": "4 High-Powered Electric Hot Plates | Massive 85L Electric Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Precision Automatic Ignition | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
+          "warranty": "2 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER FREE \nSTANDING ELECTRIC OVEN",
+          "model": "60*60 Gas Oven (Model 4)",
+          "regular": 5900,
+          "sale": null,
+          "features": "4 High-Efficiency Euro Pool Burners | Advanced Double Cavity Oven Design | Main Oven with Precision Thermostat | Premium Stainless Steel Cooktop | Heavy-Duty Cast Iron Top Grids | Instant Auto-Ignition (Burners & Oven) | Double-Layered Glass Oven Door | Protective Durable Glass Top Lid | Bright Oven Lamp & Included Accessories",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "5 BURNER FREE\nSTANDING GAS OVEN",
+          "model": "GC60x90M7",
+          "regular": 8750,
+          "sale": null,
+          "features": "5 High-Efficiency Euro Pool Burners | Massive Gas Oven with Thermostat | Dual Oven Heating (Top & Bottom) | Integrated Chicken Rotisserie System | Precision Mechanic Cooking Timer | Full Auto-Ignition (Burners & Oven) | Heavy-Duty Cast Iron Top Grids | Double-Layered Black Glass Oven Door | Protective Glass Top Lid / Cover",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 GAS + 2 ELECTRIC BURNER FREE STANDING OVEN",
+          "model": "HF942GEES",
+          "regular": 7300,
+          "sale": null,
+          "features": "Energy Efficient Kitchen Appliance | Durable Stainless Steel Exterior | Classic 90 by 60 Centimeter Design | Four Rapid Heating Gas Burners | Two Powerful Electric Hotplates | Large Capacity Electric Oven Combi | Versatile Free Standing Structure | Robust Gas And Electric System | Eco Friendly Home Cooking Solution",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "5 BURNER FREE \nSTANDING GAS OVEN",
+          "model": "HFG90335RX",
+          "regular": 7200,
+          "sale": null,
+          "features": "High-Performance Infrared Function | Oven & Grill Convection Fan System | Premium Stainless Steel Cooktop | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Soft-Closing Black Glass Door | Easy-Clean Enamel Interior | Integrated Glass Lid & Adjustable Feet",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER + 1 WOK GAS HOB",
+          "model": "HG1986SB",
+          "regular": 10800,
+          "sale": 7600,
+          "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER + 1 WOK GAS HOB",
+          "model": "HG1776SB",
+          "regular": 10500,
+          "sale": 7400,
+          "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 75 × 52.6 cm",
+          "warranty": "3 Years"
+        }
+      ]
+    },
+    {
+      "category": "Mobile Phones",
+      "items": [
+        {
+          "category": "Mobile Phones",
+          "name": "E72 MOBILE PHONE",
+          "model": "E72",
+          "regular": 1300,
+          "sale": 970,
+          "features": "Latest Android 16 Operating System | Large 6.52” HD+ Sleek Design Display | Massive 128GB ROM & 6GB RAM Memory | All-Day 5000mAh High-Capacity Battery | High-Speed 4G LTE Reliable Network | Secure Side Fingerprint Smart Unlock | Dual SIM Support for Easy Connectivity | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U42 LITE MOBILE PHONE",
+          "model": "HWCD102E",
+          "regular": 790,
+          "sale": 600,
+          "features": "Compact 5.0” Durable Design Display | Reliable 3G Network Connectivity | Efficient Android Go Edition OS | 16GB ROM & 1GB RAM Essential Memory | Dual SIM & Dedicated SD Card Slot | All-Day 2000mAh Power Capacity | 5MP Rear Camera with Built-in Flash | Classic Professional Black Color",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U605 MOBILE PHONE",
+          "model": "HS-U605",
+          "regular": 350,
+          "sale": 200,
+          "features": "Ultra-Compact 4.1” Pocket-Sized Display | Efficient Quad-Core Processing Power | Reliable 3G Network Connectivity | Expandable Storage via MicroSD Slot | Versatile Dual SIM & Single SIM Support | Classic 5MP Rear & 2MP Selfie Cameras | Smooth Android 8.1 Oreo Performance | Built-in 1GB RAM & 8GB ROM Storage | Energy-Efficient 1500mAh Battery",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U71 MOBILE PHONE",
+          "model": "HWCD119E",
+          "regular": null,
+          "sale": null,
+          "features": "Large 6.0” Durable Design Display | Ample 32GB ROM & 2GB RAM Storage | Efficient Android Go Edition OS | Reliable 3000mAh All-Day Battery | Dual Flashlight for Extra Visibility | Double 5MP Rear & Front Camera System | Dual SIM & Dedicated SD Card Support | Protective TPU Cover Included Free | Reliable 3G & PHF Network Connectivity",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U963 MOBILE PHONE",
+          "model": "HS-U963",
+          "regular": null,
+          "sale": null,
+          "features": "High-Speed 4G LTE Reliable Network | Compact 5.0” Hand-Friendly Display | Efficient Quad-Core Processing Power | Dual SIM Support for Easy Connectivity | Expandable Storage Up to 32GB MicroSD | Smooth Android 9.1 Operating System | Reliable 2000mAh All-Day Battery | 5MP Rear & 2MP Front Selfie Cameras | Built-in 1GB RAM & 8GB ROM Storage",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U53 MOBILE PHONE",
+          "model": "U53",
+          "regular": 900,
+          "sale": 690,
+          "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "X8 FEATURE PHONE",
+          "model": "AM-X8",
+          "regular": null,
+          "sale": null,
+          "features": "Massive 1800mAh Long-Life Battery | Built-In Wireless FM Radio Antenna | Compact 1.7” Bright Display Screen | Reliable Dual SIM Dual Standby | Expandable Storage Up to 16GB ROM | Essential Bluetooth & Flashlight | Efficient 32MB RAM & 32MB Storage | Clear 0.8MP Rear Capture Camera | Rugged Lightweight Portable Design",
+          "warranty": "1 Year"
+        }
+      ]
+    },
+    {
+      "category": "Small Items",
+      "items": [
+        {
+          "category": "Small Items",
+          "name": "H72 PRO MOBILE PHONE",
+          "model": "H72 PRO",
+          "regular": 1900,
+          "sale": 1350,
+          "features": "",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Small Items",
+          "name": "16GB SD CARD",
+          "model": "16GB SDCARD",
+          "regular": 50,
+          "sale": 30,
+          "features": "",
+          "warranty": ""
+        }
+      ]
+    },
+    {
+      "category": "Microwave oven",
+      "items": [
+        {
+          "category": "Microwave oven",
+          "name": "COMMERCIAL 18L MICROWAVE",
+          "model": "AM18LMDC-CSHSS",
+          "regular": 4400,
+          "sale": 3950,
+          "features": "Commercial Power Input Cooking Design | High Efficiency Energy Performance | Six Precision Cooking Power Levels | Digital Control System Panel Design | Premium Led Screen Display Screen | High Performance Crispy Grill System | 1400 Watt Microwave System | Curated Auto Cook Function Programs | Convenient Cooking End Alert Signal",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L SILVER MICROWAVE \nGRILL DIGITAL CONTROL",
+          "model": "AM20LMDC-GHS",
+          "regular": 1020,
+          "sale": 910,
+          "features": "One Star Energy Saving Performance | Efficient Point Five Watt Standby Power | Powerful 1200 Watt Microwave Output | Versatile Grill And Combination Cooking Modes | Intuitive Rotary Dial And Button Controls | Six Precision Microwave Cooking Power Levels",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L SILVER MICROWAVE \nGRILL PUSH HANDLE",
+          "model": "AM20LMDC-GPBS",
+          "regular": 990,
+          "sale": 880,
+          "features": "Two Star Energy Saving Performance | Versatile Grill And Combination Functions | Eleven Precision Cooking Power Levels | Fast 1100 Watt Microwave Power | Powerful 900 Watt Grill Output | Effortless Touch Panel Digital Controls | Smart Weight And Time Defrost Options | Easy Cleaning Durable Interior Surface | Integrated Automatic Safety Child Lock",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L SILVER MICROWAVE \nGRILL MECHANCIAL CONTROL",
+          "model": "AM20LMMC-GPBS",
+          "regular": 1050,
+          "sale": 930,
+          "features": "One Star Energy Saving Performance | Efficient Point Five Watt Standby Power | Robust Full Stainless Steel Exterior | Powerful Twelve Hundred Watt Microwave Output | Professional Nine Hundred Watt Grill Power | Versatile Grill And Combination Cooking Modes | Instant Express Start Plus Thirty Seconds | Six Precision Microwave Cooking Power Levels | Intuitive Rotary Dial And Button Controls",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L BLACK MICROWAVE \nGRILL MECHANICAL CONTROL",
+          "model": "H20MOBS1HG",
+          "regular": 1100,
+          "sale": null,
+          "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Sleek Black Finish with Pull Handle Door | Premium Mirror Glass Door | Dual Combination Grill Function | 5 Variable Power Level Settings | Precision Mechanical Control System | Dedicated Defrost Technology | Integrated 35-Minute Safety Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L SILVER MICROWAVE \nGRILL MECHANICAL CONTROL",
+          "model": "H20MOMS1HG",
+          "regular": 1200,
+          "sale": null,
+          "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Sleek Silver Finish with Pull Handle Door | Premium Mirror Glass Door | Dual Combination Grill Function | 5 Variable Power Level Settings | Precision Mechanical Control System | Dedicated Defrost Technology | Integrated 35-Minute Safety Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L WHITE MICROWAVE \nGRILL MECHANCIAL CONTROL",
+          "model": "H20MOWP1HG",
+          "regular": 950,
+          "sale": null,
+          "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Sleek White Finish with Pull Handle Door | Premium Mirror Glass Door | Dual Combination Grill Function | 5 Variable Power Level Settings | Precision Mechanical Control System | Dedicated Defrost Technology | Integrated 35-Minute Safety Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L SILVER MICROWAVE\nMECHANICAL CONTROL",
+          "model": "H20MOP1SRH07",
+          "regular": 970,
+          "sale": null,
+          "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Elegant & Modern Silver Exterior Finish | Premium Mirror Glass Door | Sturdy Grip-Style Pull Handle Door | 5 Variable Power Level Settings | Precision Mechanical Control System | Smart Defrost by Weight/Time Function | Integrated 35-Minute Safety Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L WHITE MICROWAVE\nMECHANICAL CONTROL",
+          "model": "H20MOP1WEH07",
+          "regular": 900,
+          "sale": null,
+          "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Elegant & Modern White Exterior Finish | Premium Mirror Glass Door | Sturdy Grip-Style Pull Handle Door | 5 Variable Power Level Settings | Precision Mechanical Control System | Smart Defrost by Weight/Time Function | Integrated 35-Minute Safety Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L BLACK MICROWAVE\nPUSH OPEN MECHANICAL CONTROL",
+          "model": "H20MOBS14",
+          "regular": 950,
+          "sale": null,
+          "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Elegant & Modern Black Exterior Finish | Premium High-Visibility Glass Window | Convenient Push-Button Door Release | 5 Variable Power Level Settings | Simple & Durable Mechanical Controls | Smart Defrost by Weight/Time Function | Integrated 35-Minute Safety Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "20L WHITE MICROWAVE\nPUSH OPEN MECHANICAL CONTROL",
+          "model": "H20MOWS10",
+          "regular": 820,
+          "sale": null,
+          "features": "Compact 20L Space-Saving Capacity | 700 Watts High-Efficiency Power | Classic White Exterior Finish | Premium High-Visibility Glass Window | Convenient Push-Button Door Release | 5 Variable Power Level Settings | Simple & Durable Mechanical Controls | Smart Defrost by Weight/Time Function | Integrated 35-Minute Safety Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "25L SILVER MICROWAVE\nGRILL MECHANICAL CONTROL",
+          "model": "AM25LMDC-GHS",
+          "regular": 1290,
+          "sale": 1150,
+          "features": "One Star Energy Saving Performance | Powerful Fourteen Hundred Watt Microwave Output | Professional One Thousand Watt Grill Power | Advanced Multi Parameter LED Digital Display | Versatile Grill And Combination Cooking Modes | Intelligent Speed And Auto Defrost Technology | Efficient Express Cooking Quick Start Mode | Intuitive Rotary Dial And Button Controls | Integrated Automatic Safety Child Lock System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "25L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+          "model": "H25MOBS6G",
+          "regular": 1500,
+          "sale": null,
+          "features": "25L Compact Cooking Capacity | 900 Watts Microwave Power | 1000 Watts High-Performance Grill | Sleek Black Finish with Mirror Door | Advanced Digital Control System | 10 Variable Power Level Settings | 25 Automatic Preset Cooking Menus | Specialized Crispy Grill Function | Weight & Time Defrost Technology",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "25L BLACK MICROWAVE MECHANICAL PUSH OPEN",
+          "model": "H25MOBS14",
+          "regular": 1190,
+          "sale": null,
+          "features": "Family Line Solo Model | Energy Efficient 3 Stars Performance | Dual Mechanical Knobs | Custom Five Distinct Power Levels | Integrated Thirty Five Minute Timer | Reliable Uniform Food Defrost Mode | Elegant Premium Piano Black Finish | Uniform Cooking Heat Penetration | Secure Heavy Duty Construction",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "30L SILVER MICROWAVE\nGRILL DIGITAL CONTROL",
+          "model": "AM30LMDC-GHS",
+          "regular": 1490,
+          "sale": 1320,
+          "features": "One Star Energy Saving Performance | Powerful Fourteen Hundred Watt Microwave Output | High Performance Ten Fifty Watt Grill Power | Versatile Grill And Combination Cooking Modes | Integrated Safety Automatic Child Lock System | Intelligent Weight Defrost Technology Function | Efficient Express Cooking Quick Start Mode | Intuitive Rotary Dial And Button Controls | Six Precision Microwave Cooking Power Levels",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "34L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+          "model": "HMAS3410SSG",
+          "regular": 1800,
+          "sale": null,
+          "features": "Massive 34L Family-Sized Capacity | Powerful 1200W Rapid Cooking System | Versatile Crispy Grill & Combo Modes | 25 Auto-Programmed Cooking Menus | Durable & Sleek Stainless Steel Design | Premium White LED Digital Display | Precision 10-Level Microwave Power | Smart Eco Mode & Mute Functionality | Intelligent Weight & Time Defrost",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "34L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+          "model": "H34MOBS10HG",
+          "regular": 1700,
+          "sale": null,
+          "features": "Massive 34L Family-Size Capacity | 1000 Watts High-Efficiency Power | Advanced Inverter Cooking Technology | Precision Digital Control System | 10 Variable Power Level Settings | Specialized Crispy Grill Function | Smart Eco & Express Reheat Modes | Sleek Black Finish with Mirror Door | Precision Weight & Time Defrost",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "34L BLACK MICROWAVE\nDIGITAL CONTROL",
+          "model": "H34MOBS17",
+          "regular": 1580,
+          "sale": null,
+          "features": "Massive 34L Family-Sized Capacity | Sleek & Modern Stylish Black Design | Premium White LED Digital Display | Specialized Melt & Soften Functions | Instant +30 Second Quick Start | Smart Eco Mode & Mute Functionality | Rapid Express Cook & Auto Reheat | Secure Child Safety Lock Protection | Intuitive Precision Digital Controls",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Microwave oven",
+          "name": "42L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+          "model": "HMMG4210DSG",
+          "regular": 1900,
+          "sale": null,
+          "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Powerful 1200W - 2800W Variable Grill | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Integrated Child Safety Lock System | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
+          "warranty": "1 Year"
+        }
+      ]
     }
   ],
   "spotlights": [
@@ -1095,6 +2160,105 @@
       "sale": 13000,
       "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
       "warranty": "3 Years"
+    },
+    {
+      "category": "Blenders",
+      "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+      "model": "BLC2880S",
+      "regular": 2500,
+      "sale": 2230,
+      "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Refrigerator",
+      "name": "46 BOTTLE\nWINE COOLER",
+      "model": "RW3N122GSLF",
+      "regular": 6200,
+      "sale": 5550,
+      "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerator",
+      "name": "130L TABLE TOP FRIDGE",
+      "model": "RS-13DR4SG",
+      "regular": 1660,
+      "sale": null,
+      "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerator",
+      "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
+      "model": "RD-27DR4SB",
+      "regular": 3300,
+      "sale": null,
+      "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerator",
+      "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
+      "model": "RC-67WC4SA",
+      "regular": 32000,
+      "sale": null,
+      "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerator",
+      "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+      "model": "RC-67WS4S3",
+      "regular": 12500,
+      "sale": null,
+      "features": "5-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "5 BURNER FREE\nSTANDING GAS OVEN",
+      "model": "GC60x90M7",
+      "regular": 8750,
+      "sale": null,
+      "features": "5 High-Efficiency Euro Pool Burners | Massive Gas Oven with Thermostat | Dual Oven Heating (Top & Bottom) | Integrated Chicken Rotisserie System | Precision Mechanic Cooking Timer | Full Auto-Ignition (Burners & Oven) | Heavy-Duty Cast Iron Top Grids | Double-Layered Black Glass Oven Door | Protective Glass Top Lid / Cover",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "4 BURNER + 1 WOK GAS HOB",
+      "model": "HG1986SB",
+      "regular": 10800,
+      "sale": 7600,
+      "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Iron",
+      "name": "STEAM GENERATOR\nELECTRIC IRON",
+      "model": "SIGH2400BB",
+      "regular": 1900,
+      "sale": 1650,
+      "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Microwave oven",
+      "name": "42L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+      "model": "HMMG4210DSG",
+      "regular": 1900,
+      "sale": null,
+      "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Powerful 1200W - 2800W Variable Grill | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Integrated Child Safety Lock System | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Microwave oven",
+      "name": "20L SILVER MICROWAVE \nGRILL MECHANICAL CONTROL",
+      "model": "H20MOMS1HG",
+      "regular": 1200,
+      "sale": null,
+      "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Sleek Silver Finish with Pull Handle Door | Premium Mirror Glass Door | Dual Combination Grill Function | 5 Variable Power Level Settings | Precision Mechanical Control System | Dedicated Defrost Technology | Integrated 35-Minute Safety Timer",
+      "warranty": "1 Year"
     }
   ],
   "essentials": [
@@ -1115,6 +2279,168 @@
       "sale": null,
       "features": "Ideal for 2.0HP & 2.5HP AC Units | Heavy-Duty 180kg Max Load Capacity | Anti-Rust Powder Coating for Outdoors | High-Strength Hard Steel Structure | Universal & Adjustable Mounting Patterns | Complete Installation Hardware Included | Quick & Easy DIY Installation Process | Step-by-Step User Manual Included | Reliable & Secure Wall-Mount Support",
       "warranty": "Not Applicable"
+    },
+    {
+      "category": "Blenders",
+      "name": "2IN1 GLASS BLENDER\nB21GJSG",
+      "model": "YT-4673B5G",
+      "regular": 300,
+      "sale": 270,
+      "features": "Powerful 600W High-Performance Motor | 6 Premium Stainless Steel Blades | Durable 1.5L Hygienic Glass Jar | Versatile 2-in-1 Blender & Grinder | Precision 5-Speed Cooling Control | Dedicated Rapid Ice Crush Function | Stable Non-Slip Rubber Support Base",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "3IN1 STEEL BLENDER\nB31SSJG",
+      "model": "YT-4673B5S",
+      "regular": 450,
+      "sale": 400,
+      "features": "Powerful 600W High-Performance Motor | 6 Premium Stainless Steel Blades | Versatile 3-in-1 Blender Grinder Chopper | Durable Domestic & Professional Build | Precision 5-Speed Cooling Control | Dedicated Rapid Ice Crush Function | Stable Non-Slip Rubber Support Base",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "CHOPPER\nS400XG",
+      "model": "S400XG",
+      "regular": 340,
+      "sale": 300,
+      "features": "1L Thermal-Resistant Glass Bowl | Dual-Point Stainless Steel Blades | High-Efficiency 400W Power Motor | Precision Chopping & Smooth Blending | One-Touch Instant Pulse Function | BPA-Free & Easy-to-Clean Design | Compact Versatile Food Processor",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "FOOD PROCESSOR\nSB801W",
+      "model": "SB801W",
+      "regular": 890,
+      "sale": 800,
+      "features": "High-Torque Powerful 801W Motor Base | Versatile Chopper, Blender & Grinder | Large 2.4L Multi-Purpose Food Bowl | Family-Sized 1.5L Blending Jar | Multi-Blade Stainless Steel Set | Precision Pulse & Ice Crush Modes | Safe & Intuitive One-Touch Controls",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD 2 IN 1 MIXER\nM500DCS",
+      "model": "M500DCS",
+      "regular": 550,
+      "sale": 490,
+      "features": "Powerful 500W Energy-Efficient DC Motor | 2-in-1 Handheld & Stand Mixer Design | Automatic Rotating 3L Mixing Bowl | 5-Speed Regulator & Turbo Function | Stainless Steel Beaters & Dough Hooks | Versatile Beating, Whipping & Kneading | Easy-to-Clean Dishwasher Safe Parts",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD BLENDER\n600W",
+      "model": "HBX601XG",
+      "regular": 350,
+      "sale": 310,
+      "features": "600W High-Power DC Motor | Durable Stainless Steel Blending Bar | Large 700ml Clear Blending Jar | High-Performance Chopping Attachment | Precision Whisk & Beater Accessories | Multi-Speed Control for All Textures | Ergonomic Grip for Easy Handling",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD BLENDER\n1000W",
+      "model": "HBX1000E",
+      "regular": 670,
+      "sale": 620,
+      "features": "Energy Efficient Durable DC Motor | Powerful Performance 1000W Motor | Adjustable Speed Smart Control Knob | Turbo Function Immediate Power Boost | Efficient Quad Stainless Steel Blade | Ergonomic Softouch Control Handle | Easy Detachable Blending Attachment",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD\nBLENDER & CHOPPER SET",
+      "model": "HBC807Q",
+      "regular": 590,
+      "sale": 530,
+      "features": "Powerful 800W High-Efficiency Motor | 6-Level Smart Speed Power Regulator | Bright LED Work Area Illumination | Premium Stainless Steel Blending Bar | Multifunctional Chopper & Whisk Set | Convenient Storage Accessory Holder | Durable Quad-Blade Cutting System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n450W",
+      "model": "M450XG",
+      "regular": 390,
+      "sale": 350,
+      "features": "Quiet & Powerful 450W DC Motor | Precision 5-Speed Power Regulator | Versatile Chopper & Whisk Attachments | Stainless Steel Beaters & Dough Hooks | Easy-to-Use Push Button Tool Eject | Lightweight Ergonomic Handheld Design | Multi-Purpose Beating & Kneading Set",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n500W",
+      "model": "M500DC",
+      "regular": 400,
+      "sale": 360,
+      "features": "Ultra-Silent High-Torque 500W DC Motor | Precision 5-Speed Power Regulator | Turbo Boost & Pulse Functionality | Pro-Grade Stainless Steel Dough Hooks | High-Efficiency Wire Whisk Attachments | Versatile Beating, Whipping & Kneading | Lightweight Ergonomic Comfort Handle",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "DIGITAL BLENDER\n1.5L 1000W",
+      "model": "HB15TBSSS1",
+      "regular": 800,
+      "sale": null,
+      "features": "Professional 1000W High-Power Motor | 3 Smart Preset Performance Programs | Advanced 6-Point Stainless Steel Blade | Dedicated High-Speed Ice Crush Mode | Precision Control Knob with LED Light | High-Performance Blending & Liquefying | Durable Design for Heavy-Duty Usage",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "MECHANICAL BLENDER\n1.5L 1000W",
+      "model": "HB1000DE",
+      "regular": 850,
+      "sale": null,
+      "features": "Professional 1000W High-Power Motor | 3 Smart Preset Performance Programs | Advanced 6-Point Stainless Steel Blade | Dedicated Heavy-Duty Ice Crush Mode | Precision Control Knob with LED Light | High-Speed Blending & Liquefying | Durable Design for Daily Usage",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "MECHANICAL BLENDER\n1.75L 1400W",
+      "model": "B1400E",
+      "regular": 890,
+      "sale": 800,
+      "features": "Extreme 1400W High-Performance Motor | Large 1.75L Thermal-Resistant Glass Jar | 4 Smart-Logic Preset Programs | Removable Stainless Steel Blade System | Precision Variable Speed Control | High-Power Dedicated Ice Crush Mode | Auto Clean & Safety Lock Protection",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "JUICE PRESS",
+      "model": "JC4800VWY",
+      "regular": 1550,
+      "sale": 1400,
+      "features": "Efficient 200W High-Torque Motor | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | Anti-Slip Base for Maximum Stability | Compact Space-Saving Kitchen Design | Easy-to-Clean Removable Components | Quiet Operation & Nutrient Retention",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "2-SPEED JUICER",
+      "model": "JC805EII",
+      "regular": 790,
+      "sale": 700,
+      "features": "Powerful 800W High-Efficiency Motor | XL Feeding Tube for Whole Fruits | Large 1.5L Pulp & Juice Containers | 2-Speed Settings for Soft & Hard Fruit | Clean-Flow Anti-Drip Spout System | Integrated Protective Dust Cover | Stainless Steel Micro-Mesh Filter",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "KITCHEN MIXER MACHINE",
+      "model": "MMC800CW",
+      "regular": 1990,
+      "sale": 1790,
+      "features": "Powerful 800W High-Efficiency Motor | Large 5L Polished Stainless Steel Bowl | Precision 6-Speed Power Regulator | Instant Pulse Function for Extra Power | Heavy-Duty Metal Dough Hook Attachment | High-Performance Beater & Wire Whisk | Robust Design with Easy-to-Use Controls",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "DIGITAL BLENDER\nNUTRI BLENDER",
+      "model": "HBN1000BK",
+      "regular": 680,
+      "sale": null,
+      "features": "Powerful 1000W High-Torque Motor | Smart Auto-Blend One-Touch Technology | Versatile Pulse Function for Precision | Energy Efficient & High-Speed Performance | Hassle-Free Dishwasher Safe Components | Secure & Stable Non-Slip Suction Feet | Durable Design for Professional Results",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "DIGITAL BLENDER\nNUTRI BLENDER",
+      "model": "MMC800CM",
+      "regular": 800,
+      "sale": 710,
+      "features": "Precision Digital LED Control Panel | Powerful Ice Crushing Technology | Dedicated Dry Grinder Attachment | On-the-Go Drinking Spout Lid | Versatile High, Low & Pulse Speeds | Secure & Stable Non-Slip Suction Feet | Energy Efficient Smart Performance",
+      "warranty": "1 Year"
     },
     {
       "category": "CLEANING",
@@ -1249,6 +2575,456 @@
       "regular": 500,
       "sale": 450,
       "features": "Powerful 700W Rapid Heating Element | High-Quality Non-Stick Coated Plates | Automatic Temperature Control | Intuitive LED Ready-to-Cook Lights | Smooth Surface for Easy Cleaning | Heat-Resistant Safe-to-Touch Handle | Compact Design for Vertical Storage",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "3 BURNER GAS COOKER",
+      "model": "GST-T22",
+      "regular": 450,
+      "sale": 400,
+      "features": "Table-Top Configuration | Durable Stainless Steel Body | High-Efficiency Gas Burners | Instant Auto-Ignition System | Low Gas Consumption Tech | Stainless Steel Drip Trays | Removable Pot Support Grids | Easy-to-Clean Surface | 3 Independent Burners",
+      "warranty": "2 Years"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "1 BURNER TABLE\nTOP GAS COOKER",
+      "model": "GS1-15SBC",
+      "regular": 600,
+      "sale": null,
+      "features": "Durable & Robust Stainless Steel Body | Heavy-Duty Protective Enamel Supports | Hassle-Free Instant Auto-Ignition | Energy-Efficient Low Gas Consumption | Portable High-Performance Tabletop | Precision Flame Control Technology | Easy-to-Clean Corrosion-Resistant Top",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "2 BURNER TABLE \nTOP GAS COOKER",
+      "model": "GS2-07RB",
+      "regular": 1200,
+      "sale": null,
+      "features": "Glossy Tempered Glass Surface | Durable Heavy-Duty Enamel Supports | Professional Cast Iron Pan Supports | Enhanced Flame Failure Safety System | Precision High-Efficiency Gas Burners | Sleek & Modern Easy-to-Clean Top | Robust Construction for Long Life",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Gas Cooker",
+      "name": "3 BURNER TABLE\nTOP GAS COOKER",
+      "model": "GS3-07RBB",
+      "regular": 1600,
+      "sale": null,
+      "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8001",
+      "model": "A1-8001",
+      "regular": 270,
+      "sale": 240,
+      "features": "Powerful 1600W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8003",
+      "model": "A1-8003",
+      "regular": 300,
+      "sale": 260,
+      "features": "Powerful 2200W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8005",
+      "model": "A1-8005",
+      "regular": 470,
+      "sale": 420,
+      "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Professional Dry & Steam Iron Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8006",
+      "model": "A1-8006",
+      "regular": 500,
+      "sale": 440,
+      "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Dry & Vertical Steam Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8008",
+      "model": "A1-8008",
+      "regular": 370,
+      "sale": 320,
+      "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8009",
+      "model": "A1-8009",
+      "regular": 320,
+      "sale": 285,
+      "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8010",
+      "model": "A1-8010",
+      "regular": 340,
+      "sale": 305,
+      "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nA1-8011",
+      "model": "A1-8011",
+      "regular": 360,
+      "sale": 320,
+      "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nCLASSIC GREEN",
+      "model": "HSIH1800GRT",
+      "regular": 240,
+      "sale": null,
+      "features": "Powerful 1800W Rapid Heating System | Sleek Classic Green Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nPREMIUM WHITE",
+      "model": "H28SIWES1",
+      "regular": 450,
+      "sale": null,
+      "features": "Ultra-Powerful 2800W Rapid Heating | Premium White Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "STEAM GENERATOR\nELECTRIC IRON",
+      "model": "SIGH2400BB",
+      "regular": 1900,
+      "sale": 1650,
+      "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nSTEAMCARE PLUS",
+      "model": "SIH2200DGT",
+      "regular": 360,
+      "sale": 310,
+      "features": "Powerful 2200W Rapid Heating System | Extra-Long 2.5m Cable for Easy Reach | Convenient 280ml Water Tank Capacity | Professional SteamCare Plus Technology | Integrated Self-Clean & Anti-Drip | Advanced Anti-Calc Scale Prevention | Ergonomic Design for Comfort Grip",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Iron",
+      "name": "ELECTRIC IRON\nSTYLISH BLUE",
+      "model": "H22SIBES1",
+      "regular": 300,
+      "sale": null,
+      "features": "Powerful 2200W Rapid Heating System | Elegant Stylish Blue Modern Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Items",
+      "name": "DIGITAL TV FLAT\nPANEL ANTENNA",
+      "model": "AV-163C",
+      "regular": 550,
+      "sale": 250,
+      "features": "Powerful 55km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Items",
+      "name": "DIGITAL TV FLAT\nPANEL ANTENNA",
+      "model": "AV-167",
+      "regular": 590,
+      "sale": 250,
+      "features": "Ultra-Powerful 60km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Items",
+      "name": "UNIVERSAL ANTENNA BRACKET",
+      "model": "AV-172",
+      "regular": 100,
+      "sale": 50,
+      "features": "Ultra-Powerful Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
+      "warranty": "Not Applicable"
+    },
+    {
+      "category": "Items",
+      "name": "DIGITAL TV FLAT\nPANEL ANTENNA",
+      "model": "AV-173",
+      "regular": 560,
+      "sale": 250,
+      "features": "Powerful 55km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Items",
+      "name": "SLIM TV \nANTENNA BAR",
+      "model": "AV-9091",
+      "regular": 400,
+      "sale": 290,
+      "features": "Powerful 50km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "30AMP AC \nPOWER PROTECTOR",
+      "model": "JSSP-SACP30",
+      "regular": 250,
+      "sale": 220,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "AC POWER PROTECTOR",
+      "model": "JSSP-102UKN",
+      "regular": 100,
+      "sale": 60,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "FRIDGE/FREEZER \nPOWER PROTECTOR",
+      "model": "JSSP-106EN",
+      "regular": 100,
+      "sale": 70,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "TV/DVD \nPOWER PROTECTOR",
+      "model": "JSSP-102EN",
+      "regular": 100,
+      "sale": 70,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "UNIVERSAL \nPOWER PROTECTOR",
+      "model": "JSSP-109EN",
+      "regular": 110,
+      "sale": 70,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "SMART WATCH",
+      "model": "HSSWU1",
+      "regular": 400,
+      "sale": 200,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "VACUUM SEALER BAGS",
+      "model": "VB12/55",
+      "regular": 160,
+      "sale": 90,
+      "features": "Includes 30 Quality Plastic Bags (12x55)cm | Durable & Reusable Duoplast Mesh | Heat-Resistant & Suitable for Cooking | Odorless & Taste-Neutral Material | Advanced Air-Channel Mesh Design | BPA-Free & Food-Safe Protection | Heavy-Duty Tear-Resistant Construction",
+      "warranty": "Not Applicable"
+    },
+    {
+      "category": "Small Items",
+      "name": "VACUUM SEALER ROLLS",
+      "model": "VB22/300",
+      "regular": 190,
+      "sale": 105,
+      "features": "Includes 3 Quality Plastic Rolls (22x300)cm | Durable & Reusable Duoplast Mesh | Heat-Resistant & Suitable for Cooking | Odorless & Taste-Neutral Material | Advanced Air-Channel Mesh Design | BPA-Free & Food-Safe Protection | Heavy-Duty Tear-Resistant Construction",
+      "warranty": "Not Applicable"
+    },
+    {
+      "category": "Small Items",
+      "name": "VACUUM SEALER ROLLS",
+      "model": "VB28/300",
+      "regular": 205,
+      "sale": 115,
+      "features": "Includes 3 Quality Plastic Rolls (28x300)cm | Durable & Reusable Duoplast Mesh | Heat-Resistant & Suitable for Cooking | Odorless & Taste-Neutral Material | Advanced Air-Channel Mesh Design | BPA-Free & Food-Safe Protection | Heavy-Duty Tear-Resistant Construction",
+      "warranty": "Not Applicable"
+    },
+    {
+      "category": "Small Items",
+      "name": "W15 BLUETOOTH SPEAKER",
+      "model": "W15",
+      "regular": 400,
+      "sale": 150,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "BLUE DUOLINK SPEAKERBUDS",
+      "model": "SSDL504B",
+      "regular": 700,
+      "sale": 150,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "RED DUOLINK SPEAKERBUDS",
+      "model": "SSDL504R",
+      "regular": 700,
+      "sale": 150,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "E200 PLUS BLUETOOTH SPEAKER",
+      "model": "E200PLUS",
+      "regular": 380,
+      "sale": 300,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "SSE3 WIRELESS EARBUDS",
+      "model": "SSE3",
+      "regular": 500,
+      "sale": 200,
+      "features": "",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "UNIVERSAL AC REMOTE CONTROL",
+      "model": "",
+      "regular": 100,
+      "sale": null,
+      "features": "",
+      "warranty": ""
+    },
+    {
+      "category": "Small Items",
+      "name": "DESK LIGHT SET\nCOLOUR - WHITE COOL",
+      "model": "",
+      "regular": 440,
+      "sale": 220,
+      "features": "",
+      "warranty": ""
+    },
+    {
+      "category": "Small Items",
+      "name": "EXTENDED USB CUBE\nTYPE A+C - UK PLUG\nCOLOUR - BLACK",
+      "model": "",
+      "regular": 145,
+      "sale": 80,
+      "features": "",
+      "warranty": ""
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L DIGITAL PLASTIC KETTLE",
+      "model": "HK17DWD",
+      "regular": 550,
+      "sale": null,
+      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L CLEAR GLASS KETTLE",
+      "model": "KEAMGC1.7L",
+      "regular": 360,
+      "sale": 320,
+      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L RAINBOW GLASS KETTLE",
+      "model": "KEAMGR1.7L",
+      "regular": 420,
+      "sale": 370,
+      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L INOX STAINLESS STEEL KETTLE",
+      "model": "H17KSSS2",
+      "regular": 400,
+      "sale": null,
+      "features": "Powerful 2200W Rapid Boiling System | Premium Strix Control Technology | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Simple & Intuitive Easy-to-Use Design | Integrated Boil-Dry Safety System | Sleek & Durable Ergonomic Body",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L BLACK PLASTIC KETTLE",
+      "model": "KEAMPB1.7L",
+      "regular": 290,
+      "sale": 255,
+      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L WHITE PLASTIC KETTLE",
+      "model": "KEAMPW1.7L",
+      "regular": 290,
+      "sale": 255,
+      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L BLACK PLASTIC KETTLE",
+      "model": "H17KBKS1",
+      "regular": 200,
+      "sale": null,
+      "features": "High-Power 2000W Rapid Boiling | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Ergonomic Handle for Secure Grip | Non-Slip Rubber Feet for Stability | Integrated Boil-Dry Safety System | Simple & Intuitive Easy-to-Use Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L STAINLES STEEL KETTLE",
+      "model": "H17KSSS1",
+      "regular": 270,
+      "sale": null,
+      "features": "Powerful 2200W Rapid Boiling System | Convenient 360-Degree Cordless Design | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.8L STAINLESS STEEL KETTLE",
+      "model": "YQ-660",
+      "regular": 400,
+      "sale": 360,
+      "features": "Efficient 1850W Rapid Boiling System | Durable Stainless Steel Body | Automatic Shut-Off Safety Protection | Integrated Boil-Dry Safety System | On/Off Switch with LED Power Light | 360-Degree Cordless Swivel Base | Sleek & Modern Easy-to-Clean Surface",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.8L CLASSIC BLACK KETTLE",
+      "model": "KEAMSS1.8L",
+      "regular": 390,
+      "sale": 340,
+      "features": "Elegant & Timeless Classic Black Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.8L PREMIER BLACK KETTLE",
+      "model": "KEAMSB1.8L",
+      "regular": 360,
+      "sale": 320,
+      "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
       "warranty": "1 Year"
     }
   ]
