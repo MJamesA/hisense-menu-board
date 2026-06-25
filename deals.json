@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T11:00:22.799Z",
+  "generatedAt": "2026-06-25T11:07:51.803Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -56,11 +56,11 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
-          "model": "12TR4RMEDJ01",
-          "regular": 9700,
+          "name": "1.5HP SPLIT\nAIR CONDITIONER",
+          "model": "12CR4SVDTG01",
+          "regular": 4290,
           "sale": null,
-          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -120,15 +120,6 @@
         {
           "category": "Air Conditioners",
           "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "ACAMCH24DH",
-          "regular": 8200,
-          "sale": 5790,
-          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
           "model": "HAS24TR4RBBDTG",
           "regular": 8990,
           "sale": null,
@@ -169,11 +160,29 @@
       "items": [
         {
           "category": "Blenders",
+          "name": "JUICE PRESS",
+          "model": "JC4800VWY",
+          "regular": 1550,
+          "sale": 1400,
+          "features": "Efficient 200W High-Torque Motor | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | Anti-Slip Base for Maximum Stability | Compact Space-Saving Kitchen Design | Easy-to-Clean Removable Components | Quiet Operation & Nutrient Retention",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
           "name": "KITCHEN MACHINE + \nFOOD PROCESSOR",
           "model": "MMC1500",
           "regular": 3200,
           "sale": 2850,
           "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "KITCHEN MIXER MACHINE",
+          "model": "MMC800CW",
+          "regular": 1990,
+          "sale": 1790,
+          "features": "Powerful 800W High-Efficiency Motor | Large 5L Polished Stainless Steel Bowl | Precision 6-Speed Power Regulator | Instant Pulse Function for Extra Power | Heavy-Duty Metal Dough Hook Attachment | High-Performance Beater & Wire Whisk | Robust Design with Easy-to-Use Controls",
           "warranty": "1 Year"
         },
         {
@@ -3127,12 +3136,21 @@
       "warranty": "5 Years"
     },
     {
+      "category": "Air Conditioners",
+      "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
+      "model": "ACAMCH24DH",
+      "regular": 8200,
+      "sale": 5790,
+      "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+      "warranty": "5 Years"
+    },
+    {
       "category": "Blenders",
-      "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
-      "model": "BLC2880B",
-      "regular": 2300,
-      "sale": 2050,
-      "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+      "name": "COMMERCIAL BLENDER\n1.5L MECHANICAL",
+      "model": "DT-K80T",
+      "regular": 3200,
+      "sale": 2850,
+      "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
       "warranty": "1 Year"
     },
     {
@@ -3166,6 +3184,15 @@
   "spotlights": [
     {
       "category": "Air Conditioners",
+      "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+      "model": "12TR4RMEDJ01",
+      "regular": 9700,
+      "sale": null,
+      "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Air Conditioners",
       "name": "1.5HP INVERTER - COOLING & \nHEATING AIR CONDITIONER",
       "model": "12UW4GXETV00",
       "regular": 5800,
@@ -3174,13 +3201,13 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Air Conditioners",
-      "name": "1.5HP SPLIT\nAIR CONDITIONER",
-      "model": "12CR4SVDTG01",
-      "regular": 4290,
-      "sale": null,
-      "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
-      "warranty": "5 Years"
+      "category": "Wall Bracket",
+      "name": "DSTV DECODER & ACCESSORIES OFFER",
+      "model": "Model 1",
+      "regular": 633,
+      "sale": 0.0001,
+      "features": "Special Offer | 3 months Access subscription free | Energy Efficient Digital Performance | Crystal Clear High Definition Viewing | Dynamic Content Discovery Search Options | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
+      "warranty": "1 Year"
     },
     {
       "category": "Wall Bracket",
@@ -3199,6 +3226,15 @@
       "sale": 340,
       "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
       "warranty": "Not Applicable"
+    },
+    {
+      "category": "Blenders",
+      "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+      "model": "BLC2880B",
+      "regular": 2300,
+      "sale": 2050,
+      "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+      "warranty": "1 Year"
     }
   ],
   "essentials": [
@@ -3219,15 +3255,6 @@
       "sale": null,
       "features": "Ideal for 2.0HP & 2.5HP AC Units | Heavy-Duty 180kg Max Load Capacity | Anti-Rust Powder Coating for Outdoors | High-Strength Hard Steel Structure | Universal & Adjustable Mounting Patterns | Complete Installation Hardware Included | Quick & Easy DIY Installation Process | Step-by-Step User Manual Included | Reliable & Secure Wall-Mount Support",
       "warranty": "Not Applicable"
-    },
-    {
-      "category": "Wall Bracket",
-      "name": "DSTV DECODER & ACCESSORIES OFFER",
-      "model": "Model 1",
-      "regular": 633,
-      "sale": 0.0001,
-      "features": "Special Offer | 3 months Access subscription free | Energy Efficient Digital Performance | Crystal Clear High Definition Viewing | Dynamic Content Discovery Search Options | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
-      "warranty": "1 Year"
     },
     {
       "category": "Blenders",
@@ -3348,29 +3375,11 @@
     },
     {
       "category": "Blenders",
-      "name": "JUICE PRESS",
-      "model": "JC4800VWY",
-      "regular": 1550,
-      "sale": 1400,
-      "features": "Efficient 200W High-Torque Motor | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | Anti-Slip Base for Maximum Stability | Compact Space-Saving Kitchen Design | Easy-to-Clean Removable Components | Quiet Operation & Nutrient Retention",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Blenders",
       "name": "2-SPEED JUICER",
       "model": "JC805EII",
       "regular": 790,
       "sale": 700,
       "features": "Powerful 800W High-Efficiency Motor | XL Feeding Tube for Whole Fruits | Large 1.5L Pulp & Juice Containers | 2-Speed Settings for Soft & Hard Fruit | Clean-Flow Anti-Drip Spout System | Integrated Protective Dust Cover | Stainless Steel Micro-Mesh Filter",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Blenders",
-      "name": "KITCHEN MIXER MACHINE",
-      "model": "MMC800CW",
-      "regular": 1990,
-      "sale": 1790,
-      "features": "Powerful 800W High-Efficiency Motor | Large 5L Polished Stainless Steel Bowl | Precision 6-Speed Power Regulator | Instant Pulse Function for Extra Power | Heavy-Duty Metal Dough Hook Attachment | High-Performance Beater & Wire Whisk | Robust Design with Easy-to-Use Controls",
       "warranty": "1 Year"
     },
     {
@@ -3389,15 +3398,6 @@
       "regular": 800,
       "sale": 710,
       "features": "Precision Digital LED Control Panel | Powerful Ice Crushing Technology | Dedicated Dry Grinder Attachment | On-the-Go Drinking Spout Lid | Versatile High, Low & Pulse Speeds | Secure & Stable Non-Slip Suction Feet | Energy Efficient Smart Performance",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Blenders",
-      "name": "COMMERCIAL BLENDER\n1.5L MECHANICAL",
-      "model": "DT-K80T",
-      "regular": 3200,
-      "sale": 2850,
-      "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
       "warranty": "1 Year"
     },
     {
