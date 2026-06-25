@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T03:00:01.812Z",
+  "generatedAt": "2026-06-25T03:03:06.271Z",
   "title": "MEGA SAVERS",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -1780,6 +1780,24 @@
       "items": [
         {
           "category": "Mobile Phones",
+          "name": "C40 MOBILE PHONE",
+          "model": "AM-C40",
+          "regular": 580,
+          "sale": 300,
+          "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "H72 INFINITY MOBILE PHONE",
+          "model": "H72",
+          "regular": 1600,
+          "sale": 1200,
+          "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
           "name": "E72 MOBILE PHONE",
           "model": "E72",
           "regular": 1300,
@@ -2041,6 +2059,1237 @@
           "warranty": "1 Year"
         }
       ]
+    },
+    {
+      "category": "Showcases",
+      "items": [
+        {
+          "category": "Showcase Freezers",
+          "name": "213L SHOWCASE \nCHEST FREEZER",
+          "model": "FL-26DD4HA",
+          "regular": 4600,
+          "sale": null,
+          "features": "Advanced Energy Saving Performance | Instant Direct Cooling Technology | Elegant Sliding Inner Glass Door | Spacious Dual (2) Basket Storage | Mechanical Temperature Control | Secure Lock and Key Safety System | Eco-Friendly R600a Refrigerant Gas | Low Noise High-Efficiency Compressor | Convenient Manual Defrost System",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcase Fridges",
+          "name": "222L SHOWCASE \nUPRIGHT FRIDGE",
+          "model": "FL-30FC4SA",
+          "regular": 5000,
+          "sale": null,
+          "features": "High-Performance Energy Efficiency | 4 Heavy-Duty Adjustable Shelves | Forced Air-Ventilation System | Anti-Condensation Glass Technology | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Integrated Lock and Key Security | Eco-Friendly R600a Refrigerant Gas | Interior LED Visibility Lighting",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcase Fridges",
+          "name": "282L SHOWCASE \nUPRIGHT FRIDGE",
+          "model": "FL-37FC4SA",
+          "regular": 5900,
+          "sale": null,
+          "features": "High-Performance Energy Efficiency | 4 Heavy-Duty Adjustable Shelves | Forced Air-Ventilation System | Anti-Condensation Glass Technology | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Integrated Lock and Key Security | Eco-Friendly R600a Refrigerant Gas | Interior LED Visibility Lighting",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcase Freezers",
+          "name": "303L SHOWCASE \nCHEST FREEZER",
+          "model": "FL-39DD4HA",
+          "regular": 5500,
+          "sale": null,
+          "features": "High-Efficiency Energy Saving | Instant Direct Cooling Technology | Elegant Sliding Inner Glass Door | Spacious Triple (3) Basket Storage | Mechanical Temperature Control | Secure Lock and Key Safety System | Eco-Friendly R290 Refrigerant Gas | Ultra-Low Noise Operation | Convenient Manual Defrost System",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcase Freezers",
+          "name": "353L SHOWCASE \nCHEST FREEZER",
+          "model": "FL-46DD4HA",
+          "regular": 7000,
+          "sale": null,
+          "features": "Advanced Energy Saving Technology | Instant Direct Cooling Performance | Protective Sun-Proof Cover Cloth | Elegant Sliding Inner Glass Door | Massive 5-Basket Storage System | Secure Key Lock Security System | Bright Internal LED Lighting | Eco-Friendly R290 Refrigerant Gas | Low-Noise Design with Easy-Roll Wheels",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcase Fridges",
+          "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
+          "model": "FL-50FC4SA",
+          "regular": 7200,
+          "sale": null,
+          "features": "High-Performance Energy Efficiency | Forced Air-Ventilation Technology | Anti-Condensation Glass System | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Heavy-Duty Adjustable Shelving | Internal LED Visibility Lighting | Integrated Lock and Key Security | Eco-Friendly Refrigerant System",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcase Freezers",
+          "name": "518L SHOWCASE\nCHEST FREEZER",
+          "model": "FL-67DD4HA",
+          "regular": 8400,
+          "sale": null,
+          "features": "New Item Coming Soon",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcase Fridges",
+          "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
+          "model": "FL-81WC",
+          "regular": 11990,
+          "sale": null,
+          "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
+          "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "Sound Systems",
+      "items": [
+        {
+          "category": "Sound Systems",
+          "name": "3.1.2CH SOUNDBAR \nWIRELESS SUBWOOFER",
+          "model": "AX3100Q",
+          "regular": 2300,
+          "sale": 1690,
+          "features": "High Energy Efficiency For Power Savings | Powerful 500W Total Output Performance | Immersive 3.1 Channel Audio Experience | Fast Bluetooth 5.3 Wireless Connectivity | Dolby Atmos And Dolby Digital Audio | Advanced Hi-Concerto Smart Function | Powerful 6.5 Inch Wireless Subwoofer | Versatile 7 Preset Equalizer Modes | Clear LED Display With HDMI ARC",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "3.1.2CH SOUNDBAR \nWIRELESS SUBWOOFER",
+          "model": "AX3120G",
+          "regular": 3200,
+          "sale": 2290,
+          "features": "3.1.2ch Immmersive Surround Sound | Cinema-Grade Dolby Atmos Support | 360W Max High-Output Audio Power | 7 Tailored Professional Sound Modes | Advanced Roku TV Ready Integration | Super Quality Bass Boost Technology | High-Fidelity Dolby Digital Audio | Advanced Bluetooth & USB Streaming | Optical, AV, and Multi-Port Connectivity",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "3.1.2CH SOUNDBAR \nWIRELESS SUBWOOFER",
+          "model": "AX3120Q",
+          "regular": 3300,
+          "sale": 2290,
+          "features": "High Energy Efficiency For Power Savings | Powerful 440W Max Audio Performance | Immersive 3.1.2 Channel Audio System | Dolby Digital Plus And DTS Virtual X | Fast Bluetooth Wireless Audio Streaming | Dual Rear Surround Speaker Technology | Advanced Hi Concerto Smart Function | Sleek And Stylish Soundbar Design | Powerful 6.5 Inch Wireless Subwoofer",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "5.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
+          "model": "AX5100Q",
+          "regular": 2800,
+          "sale": 1990,
+          "features": "High Energy Efficiency For Power Savings | Powerful 580W Total Output Performance | Immersive 5.1 Channel Audio Experience | Fast Bluetooth 5.3 Wireless Connectivity | Dolby Atmos And Dolby Digital Audio | Advanced Hi-Concerto Smart Function | Powerful 6.5 Inch Wireless Subwoofer | Versatile 7 Preset Equalizer Modes | Clear LED Display With HDMI EARC",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "SOUNDBAR WITH \r\nWIRELESS SUBWOOFER",
+          "model": "ES13",
+          "regular": 1800,
+          "sale": 1150,
+          "features": "Sleek & Stylish High-Profile Design | Powerful 120W Total Audio Output | 6.5-Inch High-Performance Wireless Subwoofer | Advanced Bluetooth Wireless Connectivity | HDMI ARC Input for Seamless TV Sync | Optical & Coaxial Digital Audio Inputs | Plug & Play USB Media Function | Bright Integrated LED Display | Full-Function Wireless Remote Control",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "PORTABLE BLUETOOTH SPEAKER",
+          "model": "SEET510BK",
+          "regular": 1350,
+          "sale": 950,
+          "features": "Powerful 65W High-Output Audio | Dual 4-Inch High-Fidelity Stereo Drivers | IPX5 Professional Waterproof Enclosure | TWS Wireless Surround Sound Pairing | Advanced Bluetooth 5.3 Technology | 8-Hour High-Capacity Rechargeable Battery | Dynamic Multi-Color LED Light Modes | Dedicated Microphone Input for Karaoke | Integrated Heavy-Duty Carrying Handle",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "PORTABLE BLUETOOTH SPEAKER",
+          "model": "SEET510DG",
+          "regular": 1350,
+          "sale": 950,
+          "features": "Powerful 65W High-Output Audio | Dual 4-Inch High-Fidelity Stereo Drivers | IPX5 Professional Waterproof Enclosure | TWS Wireless Surround Sound Pairing | Advanced Bluetooth 5.3 Technology | 8-Hour High-Capacity Rechargeable Battery | Dynamic Multi-Color LED Light Modes | Dedicated Microphone Input for Karaoke | Integrated Heavy-Duty Carrying Handle",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.1CH MINI HI-FI SPEAKERS \nWITH SUBWOOFER",
+          "model": "HA700",
+          "regular": 3200,
+          "sale": 2200,
+          "features": "Powerful 810W Total Power Output | Dedicated 7-Inch Subwoofer For Bass | Seamless Bluetooth Wireless Streaming | Professional Level Karaoke Studio | Integrated Voice Canceller Feature | Convenient Tap To Pair NFC Technology | Dynamic Echo And Key Change Control | Versatile USB And TF Card Playback | Built-In FM Radio With Preset Tuning",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH WIRELESS INDOOR \nOUTDOOR SOUND SYSTEM",
+          "model": "HP100",
+          "regular": 3100,
+          "sale": 2090,
+          "features": "High-Performance Super Bass Boost | 15-Hour Long-Lasting Battery Playtime | Rugged Waterproof Exterior Build | Dynamic Multi-Color Party Lighting | Dedicated Guitar Input for Musicians | Advanced Bluetooth & Aux Connectivity | Plug & Play USB (MP3/WMA/WAV) Support | Integrated FM Radio Tuner | Dual Power Modes (Built-in Battery & DC Input)",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH RECHARGEABLE  WIRELESS PARTY ROCKER",
+          "model": "HP110",
+          "regular": 3700,
+          "sale": 2690,
+          "features": "High Energy Efficiency For Power Savings | Powerful 300W Max Audio Performance | Fast Bluetooth Wireless Audio Streaming | Advanced Bass Boost Sound Technology | Dual 5.25 Inch Woofers And Tweeters | Dynamic Flashing LED Light Effects | Versatile Karaoke And Guitar Inputs | Professional EQ Adjustment Settings | Clear LED Display For Easy Navigation",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH PARTY THUNDER\nSPEAKER SYSTEM",
+          "model": "HP300",
+          "regular": 2890,
+          "sale": 2220,
+          "features": "Thunderous Max 620W High-Power Output | Professional DJ Mode & Voice Changer | Dedicated Guitar & Microphone Inputs | Immersive RGB Multi-Color Light Show | Stable Bluetooth 5.0 Wireless Audio | Versatile USB Recording & Playback | TWS Wireless Stereo Speaker Pairing | Digital LED Display & FM Radio Tuning | Punchy Bass & Custom Equalizer Modes",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH PARTY THUNDER RECHARGABLE SPEAKER",
+          "model": "HP500",
+          "regular": 4600,
+          "sale": 3200,
+          "features": "High Energy Efficiency Power Management | Powerful 620W Maximum Audio Output | Dynamic 2.0 Channel Surround Sound | Integrated Six Speaker Array System | Advanced AI Synchronized Light Show | Long Lasting 18 Hour Battery Life | Wireless Auracast Multi Speaker Link | Portable Design with Wheels and Handle | Splash Proof IPX4 Water Resistance",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH SOUNDBAR\nWIRELESS SUBWOOFER",
+          "model": "HS1800",
+          "regular": 1150,
+          "sale": 790,
+          "features": "Sleek & Stylish High-Profile Design | 140W Max High-Output Audio Power | 3 Tailored Professional Equalizer Modes | Precision Crystal-Clear Audio Output | HDMI ARC Input for Seamless TV Sync | Advanced Bluetooth Wireless Streaming | Optical, Aux, and USB Playback Inputs | Integrated Wall Mount Fixation System | All-in-One Multi-Source Connectivity",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH SOUNDBAR\nWIRELESS SUBWOOFER",
+          "model": "HS2100",
+          "regular": 1750,
+          "sale": 1190,
+          "features": "2.0ch Sleek & Stylish Profile | High-Fidelity Dolby Digital Audio | Advanced Six-Mode Professional Equalizer | Super Powerful Bass Technology | Smart EZ Play Control Integration | Latest Bluetooth 5.3 & FM Radio | HDMI ARC Seamless TV Connection | Optical, Aux, & USB Connectivity | Full-Function Wireless Remote Control",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
+          "model": "HS2100FM",
+          "regular": 1750,
+          "sale": 1190,
+          "features": "2.1ch Sleek & Stylish Design | Cinema-Grade Dolby Atmos Support | Superior Loud & Deep Bass Technology | HDMI ARC Output for Seamless TV Sync | Professional Multi-EQ Sound Modes | Advanced Bluetooth Wireless Streaming | High-Fidelity Optical Digital Input | Aux-In & Specialized TV Audio Modes | Plug & Play USB Port & Remote Control",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "3.1CH SOUNDBAR\nWIRELESS SUBWOOFER",
+          "model": "HS3100",
+          "regular": 1990,
+          "sale": 1390,
+          "features": "3.1ch Sleek & Stylish Audio System | Cinema-Grade Dolby Atmos Support | Massive 480W Max High-Output Power | Advanced DTS Connectivity & Surround | Smart Roku TV Ready Integration | Pure Surround Sound Technology | HDMI ARC & Optical Digital Inputs | Advanced Bluetooth & USB Playback | Bright Integrated LED Status Display",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "5.1CH SOUNDBAR\nWIRELESS SUBWOOFER",
+          "model": "HS5100",
+          "regular": 2400,
+          "sale": 1690,
+          "features": "5.1ch Sleek & Stylish Home Theater | Cinema-Grade Dolby Atmos Support | Massive 540W Max High-Output Power | Dual (2) Additional Surround Speakers | Professional 6-Mode Equalizer System | Advanced DTS Connectivity & Pure Surround | Smart Roku TV Ready Integration | HDMI ARC & Optical Digital Inputs | Multi-Source Bluetooth & USB Playback",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "4.1.2CH HOME THEATRE\nWIRELESS SUBWOOFER",
+          "model": "HT SATURN",
+          "regular": 5250,
+          "sale": 3990,
+          "features": "Advanced Wireless Subwoofer System | Dual (2) High-Speed HDMI Inputs | HDMI Output with ARC Support | Precision Crystal-Clear Audio Output | Seamless Bluetooth Audio Streaming | High-Fidelity Optical Digital Input | Plug & Play USB Media Playback | Universal Aux-In (3.5mm) Connectivity | Multi-Source Smart Audio Switching",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
+          "model": "HT-350",
+          "regular": 1750,
+          "sale": 1090,
+          "features": "Crystal-Clear High-Fidelity Audio | Seamless Bluetooth Wireless Streaming | Advanced HDMI (ARC) Connectivity | Digital Optical Input for HD Sound | High-Visibility LED Digital Display | Multi-Source Device Connectivity | Convenient USB Direct Media Playback | Versatile 3.5mm AUX Audio Input | Sleek & Modern Space-Saving Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
+          "model": "HT-360",
+          "regular": 1750,
+          "sale": 1170,
+          "features": "Bluetooth 5.0 Wireless Music Streaming | Total Power Output Of 110W RMS | Sleek Design Fits Under Flat Panels | Super Wooden Subwoofer For Deep Bass | Plug And Play USB Reader Decoding | Digital Audio Support Through Optical | Bright LED Display With Wide Angle | Full Function Remote Control Access | Wireless Connectivity For Subwoofer",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "5.1CH SOUNDBAR\nWIRELESS SUBWOOFER",
+          "model": "HT-500DA",
+          "regular": 3990,
+          "sale": 2690,
+          "features": "5.1.2ch Cinematic Surround Sound | Cinema-Grade Dolby Atmos Support | Dual (2) Dedicated Surround Speakers | High-Fidelity (HiFi) Sound Quality | 190W High-Efficiency Power Output | Smart Mobile App Control Integration | Latest Bluetooth 5.3 Technology | 6 Professional EQ Sound Modes | HDMI ARC, Optical, and Aux Connectivity",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "SSM111 MULTIMEDIA\nTOWER SPEAKER",
+          "model": "SSM111",
+          "regular": 1900,
+          "sale": 1290,
+          "features": "Powerful 2.0ch Multimedia Audio System | Dual 8\" Woofers & Dual 4\" Tweeters | Pro Karaoke System with Wireless Microphone | HDMI ARC & Optical Digital Audio Inputs | Advanced Bluetooth Connect Technology | Plug & Play USB and SD/MMC Card Inputs | Integrated Digital FM Radio Tuner | Bright High-Visibility LED Display | Fully Functional Wireless Remote Control",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "WIRELESS PARTY ROCKET\nRECHARGEABLE SPEAKER",
+          "model": "PR160",
+          "regular": 1700,
+          "sale": 1190,
+          "features": "Powerful 160W High-Output Audio | Up To 12-Hour Extended Battery Life | Dynamic RGB Multi-Color LED Lights | Advanced Wireless Bluetooth Connectivity | High-Impact Bass Boost Technology | Smart USB Media Playback & Device Charging | Integrated Karaoke & Microphone Support | Universal Aux-In (3.5mm) Connectivity | Rugged Design for Outdoor Gatherings",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.1CH TOWER SPEAKER",
+          "model": "T-200X",
+          "regular": 1250,
+          "sale": 880,
+          "features": "Massive 8-Inch High-Output Subwoofer | Three-Way Professional Acoustic Design | 1-Inch High-Fidelity Silk Dome Tweeter | Full-Function Karaoke System | Integrated In-Built Wireless Microphone | Advanced Bluetooth & Optical Connectivity | Plug & Play USB & Analogue Audio Inputs | Digital FM Radio Station Tuner | Bright Wide-Angle LED Status Display",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH TOWER SPEAKER",
+          "model": "T-35X",
+          "regular": 1600,
+          "sale": 990,
+          "features": "Massive 8-Inch High-Output Subwoofer | Three-Way Professional Acoustic Design | 1-Inch High-Fidelity Silk Dome Tweeter | In-Built Wireless Microphone System | Advanced Bluetooth & Optical Connectivity | Professional Karaoke Functionality | Digital FM Radio Station Tuner | Plug & Play USB & Analogue Audio Inputs | Bright Wide-Angle LED Status Display",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH TOWER SPEAKER",
+          "model": "T-60X PRO",
+          "regular": 2300,
+          "sale": 1550,
+          "features": "Massive 8-Inch High-Output Subwoofer | Elegant High-Density Wooden Cabinet Design | Powerful Sound Performance in a Slim Profile | Advanced Bluetooth & NFC Wireless Connectivity | High-Fidelity Optical & Coaxial Digital Inputs | Integrated Wireless Karaoke Microphone System | Digital FM Radio with Multi-Station Tuning | Bright Wide-Angle LED Status Display | Full-Function Wireless Remote & Panel Keys",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH MULTIMEDIA\nTOWER SPEAKER",
+          "model": "T-88X",
+          "regular": 4790,
+          "sale": 3590,
+          "features": "Massive 10-Inch High-Output Subwoofer | Professional Three-Way Acoustic Design | Elegant Hand-Finished Wooden Cabinet | High-Fidelity 5.25\" Woofer & 1\" Tweeter | Integrated Professional Karaoke Function | Advanced Bluetooth Wireless Connectivity | Plug & Play USB & Optical Digital Inputs | Digital FM Radio with 100-Station Memory | Bright Wide-Angle LED Status Display",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "TOSHIBA 2.1CH SOUNDBAR WITH WIRELESS SUBWOOFER",
+          "model": "C210WR",
+          "regular": 1890,
+          "sale": 1350,
+          "features": "Energy Efficient Subwoofer System | Impressive Two Point One Audio Channel | Powerful Two Hundred Forty Watts Output | Premium Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Enhanced Cinematic Audio Performance | Deep Dynamic Bass Reproduction | Modern Minimalist Audio Setup",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "TOSHIBA 3.1CH SOUNDBAR WITH WIRELESS SUBWOOFER",
+          "model": "M310WR",
+          "regular": 2490,
+          "sale": 1850,
+          "features": "Energy Efficient Audio Engineering | Powerful Five Hundred Watts Output | Immersive Three Point One Audio Channel | Premium Toshiba Soundbar Quality | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Cinematic Crystal Clear Dialogue | Deep Room Filling Dynamic Bass | High Performance Sound System",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "TOSHIBA 5.1CH SOUNDBAR WITH WIRELESS SUBWOOFER",
+          "model": "M510WR",
+          "regular": 2990,
+          "sale": 2200,
+          "features": "Energy Efficient Audio Design | Powerful Five Hundred Watts Output | Premium Five Point One Audio Channel | Elite Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Immersive Surround Sound Experience | Deep Rich Dynamic Bass Performance | High Fidelity Home Theater System",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "7.1.2CH SOUNDBAR\nWIRELESS SUBWOOFER",
+          "model": "U5120GW+",
+          "regular": 7500,
+          "sale": 5590,
+          "features": "Sleek & Stylish High-Profile Soundbar | Cinema-Grade Dolby Atmos Surround Sound | Massive 570W Total High-Output Power | Advanced 7.1.2 Surround System Architecture | High-Performance Wireless Subwoofer | 4K HDR Pass-Through for Ultra-HD Visuals | Advanced HDMI ARC & Optical Connectivity | Bluetooth 4.2 & Type-C/USB Multimedia Ports | Full-Function Wireless Remote Control",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
+          "model": "11000-G21",
+          "regular": 3500,
+          "sale": 2590,
+          "features": "Massive 15-Inch High-Output Woofer | Powerful 300W Total Audio Output | Dual (2) Microphone Inputs for Karaoke | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Equalizer Control | Plug & Play USB Player & SD Card Reader | Dynamic Flashing Party LED Speaker Lights | Integrated Digital FM Radio Tuner | Dual (2) Aux-In Ports & High-Visibility LED Display",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.2CH MULTIMEDIA \nSPEAKER SYSTEM",
+          "model": "M20002-221",
+          "regular": 2800,
+          "sale": 1990,
+          "features": "Massive 8-Inch High-Output Subwoofer | Powerful 300W Total Audio Output | Professional Integrated Karaoke System | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Plug & Play USB Media Player & FM Radio | Universal Aux-In & Multi-Device Compatibility | High-Visibility Bright LED Status Display",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
+          "model": "35000-N8F",
+          "regular": 1490,
+          "sale": 990,
+          "features": "Powerful 200W Total Audio Output | Dual (2) Microphone Inputs for Karaoke | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Precision Digital Control Knob Interface | Plug & Play USB Player & Digital FM Radio | Universal Aux-In Port & Multi-Device Support | Full-Function Wireless Remote Control",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.1CH MULTIMEDIA \nSPEAKER SYSTEM",
+          "model": "45000-N8FD",
+          "regular": 1890,
+          "sale": 1350,
+          "features": "Massive 8-Inch High-Output Subwoofer | Powerful 250W Total Audio Output | Dual (2) Microphone Ports for Karaoke | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Professional Integrated Equalizer System | Plug & Play USB Player & Digital FM Radio | High-Visibility LED Display & Aux-In Port",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
+          "model": "18500-T5",
+          "regular": 5350,
+          "sale": 3890,
+          "features": "Massive 12-Inch High-Output Subwoofer | Thunderous 500W Total Output Power | Integrated DVD Player with Video Output | Dynamic Flashing Multi-Color LED Lights | Professional Microphone Input for Karaoke | Advanced Bluetooth & FM Radio Connectivity | Plug & Play USB Player & SD Card Reader | Independent Bass & Treble Tuning Controls | Multi-Port Audio/Video Output & Aux-In",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.2 MULTIMEDIA SPEAKER \nSYSTEM WITH SUBWOOFER",
+          "model": "722-XA900N",
+          "regular": 7500,
+          "sale": 5150,
+          "features": "Unique Two-in-One Full Operating Sound System | Dual (2) Professional Wireless Microphones | Advanced Dual Bluetooth Audio Streaming | Precision Crystal-Clear High-Fidelity Audio | HDMI ARC & High-Speed Optical Digital Inputs | Integrated FM Radio & USB/Memory Card Playback | Dynamic Multi-Color Integrated LED Speaker Lights | Dedicated Microphone Input for Extra Connectivity | High-Visibility LED Display & Multi-Source Support",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
+          "model": "L2600 - Y3",
+          "regular": 4300,
+          "sale": 3090,
+          "features": "Professional Home Entertainment Audio System | HDMI Video Output for TV Integration | Dual (2) Microphone Inputs for Karaoke | Dynamic Multi-Color Flashing LED Lights | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Multi-Band Professional Equalizer System | Plug & Play USB Player & SD Card Reader | Integrated FM Radio & High-Visibility LED Display",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
+          "model": "50001-Y5",
+          "regular": 6700,
+          "sale": 4790,
+          "features": "Integrated DVD Player with Video Output | Universal Wireless Smartphone Charging Platform | Anti-Slip Safety Pad for Charging Platform | Dynamic Amp & Speaker Flashing LED Lights | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Professional Multi-Band Equalizer System | Independent Bass & Treble Tuning Controls | HDMI Video Output & USB Media Playback",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "PROFESSIONAL PA \nSPEAKER SYSTEM",
+          "model": "PA300A",
+          "regular": 6800,
+          "sale": 4790,
+          "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
+          "warranty": "3 Years"
+        }
+      ]
+    },
+    {
+      "category": "Televisions",
+      "items": [
+        {
+          "category": "Televisions",
+          "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
+          "model": "100E80KAVS",
+          "regular": 38000,
+          "sale": 25990,
+          "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Professional 144Hz Game Mode Pro | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
+          "model": "100E75LEVS",
+          "regular": 28000,
+          "sale": 19990,
+          "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
+          "model": "110UXNQ",
+          "regular": 185000,
+          "sale": 138000,
+          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
+          "model": "116UX",
+          "regular": 250000,
+          "sale": 159900,
+          "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "32” DIGITAL SATELLITE \nANDROID TELEVISION",
+          "model": "TVAM32ANDSTV",
+          "regular": 1950,
+          "sale": 1500,
+          "features": "Sleek Frameless & Modern Panel Design | Powerful Android 12 Smart OS Integration | Full HD 1080p High-Definition Clarity | Cinema-Grade Dolby Audio Sound System | Built-in WiFi & High-Speed LAN Ethernet | Screen Mirroring & Kindlink Content Sharing | Pre-installed Netflix, YouTube & Movie Ark | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "32” DIGITAL SATELLITE\nTELEVISION",
+          "model": "32A5200FS",
+          "regular": 1550,
+          "sale": 950,
+          "features": "Sleek Metal Bezelless Modern Design | Full HD 1080p High-Definition Resolution | Advanced Natural Colour Enhancer Tech | Clear & Immersive Cinematic Picture Quality | Dolby Digital Plus Professional Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Wall Bracket & Remote Control Included",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "32” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
+          "model": "TVAM32DSTVDG",
+          "regular": 1650,
+          "sale": 940,
+          "features": "Premium Elegant Slim-Profile Design | Full HD 1080p High-Definition Resolution | Ultra-Durable Double Glass Screen Protection | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Ports | Intuitive User-Friendly Smart Interface | Independent Bass & Treble Audio Controls | Universal Headphone & AV Input Ports | Complimentary Wall Bracket Included",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "32” DIGITAL SATELLITE\nTELEVISION",
+          "model": "NAMCH32M10P",
+          "regular": 1500,
+          "sale": 900,
+          "features": "Elegant Slim and Sleek Cabinet Design | Cinema-Grade Dolby Atmos Audio Support | Integrated Digital Satellite TV Reception | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 55W Power Consumption | Vivid HD 720p High-Definition Resolution | Unique Smartside Integrated Keyboard | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "32” DIGITAL SATELLITE\nTELEVISION",
+          "model": "HE32M2160HTSQI",
+          "regular": 1550,
+          "sale": 940,
+          "features": "Elegant Slim and Sleek Cabinet Design | Cinema-Grade Dolby Atmos Audio Support | Integrated Digital Satellite TV Reception | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 55W Power Consumption | Vivid HD 720p High-Definition Resolution | Unique Smartside Integrated Keyboard | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "32” DIGITAL SATELLITE \nSMART QLED TELEVISION",
+          "model": "32A5Q",
+          "regular": 2800,
+          "sale": 2100,
+          "features": "Full HD 1080p Resolution with HDR10 | Advanced VIDAA Smart Voice Assistance | Cinema-Grade Dolby Atmos Audio Support | High-Speed Dual-Band WiFi & LAN Ethernet | Game Mode Plus for Ultra-Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | High-Speed Optical & Headphone Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "32” DIGITAL SATELLITE\nSMART TELEVISION",
+          "model": "32A4Q",
+          "regular": 2400,
+          "sale": 1390,
+          "features": "Sleek Metal Bezelless Modern Design | Integrated Smart TV with In-Built WiFi & LAN | Pre-installed Netflix, YouTube & NBA Apps | One-Touch Remote Access to Top Content | Cinema-Grade Dolby Audio & Equalizer System | Digital Satellite TV Reception (Built-In Tuner) | Smart Screen Mirroring & Content Sharing | Dual (2) HDMI & Dual (2) USB Connectivity | Digital Audio Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "40” DIGITAL SATELLITE \nSMART QLED TELEVISION",
+          "model": "40A5Q",
+          "regular": 3890,
+          "sale": 2700,
+          "features": "Vibrant Quantum Dot Colour Technology | Full HD 1080p Resolution with HDR10 | In-Built High-Speed Dual-Band WiFi & LAN | Cinema-Grade Dolby Atmos Surround Sound | Advanced Game Mode Plus for Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | Wireless Cast Feature & Screen Mirroring",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
+          "model": "TVAM43ANDDSDG",
+          "regular": 2800,
+          "sale": 2100,
+          "features": "Sleek Slim and Frameless Panel Design | Ultra-HD 4K 2160p Cinematic Resolution | Advanced Dolby System Audio Technology | In-Built High-Speed WiFi & LAN Ethernet | Smart Screen Mirroring & Content Casting | Integrated Digital and Satellite TV Tuner | Triple (3) HDMI & Dual (2) USB Connectivity | High-Speed Coaxial Digital Audio Output | Full-Function Remote & Wall Bracket Included",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
+          "model": "43B7101UWSQO",
+          "regular": 3200,
+          "sale": 2300,
+          "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "43\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH43M10GP",
+          "regular": 3300,
+          "sale": 2400,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistant | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with ARC Support | High-Speed Wi-Fi & LAN Connectivity | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "43” DIGITAL SATELLITE\nTELEVISION",
+          "model": "43A5200FS",
+          "regular": 2700,
+          "sale": 1700,
+          "features": "Full HD 1080p High-Definition Resolution | Clear & Immersive Cinematic Picture Quality | Advanced Natural Colour Enhancer Tech | Cinema-Grade Dolby Digital Plus Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Universal Headphone & AV Input Ports | Wall Bracket & Remote Control Included",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "43” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
+          "model": "TVAM43DSTVDG",
+          "regular": 2500,
+          "sale": 1600,
+          "features": "High-Definition 1080p HD Resolution | Superior Visual Clarity & Brilliant Color | Integrated Digital & Satellite TV Tuner | Access to Diverse Satellite Free Channels | High-Volume Quality Audio Sound System | Intuitive User-Friendly Media Interface | Triple (3) HDMI & Dual (2) USB Connectivity | Sleek & Durable Integrated TV Stand | Energy-Efficient LED Display Technology",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "43” DIGITAL SATELLITE\nTELEVISION",
+          "model": "NAMCH43M10P",
+          "regular": 2500,
+          "sale": 1550,
+          "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "43” DIGITAL SATELLITE\nTELEVISION",
+          "model": "HE43M2160HTSQI",
+          "regular": 2600,
+          "sale": 1600,
+          "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "43” DIGITAL SMART\n QLED TELEVISION",
+          "model": "43A4Q",
+          "regular": 4300,
+          "sale": 3090,
+          "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "43” DIGITAL SATELLITE \nSMART TELEVISION",
+          "model": "43A4Q",
+          "regular": 3450,
+          "sale": 2690,
+          "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "50'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
+          "model": "50B7101UWSQO",
+          "regular": 4000,
+          "sale": 3600,
+          "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Pre-Installed Netflix & Streaming Apps | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "50\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH50M10GP",
+          "regular": 4790,
+          "sale": 3390,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with 4K Support | Eco-Friendly Energy Efficient Design | Bluetooth & High-Speed Wi-Fi Connectivity",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "50” SMART DIGITAL \n4K T2 TELEVISION",
+          "model": "50A6Q",
+          "regular": 4900,
+          "sale": 3500,
+          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Triple HDMI Ports with ARC Support | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Dual USB, AV, Optical & Headphone Ports | In-Built High-Speed Wi-Fi & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "50” SMART DIGITAL \n2K T2 TELEVISION",
+          "model": "50A40",
+          "regular": 3990,
+          "sale": 3400,
+          "features": "Sleek Frameless & Modern Panel Design | Ultra-HD 4K Cinematic Resolution | Advanced Dolby Vision HDR Technology | VIDAA U Smart OS with App Integration | Intelligent VIDAA Voice Assistance | In-Built High-Speed Wi-Fi & LAN Ethernet | Wireless Cast Feature & Content Sharing | Integrated Digital TV Reception Tuner | Triple (3) HDMI & Dual (2) USB Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "55\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH55M10GP",
+          "regular": 5750,
+          "sale": 4100,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Smooth 4K 60Hz High Refresh Rate | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "50'' SMART\nQLED TELEVISION",
+          "model": "50Q5S",
+          "regular": null,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Smart QLED 4K Display | Quantum Dot Color Technology | Ultra Slim Modern Design | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI And USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "55\" SMART DIGITAL\n4K T2 TELEVISION",
+          "model": "55A6H",
+          "regular": 5900,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Fast & Intuitive VIDAA U Smart OS | Smart VIDAA Voice Assistant Support | Seamless Mobile Casting & Sharing | Built-in WiFi & Digital TV Reception | High-Speed LAN & Digital Audio Ports | One-Touch Quick App Access Hotkeys",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "55” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+          "model": "55U6K-PRO",
+          "regular": 7800,
+          "sale": 5990,
+          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "55” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "#N/A",
+          "regular": 9490,
+          "sale": null,
+          "features": "Sleek Elegant Design with Bass Boost Audio | 4K ULED HDR+ with Dolby Vision IQ & Atmos | Full Array Dimming for Deep Black Levels | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed  WiFi & Bluetooth | Mobile Music Playback via TV Sound Output | Smart Wireless Content Sharing Features | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Inputs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "55” SMART DIGITAL \n4K QLED TELEVISION",
+          "model": "55Q6Q",
+          "regular": 6200,
+          "sale": 4690,
+          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "55” SMART ULTRA PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "55U7K",
+          "regular": 9900,
+          "sale": null,
+          "features": "Elegant Slim Design with Quality Bass Boost | 4K ULED HDR+ for Flagship Picture Quality | Intelligent Dolby Vision IQ Light Optimization | Dolby Vision Atmos Surround Sound | Mobile Music Playback via TV Sound Output | Wireless Cast Feature & Bluetooth Streaming | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | Optical Audio Output & Headphone Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "58” SMART DIGITAL \n4K T2 TELEVISION",
+          "model": "58A6N",
+          "regular": 6150,
+          "sale": 4150,
+          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "65'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
+          "model": "65B7101UWSQO",
+          "regular": 6800,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Pre-Installed Netflix & Streaming Apps | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "65\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
+          "model": "SAMCH65N9E",
+          "regular": 8400,
+          "sale": 5990,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "65\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH65M10GP",
+          "regular": 7690,
+          "sale": 5200,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "65” SMART DIGITAL\n4K T2 TELEVISION",
+          "model": "65A6H",
+          "regular": 9400,
+          "sale": null,
+          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "65” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+          "model": "65U6Q PRO",
+          "regular": 10750,
+          "sale": 7750,
+          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "65” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "65SMPMLEDTV",
+          "regular": 13000,
+          "sale": 9190,
+          "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "65'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "65Q7Q",
+          "regular": 9500,
+          "sale": 6990,
+          "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "65” SMART DIGITAL \n4K QLED TELEVISION",
+          "model": "65Q6Q",
+          "regular": 8700,
+          "sale": 6690,
+          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "75'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
+          "model": "75B7101UWSQO",
+          "regular": 11600,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Pre-Installed Netflix & Streaming Apps | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "75\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
+          "model": "SAMCH75N9E",
+          "regular": 12000,
+          "sale": 7690,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "75\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH75M10GP",
+          "regular": 10500,
+          "sale": 6990,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "75” SMART DIGITAL \n4K T2 TELEVISION",
+          "model": "75A6N",
+          "regular": 10500,
+          "sale": null,
+          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "75”SMART DIGITAL 8K \nMINI-LED PRO TELEVISION",
+          "model": "75U80H",
+          "regular": 42500,
+          "sale": 26000,
+          "features": "Ultra-High-Definition Native 8K Resolution | 8K AI Upscaler & Hi-View Engine Pro | Dolby Vision IQ & Dolby Atmos Surround Sound | Professional 8K Ultra-HD Game Mode Pro | Integrated Quality Bass Boost Audio System | Apple AirPlay & Bluetooth Wireless Streaming | High-Speed Dual-Band WiFi & LAN Ethernet | Quad (4) HDMI & Dual (2) USB Connectivity | Digital TV Reception & Multi-Source Inputs",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "75” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+          "model": "75U6N PRO",
+          "regular": 14900,
+          "sale": 10490,
+          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "75” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "75U7N",
+          "regular": 15900,
+          "sale": 11390,
+          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Color Technology | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro Performance | Hands-Free Voice Control Smart Interaction | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Bluetooth & Cast Features | Quad (4) HDMI ARC & Digital TV Reception",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "75” SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "75Q7Q",
+          "regular": 14500,
+          "sale": 9390,
+          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "75” SMART DIGITAL \n4K QLED TELEVISION",
+          "model": "75Q6Q",
+          "regular": 11500,
+          "sale": 8490,
+          "features": "Super Large Screen Slim & Sleek Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | In-Built High-Speed Dual-Band WiFi | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "85\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH85M9XW",
+          "regular": 17900,
+          "sale": 10900,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "85'' SMART DIGITAL\n4K T2 TELEVISION",
+          "model": "85A7K",
+          "regular": 18900,
+          "sale": null,
+          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "85” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+          "model": "85U6N-PRO",
+          "regular": 19500,
+          "sale": null,
+          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "85'' SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "85Q7Q",
+          "regular": 25000,
+          "sale": 16990,
+          "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Colour Technology | Professional 144Hz Game Mode Pro | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed WiFi & Bluetooth | Mobile Music Playback via TV Sound Output | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "85'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "",
+          "regular": 18900,
+          "sale": 13390,
+          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "85'' SMART 4K QLED TELEVISION",
+          "model": "85Q6N",
+          "regular": 17900,
+          "sale": 12990,
+          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour Technology | Dolby Vision & Dolby Atmos Integrated | Full Array Local Dimming Panel | High View Engine Picture Processor | Smooth Motion Rate Clarity | Advanced Voice Assistant Control | Quad (4) HDMI & Dual (2) USB Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "98\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH98F8TM",
+          "regular": 33000,
+          "sale": 24490,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "98\" SMART DIGITAL \nULED TELEVISION",
+          "model": "98E7G-PRO",
+          "regular": 37000,
+          "sale": 32750,
+          "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Toshiba",
+          "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
+          "model": "100Z670RP",
+          "regular": 29000,
+          "sale": 21990,
+          "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Toshiba",
+          "name": "32” DIGITAL HD\nSMART TV",
+          "model": "32V35RP",
+          "regular": 2600,
+          "sale": 1590,
+          "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Toshiba",
+          "name": "43” DIGITAL 2K\nSMART TELEVISION",
+          "model": "43V35RP",
+          "regular": 3600,
+          "sale": 2890,
+          "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Immersive DTS Virtual X Audio | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Toshiba",
+          "name": "50\" SMART QLED \n4K TELEVISION",
+          "model": "50V45RP",
+          "regular": 5800,
+          "sale": 4390,
+          "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Toshiba",
+          "name": "65\" SMART QLED \n4K TELEVISION",
+          "model": "65V45RP",
+          "regular": 9900,
+          "sale": 6890,
+          "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Toshiba",
+          "name": "75\" SMART MINI LED\n4K TELEVISION",
+          "model": "75V77RP",
+          "regular": 17900,
+          "sale": 13390,
+          "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television - Toshiba",
+          "name": "85\" SMART MINI LED\n4K TELEVISION",
+          "model": "85V77RP",
+          "regular": 24990,
+          "sale": 18990,
+          "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
+          "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "Laser TVs",
+      "items": [
+        {
+          "category": "Television Laser",
+          "name": "100\" L9\nLASER TELEVISION",
+          "model": "100LASER-L9",
+          "regular": 52000,
+          "sale": 42000,
+          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television Laser",
+          "name": "120\" L9 \nLASER TELEVISION",
+          "model": "#N/A",
+          "regular": 60000,
+          "sale": 48000,
+          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television Laser",
+          "name": "150\" T68\nLASER TELEVISION",
+          "model": "T68",
+          "regular": 115000,
+          "sale": null,
+          "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television Laser",
+          "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
+          "model": "C2ULTRA",
+          "regular": 32000,
+          "sale": 24990,
+          "features": "Features Needed",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television Laser",
+          "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
+          "model": "PX1-PRO",
+          "regular": 36000,
+          "sale": 28590,
+          "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Television Laser",
+          "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
+          "model": "PX3-PRO",
+          "regular": 39000,
+          "sale": 29990,
+          "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
+          "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "Water Dispensors",
+      "items": [
+        {
+          "category": "Water Dispensors",
+          "name": "100L DOMESTIC \nWATER HEATER",
+          "model": "SEWHC100W",
+          "regular": 2750,
+          "sale": 1870,
+          "features": "Massive 100-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "150L DOMESTIC \nWATER HEATER",
+          "model": "SEWHC150W",
+          "regular": 3900,
+          "sale": 2650,
+          "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "15L DOMESTIC \nWATER HEATER",
+          "model": "SEWHC15W",
+          "regular": 1800,
+          "sale": null,
+          "features": "Compact 15-Litre High-Efficiency Storage | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "30L DOMESTIC \nWATER HEATER",
+          "model": "SEWHC30W",
+          "regular": 2000,
+          "sale": null,
+          "features": "Versatile 30-Litre Rapid-Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "50L DOMESTIC \nWATER HEATER",
+          "model": "SEWHC50W",
+          "regular": 2340,
+          "sale": null,
+          "features": "Standard 50-Litre Family-Sized Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "INSTANTANEOUS \nWATER HEATER - SHOWER",
+          "model": "SEISWHDS60W",
+          "regular": 2280,
+          "sale": 1500,
+          "features": "Complete System Optimized for Single-Shower Luxury | Corrosion-Resistant Copper Heating Element & Tank | Premium 5-in-1 Shower Head with Adjustable Slide Bar | Elegant LED Light Band Operation Status Indicator | Double-Action Thermostat Anti-Scald Protection | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced IP25 Rated Water Ingress Protection | Precision Temperature Adjustment Control Dial | Multi-Point Overheating & Electric Shock Safety",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "INSTANTANEOUS \nWATER HEATER - TREND",
+          "model": "SEIWHDCES68TR",
+          "regular": 3000,
+          "sale": 2000,
+          "features": "Ultra-Compact Instantaneous Heating Technology | Advanced 2i Electronic Open-Loop Control | High Energy Efficiency via Smart 2i Sensors | Precision-Fixed 55°C Maximum Outlet Temperature | Exceptionally Slimline Space-Saving Architecture | Flexible Temperature Adjustment via Cold Water Mixing | Modern Aesthetic with Minimalist Compact Design | Safe-Grounding Installation Engineering System | On-Demand Heating with No Standby Energy Loss",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "INSTANTANEOUS \nWATER HEATER - PLUS",
+          "model": "SEIWHDCES68PL",
+          "regular": 3320,
+          "sale": 2200,
+          "features": "High-Performance Instant Heating for Showers | Advanced 3i Electronic Closed-Loop Control | Precision Temperature Selection (20C to 60˚C) | Superior Energy Efficiency via 3i Smart Sensors | Customizable Safety Temperature Locks (43/50/55˚C) | Exceptionally Slimline & Space-Saving Design | Ultra-Compact Modern Architecture for Tight Spaces | Safe-Grounding Protective Installation System | Safe-Grounding Protective Installation System",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "INSTANTANEOUS \nWATER HEATER - PREMIUM",
+          "model": "SEIWHDCEX68PRE",
+          "regular": 3600,
+          "sale": 2400,
+          "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "INSTANTANEOUS \nWATER HEATER - DHC6",
+          "model": "SEIWHDHC6W",
+          "regular": 1940,
+          "sale": 1300,
+          "features": "High-Efficiency Instant Heating Technology | Low-Pressure Compatible (Operates at 1.2LPM) | Precision Thermostat Control Adjustment Knob | Dual Automatic & Manual Reset Thermostat | Integrated Earth Leakage Circuit Breaker (ELCB) | Flame Retardant PCB for Enhanced Fire Safety | Compact Single-Phase Power Configuration | Versatile Residential & Commercial Application | Easy-Install Design with Low Maintenance Build",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "2.2L TABLETOP ICE MAKER",
+          "model": "ICM10W",
+          "regular": 1900,
+          "sale": null,
+          "features": "High-Capacity 12kg Fresh Ice Daily Output | Quick-Cycle Delivery (Fresh Ice in Minutes) | Dual Size Selection (Small & Large Ice Bullets) | Smart Intuitive Soft-Touch Control Panel | Removable Ice Basket for Easy Serving | Intelligent Water Level Low Indicator | High-Efficiency Energy Saving Compressor | Automatic Overflow Protection & Full Indicator | Compact, Portable & User-Friendly Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "BOTTOM LOADING\nWATER DISPENSER",
+          "model": "AMWDB175B",
+          "regular": 2220,
+          "sale": null,
+          "features": "Energy Efficient Cooling System | Premium Bottom Loading Design | Hot Cold and Room Temperature Water | Fast Flow Dispensing Technology | Durable High Quality Cabinet | Sleek Modern Aesthetic Finish | Easy Access Safety Child Lock | Quiet Operation Compressor | Eco Friendly Refrigerant",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "3-IN-1 INTELLIGENT\nWATER DISPENSER",
+          "model": "AMWDT308BK",
+          "regular": 2250,
+          "sale": null,
+          "features": "Premium Freestanding Bottom-Loading Design | Dual-Station: 1L Rapid Kettle & 1.5L Tea Infuser | Smart Heating with Automatic \"Keep Warm\" Mode | Intelligent Motorized Water Sliding Plate System | Intuitive Touch Button Interface with LED Display | Full-Function Remote Control for Effortless Operation | Instant Safety Child Lock for Heat Protection | Integrated Auto Power-Off & Overheat Protection | Hidden Bottle Storage for a Sleek Modern Aesthetic",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
+          "model": "AMWDT555S",
+          "regular": 1550,
+          "sale": null,
+          "features": "Classic Freestanding Top-Loading Configuration | Dual Temperature Hot & Cold Water Dispensers | Advanced Compressor Cooling for Instant Chill | High-Efficiency Fast Cooling Performance | Energy-Saving Operation with Low Noise Output | Integrated Storage Cabinet for Cups & Snacks | Sleek & Durable Premium Silver Exterior | High-Capacity 2.0-Litre Internal Water Tank | Instant Safety Child Lock for Hot Water Access",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "FILTRATION COLD/HOT\nWATER DISPENSER",
+          "model": "AMWDT530B",
+          "regular": 2750,
+          "sale": 2000,
+          "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
+          "warranty": "3 Years"
+        }
+      ]
     }
   ],
   "spotlights": [
@@ -2259,6 +3508,150 @@
       "sale": null,
       "features": "Compact 20L Space-Saving Capacity | 700 Watts Energy Efficient Performance | Sleek Silver Finish with Pull Handle Door | Premium Mirror Glass Door | Dual Combination Grill Function | 5 Variable Power Level Settings | Precision Mechanical Control System | Dedicated Defrost Technology | Integrated 35-Minute Safety Timer",
       "warranty": "1 Year"
+    },
+    {
+      "category": "Showcase Fridges",
+      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-81WC",
+      "regular": 11990,
+      "sale": null,
+      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Television Laser",
+      "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
+      "model": "PX3-PRO",
+      "regular": 39000,
+      "sale": 29990,
+      "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Television Laser",
+      "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
+      "model": "PX1-PRO",
+      "regular": 36000,
+      "sale": 28590,
+      "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Television Laser",
+      "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
+      "model": "C2ULTRA",
+      "regular": 32000,
+      "sale": 24990,
+      "features": "Features Needed",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Television Laser",
+      "name": "150\" T68\nLASER TELEVISION",
+      "model": "T68",
+      "regular": 115000,
+      "sale": null,
+      "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Television Laser",
+      "name": "120\" L9 \nLASER TELEVISION",
+      "model": "#N/A",
+      "regular": 60000,
+      "sale": 48000,
+      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Television Laser",
+      "name": "100\" L9\nLASER TELEVISION",
+      "model": "100LASER-L9",
+      "regular": 52000,
+      "sale": 42000,
+      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "NATURE \nWATER FILTER",
+      "model": "SEWFNW",
+      "regular": 2780,
+      "sale": 1800,
+      "features": "Advanced Innovative Nano Alumina Fiber Technology | Optimum Multi-Stage Water Filtration Solution | Elegant, Modern & Exceptionally Slimline Design | Integrated Designer Manual On/Off Flow Valve | Innovative \"Push & Click\" Secure Filter Locking | Quick & Tool-Free Easy Filter Replacement System | Dual Installation Versatility (Wall or Countertop) | Modern Space-Saving Compact Architecture | High-Efficiency Flow with Zero Water Wastage",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "INSTANTANEOUS \nWATER HEATER - PREMIUM",
+      "model": "SEIWHDCEX68PRE",
+      "regular": 3600,
+      "sale": 2400,
+      "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "150L DOMESTIC \nWATER HEATER",
+      "model": "SEWHC150W",
+      "regular": 3900,
+      "sale": 2650,
+      "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Televisions",
+      "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
+      "model": "100E80KAVS",
+      "regular": 38000,
+      "sale": 25990,
+      "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Professional 144Hz Game Mode Pro | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Televisions",
+      "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
+      "model": "110UXNQ",
+      "regular": 185000,
+      "sale": 138000,
+      "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Televisions",
+      "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
+      "model": "116UX",
+      "regular": 250000,
+      "sale": 159900,
+      "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Televisions",
+      "name": "32” DIGITAL SATELLITE\nTELEVISION",
+      "model": "32A5200FS",
+      "regular": 1550,
+      "sale": 950,
+      "features": "Sleek Metal Bezelless Modern Design | Full HD 1080p High-Definition Resolution | Advanced Natural Colour Enhancer Tech | Clear & Immersive Cinematic Picture Quality | Dolby Digital Plus Professional Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Wall Bracket & Remote Control Included",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Televisions",
+      "name": "43” DIGITAL SMART\n QLED TELEVISION",
+      "model": "43A4Q",
+      "regular": 4300,
+      "sale": 3090,
+      "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Televisions",
+      "name": "98\" SMART DIGITAL \nULED TELEVISION",
+      "model": "98E7G-PRO",
+      "regular": 37000,
+      "sale": 32750,
+      "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
+      "warranty": "5 Years"
     }
   ],
   "essentials": [
@@ -3025,6 +4418,114 @@
       "regular": 360,
       "sale": 320,
       "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "2.1CH MULTIMEDIA SPEAKER",
+      "model": "A180X",
+      "regular": 700,
+      "sale": 480,
+      "features": "New Classic Geometric Aesthetic | Fingerprint-Free Matte Finish | Premium Wood Cabinet Construction | Advanced 4.0 Bluetooth Connectivity | Plug & Play USB Audio Port | 100 Station FM Radio Storage | Bright Wide-Angle LED Display | High-Output Loudspeaker System | Full-Function Wireless Remote",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "2.1CH MULTIMEDIA\nSPEAKER SYSTEM",
+      "model": "F210X",
+      "regular": 480,
+      "sale": 320,
+      "features": "Bluetooth 4.0 Wireless Music Streaming | Total Power Output Of 15W RMS | Wooden Cabinet For Low Distortion Bass | High Density MDF Subwoofer Design | Four Inch Bass Driver For Subwoofer | Digital FM Radio With PLL Technology | Storage For Up To 100 FM Stations | Plug And Play USB Dual Format Decoding | Bluetooth Range Works Up To 15 Meters",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "BLACK WIRELESS \nBLUETOOTH SPEAKER",
+      "model": "SEUF01BK",
+      "regular": 550,
+      "sale": 380,
+      "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "DARK GREY WIRELESS\nBLUETOOTH SPEAKER",
+      "model": "SEUF01DG",
+      "regular": 550,
+      "sale": 380,
+      "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Toasters",
+      "name": "2-SLOT SILVER\nELECTRIC TOASTER",
+      "model": "TST1000S",
+      "regular": 500,
+      "sale": 450,
+      "features": "Efficient 1000W Rapid Toasting Power | Sleek & Modern Silver Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Toasters",
+      "name": "2-SLOT BLACK \nELECTRIC TOASTER",
+      "model": "TST850BK",
+      "regular": 400,
+      "sale": 360,
+      "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern Black Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Toasters",
+      "name": "2-SLOT BLACK\nELECTRIC TOASTER",
+      "model": "TST850DPB",
+      "regular": 500,
+      "sale": 450,
+      "features": "Efficient 850W Rapid Toasting System | Sleek & Modern Black Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Toasters",
+      "name": "2-SLOT WHITE\nELECTRIC TOASTER",
+      "model": "TST850WT",
+      "regular": 380,
+      "sale": 340,
+      "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern White Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "FLOW PITCHER \nWATER FILTER",
+      "model": "SEWFFPW",
+      "regular": 350,
+      "sale": 310,
+      "features": "Advanced Ultrafiltration Membrane Technology | Antibacterial Carbon for Odor & Taste Removal | Innovative 5-in-1 Encapsulated Filter System | Smart Filter Lifetime Indicator for Easy Tracking | Compact Space-Saving Countertop Design | Quick & Easy \"Snap-In\" Filter Replacement | 1-Litre Integrated Pure Water Storage Capacity | Ideal for Crystal Clear Hot or Cold Beverages | Superior Bacterial & Microbial Contaminant Shield",
+      "warranty": "3 Months"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "FOUNTAIN 7S\nWATER FILTER",
+      "model": "SEWFFCG",
+      "regular": 2620,
+      "sale": 1700,
+      "features": "Advanced 0.01 Micron Ultrafiltration Precision | Silverlite™ Stone Anti-Bacterial Growth Shield | Smart Filter Change Alarm for Timely Maintenance | Integrated Manual On/Off Flow Control Valve | Premium Stainless Steel Flexible Output Tube | Hygienic One-Way Nozzle to Prevent Back-Flow | Eco-Friendly Performance (No Electricity Needed) | Quick & Simple Tool-Free Filter Replacement | Pure Gravity-Fed Technology for Silent Operation",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "NATURE \nWATER FILTER",
+      "model": "SEWFNW",
+      "regular": 2780,
+      "sale": 1800,
+      "features": "Advanced Innovative Nano Alumina Fiber Technology | Optimum Multi-Stage Water Filtration Solution | Elegant, Modern & Exceptionally Slimline Design | Integrated Designer Manual On/Off Flow Valve | Innovative \"Push & Click\" Secure Filter Locking | Quick & Tool-Free Easy Filter Replacement System | Dual Installation Versatility (Wall or Countertop) | Modern Space-Saving Compact Architecture | High-Efficiency Flow with Zero Water Wastage",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "RAIN PLUS \nWATER FILTER",
+      "model": "SEWFRPW",
+      "regular": 1900,
+      "sale": 1200,
+      "features": "Advanced 6-Stage Integrated Filtration Process | Ultrafiltration (UF) 0.1 Micron Precision Membrane | Dual High-Efficiency Encapsulated Filter Cartridges | Premium Mixture of Bamboo & Coconut Carbon | Active Granular Silver-Impregnated Powder | Encapsulated Filter to Prevent Contamination | Easy Tool-Free Filter Replacement Design | Rapid & Simple DIY Self-Installation Kit | Minimal Maintenance & Long-Life Performance",
       "warranty": "1 Year"
     }
   ]
