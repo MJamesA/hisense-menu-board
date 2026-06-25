@@ -1,11 +1,188 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T02:14:09.936Z",
+  "generatedAt": "2026-06-25T02:20:44.610Z",
   "title": "MEGA SAVERS",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
   "footerText": "UP TO 5-YEAR WARRANTY",
-  "columns": [],
+  "columns": [
+    {
+      "category": "Air Conditioners",
+      "items": [
+        {
+          "category": "Air Conditioners",
+          "name": "1.0HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH09DH",
+          "regular": 3850,
+          "sale": 2690,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.0HP SPLIT\nAIR CONDITIONER",
+          "model": "09CR4SYDTG03",
+          "regular": 3790,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH12DH",
+          "regular": 4150,
+          "sale": 2990,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "HAS12TR4RVDTG",
+          "regular": 5200,
+          "sale": null,
+          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+          "model": "12TR4RMEDJ01",
+          "regular": 9700,
+          "sale": null,
+          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP INVERTER - COOLING & \nHEATING AIR CONDITIONER",
+          "model": "12UW4GXETV00",
+          "regular": 5800,
+          "sale": 4200,
+          "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "1.5HP SPLIT\nAIR CONDITIONER",
+          "model": "12CR4SVDTG01",
+          "regular": 4290,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
+          "model": "AUF-96CR6SDA",
+          "regular": 49900,
+          "sale": 45000,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.0HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH18DH",
+          "regular": 6400,
+          "sale": 4490,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.0HP SPLIT INVERTER \nAIR CONDITIONER",
+          "model": "HAS18TR4RGSKG",
+          "regular": 6600,
+          "sale": null,
+          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.0HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+          "model": "AS18TW4RBADJ00",
+          "regular": 11700,
+          "sale": null,
+          "features": "Inverter Technology | 4-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.0HP SPLIT \nAIR CONDITIONER",
+          "model": "HAS18CR4SFATG4",
+          "regular": 6200,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP FLOOR STANDING \nAIR CONDITIONER",
+          "model": "AUF-24UR4RFJH",
+          "regular": 13500,
+          "sale": null,
+          "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP FLOOR STANDING \nINVERTER AIR CONDITIONER",
+          "model": "AUF-24UR4RJXB",
+          "regular": 17800,
+          "sale": null,
+          "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "ACAMCH24DH",
+          "regular": 8200,
+          "sale": 5790,
+          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
+          "model": "HAS24TR4RBBDTG",
+          "regular": 8990,
+          "sale": null,
+          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
+          "model": "AS24TR4RBBDJ01",
+          "regular": 13690,
+          "sale": null,
+          "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "2.5HP SPLIT \nAIR CONDITIONER",
+          "model": "HAS24CR4SQBTG4",
+          "regular": 8290,
+          "sale": null,
+          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "4.5HP FLOOR STANDING \nAIR CONDITIONER",
+          "model": "AUF-42CR6SDMPH",
+          "regular": 19800,
+          "sale": null,
+          "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
+          "warranty": "5 Years"
+        }
+      ]
+    }
+  ],
   "spotlight": null,
   "essentials": []
 }
