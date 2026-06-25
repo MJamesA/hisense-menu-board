@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T12:04:45.341Z",
+  "generatedAt": "2026-06-25T12:22:12.326Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -193,15 +193,6 @@
           "sale": 1790,
           "features": "Powerful 800W High-Efficiency Motor | Large 5L Polished Stainless Steel Bowl | Precision 6-Speed Power Regulator | Instant Pulse Function for Extra Power | Heavy-Duty Metal Dough Hook Attachment | High-Performance Beater & Wire Whisk | Robust Design with Easy-to-Use Controls",
           "warranty": "1 Year"
-        },
-        {
-          "category": "Blenders",
-          "name": "DIGITAL THERMAL BLENDER\nDT8110",
-          "model": "DT-8110",
-          "regular": 1950,
-          "sale": 1750,
-          "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
-          "warranty": "2 Years"
         },
         {
           "category": "Blenders",
@@ -408,24 +399,6 @@
         },
         {
           "category": "Freezers",
-          "name": "520L CHEST FREEZER",
-          "model": "FC-66DD4HA",
-          "regular": 7250,
-          "sale": null,
-          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
-          "name": "701L CHEST FREEZER",
-          "model": "FC-94DD4HA",
-          "regular": 9400,
-          "sale": null,
-          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
           "name": "248L CHEST FREEZER",
           "model": "DSC-248W",
           "regular": 3500,
@@ -444,20 +417,20 @@
         },
         {
           "category": "Freezers",
+          "name": "400L CHEST FREEZER",
+          "model": "DSC-400W",
+          "regular": 4990,
+          "sale": 4590,
+          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Freezers",
           "name": "310L UPRIGHT FRIDGE",
           "model": "FT5K310GSF2",
           "regular": 10500,
           "sale": null,
           "features": "High Energy Efficiency Performance | Optimized Power \nConsumption Operation | Smart Inverter \nCompression Technology | Fast Freezing \nRapid Functionality | Total No Frost \nCooling Mechanism | Electronic Temperature \nControl System | Multi Air Flow \nDistribution Channels | Reversible Door\n Hinge Configuration | Eco Friendly Refrigerant Gas R600a",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
-          "name": "235L INVERTER \nUPRIGHT FREEZER",
-          "model": "RS-31WC4SA",
-          "regular": 6800,
-          "sale": null,
-          "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -485,30 +458,12 @@
         },
         {
           "category": "Washing Machines",
-          "name": "16 PLACE CAPACITY\nDISHWASHER",
-          "model": "HS673C90BME",
-          "regular": 7150,
-          "sale": null,
-          "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
           "name": "10.5KG FRONT LOAD \nWASHING MACHINE",
           "model": "WF3S1043BB",
           "regular": 5450,
           "sale": null,
           "features": "Massive 10.5kg Family-Sized Washing Capacity | Advanced ConnectLife App Smart Integration | Powerful 1400rpm Spin Speed for Rapid Drying | Deep Clean Steam Wash for Ultimate Hygiene | High-Efficiency Quiet Inverter Drive System | Elegant Premier Black Sophisticated Finish | Intelligent Pause & Add Mid-Cycle Function | Smart Fault Alarm Self-Diagnostic System | Eco-Performance Energy Saving Technology",
           "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-          "model": "XQG100-BH148DC1",
-          "regular": 21900,
-          "sale": null,
-          "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
-          "warranty": "3 Years"
         },
         {
           "category": "Washing Machines",
@@ -589,15 +544,6 @@
           "regular": 2800,
           "sale": null,
           "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE",
-          "model": "WD5S1245BB",
-          "regular": 7950,
-          "sale": null,
-          "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
           "warranty": "5 Years"
         },
         {
@@ -701,15 +647,6 @@
         },
         {
           "category": "Washing Machines",
-          "name": "8KG FRONT LOAD\nTUMBLE DRYER",
-          "model": "TDAS8HX",
-          "regular": 18000,
-          "sale": 13600,
-          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
           "name": "9KG FRONT LOAD\nWASHING MACHINE",
           "model": "WMASFL96R",
           "regular": 15500,
@@ -747,6 +684,15 @@
           "regular": 750,
           "sale": null,
           "features": "High-Power Rapid Heating Element | Precision Digital Touch Control Panel | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Smart-Logic Temperature Sensors | Programmable Delay Start & Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Electric Cooker",
+          "name": "2.5L MECHANICAL\nAIR FRYER",
+          "model": "ECAF256M1",
+          "regular": 620,
+          "sale": null,
+          "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
           "warranty": "1 Year"
         },
         {
@@ -814,15 +760,6 @@
         },
         {
           "category": "Electric Cooker",
-          "name": "8.0L DUAL ZONE \nDIGITAL AIR FRYER",
-          "model": "H08AFBK2S1",
-          "regular": 1400,
-          "sale": null,
-          "features": "Precision Digital Touch Control Panel | Dual Independent Cooking Baskets | 8 Smart-Logic Preset Programs | Synced Finish & Temperature Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
           "name": "8.0L MECHANICAL\nAIR FRYER",
           "model": "H08AFBK1S1",
           "regular": 900,
@@ -832,11 +769,11 @@
         },
         {
           "category": "Electric Cooker",
-          "name": "8.6L DIGITAL\nAIR FRYER",
-          "model": "H09AFBK2S5",
-          "regular": 1200,
-          "sale": null,
-          "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
+          "name": "BREAD MAKER",
+          "model": "BM1400E",
+          "regular": 1800,
+          "sale": 1590,
+          "features": "12 Smart-Logic Preset Programs | Auto Kneading & Professional Baking | Versatile 3-Size Loaf Pan Settings | Smart LCD Touch Control Interface | Transparent View Window | Robust & Durable Heavy-Duty Design | Automatic Keep-Warm & Crust Control",
           "warranty": "1 Year"
         },
         {
@@ -868,11 +805,11 @@
         },
         {
           "category": "Electric Cooker",
-          "name": "FOUR BURNER\nCERAMIC HOB",
-          "model": "HOB433A",
-          "regular": 2300,
-          "sale": 2030,
-          "features": "High-Power 3-Burner Rapid Heating | Independent Quad-Zone Cooking | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Heat & Flame Control | Robust Build for Daily Heavy Use",
+          "name": "1L ICE CREAM MAKER",
+          "model": "ICM10W",
+          "regular": 2290,
+          "sale": 2050,
+          "features": "Professional Self-Freezing Compressor | Powerful Motor for Creamy Textures | Large Removable Non-Stick Bowl | No Pre-Freezing Required – Ready Fast | Includes Precision Measuring Cup | Ergonomic Spatula for Easy Serving | Sleek & Durable Modern Construction",
           "warranty": "1 Year"
         }
       ]
@@ -3191,12 +3128,57 @@
     },
     {
       "category": "Freezers",
-      "name": "400L CHEST FREEZER",
-      "model": "DSC-400W",
-      "regular": 4990,
-      "sale": 4590,
-      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
+      "name": "520L CHEST FREEZER",
+      "model": "FC-66DD4HA",
+      "regular": 7250,
+      "sale": null,
+      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
       "warranty": "5 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
+      "model": "XQG100-BH148DC1",
+      "regular": 21900,
+      "sale": null,
+      "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE",
+      "model": "WD5S1245BB",
+      "regular": 7950,
+      "sale": null,
+      "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "8KG FRONT LOAD\nTUMBLE DRYER",
+      "model": "TDAS8HX",
+      "regular": 18000,
+      "sale": 13600,
+      "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Electric Cooker",
+      "name": "8.6L DIGITAL\nAIR FRYER",
+      "model": "H09AFBK2S5",
+      "regular": 1200,
+      "sale": null,
+      "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Electric Cooker",
+      "name": "FOUR BURNER\nCERAMIC HOB",
+      "model": "HOB433A",
+      "regular": 2300,
+      "sale": 2030,
+      "features": "High-Power 3-Burner Rapid Heating | Independent Quad-Zone Cooking | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Heat & Flame Control | Robust Build for Daily Heavy Use",
+      "warranty": "1 Year"
     }
   ],
   "spotlights": [
@@ -3235,6 +3217,60 @@
       "sale": 340,
       "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
       "warranty": "Not Applicable"
+    },
+    {
+      "category": "Blenders",
+      "name": "DIGITAL THERMAL BLENDER\nDT8110",
+      "model": "DT-8110",
+      "regular": 1950,
+      "sale": 1750,
+      "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
+      "warranty": "2 Years"
+    },
+    {
+      "category": "Freezers",
+      "name": "701L CHEST FREEZER",
+      "model": "FC-94DD4HA",
+      "regular": 9400,
+      "sale": null,
+      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Freezers",
+      "name": "235L INVERTER \nUPRIGHT FREEZER",
+      "model": "RS-31WC4SA",
+      "regular": 6800,
+      "sale": null,
+      "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "16 PLACE CAPACITY\nDISHWASHER",
+      "model": "HS673C90BME",
+      "regular": 7150,
+      "sale": null,
+      "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Electric Cooker",
+      "name": "ELECTRIC DIGITAL\nRICE COOKER",
+      "model": "ECRC01",
+      "regular": 1200,
+      "sale": 1060,
+      "features": "Powerful 900W High-Efficiency Motor | Extra-Large 5L Net Cooking Capacity | Smart Digital Touch Control Panel | Professional Stainless Steel Finish | Non-Stick Pot for Effortless Cleaning | Precision Heating for Perfect Rice | Multiple Smart-Logic Cooking Modes",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Electric Cooker",
+      "name": "8.0L DUAL ZONE \nDIGITAL AIR FRYER",
+      "model": "H08AFBK2S1",
+      "regular": 1400,
+      "sale": null,
+      "features": "Precision Digital Touch Control Panel | Dual Independent Cooking Baskets | 8 Smart-Logic Preset Programs | Synced Finish & Temperature Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation",
+      "warranty": "1 Year"
     }
   ],
   "essentials": [
@@ -3447,33 +3483,6 @@
     },
     {
       "category": "Electric Cooker",
-      "name": "ELECTRIC DIGITAL\nRICE COOKER",
-      "model": "ECRC01",
-      "regular": 1200,
-      "sale": 1060,
-      "features": "Powerful 900W High-Efficiency Motor | Extra-Large 5L Net Cooking Capacity | Smart Digital Touch Control Panel | Professional Stainless Steel Finish | Non-Stick Pot for Effortless Cleaning | Precision Heating for Perfect Rice | Multiple Smart-Logic Cooking Modes",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "2.5L MECHANICAL\nAIR FRYER",
-      "model": "ECAF256M1",
-      "regular": 620,
-      "sale": null,
-      "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "BREAD MAKER",
-      "model": "BM1400E",
-      "regular": 1800,
-      "sale": 1590,
-      "features": "12 Smart-Logic Preset Programs | Auto Kneading & Professional Baking | Versatile 3-Size Loaf Pan Settings | Smart LCD Touch Control Interface | Transparent View Window | Robust & Durable Heavy-Duty Design | Automatic Keep-Warm & Crust Control",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
       "name": "CONTACT GRILL",
       "model": "GCG2100S",
       "regular": 1600,
@@ -3497,15 +3506,6 @@
       "regular": 600,
       "sale": 530,
       "features": "Elegant & Modern Sleek Design | Intuitive Touch Control Interface | Bright LED Interactive Display | Large 3-Layer Family Cooking Capacity | Durable BPA-Free Plastic Steamers | Simultaneous Multi-Level Cooking | Precision Timer for Perfect Results",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "1L ICE CREAM MAKER",
-      "model": "ICM10W",
-      "regular": 2290,
-      "sale": 2050,
-      "features": "Professional Self-Freezing Compressor | Powerful Motor for Creamy Textures | Large Removable Non-Stick Bowl | No Pre-Freezing Required – Ready Fast | Includes Precision Measuring Cup | Ergonomic Spatula for Easy Serving | Sleek & Durable Modern Construction",
       "warranty": "1 Year"
     },
     {
