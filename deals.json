@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-25T03:03:06.271Z",
+  "generatedAt": "2026-06-25T03:13:13.488Z",
   "title": "MEGA SAVERS",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -192,38 +192,6 @@
       ]
     },
     {
-      "category": "Wall Bracket",
-      "items": [
-        {
-          "category": "Wall Bracket",
-          "name": "DSTV DECODER & ACCESSORIES OFFER",
-          "model": "Model 1",
-          "regular": 633,
-          "sale": 0.0001,
-          "features": "Special Offer | 3 months Access subscription free | Energy Efficient Digital Performance | Crystal Clear High Definition Viewing | Dynamic Content Discovery Search Options | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Wall Bracket",
-          "name": "MTN PROMOTIONAL OFFER #1",
-          "model": "MTN001",
-          "regular": 1020,
-          "sale": 0.0001,
-          "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-          "warranty": "Not Applicable"
-        },
-        {
-          "category": "Wall Bracket",
-          "name": "MTN PROMOTIONAL OFFER #2",
-          "model": "MTN002",
-          "regular": 680,
-          "sale": 340,
-          "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-          "warranty": "Not Applicable"
-        }
-      ]
-    },
-    {
       "category": "Blenders",
       "items": [
         {
@@ -322,7 +290,7 @@
       "category": "Freezers",
       "items": [
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "97L CHEST FREEZER",
           "model": "FC-157DD4SA",
           "regular": 2300,
@@ -331,7 +299,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "99L CHEST FREEZER",
           "model": "ARC-101",
           "regular": 2250,
@@ -340,7 +308,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "142L CHEST FREEZER",
           "model": "ARC-151",
           "regular": 2650,
@@ -349,7 +317,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "198L CHEST FREEZER",
           "model": "FC-20DT4HA",
           "regular": 2950,
@@ -358,7 +326,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "199L CHEST FREEZER",
           "model": "ARC-201",
           "regular": 3000,
@@ -367,7 +335,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "217L CHEST FREEZER",
           "model": "FC-28DD4SQ",
           "regular": 3900,
@@ -376,7 +344,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "240L CHEST FREEZER",
           "model": "FC-31DD4HA",
           "regular": 4000,
@@ -385,7 +353,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "249L CHEST FREEZER",
           "model": "FC-33DD4HA",
           "regular": 3900,
@@ -394,7 +362,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "254L CHEST FREEZER",
           "model": "ARC-256",
           "regular": 3300,
@@ -403,7 +371,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "299L CHEST FREEZER",
           "model": "ARC-301",
           "regular": 3900,
@@ -412,7 +380,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "400L CHEST FREEZER",
           "model": "ARC-400",
           "regular": 5190,
@@ -421,7 +389,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "500L CHEST FREEZER",
           "model": "ARC-500",
           "regular": 6290,
@@ -430,7 +398,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "700L CHEST FREEZER",
           "model": "ARC-700",
           "regular": 7890,
@@ -439,7 +407,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "310L CHEST FREEZER",
           "model": "FC-40DD4HA",
           "regular": 4290,
@@ -448,7 +416,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "366L CHEST FREEZER",
           "model": "FC-48DD4SG",
           "regular": 5700,
@@ -457,7 +425,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "420L CHEST FREEZER",
           "model": "FC-55DD4HA",
           "regular": 5990,
@@ -466,7 +434,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "520L CHEST FREEZER",
           "model": "FC-66DD4HA",
           "regular": 7250,
@@ -475,7 +443,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Chest Freezers",
+          "category": "Freezers",
           "name": "701L CHEST FREEZER",
           "model": "FC-94DD4HA",
           "regular": 9400,
@@ -484,7 +452,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "248L CHEST FREEZER",
           "model": "DSC-248W",
           "regular": 3500,
@@ -493,7 +461,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "300L CHEST FREEZER",
           "model": "DSC-300W",
           "regular": 3990,
@@ -502,7 +470,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Freezers",
           "name": "400L CHEST FREEZER",
           "model": "DSC-400W",
           "regular": 4990,
@@ -511,7 +479,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Upright Freezers",
+          "category": "Freezers",
           "name": "310L UPRIGHT FRIDGE",
           "model": "FT5K310GSF2",
           "regular": 10500,
@@ -520,7 +488,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Upright Freezers",
+          "category": "Freezers",
           "name": "235L INVERTER \nUPRIGHT FREEZER",
           "model": "RS-31WC4SA",
           "regular": 6800,
@@ -529,7 +497,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Upright Freezers",
+          "category": "Freezers",
           "name": "390L UPRIGHT FREEZER",
           "model": "RL5K370GSF2",
           "regular": 8600,
@@ -1076,7 +1044,7 @@
       "category": "Refrigerators",
       "items": [
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "34 BOTTLE\nWINE COOLER",
           "model": "RW3N094GALF",
           "regular": 2800,
@@ -1085,7 +1053,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "46 BOTTLE\nWINE COOLER",
           "model": "RW3N122GSLF",
           "regular": 6200,
@@ -1094,7 +1062,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "45L MINI BAR FRIDGE",
           "model": "RS-06DR4SA",
           "regular": 1280,
@@ -1103,7 +1071,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "86L DOUBLE DOOR FRIDGE",
           "model": "ARFT-87",
           "regular": 2300,
@@ -1112,7 +1080,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "91L DOUBLE DOOR FRIDGE",
           "model": "RT1N091NED1",
           "regular": 1950,
@@ -1121,7 +1089,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "117L DOUBLE DOOR \nBOTTOM MOUNT FRIDGE",
           "model": "ARFB-121",
           "regular": 2600,
@@ -1130,7 +1098,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "121L TABLE TOP FRIDGE",
           "model": "FT1-15SG",
           "regular": 1990,
@@ -1139,7 +1107,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "123 DOUBLE DOOR FRIDGE",
           "model": "RT1N123NED1",
           "regular": 2460,
@@ -1148,7 +1116,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "130L TABLE TOP FRIDGE",
           "model": "RS-13DR4SG",
           "regular": 1660,
@@ -1157,7 +1125,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "130L DOUBLE DOOR \nTOP MOUNT FRIDGE",
           "model": "ARFT-132",
           "regular": 2500,
@@ -1166,7 +1134,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "138L DOUBLE DOOR \nTOP MOUNT FRIDGE",
           "model": "ARFT-142",
           "regular": 2600,
@@ -1175,7 +1143,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "150L SINGLE DOOR FRIDGE",
           "model": "RS-20DR4HG",
           "regular": 2750,
@@ -1184,7 +1152,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "156L DOUBLE DOOR FRIDGE",
           "model": "RD-20DR4SA",
           "regular": 3000,
@@ -1193,7 +1161,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "157L DOUBLE DOOR \nBOTTOM MOUNT FRIDGE",
           "model": "ARFB-159",
           "regular": 2900,
@@ -1202,7 +1170,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "168L DOUBLE DOOR \nTOP MOUNT FRIDGE",
           "model": "ARFT172",
           "regular": 3000,
@@ -1211,7 +1179,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "171L DOUBLE DOOR FRIDGE",
           "model": "RB1N171NAC1",
           "regular": 2990,
@@ -1220,7 +1188,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "171L DOUBLE DOOR \nEFM FRIDGE",
           "model": "RD-23DC4SA",
           "regular": 4350,
@@ -1229,7 +1197,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "176L SINGLE DOOR FRIDGE \nWITH WATER DISPENSER",
           "model": "RS-23DR4SB",
           "regular": 2750,
@@ -1238,7 +1206,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
           "model": "FC2D-26DI",
           "regular": 3450,
@@ -1247,7 +1215,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
           "model": "FC2D-26DS",
           "regular": 3400,
@@ -1256,7 +1224,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
           "model": "FC2D-26IN",
           "regular": 3350,
@@ -1265,7 +1233,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "200L DOUBLE DOOR \nTOP MOUNT FRIDGE",
           "model": "ARFT-213",
           "regular": 3180,
@@ -1274,7 +1242,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "205L DOUBLE DOOR FRIDGE",
           "model": "RD-27DR4SA",
           "regular": 3200,
@@ -1283,7 +1251,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
           "model": "RD-27DR4SB",
           "regular": 3300,
@@ -1292,7 +1260,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "223L DOUBLE DOOR FRIDGE",
           "model": "RD-29DC4SA",
           "regular": 4200,
@@ -1301,7 +1269,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "227L DOUBLE DOOR FRIDGE",
           "model": "ARFB229",
           "regular": 3900,
@@ -1310,7 +1278,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "243L DOUBLE DOOR FRIDGE",
           "model": "RD-34DC4SB",
           "regular": 4350,
@@ -1319,7 +1287,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "264L DOUBLE DOOR FRIDGE",
           "model": "RD-35DC4SA",
           "regular": 4400,
@@ -1328,7 +1296,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "264L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
           "model": "RD-35DC4SB",
           "regular": 4500,
@@ -1337,7 +1305,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "302L DOUBLE DOOR FRIDGE",
           "model": "RD-39DR4SA",
           "regular": 4900,
@@ -1346,7 +1314,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "305L DOUBLE DOOR FRIDGE",
           "model": "RT305N1EG1",
           "regular": 4400,
@@ -1355,7 +1323,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "348L TOP MOUNTED \nDOUBLE DOOR FRIDGE",
           "model": "ARFT-365W",
           "regular": 4990,
@@ -1364,7 +1332,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "375L DOUBLE DOOR FRIDGE",
           "model": "RD-54W",
           "regular": 4990,
@@ -1373,7 +1341,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "415L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
           "model": "ARC-431W",
           "regular": 9390,
@@ -1382,7 +1350,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "421L CROSS DOOR FRIDGE",
           "model": "FR4D-58",
           "regular": 8900,
@@ -1391,7 +1359,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "470L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
           "model": "RQ-56WCS",
           "regular": 11800,
@@ -1400,7 +1368,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "490L FRENCH DOOR FRIDGE\nWITH ICE & WATER DISPENSER",
           "model": "RF7P490STS2",
           "regular": 19900,
@@ -1409,7 +1377,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "504L DOUBLE DOOR FRIDGE\nWITH DISPENSER",
           "model": "RB3P504NMF1",
           "regular": 8900,
@@ -1418,7 +1386,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "504L DOUBLE DOOR FRIDGE",
           "model": "RB3P504NAC2",
           "regular": 9990,
@@ -1427,7 +1395,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "510L DOUBLE DOOR \nINVERTER FRIDGE",
           "model": "RD-66WR4SA",
           "regular": 8250,
@@ -1436,7 +1404,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "518L SIDE-BY-SIDE FRIDGE",
           "model": "RC-67WS4SA",
           "regular": 8900,
@@ -1445,7 +1413,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
           "model": "RC-67WS4S3",
           "regular": 12500,
@@ -1454,7 +1422,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "518L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
           "model": "H680SM1B-WD",
           "regular": 10900,
@@ -1463,7 +1431,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "528L SIDE-BY-SIDE FRIDGE",
           "model": "RS528P5AS3",
           "regular": 12500,
@@ -1472,7 +1440,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "532L SIDE-BY-SIDE FRIDGE",
           "model": "FR2D-69",
           "regular": 9900,
@@ -1481,7 +1449,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "535L SIDE-BY-SIDE FRIDGE",
           "model": "RC-70WS",
           "regular": 14500,
@@ -1490,7 +1458,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "545L CROSS DOOR FRIDGE",
           "model": "RC-68WC4SB",
           "regular": 23000,
@@ -1499,7 +1467,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
           "model": "RC-67WC4SA",
           "regular": 32000,
@@ -1508,7 +1476,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "558L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
           "model": "RS558N3AG2",
           "regular": 11500,
@@ -1517,7 +1485,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "560L CROSS DOOR\nINVERTER FRIDGE",
           "model": "RC-73WC4SB",
           "regular": 26500,
@@ -1526,7 +1494,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
           "model": "RC-74WS4S3",
           "regular": 13900,
@@ -1535,7 +1503,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "595L SIDE-BY-SIDE \nFRIDGE",
           "model": "FR2D-80",
           "regular": 9900,
@@ -1544,7 +1512,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "600L CROSS DOOR INVERTER\nFRIDGE WITH WINDOW DOOR",
           "model": "RQ9P600GTL",
           "regular": 26900,
@@ -1553,7 +1521,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "605L CROSS DOOR\nINVERTER FRIDGE",
           "model": "RQ-79WC",
           "regular": 19900,
@@ -1562,7 +1530,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "610L FRENCH DOOR FRIDGE\nWITH WATER DISPENSER",
           "model": "RF5P610SPS1",
           "regular": 20900,
@@ -1571,7 +1539,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "622L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
           "model": "ARS-646W",
           "regular": 10490,
@@ -1580,7 +1548,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "628L CROSS DOOR \nFRIDGE WITH SCREEN",
           "model": "RS9P628GTF2",
           "regular": 33000,
@@ -1589,7 +1557,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "630L FRENCH DOOR FRIDGE",
           "model": "RF5P630NMS1",
           "regular": 13500,
@@ -1598,7 +1566,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Amcon White Goods",
+          "category": "Refrigerators",
           "name": "601L CROSS DOOR\nINVERTER FRIDGE",
           "model": "ARC-661W",
           "regular": 11000,
@@ -1607,7 +1575,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "670L CROSS DOOR\nINVERTER FRIDGE",
           "model": "",
           "regular": 17500,
@@ -1616,7 +1584,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Refrigerator",
+          "category": "Refrigerators",
           "name": "688L SIDE-BY-SIDE FRIDGE",
           "model": "BCD-668W",
           "regular": 13500,
@@ -2064,7 +2032,7 @@
       "category": "Showcases",
       "items": [
         {
-          "category": "Showcase Freezers",
+          "category": "Showcases",
           "name": "213L SHOWCASE \nCHEST FREEZER",
           "model": "FL-26DD4HA",
           "regular": 4600,
@@ -2073,7 +2041,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Showcase Fridges",
+          "category": "Showcases",
           "name": "222L SHOWCASE \nUPRIGHT FRIDGE",
           "model": "FL-30FC4SA",
           "regular": 5000,
@@ -2082,7 +2050,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Showcase Fridges",
+          "category": "Showcases",
           "name": "282L SHOWCASE \nUPRIGHT FRIDGE",
           "model": "FL-37FC4SA",
           "regular": 5900,
@@ -2091,7 +2059,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Showcase Freezers",
+          "category": "Showcases",
           "name": "303L SHOWCASE \nCHEST FREEZER",
           "model": "FL-39DD4HA",
           "regular": 5500,
@@ -2100,7 +2068,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Showcase Freezers",
+          "category": "Showcases",
           "name": "353L SHOWCASE \nCHEST FREEZER",
           "model": "FL-46DD4HA",
           "regular": 7000,
@@ -2109,7 +2077,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Showcase Fridges",
+          "category": "Showcases",
           "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
           "model": "FL-50FC4SA",
           "regular": 7200,
@@ -2118,7 +2086,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Showcase Freezers",
+          "category": "Showcases",
           "name": "518L SHOWCASE\nCHEST FREEZER",
           "model": "FL-67DD4HA",
           "regular": 8400,
@@ -2127,7 +2095,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Showcase Fridges",
+          "category": "Showcases",
           "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
           "model": "FL-81WC",
           "regular": 11990,
@@ -2542,7 +2510,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "32” DIGITAL SATELLITE \nANDROID TELEVISION",
           "model": "TVAM32ANDSTV",
           "regular": 1950,
@@ -2560,7 +2528,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "32” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
           "model": "TVAM32DSTVDG",
           "regular": 1650,
@@ -2569,7 +2537,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "32” DIGITAL SATELLITE\nTELEVISION",
           "model": "NAMCH32M10P",
           "regular": 1500,
@@ -2578,7 +2546,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "32” DIGITAL SATELLITE\nTELEVISION",
           "model": "HE32M2160HTSQI",
           "regular": 1550,
@@ -2614,7 +2582,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
           "model": "TVAM43ANDDSDG",
           "regular": 2800,
@@ -2623,7 +2591,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
           "model": "43B7101UWSQO",
           "regular": 3200,
@@ -2632,7 +2600,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "43\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH43M10GP",
           "regular": 3300,
@@ -2650,7 +2618,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "43” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
           "model": "TVAM43DSTVDG",
           "regular": 2500,
@@ -2659,7 +2627,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "43” DIGITAL SATELLITE\nTELEVISION",
           "model": "NAMCH43M10P",
           "regular": 2500,
@@ -2668,7 +2636,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "43” DIGITAL SATELLITE\nTELEVISION",
           "model": "HE43M2160HTSQI",
           "regular": 2600,
@@ -2695,7 +2663,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "50'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
           "model": "50B7101UWSQO",
           "regular": 4000,
@@ -2704,7 +2672,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "50\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH50M10GP",
           "regular": 4790,
@@ -2731,7 +2699,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "55\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH55M10GP",
           "regular": 5750,
@@ -2803,7 +2771,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "65'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
           "model": "65B7101UWSQO",
           "regular": 6800,
@@ -2812,7 +2780,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "65\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
           "model": "SAMCH65N9E",
           "regular": 8400,
@@ -2821,7 +2789,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "65\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH65M10GP",
           "regular": 7690,
@@ -2875,7 +2843,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "75'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
           "model": "75B7101UWSQO",
           "regular": 11600,
@@ -2884,7 +2852,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "75\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
           "model": "SAMCH75N9E",
           "regular": 12000,
@@ -2893,7 +2861,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "75\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH75M10GP",
           "regular": 10500,
@@ -2956,7 +2924,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "85\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH85M9XW",
           "regular": 17900,
@@ -3010,7 +2978,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Amcon",
+          "category": "Televisions",
           "name": "98\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH98F8TM",
           "regular": 33000,
@@ -3028,7 +2996,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Toshiba",
+          "category": "Televisions",
           "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
           "model": "100Z670RP",
           "regular": 29000,
@@ -3037,7 +3005,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Toshiba",
+          "category": "Televisions",
           "name": "32” DIGITAL HD\nSMART TV",
           "model": "32V35RP",
           "regular": 2600,
@@ -3046,7 +3014,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Toshiba",
+          "category": "Televisions",
           "name": "43” DIGITAL 2K\nSMART TELEVISION",
           "model": "43V35RP",
           "regular": 3600,
@@ -3055,7 +3023,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Toshiba",
+          "category": "Televisions",
           "name": "50\" SMART QLED \n4K TELEVISION",
           "model": "50V45RP",
           "regular": 5800,
@@ -3064,7 +3032,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Toshiba",
+          "category": "Televisions",
           "name": "65\" SMART QLED \n4K TELEVISION",
           "model": "65V45RP",
           "regular": 9900,
@@ -3073,7 +3041,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Toshiba",
+          "category": "Televisions",
           "name": "75\" SMART MINI LED\n4K TELEVISION",
           "model": "75V77RP",
           "regular": 17900,
@@ -3082,7 +3050,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television - Toshiba",
+          "category": "Televisions",
           "name": "85\" SMART MINI LED\n4K TELEVISION",
           "model": "85V77RP",
           "regular": 24990,
@@ -3096,7 +3064,7 @@
       "category": "Laser TVs",
       "items": [
         {
-          "category": "Television Laser",
+          "category": "Laser TVs",
           "name": "100\" L9\nLASER TELEVISION",
           "model": "100LASER-L9",
           "regular": 52000,
@@ -3105,7 +3073,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television Laser",
+          "category": "Laser TVs",
           "name": "120\" L9 \nLASER TELEVISION",
           "model": "#N/A",
           "regular": 60000,
@@ -3114,7 +3082,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television Laser",
+          "category": "Laser TVs",
           "name": "150\" T68\nLASER TELEVISION",
           "model": "T68",
           "regular": 115000,
@@ -3123,7 +3091,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television Laser",
+          "category": "Laser TVs",
           "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
           "model": "C2ULTRA",
           "regular": 32000,
@@ -3132,7 +3100,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "Television Laser",
+          "category": "Laser TVs",
           "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
           "model": "PX1-PRO",
           "regular": 36000,
@@ -3141,7 +3109,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Television Laser",
+          "category": "Laser TVs",
           "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
           "model": "PX3-PRO",
           "regular": 39000,
@@ -3330,7 +3298,7 @@
       "warranty": "Not Applicable"
     },
     {
-      "category": "Chest Freezers",
+      "category": "Freezers",
       "name": "366L CHEST FREEZER",
       "model": "FC-48DD4SG",
       "regular": 5700,
@@ -3339,7 +3307,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Chest Freezers",
+      "category": "Freezers",
       "name": "701L CHEST FREEZER",
       "model": "FC-94DD4HA",
       "regular": 9400,
@@ -3420,7 +3388,7 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Refrigerator",
+      "category": "Refrigerators",
       "name": "46 BOTTLE\nWINE COOLER",
       "model": "RW3N122GSLF",
       "regular": 6200,
@@ -3429,7 +3397,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Refrigerator",
+      "category": "Refrigerators",
       "name": "130L TABLE TOP FRIDGE",
       "model": "RS-13DR4SG",
       "regular": 1660,
@@ -3438,7 +3406,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Refrigerator",
+      "category": "Refrigerators",
       "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
       "model": "RD-27DR4SB",
       "regular": 3300,
@@ -3447,7 +3415,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Refrigerator",
+      "category": "Refrigerators",
       "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
       "model": "RC-67WC4SA",
       "regular": 32000,
@@ -3456,7 +3424,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Refrigerator",
+      "category": "Refrigerators",
       "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
       "model": "RC-67WS4S3",
       "regular": 12500,
@@ -3510,7 +3478,7 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Showcase Fridges",
+      "category": "Showcases",
       "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
       "model": "FL-81WC",
       "regular": 11990,
@@ -3519,7 +3487,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Television Laser",
+      "category": "Laser TVs",
       "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
       "model": "PX3-PRO",
       "regular": 39000,
@@ -3528,7 +3496,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Television Laser",
+      "category": "Laser TVs",
       "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
       "model": "PX1-PRO",
       "regular": 36000,
@@ -3537,7 +3505,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Television Laser",
+      "category": "Laser TVs",
       "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
       "model": "C2ULTRA",
       "regular": 32000,
@@ -3546,7 +3514,7 @@
       "warranty": "3 Years"
     },
     {
-      "category": "Television Laser",
+      "category": "Laser TVs",
       "name": "150\" T68\nLASER TELEVISION",
       "model": "T68",
       "regular": 115000,
@@ -3555,7 +3523,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Television Laser",
+      "category": "Laser TVs",
       "name": "120\" L9 \nLASER TELEVISION",
       "model": "#N/A",
       "regular": 60000,
@@ -3564,7 +3532,7 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Television Laser",
+      "category": "Laser TVs",
       "name": "100\" L9\nLASER TELEVISION",
       "model": "100LASER-L9",
       "regular": 52000,
