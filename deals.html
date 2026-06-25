@@ -276,8 +276,9 @@ function buildPages(data) {
   const layouts = data.layouts || {};
   ESS_CHUNKS = chunk(data.essentials || [], CONFIG.ESSENTIALS_PER_PAGE);
 
-  // Category order: columns first (sheet order), then featured-only, then spotlight-only.
+  // Category order: explicit saved order first, then any others (columns, featured-, spotlight-only).
   const order = [];
+  (data.categoryOrder || []).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
   (data.columns || []).forEach(c => { if (order.indexOf(c.category) < 0) order.push(c.category); });
   Object.keys(featByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
   Object.keys(spotsByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
