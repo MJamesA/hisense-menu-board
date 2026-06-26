@@ -1,10 +1,12 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T14:22:25.407Z",
+  "generatedAt": "2026-06-26T14:53:23.966Z",
   "title": "SAVE WITH US",
-  "accent": "gold",
+  "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
   "footerText": "UP TO 5-YEAR WARRANTY",
+  "nationwideText": "SAME PRICES NATIONWIDE",
+  "pricesText": "ALL PRICES IN GH₵",
   "columns": [
     {
       "category": "Air Conditioners",
