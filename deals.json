@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T11:51:48.811Z",
+  "generatedAt": "2026-06-26T11:53:42.681Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -1627,15 +1627,6 @@
       "items": [
         {
           "category": "Mobile Phones",
-          "name": "H72 INFINITY MOBILE PHONE",
-          "model": "H72",
-          "regular": 1600,
-          "sale": 1200,
-          "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
           "name": "E72 MOBILE PHONE",
           "model": "E72",
           "regular": 1300,
@@ -3212,12 +3203,12 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Small Items",
-      "name": "H72 PRO MOBILE PHONE",
-      "model": "H72 PRO",
-      "regular": 1900,
-      "sale": 1350,
-      "features": "",
+      "category": "Mobile Phones",
+      "name": "H72 INFINITY MOBILE PHONE",
+      "model": "H72",
+      "regular": 1600,
+      "sale": 1200,
+      "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
       "warranty": "1 Year"
     },
     {
@@ -3616,6 +3607,15 @@
       "regular": 1900,
       "sale": 1650,
       "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Small Items",
+      "name": "H72 PRO MOBILE PHONE",
+      "model": "H72 PRO",
+      "regular": 1900,
+      "sale": 1350,
+      "features": "",
       "warranty": "1 Year"
     },
     {
