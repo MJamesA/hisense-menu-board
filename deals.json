@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T11:53:42.681Z",
+  "generatedAt": "2026-06-26T12:10:01.956Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -473,227 +473,6 @@
           "sale": 1600,
           "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels",
           "warranty": "1 Year"
-        }
-      ]
-    },
-    {
-      "category": "Washing Machines",
-      "items": [
-        {
-          "category": "Washing Machines",
-          "name": "13 PLACE CAPACITY\nDISHWASHER",
-          "model": "HS622E90B",
-          "regular": 4300,
-          "sale": null,
-          "features": "8 Versatile Wash Programs | 30-Minute Quick Wash | Dry+ High-Temp Drying | Half Load & Delay Start | Low Noise Operation (47 dB) | Aqua Protect Anti-Flood System | Adjustable Upper & Cutlery Baskets | Durable Stainless Steel Tub | Dimensions (H x W x D): 84.5 x 60 x 59.6 cm",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10.5KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WF3S1043BB",
-          "regular": 5450,
-          "sale": null,
-          "features": "Massive 10.5kg Family-Sized Washing Capacity | Advanced ConnectLife App Smart Integration | Powerful 1400rpm Spin Speed for Rapid Drying | Deep Clean Steam Wash for Ultimate Hygiene | High-Efficiency Quiet Inverter Drive System | Elegant Premier Black Sophisticated Finish | Intelligent Pause & Add Mid-Cycle Function | Smart Fault Alarm Self-Diagnostic System | Eco-Performance Energy Saving Technology",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER",
-          "model": "DH7S107BB",
-          "regular": 10500,
-          "sale": null,
-          "features": "A+++ Energy Efficiency Rating | Intelligent Touch Screen Control Panel | Advanced Wifi Remote Connectivity | Heat Pump Drying Technology | AI Super Dry Humidity Sensors | Steam Function For Wrinkle Removal | Special Allergy Care Cycle | Durable Inverter Motor Performance | Eco Friendly R290 Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-          "model": "WMA10KGFLWD",
-          "regular": 7000,
-          "sale": 6300,
-          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-          "model": "WMA10KGFLWDTP",
-          "regular": 7000,
-          "sale": 6300,
-          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WF3Q1043BT",
-          "regular": 4900,
-          "sale": null,
-          "features": "High-Speed 1400rpm Spin for Faster Drying | Advanced ConnectLife App Smart Integration | Deep Clean Steam Wash for Sanitized Laundry | High-Efficiency Built-in Water Heater System | Advanced Energy-Saving Inverter Technology | Eco-Friendly Dedicated Power Save Function | Elegant Titanium Grey Premium Finish | Instant Safety Child Lock Protection | Intelligent Wash Cycle Optimization",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG TOP LOAD \nWASHING MACHINE",
-          "model": "WMA10KGTT",
-          "regular": 4500,
-          "sale": 4000,
-          "features": "Elegant & Modern Dark Gray Finish | Advanced Fuzzy Logic Smart Technology | Intuitive Digital Touch Screen Control | Durable Waterproof IPX4 Protection | Precision Cold Solenoid Intake Valve | Powerful Air Dry High-Speed Function | Ultra-Quiet Noise Free Technology | Fully Automatic Top Loading System | Secure Child Lock Safety Protection",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG TWIN TUB\nWASHING MACHINE",
-          "model": "XPB100-228SE",
-          "regular": 2450,
-          "sale": 2190,
-          "features": "Versatile Normal & Delicate Wash Modes | Rapid 15-Minute High-Speed Wash Cycle | Powerful Pulsator for Deep Cleaning | Large 6.0kg High-Speed Spin Capacity | Advanced Air Dry Moisture Removal | Integrated Spin Shower Rinse System | Fine Particle Magic Filter Technology | Energy Efficient & Water Saving Design | Durable & Compact Space-Saving Body",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "11KG TOP LOAD \nWASHING MACHINE",
-          "model": "WT3K1132UB",
-          "regular": 3900,
-          "sale": null,
-          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "11KG TWIN TUB \nWASHING MACHINE",
-          "model": "WSRB113W",
-          "regular": 2500,
-          "sale": null,
-          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "12.5KG TWIN TUB \nWASHING MACHINE",
-          "model": "WSRB133W",
-          "regular": 2800,
-          "sale": null,
-          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE (5I)",
-          "model": "WD5I1245BB",
-          "regular": 8000,
-          "sale": null,
-          "features": "Energy Efficient Inverter Technology | Highly Efficient Performance Rating | Smart TFT Digital Control Screen | Heavy Duty 12KG Washing Capacity | Integrated Clothes Drying Functionality | Sophisticated Dark Stainless Finish | Professional Front Loading Design | Multiple Advanced Wash Cycles | Durable Model Construction",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "12KG FRONT LOAD \nWASHING MACHINE (7S)",
-          "model": "WF7S1247BB",
-          "regular": 9500,
-          "sale": null,
-          "features": "High Energy Efficiency Inverter Motor | Advanced Wifi Connectivity Features | Modern Smart Touch Control Panel | Large 12KG Washing Load Capacity | Sleek Model Design | Professional Front Loading System | Multiple Intelligent Wash Programs | High Speed Spin Performance | Quiet And Stable Operation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "12KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WMA12KGFLTP",
-          "regular": 7300,
-          "sale": 6500,
-          "features": "Large 12kg High-Capacity Wash Load | Automatic Front Loading Convenience | Intelligent Wash & Soak System | Smart Digital Touch Screen Control | Versatile Time-Saving Preset Function | Built-in Heater for High-Temp Wash | Secure Child Lock Safety Protection | High-Efficiency Energy Saving System | Advanced Heavy-Duty Motor Technology",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "17KG TOP LOAD \nWASHING MACHINE",
-          "model": "WT3T1723UB",
-          "regular": 5990,
-          "sale": null,
-          "features": "Premium Soft-Closing Glass Lid | Double Magic Filter for Cleaner Wash | Advanced Fuzzy Logic Smart Control | Custom Self-Programming & Memory | Intelligent LED Display & 12 Programs | Built-in Double Water Outlet & Pump | Hygienic Tub Clean & Pre-Soak Modes | Smart Delay Start & End Function | Secure Child Lock Safety Protection",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "18KG TOP LOAD\nWASHING MACHINE",
-          "model": "XQB180-879G",
-          "regular": 6000,
-          "sale": 5400,
-          "features": "Advanced Fuzzy Logic Smart Technology | Durable Waterproof IPX4 Protection | Convenient Time Delay Wash Function | Powerful Air Dry High-Speed Function | Intelligent Self-Diagnostic System | Ultra-Quiet Noise Free Technology | Clear & Intuitive LED Digital Display | Fully Automatic Top Loading System | Secure Child Lock & Auto Shut Off",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "20KG TOP LOAD\nWASHING MACHINE",
-          "model": "WT3T2023UB",
-          "regular": 6400,
-          "sale": null,
-          "features": "Elegant & Sophisticated Premium Black | Hot & Warm Dual Solenoid Valve System | Advanced Self-Diagnostic & Fault Alarm | Durable Waterproof IPX4 Protection | Intensive Pre-Soak & Air Dry Function | Convenient Time Delay Wash Scheduling | Ultra-Quiet Noise Free Technology | Secure Child Lock Safety Protection | Fully Automatic Top Loading Efficiency",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "22KG TWIN TUB \nWASHING MACHINE",
-          "model": "XPB220-228SE",
-          "regular": 4200,
-          "sale": 3770,
-          "features": "Large 9kg High-Speed Spin Capacity | Whisper-Quiet Super Silent Operation | Advanced Air Dry Moisture Removal | Integrated Collars & Cuffs Washboard | Heavy & Standard Dual Wash Modes | Wash & Spin Water Supply System | Powerful Pulsator for Deep Cleaning | Durable Rust-Proof Strong Plastic Body | Magic Filter Lint & Debris Collector",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "7.5KG TWIN TUB \nWASHING MACHINE",
-          "model": "WSQB753W",
-          "regular": 2200,
-          "sale": null,
-          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "8KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WFQP8014EVMT",
-          "regular": 4550,
-          "sale": null,
-          "features": "Advanced Energy-Saving Technology | Super Quick Wash for Time-Saving Performance | Smart Spin Balance Control for Quiet Operation | Deep Drum Self-Cleaning Hygiene Function | Intelligent LED Multi-Function Display | Ergonomic 45° High Handle Comfort Design | Gentle Snowflake Drum for Fabric Protection | Self-Diagnostic Intelligent Fault-Finding System | High-Speed Extraction & Rinse Optimization",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "8KG FRONT LOAD\nWASHING MACHINE",
-          "model": "W2086C",
-          "regular": 12000,
-          "sale": 9200,
-          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | 8kg Capacity with 10 Pre-Programs | Advanced Multi-Filter Lint System | Smart Auto Synthetic Drying Program | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "8KG FRONT LOAD\nTUMBLE DRYER",
-          "model": "TDAS9HS",
-          "regular": 15000,
-          "sale": 11500,
-          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capicity with 16 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "9KG FRONT LOAD\nWASHING MACHINE",
-          "model": "WMASFL96R",
-          "regular": 15500,
-          "sale": 11700,
-          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Smart Auto Dosing Detergent System | Massive 9kg High-Capacity Drum | 23 Pro-Grade Programs & 5 Modes | Vibration-Free Active Drum Tech | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "9KG TOP LOAD \nWASHING MACHINE",
-          "model": "WT3K9032UB",
-          "regular": 3400,
-          "sale": null,
-          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
-          "warranty": "5 Years"
         }
       ]
     },
@@ -1636,6 +1415,15 @@
         },
         {
           "category": "Mobile Phones",
+          "name": "H50 ZOOM MOBILE PHONE",
+          "model": "H50 Zoom",
+          "regular": 2500,
+          "sale": 1500,
+          "features": "",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
           "name": "U42 LITE MOBILE PHONE",
           "model": "HWCD102E",
           "regular": 790,
@@ -1659,20 +1447,6 @@
           "regular": 900,
           "sale": 690,
           "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        }
-      ]
-    },
-    {
-      "category": "Small Items",
-      "items": [
-        {
-          "category": "Small Items",
-          "name": "H50 ZOOM MOBILE PHONE",
-          "model": "H50 Zoom",
-          "regular": 2500,
-          "sale": 1500,
-          "features": "",
           "warranty": "1 Year"
         }
       ]
@@ -2938,6 +2712,227 @@
           "warranty": "3 Years"
         }
       ]
+    },
+    {
+      "category": "Washing Machines",
+      "items": [
+        {
+          "category": "Washing Machines",
+          "name": "13 PLACE CAPACITY\nDISHWASHER",
+          "model": "HS622E90B",
+          "regular": 4300,
+          "sale": null,
+          "features": "8 Versatile Wash Programs | 30-Minute Quick Wash | Dry+ High-Temp Drying | Half Load & Delay Start | Low Noise Operation (47 dB) | Aqua Protect Anti-Flood System | Adjustable Upper & Cutlery Baskets | Durable Stainless Steel Tub | Dimensions (H x W x D): 84.5 x 60 x 59.6 cm",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10.5KG FRONT LOAD \nWASHING MACHINE",
+          "model": "WF3S1043BB",
+          "regular": 5450,
+          "sale": null,
+          "features": "Massive 10.5kg Family-Sized Washing Capacity | Advanced ConnectLife App Smart Integration | Powerful 1400rpm Spin Speed for Rapid Drying | Deep Clean Steam Wash for Ultimate Hygiene | High-Efficiency Quiet Inverter Drive System | Elegant Premier Black Sophisticated Finish | Intelligent Pause & Add Mid-Cycle Function | Smart Fault Alarm Self-Diagnostic System | Eco-Performance Energy Saving Technology",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10KG FRONT LOAD DRYER",
+          "model": "DH7S107BB",
+          "regular": 10500,
+          "sale": null,
+          "features": "A+++ Energy Efficiency Rating | Intelligent Touch Screen Control Panel | Advanced Wifi Remote Connectivity | Heat Pump Drying Technology | AI Super Dry Humidity Sensors | Steam Function For Wrinkle Removal | Special Allergy Care Cycle | Durable Inverter Motor Performance | Eco Friendly R290 Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
+          "model": "WMA10KGFLWD",
+          "regular": 7000,
+          "sale": 6300,
+          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
+          "model": "WMA10KGFLWDTP",
+          "regular": 7000,
+          "sale": 6300,
+          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10KG FRONT LOAD \nWASHING MACHINE",
+          "model": "WF3Q1043BT",
+          "regular": 4900,
+          "sale": null,
+          "features": "High-Speed 1400rpm Spin for Faster Drying | Advanced ConnectLife App Smart Integration | Deep Clean Steam Wash for Sanitized Laundry | High-Efficiency Built-in Water Heater System | Advanced Energy-Saving Inverter Technology | Eco-Friendly Dedicated Power Save Function | Elegant Titanium Grey Premium Finish | Instant Safety Child Lock Protection | Intelligent Wash Cycle Optimization",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10KG TOP LOAD \nWASHING MACHINE",
+          "model": "WMA10KGTT",
+          "regular": 4500,
+          "sale": 4000,
+          "features": "Elegant & Modern Dark Gray Finish | Advanced Fuzzy Logic Smart Technology | Intuitive Digital Touch Screen Control | Durable Waterproof IPX4 Protection | Precision Cold Solenoid Intake Valve | Powerful Air Dry High-Speed Function | Ultra-Quiet Noise Free Technology | Fully Automatic Top Loading System | Secure Child Lock Safety Protection",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10KG TWIN TUB\nWASHING MACHINE",
+          "model": "XPB100-228SE",
+          "regular": 2450,
+          "sale": 2190,
+          "features": "Versatile Normal & Delicate Wash Modes | Rapid 15-Minute High-Speed Wash Cycle | Powerful Pulsator for Deep Cleaning | Large 6.0kg High-Speed Spin Capacity | Advanced Air Dry Moisture Removal | Integrated Spin Shower Rinse System | Fine Particle Magic Filter Technology | Energy Efficient & Water Saving Design | Durable & Compact Space-Saving Body",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "11KG TOP LOAD \nWASHING MACHINE",
+          "model": "WT3K1132UB",
+          "regular": 3900,
+          "sale": null,
+          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "11KG TWIN TUB \nWASHING MACHINE",
+          "model": "WSRB113W",
+          "regular": 2500,
+          "sale": null,
+          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "12.5KG TWIN TUB \nWASHING MACHINE",
+          "model": "WSRB133W",
+          "regular": 2800,
+          "sale": null,
+          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE (5I)",
+          "model": "WD5I1245BB",
+          "regular": 8000,
+          "sale": null,
+          "features": "Energy Efficient Inverter Technology | Highly Efficient Performance Rating | Smart TFT Digital Control Screen | Heavy Duty 12KG Washing Capacity | Integrated Clothes Drying Functionality | Sophisticated Dark Stainless Finish | Professional Front Loading Design | Multiple Advanced Wash Cycles | Durable Model Construction",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "12KG FRONT LOAD \nWASHING MACHINE (7S)",
+          "model": "WF7S1247BB",
+          "regular": 9500,
+          "sale": null,
+          "features": "High Energy Efficiency Inverter Motor | Advanced Wifi Connectivity Features | Modern Smart Touch Control Panel | Large 12KG Washing Load Capacity | Sleek Model Design | Professional Front Loading System | Multiple Intelligent Wash Programs | High Speed Spin Performance | Quiet And Stable Operation",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "12KG FRONT LOAD \nWASHING MACHINE",
+          "model": "WMA12KGFLTP",
+          "regular": 7300,
+          "sale": 6500,
+          "features": "Large 12kg High-Capacity Wash Load | Automatic Front Loading Convenience | Intelligent Wash & Soak System | Smart Digital Touch Screen Control | Versatile Time-Saving Preset Function | Built-in Heater for High-Temp Wash | Secure Child Lock Safety Protection | High-Efficiency Energy Saving System | Advanced Heavy-Duty Motor Technology",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "17KG TOP LOAD \nWASHING MACHINE",
+          "model": "WT3T1723UB",
+          "regular": 5990,
+          "sale": null,
+          "features": "Premium Soft-Closing Glass Lid | Double Magic Filter for Cleaner Wash | Advanced Fuzzy Logic Smart Control | Custom Self-Programming & Memory | Intelligent LED Display & 12 Programs | Built-in Double Water Outlet & Pump | Hygienic Tub Clean & Pre-Soak Modes | Smart Delay Start & End Function | Secure Child Lock Safety Protection",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "18KG TOP LOAD\nWASHING MACHINE",
+          "model": "XQB180-879G",
+          "regular": 6000,
+          "sale": 5400,
+          "features": "Advanced Fuzzy Logic Smart Technology | Durable Waterproof IPX4 Protection | Convenient Time Delay Wash Function | Powerful Air Dry High-Speed Function | Intelligent Self-Diagnostic System | Ultra-Quiet Noise Free Technology | Clear & Intuitive LED Digital Display | Fully Automatic Top Loading System | Secure Child Lock & Auto Shut Off",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "20KG TOP LOAD\nWASHING MACHINE",
+          "model": "WT3T2023UB",
+          "regular": 6400,
+          "sale": null,
+          "features": "Elegant & Sophisticated Premium Black | Hot & Warm Dual Solenoid Valve System | Advanced Self-Diagnostic & Fault Alarm | Durable Waterproof IPX4 Protection | Intensive Pre-Soak & Air Dry Function | Convenient Time Delay Wash Scheduling | Ultra-Quiet Noise Free Technology | Secure Child Lock Safety Protection | Fully Automatic Top Loading Efficiency",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "22KG TWIN TUB \nWASHING MACHINE",
+          "model": "XPB220-228SE",
+          "regular": 4200,
+          "sale": 3770,
+          "features": "Large 9kg High-Speed Spin Capacity | Whisper-Quiet Super Silent Operation | Advanced Air Dry Moisture Removal | Integrated Collars & Cuffs Washboard | Heavy & Standard Dual Wash Modes | Wash & Spin Water Supply System | Powerful Pulsator for Deep Cleaning | Durable Rust-Proof Strong Plastic Body | Magic Filter Lint & Debris Collector",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "7.5KG TWIN TUB \nWASHING MACHINE",
+          "model": "WSQB753W",
+          "regular": 2200,
+          "sale": null,
+          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "8KG FRONT LOAD \nWASHING MACHINE",
+          "model": "WFQP8014EVMT",
+          "regular": 4550,
+          "sale": null,
+          "features": "Advanced Energy-Saving Technology | Super Quick Wash for Time-Saving Performance | Smart Spin Balance Control for Quiet Operation | Deep Drum Self-Cleaning Hygiene Function | Intelligent LED Multi-Function Display | Ergonomic 45° High Handle Comfort Design | Gentle Snowflake Drum for Fabric Protection | Self-Diagnostic Intelligent Fault-Finding System | High-Speed Extraction & Rinse Optimization",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "8KG FRONT LOAD\nWASHING MACHINE",
+          "model": "W2086C",
+          "regular": 12000,
+          "sale": 9200,
+          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | 8kg Capacity with 10 Pre-Programs | Advanced Multi-Filter Lint System | Smart Auto Synthetic Drying Program | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "8KG FRONT LOAD\nTUMBLE DRYER",
+          "model": "TDAS9HS",
+          "regular": 15000,
+          "sale": 11500,
+          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capicity with 16 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "9KG FRONT LOAD\nWASHING MACHINE",
+          "model": "WMASFL96R",
+          "regular": 15500,
+          "sale": 11700,
+          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Smart Auto Dosing Detergent System | Massive 9kg High-Capacity Drum | 23 Pro-Grade Programs & 5 Modes | Vibration-Free Active Drum Tech | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "9KG TOP LOAD \nWASHING MACHINE",
+          "model": "WT3K9032UB",
+          "regular": 3400,
+          "sale": null,
+          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
+          "warranty": "5 Years"
+        }
+      ]
     }
   ],
   "featured": [
@@ -3011,33 +3006,6 @@
       "regular": 7250,
       "sale": null,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Washing Machines",
-      "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-      "model": "XQG100-BH148DC1",
-      "regular": 21900,
-      "sale": null,
-      "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "Washing Machines",
-      "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE",
-      "model": "WD5S1245BB",
-      "regular": 7950,
-      "sale": null,
-      "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Washing Machines",
-      "name": "8KG FRONT LOAD\nTUMBLE DRYER",
-      "model": "TDAS8HX",
-      "regular": 18000,
-      "sale": 13600,
-      "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
       "warranty": "5 Years"
     },
     {
@@ -3444,6 +3412,33 @@
       "sale": null,
       "features": "Premium Freestanding Bottom-Loading Design | Dual-Station: 1L Rapid Kettle & 1.5L Tea Infuser | Smart Heating with Automatic \"Keep Warm\" Mode | Intelligent Motorized Water Sliding Plate System | Intuitive Touch Button Interface with LED Display | Full-Function Remote Control for Effortless Operation | Instant Safety Child Lock for Heat Protection | Integrated Auto Power-Off & Overheat Protection | Hidden Bottle Storage for a Sleek Modern Aesthetic",
       "warranty": "3 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
+      "model": "XQG100-BH148DC1",
+      "regular": 21900,
+      "sale": null,
+      "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE",
+      "model": "WD5S1245BB",
+      "regular": 7950,
+      "sale": null,
+      "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "8KG FRONT LOAD\nTUMBLE DRYER",
+      "model": "TDAS8HX",
+      "regular": 18000,
+      "sale": 13600,
+      "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+      "warranty": "5 Years"
     }
   ],
   "spotlights": [
@@ -3482,15 +3477,6 @@
       "sale": null,
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years"
-    },
-    {
-      "category": "Washing Machines",
-      "name": "16 PLACE CAPACITY\nDISHWASHER",
-      "model": "HS673C90BME",
-      "regular": 7150,
-      "sale": null,
-      "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
-      "warranty": "3 Years"
     },
     {
       "category": "Electric Cooker",
@@ -3610,12 +3596,12 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Small Items",
+      "category": "Mobile Phones",
       "name": "H72 PRO MOBILE PHONE",
       "model": "H72 PRO",
       "regular": 1900,
       "sale": 1350,
-      "features": "",
+      "features": "Latest Android 15 Go Edition OS | Massive 256GB ROM & 12GB RAM Memory | Ultra-Clear 64MP HD Rear Camera | Large 6.75” HD+ Sleek Design Display | NFC Support for Contactless Payments | All-Day 5000mAh Battery & 15W Fast Charge | Secure Fingerprint & Face Unlock | Fluid 60Hz Refresh Rate Display | Free Premium Cover & Glass Protector",
       "warranty": "1 Year"
     },
     {
@@ -3679,6 +3665,15 @@
       "regular": 2750,
       "sale": 2000,
       "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "16 PLACE CAPACITY\nDISHWASHER",
+      "model": "HS673C90BME",
+      "regular": 7150,
+      "sale": null,
+      "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
       "warranty": "3 Years"
     }
   ],
@@ -4211,14 +4206,12 @@
     "Blenders": "10m1f",
     "Freezers": "10m1f",
     "CLEANING": "3feat",
-    "Washing Machines": "10m1f",
     "Electric Cooker": "10m1f",
     "Fan": "10m1f",
     "Refrigerators": "10m1f",
     "Gas Cooker": "10m1f",
     "Iron": "10m1f",
     "Mobile Phones": "5m2f",
-    "Small Items": "10m1f",
     "Kettles": "10m1f",
     "Microwave oven": "10m1f",
     "Showcases": "10m1f",
@@ -4232,6 +4225,7 @@
     "AMCON ANDROID": "10m1f",
     "AMCON QLED": "10m1f",
     "Water Dispensors": "5m2f",
+    "Washing Machines": "10m1f",
     "Wall Bracket": "3feat",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat",
@@ -4244,7 +4238,6 @@
     "Blenders",
     "Freezers",
     "CLEANING",
-    "Washing Machines",
     "Electric Cooker",
     "Built-In Appliances",
     "Sandwich Makers",
@@ -4266,6 +4259,7 @@
     "Television - Amcon",
     "Spare Parts-Television",
     "Laser TVs",
-    "Water Dispensors"
+    "Water Dispensors",
+    "Washing Machines"
   ]
 }
