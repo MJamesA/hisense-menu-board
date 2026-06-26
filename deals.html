@@ -292,7 +292,7 @@ function buildPages(data) {
     const L = LAYOUTS[layouts[cat]] || LAYOUTS['10m1f'];
     const mainItems = colByCat[cat] || [];
     const catFeat = featByCat[cat] || [];
-    const mainPages = L.main > 0 ? balancedChunk(mainItems, L.main) : [];
+    const mainPages = (L.main > 0 && mainItems.length) ? balancedChunk(mainItems, L.main) : [];
     const featPages = L.featured > 0 ? chunk(catFeat, L.featured) : [];
     const nPages = Math.max(mainPages.length, featPages.length);
     for (let i = 0; i < nPages; i++) {
