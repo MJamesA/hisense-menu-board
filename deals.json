@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T11:48:07.962Z",
+  "generatedAt": "2026-06-26T11:51:48.811Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -2328,10 +2328,10 @@
       ]
     },
     {
-      "category": "Televisions",
+      "category": "HISENSE DSTV",
       "items": [
         {
-          "category": "Televisions",
+          "category": "HISENSE DSTV",
           "name": "32” DIGITAL SATELLITE\nTELEVISION",
           "model": "32A5200FS",
           "regular": 1550,
@@ -2340,7 +2340,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "HISENSE DSTV",
           "name": "43” DIGITAL SATELLITE\nTELEVISION",
           "model": "43A5200FS",
           "regular": 2700,
@@ -2349,7 +2349,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "HISENSE DSTV",
           "name": "32” DIGITAL SATELLITE\nSMART TELEVISION",
           "model": "32A4Q",
           "regular": 2400,
@@ -2358,16 +2358,21 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "HISENSE DSTV",
           "name": "43” DIGITAL SATELLITE \nSMART TELEVISION",
           "model": "43A4Q",
           "regular": 3450,
           "sale": 2690,
           "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring",
           "warranty": "5 Years"
-        },
+        }
+      ]
+    },
+    {
+      "category": "HISENSE QLED",
+      "items": [
         {
-          "category": "Televisions",
+          "category": "HISENSE QLED",
           "name": "32” DIGITAL SATELLITE \nSMART QLED TELEVISION",
           "model": "32A5Q",
           "regular": 2800,
@@ -2376,7 +2381,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "HISENSE QLED",
           "name": "40” DIGITAL SATELLITE \nSMART QLED TELEVISION",
           "model": "40A5Q",
           "regular": 3890,
@@ -2385,7 +2390,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "HISENSE QLED",
           "name": "43” DIGITAL SMART\n QLED TELEVISION",
           "model": "43A4Q",
           "regular": 4300,
@@ -2393,6 +2398,83 @@
           "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
           "warranty": "5 Years"
         },
+        {
+          "category": "HISENSE QLED",
+          "name": "55” SMART DIGITAL \n4K QLED TELEVISION",
+          "model": "55Q6Q",
+          "regular": 6200,
+          "sale": 4690,
+          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "65'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "65Q7Q",
+          "regular": 9500,
+          "sale": 6990,
+          "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "65” SMART DIGITAL \n4K QLED TELEVISION",
+          "model": "65Q6Q",
+          "regular": 8700,
+          "sale": 6690,
+          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "75” SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "75Q7Q",
+          "regular": 14500,
+          "sale": 9390,
+          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "75” SMART DIGITAL \n4K QLED TELEVISION",
+          "model": "75Q6Q",
+          "regular": 11500,
+          "sale": 8490,
+          "features": "Super Large Screen Slim & Sleek Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | In-Built High-Speed Dual-Band WiFi | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "85'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "",
+          "regular": 18900,
+          "sale": 13390,
+          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "85'' SMART 4K QLED TELEVISION",
+          "model": "85Q6N",
+          "regular": 17900,
+          "sale": 12990,
+          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour Technology | Dolby Vision & Dolby Atmos Integrated | Full Array Local Dimming Panel | High View Engine Picture Processor | Smooth Motion Rate Clarity | Advanced Voice Assistant Control | Quad (4) HDMI & Dual (2) USB Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
+          "model": "100E75LEVS",
+          "regular": 28000,
+          "sale": 19990,
+          "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
+          "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "Televisions",
+      "items": [
         {
           "category": "Televisions",
           "name": "50” SMART DIGITAL \n4K T2 TELEVISION",
@@ -2422,42 +2504,6 @@
         },
         {
           "category": "Televisions",
-          "name": "55” SMART DIGITAL 4K\nMINI-LED TELEVISION",
-          "model": "55U6K-PRO",
-          "regular": 7800,
-          "sale": 5990,
-          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "55” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
-          "model": "#N/A",
-          "regular": 9490,
-          "sale": null,
-          "features": "Sleek Elegant Design with Bass Boost Audio | 4K ULED HDR+ with Dolby Vision IQ & Atmos | Full Array Dimming for Deep Black Levels | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed  WiFi & Bluetooth | Mobile Music Playback via TV Sound Output | Smart Wireless Content Sharing Features | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Inputs",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "55” SMART DIGITAL \n4K QLED TELEVISION",
-          "model": "55Q6Q",
-          "regular": 6200,
-          "sale": 4690,
-          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "55” SMART ULTRA PREMIUM \nMINI-LED 4K TELEVISION",
-          "model": "55U7K",
-          "regular": 9900,
-          "sale": null,
-          "features": "Elegant Slim Design with Quality Bass Boost | 4K ULED HDR+ for Flagship Picture Quality | Intelligent Dolby Vision IQ Light Optimization | Dolby Vision Atmos Surround Sound | Mobile Music Playback via TV Sound Output | Wireless Cast Feature & Bluetooth Streaming | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | Optical Audio Output & Headphone Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
           "name": "58” SMART DIGITAL \n4K T2 TELEVISION",
           "model": "58A6N",
           "regular": 6150,
@@ -2476,92 +2522,11 @@
         },
         {
           "category": "Televisions",
-          "name": "65” SMART DIGITAL 4K\nMINI-LED TELEVISION",
-          "model": "65U6Q PRO",
-          "regular": 10750,
-          "sale": 7750,
-          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "65” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
-          "model": "65SMPMLEDTV",
-          "regular": 13000,
-          "sale": 9190,
-          "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "65'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-          "model": "65Q7Q",
-          "regular": 9500,
-          "sale": 6990,
-          "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "65” SMART DIGITAL \n4K QLED TELEVISION",
-          "model": "65Q6Q",
-          "regular": 8700,
-          "sale": 6690,
-          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
           "name": "75” SMART DIGITAL \n4K T2 TELEVISION",
           "model": "75A6N",
           "regular": 10500,
           "sale": null,
           "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "75”SMART DIGITAL 8K \nMINI-LED PRO TELEVISION",
-          "model": "75U80H",
-          "regular": 42500,
-          "sale": 26000,
-          "features": "Ultra-High-Definition Native 8K Resolution | 8K AI Upscaler & Hi-View Engine Pro | Dolby Vision IQ & Dolby Atmos Surround Sound | Professional 8K Ultra-HD Game Mode Pro | Integrated Quality Bass Boost Audio System | Apple AirPlay & Bluetooth Wireless Streaming | High-Speed Dual-Band WiFi & LAN Ethernet | Quad (4) HDMI & Dual (2) USB Connectivity | Digital TV Reception & Multi-Source Inputs",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "75” SMART DIGITAL 4K\nMINI-LED TELEVISION",
-          "model": "75U6N PRO",
-          "regular": 14900,
-          "sale": 10490,
-          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "75” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
-          "model": "75U7N",
-          "regular": 15900,
-          "sale": 11390,
-          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Color Technology | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro Performance | Hands-Free Voice Control Smart Interaction | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Bluetooth & Cast Features | Quad (4) HDMI ARC & Digital TV Reception",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "75” SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-          "model": "75Q7Q",
-          "regular": 14500,
-          "sale": 9390,
-          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "75” SMART DIGITAL \n4K QLED TELEVISION",
-          "model": "75Q6Q",
-          "regular": 11500,
-          "sale": 8490,
-          "features": "Super Large Screen Slim & Sleek Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | In-Built High-Speed Dual-Band WiFi | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
           "warranty": "5 Years"
         },
         {
@@ -2575,6 +2540,92 @@
         },
         {
           "category": "Televisions",
+          "name": "98\" SMART DIGITAL \nULED TELEVISION",
+          "model": "98E7G-PRO",
+          "regular": 37000,
+          "sale": 32750,
+          "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
+          "warranty": "5 Years"
+        }
+      ]
+    },
+    {
+      "category": "HISENSE MINILED",
+      "items": [
+        {
+          "category": "HISENSE MINILED",
+          "name": "55” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+          "model": "55U6K-PRO",
+          "regular": 7800,
+          "sale": 5990,
+          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "55” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "#N/A",
+          "regular": 9490,
+          "sale": null,
+          "features": "Sleek Elegant Design with Bass Boost Audio | 4K ULED HDR+ with Dolby Vision IQ & Atmos | Full Array Dimming for Deep Black Levels | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed  WiFi & Bluetooth | Mobile Music Playback via TV Sound Output | Smart Wireless Content Sharing Features | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Inputs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "55” SMART ULTRA PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "55U7K",
+          "regular": 9900,
+          "sale": null,
+          "features": "Elegant Slim Design with Quality Bass Boost | 4K ULED HDR+ for Flagship Picture Quality | Intelligent Dolby Vision IQ Light Optimization | Dolby Vision Atmos Surround Sound | Mobile Music Playback via TV Sound Output | Wireless Cast Feature & Bluetooth Streaming | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | Optical Audio Output & Headphone Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "65” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+          "model": "65U6Q PRO",
+          "regular": 10750,
+          "sale": 7750,
+          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "65” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "65SMPMLEDTV",
+          "regular": 13000,
+          "sale": 9190,
+          "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "75”SMART DIGITAL 8K \nMINI-LED PRO TELEVISION",
+          "model": "75U80H",
+          "regular": 42500,
+          "sale": 26000,
+          "features": "Ultra-High-Definition Native 8K Resolution | 8K AI Upscaler & Hi-View Engine Pro | Dolby Vision IQ & Dolby Atmos Surround Sound | Professional 8K Ultra-HD Game Mode Pro | Integrated Quality Bass Boost Audio System | Apple AirPlay & Bluetooth Wireless Streaming | High-Speed Dual-Band WiFi & LAN Ethernet | Quad (4) HDMI & Dual (2) USB Connectivity | Digital TV Reception & Multi-Source Inputs",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "75” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+          "model": "75U6N PRO",
+          "regular": 14900,
+          "sale": 10490,
+          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "75” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "75U7N",
+          "regular": 15900,
+          "sale": 11390,
+          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Color Technology | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro Performance | Hands-Free Voice Control Smart Interaction | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Bluetooth & Cast Features | Quad (4) HDMI ARC & Digital TV Reception",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
           "name": "85” SMART DIGITAL 4K\nMINI-LED TELEVISION",
           "model": "85U6N-PRO",
           "regular": 19500,
@@ -2583,7 +2634,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "HISENSE MINILED",
           "name": "85'' SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
           "model": "85Q7Q",
           "regular": 25000,
@@ -2592,34 +2643,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
-          "name": "85'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-          "model": "",
-          "regular": 18900,
-          "sale": 13390,
-          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "85'' SMART 4K QLED TELEVISION",
-          "model": "85Q6N",
-          "regular": 17900,
-          "sale": 12990,
-          "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour Technology | Dolby Vision & Dolby Atmos Integrated | Full Array Local Dimming Panel | High View Engine Picture Processor | Smooth Motion Rate Clarity | Advanced Voice Assistant Control | Quad (4) HDMI & Dual (2) USB Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "98\" SMART DIGITAL \nULED TELEVISION",
-          "model": "98E7G-PRO",
-          "regular": 37000,
-          "sale": 32750,
-          "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
+          "category": "HISENSE MINILED",
           "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
           "model": "100E80KAVS",
           "regular": 38000,
@@ -2628,16 +2652,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
-          "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
-          "model": "100E75LEVS",
-          "regular": 28000,
-          "sale": 19990,
-          "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
+          "category": "HISENSE MINILED",
           "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
           "model": "110UXNQ",
           "regular": 185000,
@@ -2646,7 +2661,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
+          "category": "HISENSE MINILED",
           "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
           "model": "116UX",
           "regular": 250000,
@@ -4208,7 +4223,10 @@
     "Microwave oven": "10m1f",
     "Showcases": "10m1f",
     "Sound Systems": "10m1f",
+    "HISENSE DSTV": "10m1f",
+    "HISENSE QLED": "10m1f",
     "Televisions": "10m1f",
+    "HISENSE MINILED": "10m1f",
     "Toshiba TVs": "5m2f",
     "AMCON DSTV": "10m1f",
     "AMCON ANDROID": "10m1f",
