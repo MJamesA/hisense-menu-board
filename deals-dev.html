@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Hisense Deals Board</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Archivo:wght@400;600;700;800;900&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --bg:#060d0e; --bar:#0c1719; --bar-edge:#15292c;
+    --teal:#19c7b6; --teal-deep:#0e8f83;
+    --yellow:#ffd21e; --red:#ff2e2e;
+    --cream:#f6f1e3; --ink:#14110a; --muted:#8a8270; --muted-d:#5d6f72; --white:#fff;
+    --accent:#f5b800;        /* spotlight accent (gold by default) */
+    --accent-2:#c79400;      /* darker accent for the spotlight gradient */
+    --accent-ink:#221a00;
+  }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html,body { width:100%; height:100%; overflow:hidden; background:#000;
+    font-family:'Archivo',system-ui,sans-serif; -webkit-font-smoothing:antialiased; }
+
+  #viewport { position:fixed; inset:0; display:flex; align-items:center; justify-content:center;
+    background:radial-gradient(120% 90% at 50% -10%, #0c1c1f 0%, var(--bg) 55%, #03080a 100%); }
+  #stage { position:relative; width:1920px; height:1080px; flex:none; transform-origin:center center;
+    overflow:hidden; padding:26px;
+    background:radial-gradient(130% 100% at 50% 0%, #0d1e21 0%, var(--bg) 60%, #04090b 100%);
+    display:flex; flex-direction:column; }
+
+  /* page crossfade */
+  .page { position:absolute; inset:26px; display:flex; flex-direction:column;
+    opacity:0; transition:opacity .6s ease; pointer-events:none; }
+  .page.is-active { opacity:1; }
+
+  /* ---------- header ---------- */
+  .hdr { flex:0 0 auto; height:88px; background:linear-gradient(180deg,var(--bar),#081012);
+    border:2px solid var(--bar-edge); border-radius:14px;
+    display:flex; align-items:center; padding:0 30px; gap:24px; }
+  .wordmark { font-family:'Anton'; font-size:46px; color:var(--white); text-transform:uppercase; line-height:1; }
+  .wordmark .dot { color:var(--teal); }
+  .brand-logo { flex:0 0 auto; height:58px; width:auto; display:block; }
+  .hdr .bar { width:3px; height:52px; background:linear-gradient(180deg,transparent,var(--teal-deep),transparent); }
+  .title { font-family:'Anton'; font-size:54px; line-height:1; color:var(--yellow);
+    text-transform:uppercase; letter-spacing:1px; flex:1 1 auto; white-space:nowrap;
+    overflow:hidden; text-overflow:ellipsis; }
+  .warranty-pill { flex:0 0 auto; background:rgba(25,199,182,.15); border:2px solid var(--teal-deep);
+    color:var(--teal); font-family:'Anton'; font-size:22px; letter-spacing:1px; padding:8px 16px;
+    border-radius:10px; text-transform:uppercase; white-space:nowrap; }
+  .nationwide-pill { flex:0 0 auto; background:linear-gradient(180deg,var(--yellow),#e6b800); color:#211c00;
+    font-family:'Anton'; font-size:22px; letter-spacing:1px; padding:8px 18px; border-radius:10px;
+    text-transform:uppercase; white-space:nowrap; box-shadow:0 3px 0 rgba(0,0,0,.3); }
+  .spot-war { margin-left:10px; color:var(--teal-deep); font-weight:900; white-space:nowrap; }
+  .hdr-meta { text-align:right; line-height:1.25; }
+  .hdr-meta .m1 { font-family:'Anton'; font-size:24px; color:var(--teal); letter-spacing:1px; }
+  .hdr-meta .m2 { font-size:15px; font-weight:800; color:var(--muted-d); letter-spacing:1.5px; text-transform:uppercase; }
+
+  /* ---------- main page: banner on top, then main grid columns + featured panels ---------- */
+  .main-wrap { flex:1 1 auto; display:flex; flex-direction:column; margin:14px 0; min-height:0; }
+  .main-single { flex:1 1 auto; display:flex; flex-direction:column; margin:14px 0; min-height:0; }
+  .cat-banner { flex:0 0 auto; display:flex; align-items:center; gap:14px; padding:2px 2px 12px; }
+  .col-accent { width:9px; height:38px; border-radius:5px; flex:0 0 auto;
+    background:linear-gradient(180deg,var(--teal),var(--teal-deep)); }
+  .col-title { font-family:'Anton'; font-size:40px; color:var(--white); text-transform:uppercase;
+    letter-spacing:.5px; line-height:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .pageno { margin-left:auto; font-family:'Anton'; font-size:22px; color:var(--muted-d); letter-spacing:1px; }
+  .main-row { flex:1 1 auto; display:flex; gap:16px; min-height:0; }
+  .gridbox { min-width:0; display:grid; grid-template-rows:repeat(5,1fr); grid-auto-flow:row; gap:12px 18px;
+    background:rgba(8,18,20,.5); border:2px solid var(--bar-edge); border-radius:14px; padding:16px 18px; }
+  .ess-solo { justify-content:stretch; }
+  .ess-solo .ess { flex:1 1 auto; height:auto; }
+
+  /* featured / best-deal panel */
+  .fpanel { flex:1 1 0; min-width:0; border-radius:14px; position:relative; overflow:hidden;
+    display:flex; flex-direction:column; padding:18px; }
+  .fpanel.gold { background:linear-gradient(180deg,#f5b800,#c79400); --pi:#221a00; }
+  .fpanel.teal { background:linear-gradient(180deg,#19c7b6,#0e8f83); --pi:#04201d; }
+  .fpanel-tab { position:absolute; top:0; right:0; background:var(--red); color:#fff;
+    font-family:'Anton'; font-size:21px; letter-spacing:1px; padding:8px 18px; border-bottom-left-radius:12px; text-transform:uppercase; }
+  .fpanel-save { position:absolute; top:56px; right:18px; background:var(--red); color:#fff;
+    width:116px; height:116px; border-radius:50%; display:flex; flex-direction:column; align-items:center;
+    justify-content:center; transform:rotate(8deg); box-shadow:0 6px 0 rgba(0,0,0,.25); line-height:1; }
+  .fpanel-save .s1 { font-family:'Anton'; font-size:14px; letter-spacing:1px; }
+  .fpanel-save .s2 { font-family:'Anton'; font-size:25px; }
+  .fpanel-img { flex:1 1 auto; min-height:0; border-radius:12px; margin-bottom:12px;
+    background:repeating-linear-gradient(45deg,#fff,#fff 16px,#f1f1f1 16px,#f1f1f1 32px);
+    border:2px dashed rgba(0,0,0,.16); display:flex; align-items:center; justify-content:center; }
+  .fpanel-img span { font-family:'Anton'; font-size:18px; color:rgba(0,0,0,.28); letter-spacing:2px; text-transform:uppercase; }
+  .fpanel-name { font-family:'Anton'; font-size:32px; line-height:.98; color:var(--pi); text-transform:uppercase; }
+  .fpanel-model { margin-top:4px; font-size:14px; font-weight:800; letter-spacing:1px; color:rgba(0,0,0,.5); text-transform:uppercase; }
+  .fpanel-war { margin-left:8px; color:var(--pi); font-weight:900; }
+  .fpanel-feats { margin:11px 0; display:flex; flex-direction:column; gap:6px; }
+  .fpanel-feat { display:flex; align-items:center; gap:9px; font-size:15px; font-weight:800; color:var(--pi); }
+  .fpanel-feat .ck { width:21px; height:21px; border-radius:6px; flex:0 0 auto; background:var(--teal-deep);
+    color:#fff; font-size:13px; display:flex; align-items:center; justify-content:center; }
+  .fpanel.teal .fpanel-feat .ck { background:#04201d; }
+  .fpanel-prices { margin-top:auto; }
+  .fpanel-was { font-size:22px; font-weight:800; color:rgba(0,0,0,.42); text-decoration:line-through; }
+  .fpanel-now { font-family:'Archivo'; font-weight:900; font-size:62px; line-height:.85; color:var(--pi); white-space:nowrap; }
+  .fpanel-now .cur { font-size:30px; vertical-align:12px; margin-right:3px; }
+
+  .card { min-height:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
+    border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 20px;
+    box-shadow:0 4px 0 rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.5); }
+  .c-body { flex:1 1 auto; min-width:0; }
+  .c-name { font-weight:900; font-size:22px; line-height:1.04; color:var(--ink); text-transform:uppercase;
+    overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+  .c-sub { margin-top:5px; display:flex; align-items:center; gap:8px; min-width:0; }
+  .c-model { font-size:13px; font-weight:700; color:var(--muted); letter-spacing:1px;
+    text-transform:uppercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+  .c-war { flex:0 0 auto; font-size:11px; font-weight:900; letter-spacing:.5px; color:var(--teal-deep);
+    background:rgba(14,143,131,.13); border:1px solid rgba(14,143,131,.34); padding:2px 7px;
+    border-radius:5px; text-transform:uppercase; white-space:nowrap; }
+  .c-brand { flex:0 0 auto; font-size:11px; font-weight:900; letter-spacing:.5px; color:#fff;
+    background:var(--teal-deep); padding:2px 7px; border-radius:5px; text-transform:uppercase; white-space:nowrap; }
+  .c-price { flex:0 0 auto; text-align:right; line-height:1; display:flex; flex-direction:column; align-items:flex-end; }
+  .c-was { font-size:15px; font-weight:700; color:var(--muted); text-decoration:line-through; margin-bottom:2px; }
+  .c-now { font-family:'Archivo'; font-weight:900; font-size:30px; color:var(--ink); white-space:nowrap; }
+  .c-now.sale { color:var(--red); }
+  .c-now .cur { font-size:18px; font-weight:800; vertical-align:3px; margin-right:1px; }
+
+  /* ---------- full-screen spotlight page ---------- */
+  .fspot { flex:1 1 auto; margin:16px 0; display:flex; gap:26px; min-height:0; }
+  .fspot-img { flex:1 1 0; min-width:0; border-radius:16px;
+    background:repeating-linear-gradient(45deg,#fff,#fff 22px,#f1f1f1 22px,#f1f1f1 44px);
+    border:3px dashed rgba(255,255,255,.12); display:flex; align-items:center; justify-content:center; }
+  .fspot-img span { font-family:'Anton'; font-size:40px; color:rgba(0,0,0,.16); letter-spacing:3px; text-transform:uppercase; }
+  /* DEV: Odoo product image overlay (hidden until the image loads; placeholder shows otherwise) */
+  .fpanel-img img.odoo-img, .fspot-img img.odoo-img { display:none; max-width:96%; max-height:96%; object-fit:contain; }
+  .fpanel-img.has-img, .fspot-img.has-img { background:#fff; border-style:solid; border-color:rgba(0,0,0,.08); }
+  .fpanel-img.has-img span, .fspot-img.has-img span { display:none; }
+  .fpanel-img.has-img img.odoo-img, .fspot-img.has-img img.odoo-img { display:block; }
+  .fspot-panel { flex:1 1 0; min-width:0; border-radius:16px; position:relative; overflow:hidden;
+    background:linear-gradient(180deg,var(--accent),var(--accent-2)); display:flex; flex-direction:column; padding:40px; }
+  .fspot-tab { position:absolute; top:0; right:0; background:var(--red); color:#fff;
+    font-family:'Anton'; font-size:30px; letter-spacing:2px; padding:12px 28px; border-bottom-left-radius:16px; text-transform:uppercase; }
+  .fspot-save { position:absolute; top:92px; right:38px; background:var(--red); color:#fff;
+    width:196px; height:196px; border-radius:50%; display:flex; flex-direction:column; align-items:center; justify-content:center;
+    transform:rotate(8deg); box-shadow:0 8px 0 rgba(0,0,0,.25); line-height:1; }
+  .fspot-save .s1 { font-family:'Anton'; font-size:26px; letter-spacing:2px; }
+  .fspot-save .s2 { font-family:'Anton'; font-size:44px; }
+  .fspot-name { font-family:'Anton'; font-size:78px; line-height:.95; color:var(--accent-ink); text-transform:uppercase; max-width:76%; }
+  .fspot-model { margin-top:12px; font-size:26px; font-weight:800; letter-spacing:1.5px; color:rgba(0,0,0,.55); text-transform:uppercase; }
+  .fspot-war { margin-left:14px; color:var(--accent-ink); font-weight:900; white-space:nowrap; }
+  .fspot-feats { margin:24px 0; display:flex; flex-direction:column; gap:14px; }
+  .fspot-feat { display:flex; align-items:center; gap:14px; font-size:29px; font-weight:800; color:var(--accent-ink); }
+  .fspot-feat .ck { width:38px; height:38px; border-radius:9px; flex:0 0 auto; background:var(--teal-deep); color:#fff;
+    font-size:23px; display:flex; align-items:center; justify-content:center; }
+  .fspot-prices { margin-top:auto; }
+  .fspot-was { font-size:40px; font-weight:800; color:rgba(0,0,0,.42); text-decoration:line-through; }
+  .fspot-now { font-family:'Archivo'; font-weight:900; font-size:148px; line-height:.82; color:var(--accent-ink); white-space:nowrap; }
+  .fspot-now .cur { font-size:62px; vertical-align:28px; margin-right:6px; }
+
+  /* ---------- essentials bar ---------- */
+  .ess { flex:0 0 auto; height:152px; background:linear-gradient(180deg,#081012,var(--bar));
+    border:2px solid var(--bar-edge); border-radius:14px; display:flex; align-items:stretch; padding:12px; gap:12px; }
+  .ess-label { flex:0 0 168px; display:flex; flex-direction:column; justify-content:center; padding-left:8px; }
+  .ess-label .e1 { font-family:'Anton'; font-size:34px; color:var(--yellow); line-height:.92; text-transform:uppercase; }
+  .ess-label .e2 { font-size:14px; font-weight:800; letter-spacing:2px; color:var(--muted-d); text-transform:uppercase; }
+  .ess-items { flex:1 1 auto; display:flex; gap:12px; }
+  .ess-card { flex:1 1 0; min-width:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
+    border-radius:10px; padding:10px 12px; display:flex; flex-direction:column; justify-content:center;
+    box-shadow:0 4px 0 rgba(0,0,0,.25); }
+  .ess-name { font-weight:900; font-size:16px; line-height:1.02; color:var(--ink); text-transform:uppercase;
+    overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
+  .ess-model { font-size:11px; font-weight:700; color:var(--muted); letter-spacing:.5px; text-transform:uppercase;
+    white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin:2px 0 4px; }
+  .ess-price { display:flex; align-items:baseline; gap:6px; }
+  .ess-was { font-size:13px; font-weight:700; color:var(--muted); text-decoration:line-through; }
+  .ess-now { font-family:'Archivo'; font-weight:900; font-size:24px; color:var(--ink); }
+  .ess-now.sale { color:var(--red); }
+  .ess-now .cur { font-size:14px; font-weight:800; }
+
+  /* theme: teal accent variant */
+  .stage-teal { --accent:#19c7b6; --accent-2:#0e8f83; --accent-ink:#04201d; }
+
+  /* loading + status */
+  #loading { position:absolute; inset:0; display:flex; flex-direction:column; align-items:center;
+    justify-content:center; gap:26px; z-index:20;
+    background:radial-gradient(120% 90% at 50% 30%, #0d1e21 0%, var(--bg) 70%); }
+  #loading .lm { font-family:'Anton'; font-size:54px; color:var(--white); text-transform:uppercase; letter-spacing:2px; }
+  #loading .lm .dot { color:var(--teal); }
+  #loading .sub { font-size:22px; font-weight:700; letter-spacing:3px; color:var(--muted-d); text-transform:uppercase; }
+  .spinner { width:58px; height:58px; border:6px solid rgba(25,199,182,.2); border-top-color:var(--teal);
+    border-radius:50%; animation:spin .9s linear infinite; }
+  @keyframes spin { to { transform:rotate(360deg); } }
+  #loading.hide { opacity:0; pointer-events:none; transition:opacity .5s; }
+  #status { position:absolute; left:8px; bottom:6px; font-size:12px; font-weight:700; letter-spacing:1px;
+    color:rgba(255,255,255,.16); text-transform:uppercase; z-index:30; }
+  #status.warn { color:rgba(255,200,40,.5); }
+  #status { cursor:pointer; pointer-events:auto; }   /* click toggles dev mode */
+
+  /* dev mode bar (un-scaled, fixed to viewport) */
+  #devbar { position:fixed; bottom:14px; left:50%; transform:translateX(-50%); z-index:50;
+    display:none; align-items:center; gap:10px; background:#0c1719; border:2px solid var(--teal-deep);
+    border-radius:12px; padding:8px 12px; box-shadow:0 8px 24px rgba(0,0,0,.5); }
+  #devbar.on { display:flex; }
+  #devbar button { background:#16302f; color:var(--teal); border:1px solid var(--teal-deep);
+    border-radius:8px; padding:8px 12px; font-weight:800; font-size:14px; cursor:pointer; font-family:inherit; }
+  #devbar button:hover { background:#1d3f3d; }
+  #devinfo { color:#cfeeea; font-weight:700; font-size:14px; letter-spacing:.4px; padding:0 6px; white-space:nowrap; }
+</style>
+</head>
+<body>
+<div id="viewport">
+  <div id="stage">
+    <div id="loading">
+      <div class="spinner"></div>
+      <div class="lm">Hisense<span class="dot">.</span></div>
+      <div class="sub">Loading deals&hellip;</div>
+    </div>
+    <div id="status"></div>
+  </div>
+</div>
+
+<div id="devbar">
+  <button onclick="devNav(-1)">◀ Prev</button>
+  <span id="devinfo">DEV</span>
+  <button onclick="devNav(1)">Next ▶</button>
+  <button onclick="fetchData(false)" title="Re-fetch latest data">↻ Reload</button>
+  <button onclick="toggleDev()">Exit dev</button>
+</div>
+
+<script>
+const CONFIG = {
+  DATA_URL: "https://raw.githubusercontent.com/MJamesA/hisense-menu-board/main/deals.json",
+  PAGE_SECONDS: 14,         // rotation speed when there are multiple pages
+  MAX_ITEMS_PER_PAGE: 10,   // up to 10 product cards per category grid page
+  GRID_ROWS: 5,             // laid out as 2 columns × 5 rows = 10
+  ESSENTIALS_PER_PAGE: 6,   // small-appliance cards along the bottom bar
+  REFETCH_MINUTES: 5
+};
+
+let PAGES = [], pageIndex = 0, rotateTimer = null, firstLoadDone = false, ESS_OFFSET = 0, DEV = false;
+const stageEl = document.getElementById('stage');
+const loadingEl = document.getElementById('loading');
+const statusEl = document.getElementById('status');
+
+const money = n => (n == null) ? "" : Math.round(n).toLocaleString("en-US");
+const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const chunk = (a,n) => { const o=[]; for(let i=0;i<a.length;i+=n) o.push(a.slice(i,i+n)); return o; };
+
+function priceHtml(p, cls) {
+  const hasSale = p.sale != null && p.regular != null && p.sale < p.regular;
+  const cur = '<span class="cur">GH₵</span>';
+  if (hasSale) {
+    return `<div class="${cls}-was">GH₵${money(p.regular)}</div>
+            <div class="${cls}-now sale">${cur}${money(p.sale)}</div>`;
+  }
+  const v = p.regular != null ? p.regular : p.sale;
+  return `<div class="${cls}-now">${cur}${v!=null?money(v):"&mdash;"}</div>`;
+}
+
+let ESS_CHUNKS = [];   // essentials chunks, distributed across grid pages (cycles each loop)
+
+// Split items into pages of <=maxPer, BALANCED so the last page isn't tiny:
+// 44 items -> [9,9,9,9,8] (5 pages) rather than [10,10,10,10,4].
+function balancedChunk(items, maxPer) {
+  const n = Math.max(1, Math.ceil(items.length / maxPer));
+  const base = Math.floor(items.length / n);
+  let rem = items.length % n, k = 0;
+  const pages = [];
+  for (let i = 0; i < n; i++) {
+    const size = base + (rem > 0 ? 1 : 0); if (rem > 0) rem--;
+    pages.push(items.slice(k, k + size)); k += size;
+  }
+  return pages;
+}
+
+// Per-category page templates: main items per page + featured panels per page.
+const LAYOUTS = {
+  '3feat':  { main: 0,  featured: 3 },
+  '5m2f':   { main: 5,  featured: 2 },
+  '10m1f':  { main: 10, featured: 1 },
+  '15m0f':  { main: 15, featured: 0 }
+};
+
+function buildPages(data) {
+  const colByCat = {};
+  (data.columns || []).forEach(c => { colByCat[c.category] = c.items || []; });
+  const featByCat = {}, spotsByCat = {};
+  (data.featured || []).filter(Boolean).forEach(f => (featByCat[f.category] = featByCat[f.category] || []).push(f));
+  (data.spotlights || []).filter(Boolean).forEach(s => (spotsByCat[s.category] = spotsByCat[s.category] || []).push(s));
+  const layouts = data.layouts || {};
+  ESS_CHUNKS = chunk(data.essentials || [], CONFIG.ESSENTIALS_PER_PAGE);
+
+  // Category order: explicit saved order first, then any others (columns, featured-, spotlight-only).
+  const order = [];
+  (data.categoryOrder || []).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
+  (data.columns || []).forEach(c => { if (order.indexOf(c.category) < 0) order.push(c.category); });
+  Object.keys(featByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
+  Object.keys(spotsByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
+
+  const pages = [];
+  let gridSeq = 0;
+
+  // Per category: build grid pages by its layout (M main / F featured per page),
+  // then that category's spotlight full pages.
+  order.forEach(cat => {
+    const L = LAYOUTS[layouts[cat]] || LAYOUTS['10m1f'];
+    const mainItems = colByCat[cat] || [];
+    const catFeat = featByCat[cat] || [];
+    const mainPages = (L.main > 0 && mainItems.length) ? balancedChunk(mainItems, L.main) : [];
+    const featPages = L.featured > 0 ? chunk(catFeat, L.featured) : [];
+    const nPages = Math.max(mainPages.length, featPages.length);
+    for (let i = 0; i < nPages; i++) {
+      pages.push({
+        type: 'grid', meta: data, category: cat, layout: L,
+        items: mainPages[i] || [],
+        featuredItems: featPages.length ? featPages[i % featPages.length] : [],
+        pageNo: i + 1, pageCount: nPages, gridSeq: gridSeq++
+      });
+    }
+    (spotsByCat[cat] || []).forEach(s => pages.push({ type: 'spot', meta: data, product: s }));
+  });
+
+  // Essentials with no main/featured at all -> their own pages (no blank pages otherwise).
+  if (!gridSeq && ESS_CHUNKS.length) {
+    ESS_CHUNKS.forEach(c => pages.push({ type: 'ess', meta: data, ess: c }));
+    ESS_CHUNKS = [];
+  }
+
+  return pages;
+}
+
+function warrantyLabel(w) {
+  if (!w) return "";
+  // "5 YEARS" -> "5-YR WARRANTY", "3 MONTHS" -> "3-MO WARRANTY"
+  const m = w.match(/(\d+)\s*(YEAR|YR|MONTH|MO)/i);
+  if (m) {
+    const unit = /MONTH|MO/i.test(m[2]) ? "MO" : "YR";
+    return m[1] + "-" + unit + " WARRANTY";
+  }
+  return w.toUpperCase();
+}
+
+function renderCard(it) {
+  const war = warrantyLabel(it.warranty);
+  return `
+    <div class="card">
+      <div class="c-body">
+        <div class="c-name">${esc(it.name)}</div>
+        <div class="c-sub">
+          ${it.brand ? `<span class="c-brand">${esc(it.brand)}</span>` : ""}
+          ${it.model ? `<span class="c-model">${esc(it.model)}</span>` : ""}
+          ${war ? `<span class="c-war">${esc(war)}</span>` : ""}
+        </div>
+      </div>
+      <div class="c-price">${priceHtml(it, "c")}</div>
+    </div>`;
+}
+
+function renderHeader(m) {
+  return `
+    <div class="hdr">
+      <img class="brand-logo" src="logo.png" alt="Hisense Ghana" onerror="this.outerHTML='&lt;div class=&quot;wordmark&quot;&gt;Hisense&lt;span class=&quot;dot&quot;&gt;.&lt;/span&gt;&lt;/div&gt;'">
+      <div class="bar"></div>
+      <div class="title">${esc(m.title || 'MEGA SAVERS')}</div>
+      <div class="nationwide-pill">${esc(m.nationwideText || 'NATIONWIDE PRICES')}</div>
+      ${m.footerText ? `<div class="warranty-pill">✓ ${esc(m.footerText)}</div>` : ""}
+      <div class="hdr-meta">
+        <div class="m1">${esc(m.pricesText || 'ALL PRICES IN GH₵')}</div>
+        <div class="m2">${esc(m.validText || '')}</div>
+      </div>
+    </div>`;
+}
+
+// Full-screen page dedicated to one featured product.
+function renderSpotPage(page) {
+  const m = page.meta, p = page.product;
+  const feats = (p.features || "").split("|").map(f=>f.trim()).filter(Boolean).slice(0,6);
+  const hasSale = p.sale != null && p.regular != null && p.sale < p.regular;
+  const nowV = hasSale ? p.sale : (p.regular != null ? p.regular : p.sale);
+  const save = hasSale ? (p.regular - p.sale) : null;
+  const war = warrantyLabel(p.warranty);
+  return `
+    ${renderHeader(m)}
+    <div class="fspot">
+      <div class="fspot-img"><span>${esc(p.model || 'Featured')}</span><img class="odoo-img" data-model="${esc(p.model||'')}" alt=""></div>
+      <div class="fspot-panel">
+        <div class="fspot-tab">${hasSale ? 'BEST DEAL' : 'FEATURED'}</div>
+        ${save!=null ? `<div class="fspot-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
+        <div class="fspot-name">${esc(p.name)}</div>
+        <div class="fspot-model">${p.brand ? esc(p.brand) + ' · ' : ''}${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fspot-war">⛨ ${esc(war)}</span>` : ''}</div>
+        <div class="fspot-feats">${feats.map(f=>`<div class="fspot-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
+        <div class="fspot-prices">
+          ${hasSale ? `<div class="fspot-was">GH₵${money(p.regular)}</div>` : ""}
+          <div class="fspot-now"><span class="cur">GH₵</span>${nowV!=null?money(nowV):"&mdash;"}</div>
+        </div>
+      </div>
+    </div>`;
+}
+
+function renderEssCard(it) {
+  const hasSale = it.sale != null && it.regular != null && it.sale < it.regular;
+  const cur = '<span class="cur">GH₵</span>';
+  const price = hasSale
+    ? `<span class="ess-was">GH₵${money(it.regular)}</span><span class="ess-now sale">${cur}${money(it.sale)}</span>`
+    : `<span class="ess-now">${cur}${money(it.regular!=null?it.regular:it.sale)}</span>`;
+  return `
+    <div class="ess-card">
+      <div class="ess-name">${esc(it.name)}</div>
+      ${(it.brand||it.model) ? `<div class="ess-model">${[it.brand,it.model].filter(Boolean).map(esc).join(' · ')}</div>` : ""}
+      <div class="ess-price">${price}</div>
+    </div>`;
+}
+
+function renderPage(page) {
+  if (page.type === 'spot') return renderSpotPage(page);
+  if (page.type === 'ess')  return renderEssPage(page);
+  return renderGridPage(page);
+}
+
+function essBar(items) {
+  return `
+    <div class="ess">
+      <div class="ess-label"><div class="e1">Everyday<br>Essentials</div><div class="e2">Small Appliances</div></div>
+      <div class="ess-items">${items.map(renderEssCard).join("")}</div>
+    </div>`;
+}
+
+// One category laid out by its template: a main grid of N columns (ceil(main/5))
+// plus F featured panels side by side, then the essentials bar.
+function renderGridPage(page) {
+  const m = page.meta;
+  const L = page.layout || LAYOUTS['10m1f'];
+  const mainCols = L.main > 0 ? Math.ceil(L.main / 5) : 0;
+  const cards = page.items.map(renderCard).join("");
+  const panels = (page.featuredItems || []).map(renderFeaturedPanel).join("");
+  // essentials ride the grid pages and cycle each loop (never create blank pages)
+  const ess = ESS_CHUNKS.length ? ESS_CHUNKS[(page.gridSeq + ESS_OFFSET) % ESS_CHUNKS.length] : [];
+  const pageNo = page.pageCount > 1 ? `<span class="pageno">PAGE ${page.pageNo} OF ${page.pageCount}</span>` : '';
+  const banner = `<div class="cat-banner"><span class="col-accent"></span><div class="col-title">${esc(page.category)}</div>${pageNo}</div>`;
+  const gridBox = mainCols > 0 ? `
+      <div class="gridbox" style="flex:${mainCols} 1 0; grid-template-columns:repeat(${mainCols},1fr)">${cards}</div>` : '';
+  return `
+    ${renderHeader(m)}
+    <div class="main-wrap">
+      ${banner}
+      <div class="main-row">
+        ${gridBox}
+        ${panels}
+      </div>
+    </div>
+    ${ess.length ? essBar(ess) : ''}`;
+}
+
+// The Featured/Best-Deal panel (one per main page). Gold "BEST DEAL" if it has a
+// promo price, else teal "FEATURED".
+function renderFeaturedPanel(p) {
+  const feats = (p.features || "").split("|").map(f=>f.trim()).filter(Boolean).slice(0,5);
+  const hasSale = p.sale != null && p.regular != null && p.sale < p.regular;
+  const nowV = hasSale ? p.sale : (p.regular != null ? p.regular : p.sale);
+  const save = hasSale ? (p.regular - p.sale) : null;
+  const war = warrantyLabel(p.warranty);
+  return `
+    <div class="fpanel ${hasSale ? 'gold' : 'teal'}">
+      <div class="fpanel-tab">${hasSale ? 'BEST DEAL' : 'FEATURED'}</div>
+      ${save!=null ? `<div class="fpanel-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
+      <div class="fpanel-img"><span>${esc(p.model || 'Featured')}</span><img class="odoo-img" data-model="${esc(p.model||'')}" alt=""></div>
+      <div class="fpanel-name">${esc(p.name)}</div>
+      <div class="fpanel-model">${p.brand ? esc(p.brand) + ' · ' : ''}${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fpanel-war">⛨ ${esc(war)}</span>` : ''}</div>
+      <div class="fpanel-feats">${feats.map(f=>`<div class="fpanel-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
+      <div class="fpanel-prices">
+        ${hasSale ? `<div class="fpanel-was">GH₵${money(p.regular)}</div>` : ""}
+        <div class="fpanel-now"><span class="cur">GH₵</span>${nowV!=null?money(nowV):"&mdash;"}</div>
+      </div>
+    </div>`;
+}
+
+// Essentials-only page (used only when nothing else was selected).
+function renderEssPage(page) {
+  return `
+    ${renderHeader(page.meta)}
+    <div class="main-single ess-solo">${essBar(page.ess)}</div>`;
+}
+
+/* ---- DEV: Odoo product images (fetched by model/SKU, cached, placeholder fallback) ---- */
+const ODOO_API = 'https://workatsel.com/api/odoo/products';
+const odooCache = new Map();   // model -> Promise<string|null>
+function odooImageUrl(model){
+  const key = (model || '').trim();
+  if(!key) return Promise.resolve(null);
+  if(odooCache.has(key)) return odooCache.get(key);
+  const p = fetch(ODOO_API + '?q=' + encodeURIComponent(key))
+    .then(r => r.ok ? r.json() : null)
+    .then(d => (d && d.success && d.data && d.data[0] && d.data[0].image_url) || null)
+    .catch(() => null);
+  odooCache.set(key, p);
+  return p;
+}
+function hydrateOdooImages(root){
+  root.querySelectorAll('img.odoo-img[data-model]').forEach(img => {
+    if(img.dataset.done) return;
+    img.dataset.done = '1';
+    odooImageUrl(img.getAttribute('data-model')).then(url => {
+      if(!url) return;                                   // no match -> keep hatched placeholder
+      img.onload  = () => { const box = img.closest('.fpanel-img,.fspot-img'); if(box) box.classList.add('has-img'); };
+      img.onerror = () => {};                            // load failed -> keep placeholder
+      img.src = url;
+    });
+  });
+}
+
+function showPage(idx) {
+  if (!PAGES.length) return;
+  const newIndex = ((idx % PAGES.length) + PAGES.length) % PAGES.length;
+  if (newIndex === 0 && idx !== 0 && PAGES.length > 1) ESS_OFFSET++;   // new loop -> rotate essentials
+  pageIndex = newIndex;
+  const page = PAGES[pageIndex];
+  // Spotlight theme follows price: promo -> gold "BEST DEAL", regular-only -> teal "FEATURED".
+  let teal = page.meta.accent === 'teal';
+  if (page.type === 'spot') {
+    const p = page.product;
+    teal = !(p.sale != null && p.regular != null && p.sale < p.regular);
+  }
+  const incoming = document.createElement('div');
+  incoming.className = 'page' + (teal ? ' stage-teal' : '');
+  incoming.innerHTML = renderPage(page);
+  stageEl.appendChild(incoming);
+  hydrateOdooImages(incoming);   // DEV: load real product images into featured/spotlight panels
+  void incoming.offsetWidth;
+  incoming.classList.add('is-active');
+  stageEl.querySelectorAll('.page').forEach(l => {
+    if (l !== incoming) { l.classList.remove('is-active'); setTimeout(()=>l.remove(), 700); }
+  });
+  if (DEV) updateDevInfo();
+}
+
+function startRotation() {
+  if (rotateTimer) clearInterval(rotateTimer);
+  rotateTimer = null;
+  if (!DEV && PAGES.length > 1) rotateTimer = setInterval(()=>showPage(pageIndex+1), CONFIG.PAGE_SECONDS*1000);
+}
+
+/* ---- dev mode: pause rotation + step through pages manually ---- */
+function toggleDev() {
+  DEV = !DEV;
+  document.getElementById('devbar').classList.toggle('on', DEV);
+  startRotation();          // pauses when DEV, resumes auto-rotation when off
+  updateDevInfo();
+}
+function devNav(d) { if (PAGES.length) showPage(pageIndex + d); }
+function updateDevInfo() {
+  const el = document.getElementById('devinfo'); if (!el) return;
+  const p = PAGES[pageIndex] || {};
+  let label = p.type || '—';
+  if (p.type === 'grid') label = 'MAIN · ' + (p.category || '') +
+      (p.pageCount > 1 ? ' (' + p.pageNo + '/' + p.pageCount + ')' : '') + (p.featured ? ' + featured' : '');
+  else if (p.type === 'spot') label = 'SPOTLIGHT · ' + ((p.product && p.product.name) || '');
+  else if (p.type === 'ess') label = 'ESSENTIALS';
+  el.textContent = 'DEV · ' + (PAGES.length ? (pageIndex + 1) + '/' + PAGES.length : '0') + ' · ' + label;
+}
+
+function apply(data, isFirst) {
+  const wasEmpty = PAGES.length === 0;
+  PAGES = buildPages(data);
+  if (pageIndex >= PAGES.length) pageIndex = 0;
+  if (wasEmpty) { showPage(0); startRotation(); }
+  else { startRotation(); }
+  if (isFirst && !firstLoadDone) {
+    firstLoadDone = true;
+    loadingEl.classList.add('hide');
+    setTimeout(()=>loadingEl.style.display='none', 600);
+  }
+}
+
+function fetchData(isFirst) {
+  const url = CONFIG.DATA_URL + (CONFIG.DATA_URL.indexOf("?")===-1?"?":"&") + "_cb=" + Date.now();
+  fetch(url, { cache:"no-store" })
+    .then(r => { if(!r.ok) throw new Error("HTTP "+r.status); return r.json(); })
+    .then(data => {
+      if (!data || data.ok === false) throw new Error((data&&data.error)||"bad payload");
+      const total = (data.columns||[]).reduce((n,c)=>n+(c.items?c.items.length:0),0)
+                  + (data.essentials||[]).length + (data.spotlights||[]).length;
+      if (!total) {
+        if (!firstLoadDone) loadingEl.querySelector('.sub').textContent = "No deals selected yet";
+        statusEl.textContent = "⚠ Empty selection"; statusEl.classList.add('warn'); return;
+      }
+      apply(data, isFirst);
+      statusEl.classList.remove('warn'); statusEl.textContent = "● live";
+    })
+    .catch(err => {
+      console.error("deals feed failed:", err);
+      statusEl.textContent = "⚠ Feed unreachable (showing last data)"; statusEl.classList.add('warn');
+      if (isFirst && !firstLoadDone) loadingEl.querySelector('.sub').textContent = "Cannot reach feed — retrying…";
+    });
+}
+
+function scaleStage() {
+  const s = Math.min(window.innerWidth/1920, window.innerHeight/1080);
+  stageEl.style.transform = "scale(" + s + ")";
+}
+window.addEventListener('resize', scaleStage);
+
+// Dev mode: toggle with 'd' or by clicking the status pill; ?dev=1 starts in it.
+// Arrow keys / space step through pages; "↻ Reload" re-fetches data.
+window.addEventListener('keydown', (e) => {
+  const k = (e.key || '').toLowerCase();
+  if (k === 'd') { toggleDev(); }
+  else if (DEV && (k === 'arrowright' || k === ' ')) { e.preventDefault(); devNav(1); }
+  else if (DEV && k === 'arrowleft') { devNav(-1); }
+});
+statusEl.addEventListener('click', toggleDev);
+if (new URLSearchParams(location.search).get('dev') === '1') {
+  DEV = true;
+  document.getElementById('devbar').classList.add('on');
+}
+
+scaleStage();
+fetchData(true);
+setInterval(()=>fetchData(false), CONFIG.REFETCH_MINUTES*60*1000);
+const bootRetry = setInterval(()=>{ if(firstLoadDone||PAGES.length){clearInterval(bootRetry);return;} fetchData(true); }, 15000);
+</script>
+</body>
+</html>
