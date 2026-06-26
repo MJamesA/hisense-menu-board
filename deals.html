@@ -111,6 +111,8 @@
   .c-war { flex:0 0 auto; font-size:11px; font-weight:900; letter-spacing:.5px; color:var(--teal-deep);
     background:rgba(14,143,131,.13); border:1px solid rgba(14,143,131,.34); padding:2px 7px;
     border-radius:5px; text-transform:uppercase; white-space:nowrap; }
+  .c-brand { flex:0 0 auto; font-size:11px; font-weight:900; letter-spacing:.5px; color:#fff;
+    background:var(--teal-deep); padding:2px 7px; border-radius:5px; text-transform:uppercase; white-space:nowrap; }
   .c-price { flex:0 0 auto; text-align:right; line-height:1; display:flex; flex-direction:column; align-items:flex-end; }
   .c-was { font-size:15px; font-weight:700; color:var(--muted); text-decoration:line-through; margin-bottom:2px; }
   .c-now { font-family:'Archivo'; font-weight:900; font-size:30px; color:var(--ink); white-space:nowrap; }
@@ -334,6 +336,7 @@ function renderCard(it) {
       <div class="c-body">
         <div class="c-name">${esc(it.name)}</div>
         <div class="c-sub">
+          ${it.brand ? `<span class="c-brand">${esc(it.brand)}</span>` : ""}
           ${it.model ? `<span class="c-model">${esc(it.model)}</span>` : ""}
           ${war ? `<span class="c-war">${esc(war)}</span>` : ""}
         </div>
@@ -373,7 +376,7 @@ function renderSpotPage(page) {
         <div class="fspot-tab">${hasSale ? 'BEST DEAL' : 'FEATURED'}</div>
         ${save!=null ? `<div class="fspot-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
         <div class="fspot-name">${esc(p.name)}</div>
-        <div class="fspot-model">${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fspot-war">⛨ ${esc(war)}</span>` : ''}</div>
+        <div class="fspot-model">${p.brand ? esc(p.brand) + ' · ' : ''}${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fspot-war">⛨ ${esc(war)}</span>` : ''}</div>
         <div class="fspot-feats">${feats.map(f=>`<div class="fspot-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
         <div class="fspot-prices">
           ${hasSale ? `<div class="fspot-was">GH₵${money(p.regular)}</div>` : ""}
@@ -392,7 +395,7 @@ function renderEssCard(it) {
   return `
     <div class="ess-card">
       <div class="ess-name">${esc(it.name)}</div>
-      ${it.model ? `<div class="ess-model">${esc(it.model)}</div>` : ""}
+      ${(it.brand||it.model) ? `<div class="ess-model">${[it.brand,it.model].filter(Boolean).map(esc).join(' · ')}</div>` : ""}
       <div class="ess-price">${price}</div>
     </div>`;
 }
@@ -451,7 +454,7 @@ function renderFeaturedPanel(p) {
       ${save!=null ? `<div class="fpanel-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
       <div class="fpanel-img"><span>${esc(p.model || 'Featured')}</span></div>
       <div class="fpanel-name">${esc(p.name)}</div>
-      <div class="fpanel-model">${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fpanel-war">⛨ ${esc(war)}</span>` : ''}</div>
+      <div class="fpanel-model">${p.brand ? esc(p.brand) + ' · ' : ''}${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fpanel-war">⛨ ${esc(war)}</span>` : ''}</div>
       <div class="fpanel-feats">${feats.map(f=>`<div class="fpanel-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
       <div class="fpanel-prices">
         ${hasSale ? `<div class="fpanel-was">GH₵${money(p.regular)}</div>` : ""}
