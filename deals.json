@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T12:10:01.956Z",
+  "generatedAt": "2026-06-26T12:10:29.201Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -1402,56 +1402,6 @@
       ]
     },
     {
-      "category": "Mobile Phones",
-      "items": [
-        {
-          "category": "Mobile Phones",
-          "name": "E72 MOBILE PHONE",
-          "model": "E72",
-          "regular": 1300,
-          "sale": 970,
-          "features": "Latest Android 16 Operating System | Large 6.52” HD+ Sleek Design Display | Massive 128GB ROM & 6GB RAM Memory | All-Day 5000mAh High-Capacity Battery | High-Speed 4G LTE Reliable Network | Secure Side Fingerprint Smart Unlock | Dual SIM Support for Easy Connectivity | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "H50 ZOOM MOBILE PHONE",
-          "model": "H50 Zoom",
-          "regular": 2500,
-          "sale": 1500,
-          "features": "",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U42 LITE MOBILE PHONE",
-          "model": "HWCD102E",
-          "regular": 790,
-          "sale": 600,
-          "features": "Compact 5.0” Durable Design Display | Reliable 3G Network Connectivity | Efficient Android Go Edition OS | 16GB ROM & 1GB RAM Essential Memory | Dual SIM & Dedicated SD Card Slot | All-Day 2000mAh Power Capacity | 5MP Rear Camera with Built-in Flash | Classic Professional Black Color",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U605 MOBILE PHONE",
-          "model": "HS-U605",
-          "regular": 350,
-          "sale": 200,
-          "features": "Ultra-Compact 4.1” Pocket-Sized Display | Efficient Quad-Core Processing Power | Reliable 3G Network Connectivity | Expandable Storage via MicroSD Slot | Versatile Dual SIM & Single SIM Support | Classic 5MP Rear & 2MP Selfie Cameras | Smooth Android 8.1 Oreo Performance | Built-in 1GB RAM & 8GB ROM Storage | Energy-Efficient 1500mAh Battery",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
-          "name": "U53 MOBILE PHONE",
-          "model": "U53",
-          "regular": 900,
-          "sale": 690,
-          "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
-          "warranty": "1 Year"
-        }
-      ]
-    },
-    {
       "category": "Kettles",
       "items": [
         {
@@ -1542,6 +1492,56 @@
           "regular": 360,
           "sale": 320,
           "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
+          "warranty": "1 Year"
+        }
+      ]
+    },
+    {
+      "category": "Mobile Phones",
+      "items": [
+        {
+          "category": "Mobile Phones",
+          "name": "E72 MOBILE PHONE",
+          "model": "E72",
+          "regular": 1300,
+          "sale": 970,
+          "features": "Latest Android 16 Operating System | Large 6.52” HD+ Sleek Design Display | Massive 128GB ROM & 6GB RAM Memory | All-Day 5000mAh High-Capacity Battery | High-Speed 4G LTE Reliable Network | Secure Side Fingerprint Smart Unlock | Dual SIM Support for Easy Connectivity | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "H50 ZOOM MOBILE PHONE",
+          "model": "H50 Zoom",
+          "regular": 2500,
+          "sale": 1500,
+          "features": "",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U42 LITE MOBILE PHONE",
+          "model": "HWCD102E",
+          "regular": 790,
+          "sale": 600,
+          "features": "Compact 5.0” Durable Design Display | Reliable 3G Network Connectivity | Efficient Android Go Edition OS | 16GB ROM & 1GB RAM Essential Memory | Dual SIM & Dedicated SD Card Slot | All-Day 2000mAh Power Capacity | 5MP Rear Camera with Built-in Flash | Classic Professional Black Color",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U605 MOBILE PHONE",
+          "model": "HS-U605",
+          "regular": 350,
+          "sale": 200,
+          "features": "Ultra-Compact 4.1” Pocket-Sized Display | Efficient Quad-Core Processing Power | Reliable 3G Network Connectivity | Expandable Storage via MicroSD Slot | Versatile Dual SIM & Single SIM Support | Classic 5MP Rear & 2MP Selfie Cameras | Smooth Android 8.1 Oreo Performance | Built-in 1GB RAM & 8GB ROM Storage | Energy-Efficient 1500mAh Battery",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U53 MOBILE PHONE",
+          "model": "U53",
+          "regular": 900,
+          "sale": 690,
+          "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
           "warranty": "1 Year"
         }
       ]
@@ -3162,6 +3162,15 @@
       "warranty": "1 Year"
     },
     {
+      "category": "Kettles",
+      "name": "1.7L DIGITAL PLASTIC KETTLE",
+      "model": "HK17DWD",
+      "regular": 550,
+      "sale": null,
+      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
+      "warranty": "1 Year"
+    },
+    {
       "category": "Mobile Phones",
       "name": "C40 MOBILE PHONE",
       "model": "AM-C40",
@@ -3177,15 +3186,6 @@
       "regular": 1600,
       "sale": 1200,
       "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Kettles",
-      "name": "1.7L DIGITAL PLASTIC KETTLE",
-      "model": "HK17DWD",
-      "regular": 550,
-      "sale": null,
-      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
       "warranty": "1 Year"
     },
     {
@@ -4211,8 +4211,8 @@
     "Refrigerators": "10m1f",
     "Gas Cooker": "10m1f",
     "Iron": "10m1f",
-    "Mobile Phones": "5m2f",
     "Kettles": "10m1f",
+    "Mobile Phones": "5m2f",
     "Microwave oven": "10m1f",
     "Showcases": "10m1f",
     "Sound Systems": "10m1f",
