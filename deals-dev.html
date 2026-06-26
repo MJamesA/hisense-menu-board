@@ -267,6 +267,37 @@ function balancedChunk(items, maxPer) {
   return pages;
 }
 
+// Split an array into n balanced groups (sizes differ by at most 1).
+function splitInto(arr, n) {
+  n = Math.max(1, Math.min(n, arr.length || 1));
+  const base = Math.floor(arr.length / n);
+  let rem = arr.length % n, k = 0;
+  const out = [];
+  for (let i = 0; i < n; i++) {
+    const sz = base + (rem > 0 ? 1 : 0); if (rem > 0) rem--;
+    out.push(arr.slice(k, k + sz)); k += sz;
+  }
+  return out;
+}
+
+// Evenly interleave spotlight pages through the grid pages by ratio.
+//   12 grid : 6 spot -> 2 grid, 1 spot, repeating.
+//   3 grid  : 6 spot -> 1 grid, 2 spot, repeating.
+function interleaveEven(mains, spots) {
+  const M = mains.length, S = spots.length;
+  if (!S) return mains.slice();
+  if (!M) return spots.slice();
+  const out = [];
+  if (M >= S) {
+    const groups = splitInto(mains, S);   // S blocks of grids, one spot after each block
+    for (let i = 0; i < S; i++) { out.push(...groups[i]); out.push(spots[i]); }
+  } else {
+    const groups = splitInto(spots, M);   // M grids, one balanced block of spots after each
+    for (let i = 0; i < M; i++) { out.push(mains[i]); out.push(...groups[i]); }
+  }
+  return out;
+}
+
 // Per-category page templates: main items per page + featured panels per page.
 const LAYOUTS = {
   '3feat':  { main: 0,  featured: 3 },
@@ -291,11 +322,12 @@ function buildPages(data) {
   Object.keys(featByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
   Object.keys(spotsByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
 
-  const pages = [];
   let gridSeq = 0;
+  const gridPages = [];
+  const spotPages = [];
 
-  // Per category: build grid pages by its layout (M main / F featured per page),
-  // then that category's spotlight full pages.
+  // Per category: build grid pages by its layout (M main / F featured per page).
+  // Spotlights are collected separately, then spread evenly across ALL grid pages.
   order.forEach(cat => {
     const L = LAYOUTS[layouts[cat]] || LAYOUTS['10m1f'];
     const mainItems = colByCat[cat] || [];
@@ -304,15 +336,18 @@ function buildPages(data) {
     const featPages = L.featured > 0 ? chunk(catFeat, L.featured) : [];
     const nPages = Math.max(mainPages.length, featPages.length);
     for (let i = 0; i < nPages; i++) {
-      pages.push({
+      gridPages.push({
         type: 'grid', meta: data, category: cat, layout: L,
         items: mainPages[i] || [],
         featuredItems: featPages.length ? featPages[i % featPages.length] : [],
         pageNo: i + 1, pageCount: nPages, gridSeq: gridSeq++
       });
     }
-    (spotsByCat[cat] || []).forEach(s => pages.push({ type: 'spot', meta: data, product: s }));
+    (spotsByCat[cat] || []).forEach(s => spotPages.push({ type: 'spot', meta: data, product: s }));
   });
+
+  // Mix spotlights evenly into the grid pages (e.g. 12 grid : 6 spot -> 2 grid, 1 spot, ...).
+  const pages = interleaveEven(gridPages, spotPages);
 
   // Essentials with no main/featured at all -> their own pages (no blank pages otherwise).
   if (!gridSeq && ESS_CHUNKS.length) {
