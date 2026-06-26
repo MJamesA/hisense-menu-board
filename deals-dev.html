@@ -323,11 +323,11 @@ function buildPages(data) {
   Object.keys(spotsByCat).forEach(c => { if (order.indexOf(c) < 0) order.push(c); });
 
   let gridSeq = 0;
-  const gridPages = [];
-  const spotPages = [];
+  const pages = [];
 
-  // Per category: build grid pages by its layout (M main / F featured per page).
-  // Spotlights are collected separately, then spread evenly across ALL grid pages.
+  // Per category: build its grid pages (M main / F featured per page), then mix that
+  // category's OWN spotlights evenly among them — spotlights always stay within their
+  // product category (e.g. 4 grid : 2 spot -> 2 grid, 1 spot, 2 grid, 1 spot).
   order.forEach(cat => {
     const L = LAYOUTS[layouts[cat]] || LAYOUTS['10m1f'];
     const mainItems = colByCat[cat] || [];
@@ -335,19 +335,18 @@ function buildPages(data) {
     const mainPages = (L.main > 0 && mainItems.length) ? balancedChunk(mainItems, L.main) : [];
     const featPages = L.featured > 0 ? chunk(catFeat, L.featured) : [];
     const nPages = Math.max(mainPages.length, featPages.length);
+    const catGrids = [];
     for (let i = 0; i < nPages; i++) {
-      gridPages.push({
+      catGrids.push({
         type: 'grid', meta: data, category: cat, layout: L,
         items: mainPages[i] || [],
         featuredItems: featPages.length ? featPages[i % featPages.length] : [],
         pageNo: i + 1, pageCount: nPages, gridSeq: gridSeq++
       });
     }
-    (spotsByCat[cat] || []).forEach(s => spotPages.push({ type: 'spot', meta: data, product: s }));
+    const catSpots = (spotsByCat[cat] || []).map(s => ({ type: 'spot', meta: data, product: s }));
+    interleaveEven(catGrids, catSpots).forEach(p => pages.push(p));
   });
-
-  // Mix spotlights evenly into the grid pages (e.g. 12 grid : 6 spot -> 2 grid, 1 spot, ...).
-  const pages = interleaveEven(gridPages, spotPages);
 
   // Essentials with no main/featured at all -> their own pages (no blank pages otherwise).
   if (!gridSeq && ESS_CHUNKS.length) {
