@@ -411,7 +411,7 @@ function renderSpotPage(page) {
   return `
     ${renderHeader(m)}
     <div class="fspot">
-      <div class="fspot-img"><span>${esc(p.model || 'Featured')}</span><img class="odoo-img" data-model="${esc(p.model||'')}" alt=""></div>
+      ${odooImgBox('fspot-img', p.model)}
       <div class="fspot-panel">
         <div class="fspot-tab">${hasSale ? 'BEST DEAL' : 'FEATURED'}</div>
         ${save!=null ? `<div class="fspot-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
@@ -492,7 +492,7 @@ function renderFeaturedPanel(p) {
     <div class="fpanel ${hasSale ? 'gold' : 'teal'}">
       <div class="fpanel-tab">${hasSale ? 'BEST DEAL' : 'FEATURED'}</div>
       ${save!=null ? `<div class="fpanel-save"><div class="s1">SAVE</div><div class="s2">GH₵${money(save)}</div></div>` : ""}
-      <div class="fpanel-img"><span>${esc(p.model || 'Featured')}</span><img class="odoo-img" data-model="${esc(p.model||'')}" alt=""></div>
+      ${odooImgBox('fpanel-img', p.model)}
       <div class="fpanel-name">${esc(p.name)}</div>
       <div class="fpanel-model">${p.brand ? esc(p.brand) + ' · ' : ''}${p.model ? 'Model · ' + esc(p.model) : ''}${war ? `<span class="fpanel-war">⛨ ${esc(war)}</span>` : ''}</div>
       <div class="fpanel-feats">${feats.map(f=>`<div class="fpanel-feat"><span class="ck">✓</span>${esc(f)}</div>`).join("")}</div>
@@ -535,6 +535,35 @@ function hydrateOdooImages(root){
       img.src = url;
     });
   });
+}
+
+// Resolved, fully-loaded image URLs keyed by model. Populated before the board shows
+// pages so each panel can render its <img> inline (already cached) from the first frame.
+const imgUrlByModel = Object.create(null);
+function preloadImage(url){
+  return new Promise(res => { const im = new Image(); im.onload = im.onerror = () => res(); im.src = url; });
+}
+function preloadOdooImages(data){
+  const models = new Set();
+  (data.featured   || []).forEach(f => { if(f && f.model) models.add(f.model); });
+  (data.spotlights || []).forEach(s => { if(s && s.model) models.add(s.model); });
+  const work = Promise.all([...models].map(m =>
+    odooImageUrl(m).then(url => {
+      if(url){ imgUrlByModel[m] = url; return preloadImage(url); }   // warm the browser cache
+    }).catch(() => {})
+  ));
+  // Never block the board more than ~4s if the API is slow/unreachable.
+  return Promise.race([ work, new Promise(res => setTimeout(res, 4000)) ]);
+}
+// Image box for a featured/spotlight panel. If the image is already resolved+cached,
+// render it inline with has-img so it shows from the first frame (no flash); otherwise
+// emit a data-model placeholder that hydrateOdooImages() fills in lazily.
+function odooImgBox(boxClass, model){
+  const src = (model && imgUrlByModel[model]) || '';
+  const inner = src
+    ? `<span>${esc(model || '')}</span><img class="odoo-img" src="${src}" alt="">`
+    : `<span>${esc(model || 'Featured')}</span><img class="odoo-img" data-model="${esc(model || '')}" alt="">`;
+  return `<div class="${boxClass}${src ? ' has-img' : ''}">${inner}</div>`;
 }
 
 function showPage(idx) {
@@ -587,10 +616,12 @@ function updateDevInfo() {
   el.textContent = 'DEV · ' + (PAGES.length ? (pageIndex + 1) + '/' + PAGES.length : '0') + ' · ' + label;
 }
 
-function apply(data, isFirst) {
+async function apply(data, isFirst) {
   const wasEmpty = PAGES.length === 0;
   PAGES = buildPages(data);
   if (pageIndex >= PAGES.length) pageIndex = 0;
+  // Resolve + cache-warm all panel images first, so slides show them from the first frame.
+  await preloadOdooImages(data);
   if (wasEmpty) { showPage(0); startRotation(); }
   else { startRotation(); }
   if (isFirst && !firstLoadDone) {
