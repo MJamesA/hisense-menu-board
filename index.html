@@ -112,6 +112,7 @@
     flex: 0 0 auto;
   }
   .wordmark .dot { color: var(--teal); }
+  .brand-logo { height: 64px; width: auto; display: block; flex: 0 0 auto; }
 
   .header-divider {
     width: 3px;
@@ -663,7 +664,7 @@ function renderGridPage(page) {
 
   return `
     <div class="header">
-      <div class="wordmark">Hisense<span class="dot">.</span></div>
+      <img class="brand-logo" src="logo.png" alt="Hisense Ghana" onerror="this.outerHTML='&lt;div class=&quot;wordmark&quot;&gt;Hisense&lt;span class=&quot;dot&quot;&gt;.&lt;/span&gt;&lt;/div&gt;'">
       <div class="header-divider"></div>
       <div class="category-name">${escapeHtml(page.category)}</div>
       <div class="header-meta">
@@ -691,7 +692,7 @@ function renderSpotlightPage(page) {
 
   return `
     <div class="header">
-      <div class="wordmark">Hisense<span class="dot">.</span></div>
+      <img class="brand-logo" src="logo.png" alt="Hisense Ghana" onerror="this.outerHTML='&lt;div class=&quot;wordmark&quot;&gt;Hisense&lt;span class=&quot;dot&quot;&gt;.&lt;/span&gt;&lt;/div&gt;'">
       <div class="header-divider"></div>
       <div class="category-name">FEATURED DEAL</div>
       <div class="header-meta">
