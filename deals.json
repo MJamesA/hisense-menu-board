@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T12:29:08.854Z",
+  "generatedAt": "2026-06-26T12:33:28.845Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -2093,10 +2093,10 @@
       ]
     },
     {
-      "category": "HISENSE DSTV",
+      "category": "Televisions",
       "items": [
         {
-          "category": "HISENSE DSTV",
+          "category": "Televisions",
           "name": "32” DIGITAL SATELLITE\nTELEVISION",
           "model": "32A5200FS",
           "regular": 1550,
@@ -2105,7 +2105,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "HISENSE DSTV",
+          "category": "Televisions",
           "name": "43” DIGITAL SATELLITE\nTELEVISION",
           "model": "43A5200FS",
           "regular": 2700,
@@ -2114,7 +2114,7 @@
           "warranty": "5 Years"
         },
         {
-          "category": "HISENSE DSTV",
+          "category": "Televisions",
           "name": "32” DIGITAL SATELLITE\nSMART TELEVISION",
           "model": "32A4Q",
           "regular": 2400,
@@ -2123,12 +2123,66 @@
           "warranty": "5 Years"
         },
         {
-          "category": "HISENSE DSTV",
+          "category": "Televisions",
           "name": "43” DIGITAL SATELLITE \nSMART TELEVISION",
           "model": "43A4Q",
           "regular": 3450,
           "sale": 2690,
           "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "50” SMART DIGITAL \n4K T2 TELEVISION",
+          "model": "50A6Q",
+          "regular": 4900,
+          "sale": 3500,
+          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Triple HDMI Ports with ARC Support | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Dual USB, AV, Optical & Headphone Ports | In-Built High-Speed Wi-Fi & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "50” SMART DIGITAL \n2K T2 TELEVISION",
+          "model": "50A40",
+          "regular": 3990,
+          "sale": 3400,
+          "features": "Sleek Frameless & Modern Panel Design | Ultra-HD 4K Cinematic Resolution | Advanced Dolby Vision HDR Technology | VIDAA U Smart OS with App Integration | Intelligent VIDAA Voice Assistance | In-Built High-Speed Wi-Fi & LAN Ethernet | Wireless Cast Feature & Content Sharing | Integrated Digital TV Reception Tuner | Triple (3) HDMI & Dual (2) USB Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "55\" SMART DIGITAL\n4K T2 TELEVISION",
+          "model": "55A6H",
+          "regular": 5900,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Fast & Intuitive VIDAA U Smart OS | Smart VIDAA Voice Assistant Support | Seamless Mobile Casting & Sharing | Built-in WiFi & Digital TV Reception | High-Speed LAN & Digital Audio Ports | One-Touch Quick App Access Hotkeys",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "65” SMART DIGITAL\n4K T2 TELEVISION",
+          "model": "65A6H",
+          "regular": 9400,
+          "sale": null,
+          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "75” SMART DIGITAL \n4K T2 TELEVISION",
+          "model": "75A6N",
+          "regular": 10500,
+          "sale": null,
+          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Televisions",
+          "name": "85'' SMART DIGITAL\n4K T2 TELEVISION",
+          "model": "85A7K",
+          "regular": 18900,
+          "sale": null,
+          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
           "warranty": "5 Years"
         }
       ]
@@ -2174,29 +2228,11 @@
         },
         {
           "category": "HISENSE QLED",
-          "name": "65'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-          "model": "65Q7Q",
-          "regular": 9500,
-          "sale": 6990,
-          "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE QLED",
           "name": "65” SMART DIGITAL \n4K QLED TELEVISION",
           "model": "65Q6Q",
           "regular": 8700,
           "sale": 6690,
           "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE QLED",
-          "name": "75” SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-          "model": "75Q7Q",
-          "regular": 14500,
-          "sale": 9390,
-          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
           "warranty": "5 Years"
         },
         {
@@ -2210,15 +2246,6 @@
         },
         {
           "category": "HISENSE QLED",
-          "name": "85'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-          "model": "",
-          "regular": 18900,
-          "sale": 13390,
-          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE QLED",
           "name": "85'' SMART DIGITAL\n4K QLED TELEVISION",
           "model": "85Q6N",
           "regular": 17900,
@@ -2228,88 +2255,29 @@
         },
         {
           "category": "HISENSE QLED",
-          "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
-          "model": "100E75LEVS",
-          "regular": 28000,
-          "sale": 19990,
-          "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
-          "warranty": "5 Years"
-        }
-      ]
-    },
-    {
-      "category": "Televisions",
-      "items": [
-        {
-          "category": "Televisions",
-          "name": "50” SMART DIGITAL \n4K T2 TELEVISION",
-          "model": "50A6Q",
-          "regular": 4900,
-          "sale": 3500,
-          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Triple HDMI Ports with ARC Support | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Dual USB, AV, Optical & Headphone Ports | In-Built High-Speed Wi-Fi & LAN Ethernet",
+          "name": "75” SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "75Q7Q",
+          "regular": 14500,
+          "sale": 9390,
+          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
-          "name": "50” SMART DIGITAL \n2K T2 TELEVISION",
-          "model": "50A40",
-          "regular": 3990,
-          "sale": 3400,
-          "features": "Sleek Frameless & Modern Panel Design | Ultra-HD 4K Cinematic Resolution | Advanced Dolby Vision HDR Technology | VIDAA U Smart OS with App Integration | Intelligent VIDAA Voice Assistance | In-Built High-Speed Wi-Fi & LAN Ethernet | Wireless Cast Feature & Content Sharing | Integrated Digital TV Reception Tuner | Triple (3) HDMI & Dual (2) USB Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "55\" SMART DIGITAL\n4K T2 TELEVISION",
-          "model": "55A6H",
-          "regular": 5900,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Fast & Intuitive VIDAA U Smart OS | Smart VIDAA Voice Assistant Support | Seamless Mobile Casting & Sharing | Built-in WiFi & Digital TV Reception | High-Speed LAN & Digital Audio Ports | One-Touch Quick App Access Hotkeys",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "58” SMART DIGITAL \n4K T2 TELEVISION",
-          "model": "58A6N",
-          "regular": 6150,
-          "sale": 4150,
-          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "65” SMART DIGITAL\n4K T2 TELEVISION",
-          "model": "65A6H",
-          "regular": 9400,
-          "sale": null,
-          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "75” SMART DIGITAL \n4K T2 TELEVISION",
-          "model": "75A6N",
-          "regular": 10500,
-          "sale": null,
-          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "85'' SMART DIGITAL\n4K T2 TELEVISION",
-          "model": "85A7K",
+          "category": "HISENSE QLED",
+          "name": "85'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "",
           "regular": 18900,
-          "sale": null,
-          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
+          "sale": 13390,
+          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
           "warranty": "5 Years"
         },
         {
-          "category": "Televisions",
-          "name": "98\" SMART DIGITAL \nULED TELEVISION",
-          "model": "98E7G-PRO",
-          "regular": 37000,
-          "sale": 32750,
-          "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
+          "category": "HISENSE QLED",
+          "name": "65'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+          "model": "65Q7Q",
+          "regular": 9500,
+          "sale": 6990,
+          "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
           "warranty": "5 Years"
         }
       ]
@@ -2406,83 +2374,6 @@
           "sale": 16990,
           "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Colour Technology | Professional 144Hz Game Mode Pro | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed WiFi & Bluetooth | Mobile Music Playback via TV Sound Output | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
           "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE MINILED",
-          "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
-          "model": "100E80KAVS",
-          "regular": 38000,
-          "sale": 25990,
-          "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Professional 144Hz Game Mode Pro | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE MINILED",
-          "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
-          "model": "110UXNQ",
-          "regular": 185000,
-          "sale": 138000,
-          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE MINILED",
-          "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
-          "model": "116UX",
-          "regular": 250000,
-          "sale": 159900,
-          "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
-          "warranty": "5 Years"
-        }
-      ]
-    },
-    {
-      "category": "Toshiba TVs",
-      "items": [
-        {
-          "category": "Toshiba TVs",
-          "name": "43” DIGITAL 2K\nSMART TELEVISION",
-          "model": "43V35RP",
-          "regular": 3600,
-          "sale": 2890,
-          "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Immersive DTS Virtual X Audio | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Toshiba TVs",
-          "name": "50\" SMART QLED \n4K TELEVISION",
-          "model": "50V45RP",
-          "regular": 5800,
-          "sale": 4390,
-          "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Toshiba TVs",
-          "name": "65\" SMART QLED \n4K TELEVISION",
-          "model": "65V45RP",
-          "regular": 9900,
-          "sale": 6890,
-          "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Toshiba TVs",
-          "name": "75\" SMART MINI LED\n4K TELEVISION",
-          "model": "75V77RP",
-          "regular": 17900,
-          "sale": 13390,
-          "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Toshiba TVs",
-          "name": "85\" SMART MINI LED\n4K TELEVISION",
-          "model": "85V77RP",
-          "regular": 24990,
-          "sale": 18990,
-          "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
-          "warranty": "5 Years"
         }
       ]
     },
@@ -2518,20 +2409,33 @@
         },
         {
           "category": "AMCON DSTV",
+          "name": "32” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
+          "model": "TVAM32DSTVDG",
+          "regular": 1650,
+          "sale": 940,
+          "features": "Premium Elegant Slim-Profile Design | Full HD 1080p High-Definition Resolution | Ultra-Durable Double Glass Screen Protection | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Ports | Intuitive User-Friendly Smart Interface | Independent Bass & Treble Audio Controls | Universal Headphone & AV Input Ports | Complimentary Wall Bracket Included",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "AMCON DSTV",
           "name": "43” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
           "model": "TVAM43DSTVDG",
           "regular": 2500,
           "sale": 1600,
           "features": "High-Definition 1080p HD Resolution | Superior Visual Clarity & Brilliant Color | Integrated Digital & Satellite TV Tuner | Access to Diverse Satellite Free Channels | High-Volume Quality Audio Sound System | Intuitive User-Friendly Media Interface | Triple (3) HDMI & Dual (2) USB Connectivity | Sleek & Durable Integrated TV Stand | Energy-Efficient LED Display Technology",
           "warranty": "3 Years"
-        }
-      ]
-    },
-    {
-      "category": "AMCON ANDROID",
-      "items": [
+        },
         {
-          "category": "AMCON ANDROID",
+          "category": "AMCON DSTV",
+          "name": "32” DIGITAL SATELLITE \nANDROID TELEVISION",
+          "model": "TVAM32ANDSTV",
+          "regular": 1950,
+          "sale": 1500,
+          "features": "Sleek Frameless & Modern Panel Design | Powerful Android 12 Smart OS Integration | Full HD 1080p High-Definition Clarity | Cinema-Grade Dolby Audio Sound System | Built-in WiFi & High-Speed LAN Ethernet | Screen Mirroring & Kindlink Content Sharing | Pre-installed Netflix, YouTube & Movie Ark | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "AMCON DSTV",
           "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
           "model": "TVAM43ANDDSDG",
           "regular": 2800,
@@ -2540,7 +2444,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "AMCON ANDROID",
+          "category": "AMCON DSTV",
           "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
           "model": "43B7101UWSQO",
           "regular": 3200,
@@ -2549,7 +2453,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "AMCON ANDROID",
+          "category": "AMCON DSTV",
           "name": "65'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
           "model": "65B7101UWSQO",
           "regular": 6800,
@@ -2558,7 +2462,7 @@
           "warranty": "3 Years"
         },
         {
-          "category": "AMCON ANDROID",
+          "category": "AMCON DSTV",
           "name": "75'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
           "model": "75B7101UWSQO",
           "regular": 11600,
@@ -2615,6 +2519,56 @@
           "sale": 10900,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
+        }
+      ]
+    },
+    {
+      "category": "Toshiba TVs",
+      "items": [
+        {
+          "category": "Toshiba TVs",
+          "name": "43” DIGITAL 2K\nSMART TELEVISION",
+          "model": "43V35RP",
+          "regular": 3600,
+          "sale": 2890,
+          "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Immersive DTS Virtual X Audio | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Toshiba TVs",
+          "name": "50\" SMART QLED \n4K TELEVISION",
+          "model": "50V45RP",
+          "regular": 5800,
+          "sale": 4390,
+          "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Toshiba TVs",
+          "name": "65\" SMART QLED \n4K TELEVISION",
+          "model": "65V45RP",
+          "regular": 9900,
+          "sale": 6890,
+          "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Toshiba TVs",
+          "name": "75\" SMART MINI LED\n4K TELEVISION",
+          "model": "75V77RP",
+          "regular": 17900,
+          "sale": 13390,
+          "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Toshiba TVs",
+          "name": "85\" SMART MINI LED\n4K TELEVISION",
+          "model": "85V77RP",
+          "regular": 24990,
+          "sale": 18990,
+          "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
+          "warranty": "5 Years"
         }
       ]
     },
@@ -3252,21 +3206,30 @@
       "warranty": "3 Years"
     },
     {
-      "category": "Toshiba TVs",
-      "name": "32” DIGITAL HD\nSMART TV",
-      "model": "32V35RP",
-      "regular": 2600,
-      "sale": 1590,
-      "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
+      "category": "Televisions",
+      "name": "58” SMART DIGITAL \n4K T2 TELEVISION",
+      "model": "58A6N",
+      "regular": 6150,
+      "sale": 4150,
+      "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
       "warranty": "5 Years"
     },
     {
-      "category": "Toshiba TVs",
-      "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
-      "model": "100Z670RP",
-      "regular": 29000,
-      "sale": 21990,
-      "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
+      "category": "HISENSE QLED",
+      "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
+      "model": "100E75LEVS",
+      "regular": 28000,
+      "sale": 19990,
+      "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "HISENSE MINILED",
+      "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
+      "model": "100E80KAVS",
+      "regular": 38000,
+      "sale": 25990,
+      "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Professional 144Hz Game Mode Pro | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
       "warranty": "5 Years"
     },
     {
@@ -3276,33 +3239,6 @@
       "regular": 2500,
       "sale": 1550,
       "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "AMCON DSTV",
-      "name": "32” DIGITAL SATELLITE\nDOUBLE GLASS TELEVISION",
-      "model": "TVAM32DSTVDG",
-      "regular": 1650,
-      "sale": 940,
-      "features": "Premium Elegant Slim-Profile Design | Full HD 1080p High-Definition Resolution | Ultra-Durable Double Glass Screen Protection | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Ports | Intuitive User-Friendly Smart Interface | Independent Bass & Treble Audio Controls | Universal Headphone & AV Input Ports | Complimentary Wall Bracket Included",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "AMCON ANDROID",
-      "name": "32” DIGITAL SATELLITE \nANDROID TELEVISION",
-      "model": "TVAM32ANDSTV",
-      "regular": 1950,
-      "sale": 1500,
-      "features": "Sleek Frameless & Modern Panel Design | Powerful Android 12 Smart OS Integration | Full HD 1080p High-Definition Clarity | Cinema-Grade Dolby Audio Sound System | Built-in WiFi & High-Speed LAN Ethernet | Screen Mirroring & Kindlink Content Sharing | Pre-installed Netflix, YouTube & Movie Ark | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception",
-      "warranty": "3 Years"
-    },
-    {
-      "category": "AMCON ANDROID",
-      "name": "50'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
-      "model": "50B7101UWSQO",
-      "regular": 4000,
-      "sale": 3600,
-      "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Pre-Installed Netflix & Streaming Apps | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
       "warranty": "3 Years"
     },
     {
@@ -3322,6 +3258,24 @@
       "sale": 24490,
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
       "warranty": "3 Years"
+    },
+    {
+      "category": "Toshiba TVs",
+      "name": "32” DIGITAL HD\nSMART TV",
+      "model": "32V35RP",
+      "regular": 2600,
+      "sale": 1590,
+      "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Toshiba TVs",
+      "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
+      "model": "100Z670RP",
+      "regular": 29000,
+      "sale": 21990,
+      "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
+      "warranty": "5 Years"
     },
     {
       "category": "Laser TVs",
@@ -3629,6 +3583,42 @@
       "regular": 6800,
       "sale": 4790,
       "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Televisions",
+      "name": "98\" SMART DIGITAL \nULED TELEVISION",
+      "model": "98E7G-PRO",
+      "regular": 37000,
+      "sale": 32750,
+      "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "HISENSE MINILED",
+      "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
+      "model": "110UXNQ",
+      "regular": 185000,
+      "sale": 138000,
+      "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "HISENSE MINILED",
+      "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
+      "model": "116UX",
+      "regular": 250000,
+      "sale": 159900,
+      "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "AMCON DSTV",
+      "name": "50'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
+      "model": "50B7101UWSQO",
+      "regular": 4000,
+      "sale": 3600,
+      "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Pre-Installed Netflix & Streaming Apps | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
       "warranty": "3 Years"
     },
     {
@@ -4216,14 +4206,12 @@
     "Microwave oven": "10m1f",
     "Showcases": "10m1f",
     "Sound Systems": "10m1f",
-    "HISENSE DSTV": "10m1f",
-    "HISENSE QLED": "10m1f",
     "Televisions": "10m1f",
+    "HISENSE QLED": "10m1f",
     "HISENSE MINILED": "10m1f",
-    "Toshiba TVs": "5m2f",
     "AMCON DSTV": "10m1f",
-    "AMCON ANDROID": "10m1f",
-    "AMCON QLED": "10m1f",
+    "AMCON QLED": "5m2f",
+    "Toshiba TVs": "5m2f",
     "Water Dispensors": "5m2f",
     "Washing Machines": "10m1f",
     "Wall Bracket": "3feat",
@@ -4255,10 +4243,14 @@
     "Sound Systems",
     "Toasters",
     "Televisions",
-    "Toshiba TVs",
+    "HISENSE QLED",
+    "HISENSE MINILED",
+    "AMCON DSTV",
+    "AMCON QLED",
     "Television - Amcon",
-    "Spare Parts-Television",
+    "Toshiba TVs",
     "Laser TVs",
+    "Spare Parts-Television",
     "Water Dispensors",
     "Washing Machines"
   ]
