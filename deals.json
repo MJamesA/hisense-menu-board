@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T11:04:32.220Z",
+  "generatedAt": "2026-06-26T11:39:11.057Z",
   "title": "SAVE WITH US",
   "accent": "gold",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -3269,20 +3269,20 @@
     },
     {
       "category": "Toshiba TVs",
-      "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
-      "model": "100Z670RP",
-      "regular": 29000,
-      "sale": 21990,
-      "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Toshiba TVs",
       "name": "32” DIGITAL HD\nSMART TV",
       "model": "32V35RP",
       "regular": 2600,
       "sale": 1590,
       "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Toshiba TVs",
+      "name": "100\" SMART PREMIUM\nQLED 4K TELEVISION",
+      "model": "100Z670RP",
+      "regular": 29000,
+      "sale": 21990,
+      "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
       "warranty": "5 Years"
     },
     {
