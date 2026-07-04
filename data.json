@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-06-26T18:09:06.137Z",
+  "generatedAt": "2026-07-04T16:14:05.463Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2449,6 +2449,18 @@
       "sale": null,
       "warranty": "3 Years",
       "features": "High-Performance Infrared Function | Oven & Grill Convection Fan System | Premium Stainless Steel Cooktop | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Soft-Closing Black Glass Door | Easy-Clean Enamel Interior | Integrated Glass Lid & Adjustable Feet"
+    },
+    {
+      "acuId": "GC60331X",
+      "tag": "A6",
+      "category": "Gas Cooker",
+      "name": "4 BURNER VITROCERAMIC COOKER & ELECTRIC OVEN",
+      "model": "HFEC60331X",
+      "brand": "Hisense",
+      "regular": 5900,
+      "sale": null,
+      "warranty": "3 Years",
+      "features": "Class A Energy Efficiency | Four Ceramic Cooking Zones | Multifunction Electric Oven | Stainless Steel Durable Finish | Easy To Clean Glass Hob | Integrated Grill Function | Mechanical Control Knobs | Interior Oven Cooking Light | Removable Oven Glass Door"
     },
     {
       "acuId": "GHAS5B86SB",
