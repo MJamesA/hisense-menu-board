@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-07T15:24:06.443Z",
+  "generatedAt": "2026-07-07T15:44:05.875Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1026,7 +1026,7 @@
       "acuId": "DSTVDECODER&ACC",
       "tag": "A6",
       "category": "Wall Bracket",
-      "name": "DSTV DECODER & ACCESSORIES OFFER",
+      "name": "DSTVDECODER&ACC",
       "model": "Model 1",
       "brand": "DSTV",
       "regular": 633,
