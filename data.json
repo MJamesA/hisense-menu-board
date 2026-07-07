@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-07T15:44:05.875Z",
+  "generatedAt": "2026-07-07T15:54:09.805Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1021,6 +1021,18 @@
       "sale": 1600,
       "warranty": "1 Year",
       "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels"
+    },
+    {
+      "acuId": "CFS230AEW",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+      "model": "CFS230AEW",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "22.2V Detachable Long Lasting Battery | Advanced Smart LED Display Panel | Anti Tangle V Shaped Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | 0.7L Dust Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Furniture Bumper | Versatile Dual Crevice Nozzle Tools"
     },
     {
       "acuId": "DSTVDECODER&ACC",
