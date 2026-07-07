@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-07T15:59:05.393Z",
+  "generatedAt": "2026-07-07T16:29:05.557Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3121,6 +3121,18 @@
       "sale": 320,
       "warranty": "1 Year",
       "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection"
+    },
+    {
+      "acuId": "KE17CLIN",
+      "tag": "A7",
+      "category": "Kettles",
+      "name": "1.7L  CLASSIC WHITE KETTLE",
+      "model": "K17CLIN",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Vintage Analogue Temperature Control Display | Large 1.7L Water Capacity | 360 Degree Rotational Power Base | Integrated Neat Cord Storage System | Advanced Strix Thermostat Technology | Built In Overheat Safety Protection | Sophisticated Classico Design Collection"
     },
     {
       "acuId": "AM-C40",
