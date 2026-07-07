@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-07T15:14:06.584Z",
+  "generatedAt": "2026-07-07T15:24:06.443Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -481,6 +481,30 @@
       "sale": 360,
       "warranty": "1 Year",
       "features": "Ultra-Silent High-Torque 500W DC Motor | Precision 5-Speed Power Regulator | Turbo Boost & Pulse Functionality | Pro-Grade Stainless Steel Dough Hooks | High-Efficiency Wire Whisk Attachments | Versatile Beating, Whipping & Kneading | Lightweight Ergonomic Comfort Handle"
+    },
+    {
+      "acuId": "BM550DC",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n550W",
+      "model": "BM550DC",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 600W \nPerformance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough\nHooks Included | Sleek Classic Handheld Design"
+    },
+    {
+      "acuId": "BM350W",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n350W",
+      "model": "BM350W",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Power 350W Performance | 4 Speed Levels And Pulse Function | Powerful And Efficient AC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough\nHooks Included | Sleek Classic Handheld Design"
     },
     {
       "acuId": "BL-9002",
