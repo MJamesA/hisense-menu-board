@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-07T15:09:08.026Z",
+  "generatedAt": "2026-07-07T15:14:06.584Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -553,6 +553,18 @@
       "sale": 2850,
       "warranty": "1 Year",
       "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock"
+    },
+    {
+      "acuId": "BFPMC1500E",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "FOOD PROCESSOR",
+      "model": "BFPMC1500E",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 1500W High Performance Motor | Innovative Fusion Mode Technology | Comprehensive Multi Jar Capacity Setup | 2.0L Main Food Processor Bowl & 1.75L Plastic Blending Jar | 700mL Portable Sports Blender | Extensive Precision Cutting Prep Attachments | 10 Speed Intuitive Control & Programs"
     },
     {
       "acuId": "MMC800CW",
