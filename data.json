@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-07T15:54:09.805Z",
+  "generatedAt": "2026-07-07T15:59:05.393Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1032,7 +1032,19 @@
       "regular": null,
       "sale": null,
       "warranty": "1 Year",
-      "features": "22.2V Detachable Long Lasting Battery | Advanced Smart LED Display Panel | Anti Tangle V Shaped Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | 0.7L Dust Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Furniture Bumper | Versatile Dual Crevice Nozzle Tools"
+      "features": "22.2V Detachable Long Lasting Battery | Advanced Smart LED Display Panel | Anti Tangle V Shaped Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | 0.7L Dust Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Furniture Bumper | Versatile Dual Crevice Nozzle Attachments"
+    },
+    {
+      "acuId": "CFS480AA",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+      "model": "CFS480AA",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "22.2V Detachable InverterPower Battery | Motorized Anti Tangle Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | Advanced Smart LED Display Panel | Generous 0.7L Large Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Soft Bumper | Versatile Dual Crevice Nozzle Attachments"
     },
     {
       "acuId": "DSTVDECODER&ACC",
