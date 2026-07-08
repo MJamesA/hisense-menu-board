@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-08T12:39:05.890Z",
+  "generatedAt": "2026-07-08T12:44:08.357Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1067,7 +1067,7 @@
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
-      "warranty": "",
+      "warranty": "1 Year",
       "features": "Energy Efficient G200 Series Design | Powerful 800W Suction Performance | Smart Ergonomic Functional Design | Comfortable Hassle Free Cleaning | Versatile Multi Surface Cleaning Mode | Practical Removable Container Setup | Advanced Cyclonic Action Cleaning Setup | Advanced Double Filtration System | Highly Versatile Cleaning Attachments"
     },
     {
@@ -1079,7 +1079,7 @@
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
-      "warranty": "",
+      "warranty": "1 Year",
       "features": "Energy Efficient G400 Series Design | Powerful 800W Hardfloor Suction Performance | Advanced Cyclonic Action Cleaning Setup | Universal Parquet Brush Accessory Included | Efficient Double Filtration System Setup | Smart Design Comfortable Cleaning Mode | Practical Removable Dust Container Setup | Essential Accessories Pack Included | High Performance G-Force Air Technology"
     },
     {
@@ -1091,7 +1091,7 @@
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
-      "warranty": "",
+      "warranty": "1 Year",
       "features": "Energy Efficient G600 Series Design | Powerful 850W Air Pet Performance | Professional Cleaning Pro Results | Advanced Cyclonic Action Technology | Efficient Double Filter System Setup | Removable Dust Container For Easy Empty | Intuitive Operation For Seamless Use | Essential Accessories For Daily Upkeep | Complete All In One Cleaning Power"
     },
     {
@@ -1391,7 +1391,7 @@
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
-      "warranty": "",
+      "warranty": "1 Year",
       "features": "Advanced Smokeless Extraction Setup | Precise Variable Heat Control Mode | Premium Non Stick Grill Plates | Integrated Smoke Absorbing Air Inlet | Mechanical Control | Efficient Drip Tray And Fan Cover | Easy To Use And Maintain Design"
     },
     {
