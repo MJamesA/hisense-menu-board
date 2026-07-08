@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-08T12:24:05.847Z",
+  "generatedAt": "2026-07-08T12:39:05.890Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1059,6 +1059,42 @@
       "features": "22.2V Detachable InverterPower Battery | Motorized Anti Tangle Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | Advanced Smart LED Display Panel | Generous 0.7L Large Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Soft Bumper | Versatile Dual Crevice Nozzle Attachments"
     },
     {
+      "acuId": "CGFA2AW",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "G-FORCE AIR VACUUM CLEANER",
+      "model": "VCE01G2AW",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "",
+      "features": "Energy Efficient G200 Series Design | Powerful 800W Suction Performance | Smart Ergonomic Functional Design | Comfortable Hassle Free Cleaning | Versatile Multi Surface Cleaning Mode | Practical Removable Container Setup | Advanced Cyclonic Action Cleaning Setup | Advanced Double Filtration System | Highly Versatile Cleaning Attachments"
+    },
+    {
+      "acuId": "CGF4AHGR",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "G-FORCE AIR HARDFLOOR VACUUM CLEANER",
+      "model": "VCE01G4AHGR",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "",
+      "features": "Energy Efficient G400 Series Design | Powerful 800W Hardfloor Suction Performance | Advanced Cyclonic Action Cleaning Setup | Universal Parquet Brush Accessory Included | Efficient Double Filtration System Setup | Smart Design Comfortable Cleaning Mode | Practical Removable Dust Container Setup | Essential Accessories Pack Included | High Performance G-Force Air Technology"
+    },
+    {
+      "acuId": "CGF6AEGO",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "G-FORCE AIR PET VACUUM CLEANER",
+      "model": "VCE08G6AEGO",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "",
+      "features": "Energy Efficient G600 Series Design | Powerful 850W Air Pet Performance | Professional Cleaning Pro Results | Advanced Cyclonic Action Technology | Efficient Double Filter System Setup | Removable Dust Container For Easy Empty | Intuitive Operation For Seamless Use | Essential Accessories For Daily Upkeep | Complete All In One Cleaning Power"
+    },
+    {
       "acuId": "DSTVDECODER&ACC",
       "tag": "A6",
       "category": "Wall Bracket",
@@ -1345,6 +1381,18 @@
       "sale": 990,
       "warranty": "1 Year",
       "features": "Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Integrated Grease Drainage System | Removable Tray for Easy Oil Disposal | Enhanced Auto Shut-Down System | Uniform Heat for Perfect Grilling"
+    },
+    {
+      "acuId": "ECTG1800SB",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "SMOKELESS CONTACT GRILL",
+      "model": "TG1800SB",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "",
+      "features": "Advanced Smokeless Extraction Setup | Precise Variable Heat Control Mode | Premium Non Stick Grill Plates | Integrated Smoke Absorbing Air Inlet | Mechanical Control | Efficient Drip Tray And Fan Cover | Easy To Use And Maintain Design"
     },
     {
       "acuId": "B02-ELSAU-SSDT",
