@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-08T10:54:05.242Z",
+  "generatedAt": "2026-07-08T10:59:06.881Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -589,6 +589,18 @@
       "sale": null,
       "warranty": "1 Year",
       "features": "Powerful 1500W High Performance Motor | Innovative Fusion Mode Technology | Comprehensive Multi Jar Capacity Setup | 2.0L Main Food Processor Bowl & 1.75L Plastic Blending Jar | 700mL Portable Sports Blender | Extensive Precision Cutting Prep Attachments | 10 Speed Intuitive Control & Programs"
+    },
+    {
+      "acuId": "BMG1701SB",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "MULTIFUNCTIONAL MEAT GRINDER",
+      "model": "MG1701SB",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 1700W Motor Performance | Integrated Food Pusher Auger | Convenient On & Off Reverse Functional Knob | Safety Lock Protection Base Unit | Durable Stainless Steel Cutting Blade | Versatile Dual Grinding Plates Included | Advanced Slicing Shredding Attachment"
     },
     {
       "acuId": "MMC800CW",
