@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-17T12:54:05.650Z",
+  "generatedAt": "2026-07-20T23:04:07.275Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1126,7 +1126,7 @@
       "model": "MTN002",
       "brand": "MTN",
       "regular": 680,
-      "sale": 340,
+      "sale": null,
       "warranty": "Not Applicable",
       "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only"
     },
@@ -4666,7 +4666,7 @@
       "model": "32A5Q",
       "brand": "Hisense",
       "regular": 2800,
-      "sale": 2100,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Full HD 1080p Resolution with HDR10 | Advanced VIDAA Smart Voice Assistance | Cinema-Grade Dolby Atmos Audio Support | High-Speed Dual-Band WiFi & LAN Ethernet | Game Mode Plus for Ultra-Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | High-Speed Optical & Headphone Audio Outs"
     },
@@ -4678,7 +4678,7 @@
       "model": "32A4Q",
       "brand": "Hisense",
       "regular": 2400,
-      "sale": 1390,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Metal Bezelless Modern Design | Integrated Smart TV with In-Built WiFi & LAN | Pre-installed Netflix, YouTube & NBA Apps | One-Touch Remote Access to Top Content | Cinema-Grade Dolby Audio & Equalizer System | Digital Satellite TV Reception (Built-In Tuner) | Smart Screen Mirroring & Content Sharing | Dual (2) HDMI & Dual (2) USB Connectivity | Digital Audio Output"
     },
@@ -4690,7 +4690,7 @@
       "model": "40A5Q",
       "brand": "Hisense",
       "regular": 3890,
-      "sale": 2700,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Vibrant Quantum Dot Colour Technology | Full HD 1080p Resolution with HDR10 | In-Built High-Speed Dual-Band WiFi & LAN | Cinema-Grade Dolby Atmos Surround Sound | Advanced Game Mode Plus for Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | Wireless Cast Feature & Screen Mirroring"
     },
@@ -4702,7 +4702,7 @@
       "model": "TVAM43ANDDSDG",
       "brand": "Amcon",
       "regular": 2800,
-      "sale": 2100,
+      "sale": 2500,
       "warranty": "3 Years",
       "features": "Sleek Slim and Frameless Panel Design | Ultra-HD 4K 2160p Cinematic Resolution | Advanced Dolby System Audio Technology | In-Built High-Speed WiFi & LAN Ethernet | Smart Screen Mirroring & Content Casting | Integrated Digital and Satellite TV Tuner | Triple (3) HDMI & Dual (2) USB Connectivity | High-Speed Coaxial Digital Audio Output | Full-Function Remote & Wall Bracket Included"
     },
@@ -4714,7 +4714,7 @@
       "model": "43B7101UWSQO",
       "brand": "Amcon",
       "regular": 3200,
-      "sale": 2300,
+      "sale": 2900,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet"
     },
@@ -4726,7 +4726,7 @@
       "model": "SAMCH43M10GP",
       "brand": "Amcon",
       "regular": 3300,
-      "sale": 2400,
+      "sale": 2950,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistant | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with ARC Support | High-Speed Wi-Fi & LAN Connectivity | Eco-Friendly Energy Efficient Design"
     },
@@ -4738,7 +4738,7 @@
       "model": "43A5200FS",
       "brand": "Hisense",
       "regular": 2700,
-      "sale": 1700,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Full HD 1080p High-Definition Resolution | Clear & Immersive Cinematic Picture Quality | Advanced Natural Colour Enhancer Tech | Cinema-Grade Dolby Digital Plus Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Universal Headphone & AV Input Ports | Wall Bracket & Remote Control Included"
     },
@@ -4750,7 +4750,7 @@
       "model": "TVAM43DSTVDG",
       "brand": "Amcon",
       "regular": 2500,
-      "sale": 1600,
+      "sale": 2250,
       "warranty": "3 Years",
       "features": "High-Definition 1080p HD Resolution | Superior Visual Clarity & Brilliant Color | Integrated Digital & Satellite TV Tuner | Access to Diverse Satellite Free Channels | High-Volume Quality Audio Sound System | Intuitive User-Friendly Media Interface | Triple (3) HDMI & Dual (2) USB Connectivity | Sleek & Durable Integrated TV Stand | Energy-Efficient LED Display Technology"
     },
@@ -4762,7 +4762,7 @@
       "model": "NAMCH43M10P",
       "brand": "Amcon",
       "regular": 2500,
-      "sale": 1550,
+      "sale": 2250,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports"
     },
@@ -4774,7 +4774,7 @@
       "model": "HE43M2160HTSQI",
       "brand": "Amcon",
       "regular": 2600,
-      "sale": 1600,
+      "sale": 2300,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports"
     },
@@ -4786,7 +4786,7 @@
       "model": "43A4Q",
       "brand": "Hisense",
       "regular": 4300,
-      "sale": 3090,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs"
     },
@@ -4798,7 +4798,7 @@
       "model": "43A4Q",
       "brand": "Hisense",
       "regular": 3450,
-      "sale": 2690,
+      "sale": null,
       "warranty": "5 Years",
       "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring"
     },
@@ -4822,7 +4822,7 @@
       "model": "SAMCH50M10GP",
       "brand": "Amcon",
       "regular": 4790,
-      "sale": 3390,
+      "sale": 4290,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with 4K Support | Eco-Friendly Energy Efficient Design | Bluetooth & High-Speed Wi-Fi Connectivity"
     },
@@ -4834,7 +4834,7 @@
       "model": "50A6Q",
       "brand": "Hisense",
       "regular": 4900,
-      "sale": 3500,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Triple HDMI Ports with ARC Support | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Dual USB, AV, Optical & Headphone Ports | In-Built High-Speed Wi-Fi & LAN Ethernet"
     },
@@ -4846,7 +4846,7 @@
       "model": "50A40",
       "brand": "Hisense",
       "regular": 3990,
-      "sale": 3400,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Frameless & Modern Panel Design | Ultra-HD 4K Cinematic Resolution | Advanced Dolby Vision HDR Technology | VIDAA U Smart OS with App Integration | Intelligent VIDAA Voice Assistance | In-Built High-Speed Wi-Fi & LAN Ethernet | Wireless Cast Feature & Content Sharing | Integrated Digital TV Reception Tuner | Triple (3) HDMI & Dual (2) USB Connectivity"
     },
@@ -4858,7 +4858,7 @@
       "model": "SAMCH55M10GP",
       "brand": "Amcon",
       "regular": 5750,
-      "sale": 4100,
+      "sale": 5150,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Smooth 4K 60Hz High Refresh Rate | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design"
     },
@@ -4894,7 +4894,7 @@
       "model": "55U6K-PRO",
       "brand": "Hisense",
       "regular": 7800,
-      "sale": 5990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input"
     },
@@ -4918,7 +4918,7 @@
       "model": "55Q6Q",
       "brand": "Hisense",
       "regular": 6200,
-      "sale": 4690,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner"
     },
@@ -4942,7 +4942,7 @@
       "model": "58A6N",
       "brand": "Hisense",
       "regular": 6150,
-      "sale": 4150,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet"
     },
@@ -4966,7 +4966,7 @@
       "model": "SAMCH65N9E",
       "brand": "Amcon",
       "regular": 8400,
-      "sale": 5990,
+      "sale": 7500,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design"
     },
@@ -4978,7 +4978,7 @@
       "model": "SAMCH65M10GP",
       "brand": "Amcon",
       "regular": 7690,
-      "sale": 5200,
+      "sale": 6850,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design"
     },
@@ -5002,7 +5002,7 @@
       "model": "65U6Q PRO",
       "brand": "Hisense",
       "regular": 10750,
-      "sale": 7750,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input"
     },
@@ -5014,7 +5014,7 @@
       "model": "65SMPMLEDTV",
       "brand": "Hisense",
       "regular": 13000,
-      "sale": 9190,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output"
     },
@@ -5026,7 +5026,7 @@
       "model": "65Q7Q",
       "brand": "Hisense",
       "regular": 9500,
-      "sale": 6990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output"
     },
@@ -5038,7 +5038,7 @@
       "model": "65Q6Q",
       "brand": "Hisense",
       "regular": 8700,
-      "sale": 6690,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour & AI Sport Mode | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | Advanced Game Mode Plus Technology | In-Built Dual-Band WiFi & Bluetooth 5.0 | Mobile Music Playback via TV Output | Triple (3) HDMI ARC & Digital TV Tuner"
     },
@@ -5062,7 +5062,7 @@
       "model": "SAMCH75N9E",
       "brand": "Amcon",
       "regular": 12000,
-      "sale": 7690,
+      "sale": 10800,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design"
     },
@@ -5074,7 +5074,7 @@
       "model": "SAMCH75M10GP",
       "brand": "Amcon",
       "regular": 10500,
-      "sale": 6990,
+      "sale": 9400,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design"
     },
@@ -5098,7 +5098,7 @@
       "model": "75U80H",
       "brand": "Hisense",
       "regular": 42500,
-      "sale": 26000,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Ultra-High-Definition Native 8K Resolution | 8K AI Upscaler & Hi-View Engine Pro | Dolby Vision IQ & Dolby Atmos Surround Sound | Professional 8K Ultra-HD Game Mode Pro | Integrated Quality Bass Boost Audio System | Apple AirPlay & Bluetooth Wireless Streaming | High-Speed Dual-Band WiFi & LAN Ethernet | Quad (4) HDMI & Dual (2) USB Connectivity | Digital TV Reception & Multi-Source Inputs"
     },
@@ -5110,7 +5110,7 @@
       "model": "75U6N PRO",
       "brand": "Hisense",
       "regular": 14900,
-      "sale": 10490,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input"
     },
@@ -5122,7 +5122,7 @@
       "model": "75U7N",
       "brand": "Hisense",
       "regular": 15900,
-      "sale": 11390,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Color Technology | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro Performance | Hands-Free Voice Control Smart Interaction | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Bluetooth & Cast Features | Quad (4) HDMI ARC & Digital TV Reception"
     },
@@ -5134,7 +5134,7 @@
       "model": "75Q7Q",
       "brand": "Hisense",
       "regular": 14500,
-      "sale": 9390,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output"
     },
@@ -5146,7 +5146,7 @@
       "model": "75Q6Q",
       "brand": "Hisense",
       "regular": 11500,
-      "sale": 8490,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Super Large Screen Slim & Sleek Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Sound | Apple AirPlay & Apple HomeKit Support | In-Built High-Speed Dual-Band WiFi | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output"
     },
@@ -5158,7 +5158,7 @@
       "model": "SAMCH85M9XW",
       "brand": "Amcon",
       "regular": 17900,
-      "sale": 10900,
+      "sale": 15900,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design"
     },
@@ -5194,7 +5194,7 @@
       "model": "85Q7Q",
       "brand": "Hisense",
       "regular": 25000,
-      "sale": 16990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Colour Technology | Professional 144Hz Game Mode Pro | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed WiFi & Bluetooth | Mobile Music Playback via TV Sound Output | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner"
     },
@@ -5206,7 +5206,7 @@
       "model": "",
       "brand": "Hisense",
       "regular": 18900,
-      "sale": 13390,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output"
     },
@@ -5230,7 +5230,7 @@
       "model": "SAMCH98F8TM",
       "brand": "Amcon",
       "regular": 33000,
-      "sale": 24490,
+      "sale": 29500,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design"
     },
@@ -5242,7 +5242,7 @@
       "model": "98E7G-PRO",
       "brand": "Hisense",
       "regular": 37000,
-      "sale": 32750,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth"
     },
@@ -5266,7 +5266,7 @@
       "model": "100LASER-L9",
       "brand": "Hisense",
       "regular": 52000,
-      "sale": 42000,
+      "sale": 46000,
       "warranty": "5 Years",
       "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket"
     },
@@ -5290,7 +5290,7 @@
       "model": "#N/A",
       "brand": "Hisense",
       "regular": 60000,
-      "sale": 48000,
+      "sale": 54000,
       "warranty": "5 Years",
       "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity"
     },
@@ -5314,7 +5314,7 @@
       "model": "C2ULTRA",
       "brand": "Hisense",
       "regular": 32000,
-      "sale": 24990,
+      "sale": 28500,
       "warranty": "3 Years",
       "features": "Features Needed"
     },
@@ -5338,7 +5338,7 @@
       "model": "PX1-PRO",
       "brand": "Hisense",
       "regular": 36000,
-      "sale": 28590,
+      "sale": 32000,
       "warranty": "5 Years",
       "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control"
     },
@@ -5350,7 +5350,7 @@
       "model": "PX3-PRO",
       "brand": "Hisense",
       "regular": 39000,
-      "sale": 29990,
+      "sale": 35000,
       "warranty": "5 Years",
       "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports"
     },
@@ -5362,7 +5362,7 @@
       "model": "100Z670RP",
       "brand": "Toshiba",
       "regular": 29000,
-      "sale": 21990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic"
     },
@@ -5374,7 +5374,7 @@
       "model": "32V35RP",
       "brand": "Toshiba",
       "regular": 2600,
-      "sale": 1590,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound"
     },
@@ -5386,7 +5386,7 @@
       "model": "43V35RP",
       "brand": "Toshiba",
       "regular": 3600,
-      "sale": 2890,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Immersive DTS Virtual X Audio | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound"
     },
@@ -5398,7 +5398,7 @@
       "model": "50V45RP",
       "brand": "Toshiba",
       "regular": 5800,
-      "sale": 4390,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support"
     },
@@ -5410,7 +5410,7 @@
       "model": "65V45RP",
       "brand": "Toshiba",
       "regular": 9900,
-      "sale": 6890,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support"
     },
@@ -5422,7 +5422,7 @@
       "model": "75V77RP",
       "brand": "Toshiba",
       "regular": 17900,
-      "sale": 13390,
+      "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity"
     },
@@ -5434,7 +5434,7 @@
       "model": "85V77RP",
       "brand": "Toshiba",
       "regular": 24990,
-      "sale": 18990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity"
     },
