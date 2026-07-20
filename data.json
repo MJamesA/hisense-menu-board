@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-20T23:04:07.275Z",
+  "generatedAt": "2026-07-20T23:09:05.223Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2998,7 +2998,7 @@
       "model": "JSSP-106EN",
       "brand": "Smart Power",
       "regular": 100,
-      "sale": 70,
+      "sale": null,
       "warranty": "1 Year",
       "features": ""
     },
@@ -3010,7 +3010,7 @@
       "model": "JSSP-102EN",
       "brand": "Smart Power",
       "regular": 100,
-      "sale": 70,
+      "sale": null,
       "warranty": "1 Year",
       "features": ""
     },
@@ -3022,7 +3022,7 @@
       "model": "JSSP-109EN",
       "brand": "Smart Power",
       "regular": 110,
-      "sale": 70,
+      "sale": null,
       "warranty": "1 Year",
       "features": ""
     },
@@ -3850,7 +3850,7 @@
       "model": "A180X",
       "brand": "Fenda",
       "regular": 700,
-      "sale": 480,
+      "sale": null,
       "warranty": "3 Years",
       "features": "New Classic Geometric Aesthetic | Fingerprint-Free Matte Finish | Premium Wood Cabinet Construction | Advanced 4.0 Bluetooth Connectivity | Plug & Play USB Audio Port | 100 Station FM Radio Storage | Bright Wide-Angle LED Display | High-Output Loudspeaker System | Full-Function Wireless Remote"
     },
@@ -3874,7 +3874,7 @@
       "model": "AX3100Q",
       "brand": "Hisense",
       "regular": 2300,
-      "sale": 1690,
+      "sale": null,
       "warranty": "3 Years",
       "features": "3.1ch Sleek & Stylish Design | 500W Max High-Output Audio Power | Super Quality Bass Boost Technology | Precision Crystal-Clear Audio Output | Advanced Bluetooth Audio Streaming | Dual HDMI & Optical Digital Inputs | Aux-In & Coaxial Audio Connectivity | 7 Equalizer Modes | 6.5'' Wireless Subwoofer"
     },
@@ -3886,7 +3886,7 @@
       "model": "AX3100Q",
       "brand": "Hisense",
       "regular": 2300,
-      "sale": 1690,
+      "sale": null,
       "warranty": "3 Years",
       "features": "High Energy Efficiency For Power Savings | Powerful 500W Total Output Performance | Immersive 3.1 Channel Audio Experience | Fast Bluetooth 5.3 Wireless Connectivity | Dolby Atmos And Dolby Digital Audio | Advanced Hi-Concerto Smart Function | Powerful 6.5 Inch Wireless Subwoofer | Versatile 7 Preset Equalizer Modes | Clear LED Display With HDMI ARC"
     },
@@ -3898,7 +3898,7 @@
       "model": "AX3120G",
       "brand": "Hisense",
       "regular": 3200,
-      "sale": 2290,
+      "sale": null,
       "warranty": "3 Years",
       "features": "3.1.2ch Immmersive Surround Sound | Cinema-Grade Dolby Atmos Support | 360W Max High-Output Audio Power | 7 Tailored Professional Sound Modes | Advanced Roku TV Ready Integration | Super Quality Bass Boost Technology | High-Fidelity Dolby Digital Audio | Advanced Bluetooth & USB Streaming | Optical, AV, and Multi-Port Connectivity"
     },
@@ -3910,7 +3910,7 @@
       "model": "AX3120Q",
       "brand": "Hisense",
       "regular": 3300,
-      "sale": 2290,
+      "sale": null,
       "warranty": "3 Years",
       "features": "High Energy Efficiency For Power Savings | Powerful 440W Max Audio Performance | Immersive 3.1.2 Channel Audio System | Dolby Digital Plus And DTS Virtual X | Fast Bluetooth Wireless Audio Streaming | Dual Rear Surround Speaker Technology | Advanced Hi Concerto Smart Function | Sleek And Stylish Soundbar Design | Powerful 6.5 Inch Wireless Subwoofer"
     },
@@ -3922,7 +3922,7 @@
       "model": "AX5100Q",
       "brand": "Hisense",
       "regular": 2800,
-      "sale": 1990,
+      "sale": null,
       "warranty": "3 Years",
       "features": "3.1ch Sleek & Stylish Design | 580W Max High-Output Audio Power | Super Quality Bass Boost Technology | Precision Crystal-Clear Audio Output | Advanced Bluetooth Audio Streaming | Dual HDMI & Optical Digital Inputs | Aux-In & Coaxial Audio Connectivity | 7 Equalizer Modes | 6.5'' Wireless Subwoofer"
     },
@@ -3934,7 +3934,7 @@
       "model": "AX5100Q",
       "brand": "Hisense",
       "regular": 2800,
-      "sale": 1990,
+      "sale": null,
       "warranty": "3 Years",
       "features": "High Energy Efficiency For Power Savings | Powerful 580W Total Output Performance | Immersive 5.1 Channel Audio Experience | Fast Bluetooth 5.3 Wireless Connectivity | Dolby Atmos And Dolby Digital Audio | Advanced Hi-Concerto Smart Function | Powerful 6.5 Inch Wireless Subwoofer | Versatile 7 Preset Equalizer Modes | Clear LED Display With HDMI EARC"
     },
@@ -4006,7 +4006,7 @@
       "model": "ES13",
       "brand": "Amcon",
       "regular": 1800,
-      "sale": 1150,
+      "sale": 1600,
       "warranty": "3 Years",
       "features": "Sleek & Stylish High-Profile Design | Powerful 120W Total Audio Output | 6.5-Inch High-Performance Wireless Subwoofer | Advanced Bluetooth Wireless Connectivity | HDMI ARC Input for Seamless TV Sync | Optical & Coaxial Digital Audio Inputs | Plug & Play USB Media Function | Bright Integrated LED Display | Full-Function Wireless Remote Control"
     },
@@ -4018,7 +4018,7 @@
       "model": "SEET510BK",
       "brand": "Amcon",
       "regular": 1350,
-      "sale": 950,
+      "sale": 1200,
       "warranty": "1 Year",
       "features": "Powerful 65W High-Output Audio | Dual 4-Inch High-Fidelity Stereo Drivers | IPX5 Professional Waterproof Enclosure | TWS Wireless Surround Sound Pairing | Advanced Bluetooth 5.3 Technology | 8-Hour High-Capacity Rechargeable Battery | Dynamic Multi-Color LED Light Modes | Dedicated Microphone Input for Karaoke | Integrated Heavy-Duty Carrying Handle"
     },
@@ -4030,7 +4030,7 @@
       "model": "SEET510DG",
       "brand": "Amcon",
       "regular": 1350,
-      "sale": 950,
+      "sale": 1200,
       "warranty": "1 Year",
       "features": "Powerful 65W High-Output Audio | Dual 4-Inch High-Fidelity Stereo Drivers | IPX5 Professional Waterproof Enclosure | TWS Wireless Surround Sound Pairing | Advanced Bluetooth 5.3 Technology | 8-Hour High-Capacity Rechargeable Battery | Dynamic Multi-Color LED Light Modes | Dedicated Microphone Input for Karaoke | Integrated Heavy-Duty Carrying Handle"
     },
@@ -4042,7 +4042,7 @@
       "model": "F210X",
       "brand": "Fenda",
       "regular": 480,
-      "sale": 320,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Bluetooth 4.0 Wireless Music Streaming | Total Power Output Of 15W RMS | Wooden Cabinet For Low Distortion Bass | High Density MDF Subwoofer Design | Four Inch Bass Driver For Subwoofer | Digital FM Radio With PLL Technology | Storage For Up To 100 FM Stations | Plug And Play USB Dual Format Decoding | Bluetooth Range Works Up To 15 Meters"
     },
@@ -4054,7 +4054,7 @@
       "model": "HA700",
       "brand": "Hisense",
       "regular": 3200,
-      "sale": 2200,
+      "sale": null,
       "warranty": "1 Year",
       "features": "Powerful 810W Total Power Output | Dedicated 7-Inch Subwoofer For Bass | Seamless Bluetooth Wireless Streaming | Professional Level Karaoke Studio | Integrated Voice Canceller Feature | Convenient Tap To Pair NFC Technology | Dynamic Echo And Key Change Control | Versatile USB And TF Card Playback | Built-In FM Radio With Preset Tuning"
     },
@@ -4066,7 +4066,7 @@
       "model": "HP100",
       "brand": "Hisense",
       "regular": 3100,
-      "sale": 2090,
+      "sale": null,
       "warranty": "3 Years",
       "features": "High-Performance Super Bass Boost | 15-Hour Long-Lasting Battery Playtime | Rugged Waterproof Exterior Build | Dynamic Multi-Color Party Lighting | Dedicated Guitar Input for Musicians | Advanced Bluetooth & Aux Connectivity | Plug & Play USB (MP3/WMA/WAV) Support | Integrated FM Radio Tuner | Dual Power Modes (Built-in Battery & DC Input)"
     },
@@ -4078,7 +4078,7 @@
       "model": "HP110",
       "brand": "Hisense",
       "regular": 3700,
-      "sale": 2690,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Powerful 300W High-Performance Audio | 15 Hours of Non-Stop Party Playtime | Dual UHF Wireless Microphones Included | Smart Wireless & USB Device Charging | Durable IPX4 Waterproof Protection | Dynamic 5-Mode LED RGB Light Show | Pro DJ Effects & Bass Boost Mode | Stable Bluetooth 5.0 & TWS Group Play | Versatile 12V Car & AC Power Charging"
     },
@@ -4090,7 +4090,7 @@
       "model": "HP110",
       "brand": "Hisense",
       "regular": 3700,
-      "sale": 2690,
+      "sale": null,
       "warranty": "3 Years",
       "features": "High Energy Efficiency For Power Savings | Powerful 300W Max Audio Performance | Fast Bluetooth Wireless Audio Streaming | Advanced Bass Boost Sound Technology | Dual 5.25 Inch Woofers And Tweeters | Dynamic Flashing LED Light Effects | Versatile Karaoke And Guitar Inputs | Professional EQ Adjustment Settings | Clear LED Display For Easy Navigation"
     },
@@ -4102,7 +4102,7 @@
       "model": "HP300",
       "brand": "Hisense",
       "regular": 2890,
-      "sale": 2220,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Thunderous Max 620W High-Power Output | Professional DJ Mode & Voice Changer | Dedicated Guitar & Microphone Inputs | Immersive RGB Multi-Color Light Show | Stable Bluetooth 5.0 Wireless Audio | Versatile USB Recording & Playback | TWS Wireless Stereo Speaker Pairing | Digital LED Display & FM Radio Tuning | Punchy Bass & Custom Equalizer Modes"
     },
@@ -4114,7 +4114,7 @@
       "model": "#N/A",
       "brand": "Hisense",
       "regular": 4600,
-      "sale": 3200,
+      "sale": null,
       "warranty": "3 Years",
       "features": "High Energy Efficiency Power Management | Powerful 620W Maximum Audio Output | Dynamic 2.0 Channel Surround Sound | Integrated Six Speaker Array System | Advanced AI Synchronized Light Show | Long Lasting 18 Hour Battery Life | Wireless Auracast Multi Speaker Link | Portable Design with Wheels and Handle | Splash Proof IPX4 Water Resistance"
     },
@@ -4126,7 +4126,7 @@
       "model": "HS1800",
       "brand": "Hisense",
       "regular": 1150,
-      "sale": 790,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Sleek & Stylish High-Profile Design | 140W Max High-Output Audio Power | 3 Tailored Professional Equalizer Modes | Precision Crystal-Clear Audio Output | HDMI ARC Input for Seamless TV Sync | Advanced Bluetooth Wireless Streaming | Optical, Aux, and USB Playback Inputs | Integrated Wall Mount Fixation System | All-in-One Multi-Source Connectivity"
     },
@@ -4138,7 +4138,7 @@
       "model": "HS2100",
       "brand": "Hisense",
       "regular": 1750,
-      "sale": 1190,
+      "sale": null,
       "warranty": "3 Years",
       "features": "2.0ch Sleek & Stylish Profile | High-Fidelity Dolby Digital Audio | Advanced Six-Mode Professional Equalizer | Super Powerful Bass Technology | Smart EZ Play Control Integration | Latest Bluetooth 5.3 & FM Radio | HDMI ARC Seamless TV Connection | Optical, Aux, & USB Connectivity | Full-Function Wireless Remote Control"
     },
@@ -4150,7 +4150,7 @@
       "model": "HS2100FM",
       "brand": "Hisense",
       "regular": 1750,
-      "sale": 1190,
+      "sale": null,
       "warranty": "3 Years",
       "features": "2.1ch Sleek & Stylish Design | Cinema-Grade Dolby Atmos Support | Superior Loud & Deep Bass Technology | HDMI ARC Output for Seamless TV Sync | Professional Multi-EQ Sound Modes | Advanced Bluetooth Wireless Streaming | High-Fidelity Optical Digital Input | Aux-In & Specialized TV Audio Modes | Plug & Play USB Port & Remote Control"
     },
@@ -4174,7 +4174,7 @@
       "model": "HS3100",
       "brand": "Hisense",
       "regular": 1990,
-      "sale": 1390,
+      "sale": null,
       "warranty": "3 Years",
       "features": "3.1ch Sleek & Stylish Audio System | Cinema-Grade Dolby Atmos Support | Massive 480W Max High-Output Power | Advanced DTS Connectivity & Surround | Smart Roku TV Ready Integration | Pure Surround Sound Technology | HDMI ARC & Optical Digital Inputs | Advanced Bluetooth & USB Playback | Bright Integrated LED Status Display"
     },
@@ -4186,7 +4186,7 @@
       "model": "HS5100",
       "brand": "Hisense",
       "regular": 2400,
-      "sale": 1690,
+      "sale": null,
       "warranty": "3 Years",
       "features": "5.1ch Sleek & Stylish Home Theater | Cinema-Grade Dolby Atmos Support | Massive 540W Max High-Output Power | Dual (2) Additional Surround Speakers | Professional 6-Mode Equalizer System | Advanced DTS Connectivity & Pure Surround | Smart Roku TV Ready Integration | HDMI ARC & Optical Digital Inputs | Multi-Source Bluetooth & USB Playback"
     },
@@ -4198,7 +4198,7 @@
       "model": "HT SATURN",
       "brand": "Hisense",
       "regular": 5250,
-      "sale": 3990,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Advanced Wireless Subwoofer System | Dual (2) High-Speed HDMI Inputs | HDMI Output with ARC Support | Precision Crystal-Clear Audio Output | Seamless Bluetooth Audio Streaming | High-Fidelity Optical Digital Input | Plug & Play USB Media Playback | Universal Aux-In (3.5mm) Connectivity | Multi-Source Smart Audio Switching"
     },
@@ -4210,7 +4210,7 @@
       "model": "HT-350",
       "brand": "Fenda",
       "regular": 1750,
-      "sale": 1090,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Crystal-Clear High-Fidelity Audio | Seamless Bluetooth Wireless Streaming | Advanced HDMI (ARC) Connectivity | Digital Optical Input for HD Sound | High-Visibility LED Digital Display | Multi-Source Device Connectivity | Convenient USB Direct Media Playback | Versatile 3.5mm AUX Audio Input | Sleek & Modern Space-Saving Design"
     },
@@ -4222,7 +4222,7 @@
       "model": "HT-360",
       "brand": "Fenda",
       "regular": 1750,
-      "sale": 1170,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Bluetooth 5.0 Wireless Music Streaming | Total Power Output Of 110W RMS | Sleek Design Fits Under Flat Panels | Super Wooden Subwoofer For Deep Bass | Plug And Play USB Reader Decoding | Digital Audio Support Through Optical | Bright LED Display With Wide Angle | Full Function Remote Control Access | Wireless Connectivity For Subwoofer"
     },
@@ -4234,7 +4234,7 @@
       "model": "HT-500DA",
       "brand": "Fenda",
       "regular": 3990,
-      "sale": 2690,
+      "sale": null,
       "warranty": "3 Years",
       "features": "5.1.2ch Cinematic Surround Sound | Cinema-Grade Dolby Atmos Support | Dual (2) Dedicated Surround Speakers | High-Fidelity (HiFi) Sound Quality | 190W High-Efficiency Power Output | Smart Mobile App Control Integration | Latest Bluetooth 5.3 Technology | 6 Professional EQ Sound Modes | HDMI ARC, Optical, and Aux Connectivity"
     },
@@ -4246,7 +4246,7 @@
       "model": "SSM111",
       "brand": "Amcon",
       "regular": 1900,
-      "sale": 1290,
+      "sale": 1700,
       "warranty": "3 Years",
       "features": "Powerful 2.0ch Multimedia Audio System | Dual 8\" Woofers & Dual 4\" Tweeters | Pro Karaoke System with Wireless Microphone | HDMI ARC & Optical Digital Audio Inputs | Advanced Bluetooth Connect Technology | Plug & Play USB and SD/MMC Card Inputs | Integrated Digital FM Radio Tuner | Bright High-Visibility LED Display | Fully Functional Wireless Remote Control"
     },
@@ -4258,7 +4258,7 @@
       "model": "PR160",
       "brand": "Hisense",
       "regular": 1700,
-      "sale": 1190,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Powerful 160W High-Output Audio | Up To 12-Hour Extended Battery Life | Dynamic RGB Multi-Color LED Lights | Advanced Wireless Bluetooth Connectivity | High-Impact Bass Boost Technology | Smart USB Media Playback & Device Charging | Integrated Karaoke & Microphone Support | Universal Aux-In (3.5mm) Connectivity | Rugged Design for Outdoor Gatherings"
     },
@@ -4270,7 +4270,7 @@
       "model": "T-200X",
       "brand": "Fenda",
       "regular": 1250,
-      "sale": 880,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 8-Inch High-Output Subwoofer | Three-Way Professional Acoustic Design | 1-Inch High-Fidelity Silk Dome Tweeter | Full-Function Karaoke System | Integrated In-Built Wireless Microphone | Advanced Bluetooth & Optical Connectivity | Plug & Play USB & Analogue Audio Inputs | Digital FM Radio Station Tuner | Bright Wide-Angle LED Status Display"
     },
@@ -4282,7 +4282,7 @@
       "model": "T-35X",
       "brand": "Fenda",
       "regular": 1600,
-      "sale": 990,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 8-Inch High-Output Subwoofer | Three-Way Professional Acoustic Design | 1-Inch High-Fidelity Silk Dome Tweeter | In-Built Wireless Microphone System | Advanced Bluetooth & Optical Connectivity | Professional Karaoke Functionality | Digital FM Radio Station Tuner | Plug & Play USB & Analogue Audio Inputs | Bright Wide-Angle LED Status Display"
     },
@@ -4306,7 +4306,7 @@
       "model": "T-60X PRO",
       "brand": "Fenda",
       "regular": 2300,
-      "sale": 1550,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 8-Inch High-Output Subwoofer | Elegant High-Density Wooden Cabinet Design | Powerful Sound Performance in a Slim Profile | Advanced Bluetooth & NFC Wireless Connectivity | High-Fidelity Optical & Coaxial Digital Inputs | Integrated Wireless Karaoke Microphone System | Digital FM Radio with Multi-Station Tuning | Bright Wide-Angle LED Status Display | Full-Function Wireless Remote & Panel Keys"
     },
@@ -4318,7 +4318,7 @@
       "model": "T-88X",
       "brand": "Fenda",
       "regular": 4790,
-      "sale": 3590,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 10-Inch High-Output Subwoofer | Professional Three-Way Acoustic Design | Elegant Hand-Finished Wooden Cabinet | High-Fidelity 5.25\" Woofer & 1\" Tweeter | Integrated Professional Karaoke Function | Advanced Bluetooth Wireless Connectivity | Plug & Play USB & Optical Digital Inputs | Digital FM Radio with 100-Station Memory | Bright Wide-Angle LED Status Display"
     },
@@ -4330,7 +4330,7 @@
       "model": "C210WR",
       "brand": "Toshiba",
       "regular": 1890,
-      "sale": 1350,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Energy Efficient Subwoofer System | Impressive Two Point One Audio Channel | Powerful Two Hundred Forty Watts Output | Premium Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Enhanced Cinematic Audio Performance | Deep Dynamic Bass Reproduction | Modern Minimalist Audio Setup"
     },
@@ -4342,7 +4342,7 @@
       "model": "M310WR",
       "brand": "Toshiba",
       "regular": 2490,
-      "sale": 1850,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Energy Efficient Audio Engineering | Powerful Five Hundred Watts Output | Immersive Three Point One Audio Channel | Premium Toshiba Soundbar Quality | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Cinematic Crystal Clear Dialogue | Deep Room Filling Dynamic Bass | High Performance Sound System"
     },
@@ -4354,7 +4354,7 @@
       "model": "M510WR",
       "brand": "Toshiba",
       "regular": 2990,
-      "sale": 2200,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Energy Efficient Audio Design | Powerful Five Hundred Watts Output | Premium Five Point One Audio Channel | Elite Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Immersive Surround Sound Experience | Deep Rich Dynamic Bass Performance | High Fidelity Home Theater System"
     },
@@ -4366,7 +4366,7 @@
       "model": "U5120GW+",
       "brand": "Hisense",
       "regular": 7500,
-      "sale": 5590,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Sleek & Stylish High-Profile Soundbar | Cinema-Grade Dolby Atmos Surround Sound | Massive 570W Total High-Output Power | Advanced 7.1.2 Surround System Architecture | High-Performance Wireless Subwoofer | 4K HDR Pass-Through for Ultra-HD Visuals | Advanced HDMI ARC & Optical Connectivity | Bluetooth 4.2 & Type-C/USB Multimedia Ports | Full-Function Wireless Remote Control"
     },
@@ -4378,7 +4378,7 @@
       "model": "SEUF01BK",
       "brand": "Amcon",
       "regular": 550,
-      "sale": 380,
+      "sale": null,
       "warranty": "1 Year",
       "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs"
     },
@@ -4390,7 +4390,7 @@
       "model": "SEUF01DG",
       "brand": "Amcon",
       "regular": 550,
-      "sale": 380,
+      "sale": null,
       "warranty": "1 Year",
       "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs"
     },
@@ -4402,7 +4402,7 @@
       "model": "11000-G21",
       "brand": "VKER",
       "regular": 3500,
-      "sale": 2590,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 15-Inch High-Output Woofer | Powerful 300W Total Audio Output | Dual (2) Microphone Inputs for Karaoke | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Equalizer Control | Plug & Play USB Player & SD Card Reader | Dynamic Flashing Party LED Speaker Lights | Integrated Digital FM Radio Tuner | Dual (2) Aux-In Ports & High-Visibility LED Display"
     },
@@ -4414,7 +4414,7 @@
       "model": "M20002-221",
       "brand": "VKER",
       "regular": 2800,
-      "sale": 1990,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 8-Inch High-Output Subwoofer | Powerful 300W Total Audio Output | Professional Integrated Karaoke System | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Plug & Play USB Media Player & FM Radio | Universal Aux-In & Multi-Device Compatibility | High-Visibility Bright LED Status Display"
     },
@@ -4426,7 +4426,7 @@
       "model": "35000-N8F",
       "brand": "VKER",
       "regular": 1490,
-      "sale": 990,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Powerful 200W Total Audio Output | Dual (2) Microphone Inputs for Karaoke | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Precision Digital Control Knob Interface | Plug & Play USB Player & Digital FM Radio | Universal Aux-In Port & Multi-Device Support | Full-Function Wireless Remote Control"
     },
@@ -4438,7 +4438,7 @@
       "model": "45000-N8FD",
       "brand": "VKER",
       "regular": 1890,
-      "sale": 1350,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 8-Inch High-Output Subwoofer | Powerful 250W Total Audio Output | Dual (2) Microphone Ports for Karaoke | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Professional Integrated Equalizer System | Plug & Play USB Player & Digital FM Radio | High-Visibility LED Display & Aux-In Port"
     },
@@ -4450,7 +4450,7 @@
       "model": "18500-T5",
       "brand": "VKER",
       "regular": 5350,
-      "sale": 3890,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Massive 12-Inch High-Output Subwoofer | Thunderous 500W Total Output Power | Integrated DVD Player with Video Output | Dynamic Flashing Multi-Color LED Lights | Professional Microphone Input for Karaoke | Advanced Bluetooth & FM Radio Connectivity | Plug & Play USB Player & SD Card Reader | Independent Bass & Treble Tuning Controls | Multi-Port Audio/Video Output & Aux-In"
     },
@@ -4462,7 +4462,7 @@
       "model": "722-XA900N",
       "brand": "VKER",
       "regular": 7500,
-      "sale": 5150,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Unique Two-in-One Full Operating Sound System | Dual (2) Professional Wireless Microphones | Advanced Dual Bluetooth Audio Streaming | Precision Crystal-Clear High-Fidelity Audio | HDMI ARC & High-Speed Optical Digital Inputs | Integrated FM Radio & USB/Memory Card Playback | Dynamic Multi-Color Integrated LED Speaker Lights | Dedicated Microphone Input for Extra Connectivity | High-Visibility LED Display & Multi-Source Support"
     },
@@ -4474,7 +4474,7 @@
       "model": "L2600 - Y3",
       "brand": "VKER",
       "regular": 4300,
-      "sale": 3090,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Professional Home Entertainment Audio System | HDMI Video Output for TV Integration | Dual (2) Microphone Inputs for Karaoke | Dynamic Multi-Color Flashing LED Lights | Advanced Bluetooth Wireless Connectivity | Independent Bass & Treble Tuning Controls | Multi-Band Professional Equalizer System | Plug & Play USB Player & SD Card Reader | Integrated FM Radio & High-Visibility LED Display"
     },
@@ -4486,7 +4486,7 @@
       "model": "50001-Y5",
       "brand": "VKER",
       "regular": 6700,
-      "sale": 4790,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Integrated DVD Player with Video Output | Universal Wireless Smartphone Charging Platform | Anti-Slip Safety Pad for Charging Platform | Dynamic Amp & Speaker Flashing LED Lights | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Professional Multi-Band Equalizer System | Independent Bass & Treble Tuning Controls | HDMI Video Output & USB Media Playback"
     },
@@ -4498,7 +4498,7 @@
       "model": "PA300A",
       "brand": "VKER",
       "regular": 6800,
-      "sale": 4790,
+      "sale": null,
       "warranty": "3 Years",
       "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters"
     },
@@ -4558,7 +4558,7 @@
       "model": "100E80KAVS",
       "brand": "Hisense",
       "regular": 38000,
-      "sale": 25990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner"
     },
@@ -4570,7 +4570,7 @@
       "model": "100E75LEVS",
       "brand": "Hisense",
       "regular": 28000,
-      "sale": 19990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality"
     },
@@ -4582,7 +4582,7 @@
       "model": "110UXNQ",
       "brand": "Hisense",
       "regular": 185000,
-      "sale": 138000,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs"
     },
@@ -4594,7 +4594,7 @@
       "model": "116UX",
       "brand": "Hisense",
       "regular": 250000,
-      "sale": 159900,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating"
     },
@@ -4606,7 +4606,7 @@
       "model": "TVAM32ANDSTV",
       "brand": "Amcon",
       "regular": 1950,
-      "sale": 1500,
+      "sale": 1750,
       "warranty": "3 Years",
       "features": "Sleek Frameless & Modern Panel Design | Powerful Android 12 Smart OS Integration | Full HD 1080p High-Definition Clarity | Cinema-Grade Dolby Audio Sound System | Built-in WiFi & High-Speed LAN Ethernet | Screen Mirroring & Kindlink Content Sharing | Pre-installed Netflix, YouTube & Movie Ark | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception"
     },
@@ -4618,7 +4618,7 @@
       "model": "32A5200FS",
       "brand": "Hisense",
       "regular": 1550,
-      "sale": 950,
+      "sale": 1200,
       "warranty": "5 Years",
       "features": "Sleek Metal Bezelless Modern Design | Full HD 1080p High-Definition Resolution | Advanced Natural Colour Enhancer Tech | Clear & Immersive Cinematic Picture Quality | Dolby Digital Plus Professional Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Wall Bracket & Remote Control Included"
     },
@@ -4630,7 +4630,7 @@
       "model": "TVAM32DSTVDG",
       "brand": "Amcon",
       "regular": 1650,
-      "sale": 940,
+      "sale": 1140,
       "warranty": "3 Years",
       "features": "Premium Elegant Slim-Profile Design | Full HD 1080p High-Definition Resolution | Ultra-Durable Double Glass Screen Protection | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Ports | Intuitive User-Friendly Smart Interface | Independent Bass & Treble Audio Controls | Universal Headphone & AV Input Ports | Complimentary Wall Bracket Included"
     },
@@ -4642,7 +4642,7 @@
       "model": "NAMCH32M10P",
       "brand": "Amcon",
       "regular": 1500,
-      "sale": 900,
+      "sale": 1100,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Cabinet Design | Cinema-Grade Dolby Atmos Audio Support | Integrated Digital Satellite TV Reception | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 55W Power Consumption | Vivid HD 720p High-Definition Resolution | Unique Smartside Integrated Keyboard | Universal Headphone & AV Input Ports"
     },
@@ -4654,7 +4654,7 @@
       "model": "HE32M2160HTSQI",
       "brand": "Amcon",
       "regular": 1550,
-      "sale": 940,
+      "sale": 1140,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Cabinet Design | Cinema-Grade Dolby Atmos Audio Support | Integrated Digital Satellite TV Reception | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 55W Power Consumption | Vivid HD 720p High-Definition Resolution | Unique Smartside Integrated Keyboard | Universal Headphone & AV Input Ports"
     },
