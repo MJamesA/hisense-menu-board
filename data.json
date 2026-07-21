@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-20T23:09:05.223Z",
+  "generatedAt": "2026-07-21T03:39:06.811Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2569,6 +2569,18 @@
       "sale": null,
       "warranty": "3 Years",
       "features": "High-Performance Infrared Function | Oven & Grill Convection Fan System | Premium Stainless Steel Cooktop | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Soft-Closing Black Glass Door | Easy-Clean Enamel Interior | Integrated Glass Lid & Adjustable Feet"
+    },
+    {
+      "acuId": "GC90335RX02",
+      "tag": "A6",
+      "category": "Gas Cooker",
+      "name": "5 BURNER FREE \nSTANDING GAS OVEN",
+      "model": "HFG90335RX02",
+      "brand": "Hisense",
+      "regular": 7100,
+      "sale": null,
+      "warranty": "3 Years",
+      "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning"
     },
     {
       "acuId": "GC60122X",
