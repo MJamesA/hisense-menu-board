@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-22T16:34:06.941Z",
+  "generatedAt": "2026-07-23T11:49:04.884Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3229,6 +3229,30 @@
       "sale": null,
       "warranty": "1 Year",
       "features": "Classico Collection | Large 1.7L Water Capacity | 360 Degree Rotational Power Base | Integrated Neat Cord Storage System | Advanced Strix Thermostat Technology | Built In Overheat Safety Protection | Sophisticated Classico Design Collection"
+    },
+    {
+      "acuId": "KE17GPD",
+      "tag": "A7",
+      "category": "Kettles",
+      "name": "1.7L CLEAR GLASS KETTLE",
+      "model": "K17GPD",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 2200W Rapid Heating Performance | Large 1.7L Water Capacity | Premium Clear Glass Stainless Steel Build | Reliable Boil Dry Safety Protection | Advanced Strix Technology Controller | Ergonomic Handle For Easy Pouring | Integrated Removable Limescale Filter"
+    },
+    {
+      "acuId": "K15DWS",
+      "tag": "",
+      "category": "Kettles",
+      "name": "1.5L STAINLES STEEL KETTLE",
+      "model": "K15DWS",
+      "brand": "",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Premium Double Wall Insulation | Advanced Strix Technology Controller | Durable Inox Stainless Steel Build | Generous 1.5L Liquid Capacity | Smart Anti Drip Lid Design | Convenient Lid Release Button | Safe Cool Touch Housing Exterior"
     },
     {
       "acuId": "AM-C40",
