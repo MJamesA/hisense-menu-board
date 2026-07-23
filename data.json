@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-23T11:49:04.884Z",
+  "generatedAt": "2026-07-23T11:54:05.583Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3244,11 +3244,11 @@
     },
     {
       "acuId": "K15DWS",
-      "tag": "",
+      "tag": "A7",
       "category": "Kettles",
       "name": "1.5L STAINLES STEEL KETTLE",
       "model": "K15DWS",
-      "brand": "",
+      "brand": "Gorenje",
       "regular": null,
       "sale": null,
       "warranty": "1 Year",
