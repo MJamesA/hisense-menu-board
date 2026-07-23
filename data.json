@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-23T11:54:05.583Z",
+  "generatedAt": "2026-07-23T15:04:06.622Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4585,6 +4585,18 @@
       "sale": 340,
       "warranty": "1 Year",
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern White Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
+    },
+    {
+      "acuId": "TST230CLIN",
+      "tag": "A7",
+      "category": "Toasters",
+      "name": "4-SLOT WHITE\nELECTRIC TOASTER",
+      "model": "T2300CLIN",
+      "brand": "Gorenje",
+      "regular": null,
+      "sale": null,
+      "warranty": "",
+      "features": "Classico Collection | Large Four Slice Capacity At Once | Easy Lift and Lock Lever Setup | 7 Adjustable Browning Precision Settings | Convenient Instant Cancel Button Control | Effortless Removable Crumb Trays Setup | Efficient 2300W Rapid Toasting Power"
     },
     {
       "acuId": "100SMDSMLEDTV",
