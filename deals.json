@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-20T23:09:07.811Z",
+  "generatedAt": "2026-07-24T14:14:09.368Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -2711,7 +2711,7 @@
           "brand": "Hisense",
           "acuId": "85SMQLED4KTV",
           "regular": 17900,
-          "sale": 12990,
+          "sale": null,
           "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour Technology | Dolby Vision & Dolby Atmos Integrated | Full Array Local Dimming Panel | High View Engine Picture Processor | Smooth Motion Rate Clarity | Advanced Voice Assistant Control | Quad (4) HDMI & Dual (2) USB Connectivity",
           "warranty": "5 Years"
         },
