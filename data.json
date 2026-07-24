@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-23T15:19:05.442Z",
+  "generatedAt": "2026-07-24T14:14:06.414Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5266,7 +5266,7 @@
       "model": "85Q6N",
       "brand": "Hisense",
       "regular": 17900,
-      "sale": 12990,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Frameless & Ultra-Slim Design | 4K QLED HDR+ with Dolby Vision IQ | Quantum Dot Colour Technology | Dolby Vision & Dolby Atmos Integrated | Full Array Local Dimming Panel | High View Engine Picture Processor | Smooth Motion Rate Clarity | Advanced Voice Assistant Control | Quad (4) HDMI & Dual (2) USB Connectivity"
     },
