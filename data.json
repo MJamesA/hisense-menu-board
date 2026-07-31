@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-07-31T13:14:09.314Z",
+  "generatedAt": "2026-07-31T13:29:05.797Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3769,6 +3769,18 @@
       "sale": null,
       "warranty": "1 Year",
       "features": "Massive 34L Family-Sized Capacity | Sleek & Modern Stylish Black Design | Premium White LED Digital Display | Specialized Melt & Soften Functions | Instant +30 Second Quick Start | Smart Eco Mode & Mute Functionality | Rapid Express Cook & Auto Reheat | Secure Child Safety Lock Protection | Intuitive Precision Digital Controls"
+    },
+    {
+      "acuId": "30LMODC-WPBB",
+      "tag": "A6",
+      "category": "Microwave oven",
+      "name": "30L BLACK FLATBED MICROWAVE\nDIGITAL CONTROL",
+      "model": "HMBS3010PFG",
+      "brand": "Hisense",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Spacious 30L Flatbed Oven Design | Energy Efficient Cooking Performance | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Sleek Black Premium Exterior Finish | Multiple Cooking Power Level Settings | Smart Weight and Time Defrost Function | Versatile Combination Cooking Setup"
     },
     {
       "acuId": "42LMODC-GPBB",
