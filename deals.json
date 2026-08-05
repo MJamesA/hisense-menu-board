@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:19:08.717Z",
+  "generatedAt": "2026-08-05T21:29:07.548Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -3984,7 +3984,7 @@
     {
       "category": "Laser TVs",
       "name": "120\" L9 \nLASER TELEVISION",
-      "model": "#N/A",
+      "model": "120LASERL9",
       "brand": "Hisense",
       "acuId": "120LASERL9",
       "regular": 60000,
