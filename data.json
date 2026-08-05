@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:54:05.077Z",
+  "generatedAt": "2026-08-05T22:09:06.073Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -483,6 +483,30 @@
       "features": "Ultra-Silent High-Torque 500W DC Motor | Precision 5-Speed Power Regulator | Turbo Boost & Pulse Functionality | Pro-Grade Stainless Steel Dough Hooks | High-Efficiency Wire Whisk Attachments | Versatile Beating, Whipping & Kneading | Lightweight Ergonomic Comfort Handle"
     },
     {
+      "acuId": "BM550DC",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n550W",
+      "model": "M550DC",
+      "brand": "Gorenje",
+      "regular": 550,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 600W Performance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design"
+    },
+    {
+      "acuId": "BM350W",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n350W",
+      "model": "M350W",
+      "brand": "Gorenje",
+      "regular": 450,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Power 350W Performance | 4 Speed Levels And Pulse Function | Powerful And Efficient AC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design"
+    },
+    {
       "acuId": "BL-9002",
       "tag": "A7",
       "category": "Blenders",
@@ -519,6 +543,30 @@
       "features": "Extreme 1400W High-Performance Motor | Large 1.75L Thermal-Resistant Glass Jar | 4 Smart-Logic Preset Programs | Removable Stainless Steel Blade System | Precision Variable Speed Control | High-Power Dedicated Ice Crush Mode | Auto Clean & Safety Lock Protection"
     },
     {
+      "acuId": "B800ORAB1.5L",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "MECHANICAL BLENDER\n1.5L 800W",
+      "model": "B800ORAB",
+      "brand": "Gorenje",
+      "regular": 880,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 800W High Speed Motor | 1.5L Blender Capacity | Easy Flat Control Panel Setup | Premium Quad Blade System | High Performance Mechanical Design | Smooth Daily Blending Performance | Seamless \"Flat Controls\" with LED Lighting"
+    },
+    {
+      "acuId": "B1500DE2.0L",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "DIGITAL BLENDER 2L 1500W",
+      "model": "BP1500DE",
+      "brand": "Gorenje",
+      "regular": 1890,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Ultra Powerful 1500W Performance | Large 2L Premium Tritan Jar | Super Silent Operation Function | Smart Digital Touch Control Panel | Six Leaves Stainless Steel Blade | Five Preset Program Options | Efficient Pulse Self Clean Mode"
+    },
+    {
       "acuId": "BLJC4800VWY",
       "tag": "A7",
       "category": "Blenders",
@@ -553,6 +601,30 @@
       "sale": 2850,
       "warranty": "1 Year",
       "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock"
+    },
+    {
+      "acuId": "BFPMC1500E",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "FOOD PROCESSOR",
+      "model": "SBR1500E",
+      "brand": "Gorenje",
+      "regular": 1890,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 1500W High Performance Motor | Innovative Fusion Mode Technology | Comprehensive Multi Jar Capacity Setup | 2.0L Main Food Processor Bowl & 1.75L Plastic Blending Jar | 700mL Portable Sports Blender | Extensive Precision Cutting Prep Attachments | 10 Speed Intuitive Control & Programs"
+    },
+    {
+      "acuId": "BMG1701SB",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "MULTIFUNCTIONAL MEAT GRINDER",
+      "model": "MG1701SB",
+      "brand": "Gorenje",
+      "regular": 1150,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 1700W Motor Performance | Integrated Food Pusher Auger | Convenient On & Off Reverse Functional Knob | Safety Lock Protection Base Unit | Durable Stainless Steel Cutting Blade | Versatile Dual Grinding Plates Included | Advanced Slicing Shredding Attachment"
     },
     {
       "acuId": "MMC800CW",
@@ -987,6 +1059,66 @@
       "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels"
     },
     {
+      "acuId": "CFS230AEW",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+      "model": "SVC222230AEW",
+      "brand": "Gorenje",
+      "regular": 1550,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "22.2V Detachable Long Lasting Battery | Advanced Smart LED Display Panel | Anti Tangle V Shaped Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | 0.7L Dust Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Furniture Bumper | Versatile Dual Crevice Nozzle Attachments"
+    },
+    {
+      "acuId": "CFS480AA",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+      "model": "SVC222480AA",
+      "brand": "Gorenje",
+      "regular": 1750,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "22.2V Detachable InverterPower Battery | Motorized Anti Tangle Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | Advanced Smart LED Display Panel | Generous 0.7L Large Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Soft Bumper | Versatile Dual Crevice Nozzle Attachments"
+    },
+    {
+      "acuId": "CGFA2AW",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "G-FORCE AIR VACUUM CLEANER",
+      "model": "VCE01G2AW-air",
+      "brand": "Gorenje",
+      "regular": 1300,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient G200 Series Design | Powerful 800W Suction Performance | Smart Ergonomic Functional Design | Comfortable Hassle Free Cleaning | Versatile Multi Surface Cleaning Mode | Practical Removable Container Setup | Advanced Cyclonic Action Cleaning Setup | Advanced Double Filtration System | Highly Versatile Cleaning Attachments"
+    },
+    {
+      "acuId": "CGF4AHGR",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "G-FORCE AIR HARDFLOOR VACUUM CLEANER",
+      "model": "VCE01G4AHGR-air hardfloor",
+      "brand": "Gorenje",
+      "regular": 1650,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient G400 Series Design | Powerful 800W Hardfloor Suction Performance | Advanced Cyclonic Action Cleaning Setup | Universal Parquet Brush Accessory Included | Efficient Double Filtration System Setup | Smart Design Comfortable Cleaning Mode | Practical Removable Dust Container Setup | Essential Accessories Pack Included | High Performance G-Force Air Technology"
+    },
+    {
+      "acuId": "CGF6AEGO",
+      "tag": "A6",
+      "category": "CLEANING",
+      "name": "G-FORCE AIR PET VACUUM CLEANER",
+      "model": "VCEA 08 GAPGOCY-VCE08G6AEGO-air expert",
+      "brand": "Gorenje",
+      "regular": 2290,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient G600 Series Design | Powerful 850W Air Pet Performance | Professional Cleaning Pro Results | Advanced Cyclonic Action Technology | Efficient Double Filter System Setup | Removable Dust Container For Easy Empty | Intuitive Operation For Seamless Use | Essential Accessories For Daily Upkeep | Complete All In One Cleaning Power"
+    },
+    {
       "acuId": "DSTVDECODER&ACC",
       "tag": "A6",
       "category": "DECODER",
@@ -1273,6 +1405,18 @@
       "sale": 990,
       "warranty": "1 Year",
       "features": "Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Integrated Grease Drainage System | Removable Tray for Easy Oil Disposal | Enhanced Auto Shut-Down System | Uniform Heat for Perfect Grilling"
+    },
+    {
+      "acuId": "ECTG1800SB",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "SMOKELESS CONTACT GRILL",
+      "model": "TG1800SB",
+      "brand": "Gorenje",
+      "regular": 1400,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Advanced Smokeless Extraction Setup | Precise Variable Heat Control Mode | Premium Non Stick Grill Plates | Integrated Smoke Absorbing Air Inlet | Mechanical Control | Efficient Drip Tray And Fan Cover | Easy To Use And Maintain Design"
     },
     {
       "acuId": "B02-ELSAU-SSDT",
@@ -3099,6 +3243,42 @@
       "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection"
     },
     {
+      "acuId": "KE17CLIN",
+      "tag": "A7",
+      "category": "Kettles",
+      "name": "1.7L  CLASSIC WHITE KETTLE",
+      "model": "K17CLIN",
+      "brand": "Gorenje",
+      "regular": 930,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Classico Collection | Large 1.7L Water Capacity | 360 Degree Rotational Power Base | Integrated Neat Cord Storage System | Advanced Strix Thermostat Technology | Built In Overheat Safety Protection | Sophisticated Classico Design Collection"
+    },
+    {
+      "acuId": "KE17GPD",
+      "tag": "A7",
+      "category": "Kettles",
+      "name": "1.7L CLEAR GLASS KETTLE",
+      "model": "K17GPD",
+      "brand": "Gorenje",
+      "regular": 750,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Powerful 2200W Rapid Heating Performance | Large 1.7L Water Capacity | Premium Clear Glass Stainless Steel Build | Reliable Boil Dry Safety Protection | Advanced Strix Technology Controller | Ergonomic Handle For Easy Pouring | Integrated Removable Limescale Filter"
+    },
+    {
+      "acuId": "K15DWS",
+      "tag": "A7",
+      "category": "Kettles",
+      "name": "1.5L STAINLES STEEL KETTLE",
+      "model": "K15DWS",
+      "brand": "Gorenje",
+      "regular": 560,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Premium Double Wall Insulation | Advanced Strix Technology Controller | Durable Inox Stainless Steel Build | Generous 1.5L Liquid Capacity | Smart Anti Drip Lid Design | Convenient Lid Release Button | Safe Cool Touch Housing Exterior"
+    },
+    {
       "acuId": "AM-C40",
       "tag": "A8",
       "category": "Small Items",
@@ -3733,6 +3913,30 @@
       "sale": null,
       "warranty": "5 Years",
       "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting"
+    },
+    {
+      "acuId": "1230LDFB",
+      "tag": "A6",
+      "category": "Showcase Fridges",
+      "name": "1230L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-160WC",
+      "brand": "Hisense",
+      "regular": 16900,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": ""
+    },
+    {
+      "acuId": "930LDFB",
+      "tag": "A6",
+      "category": "Showcase Fridges",
+      "name": "930L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL121WC",
+      "brand": "Hisense",
+      "regular": 14500,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": ""
     },
     {
       "acuId": "SS A180X",
@@ -4441,6 +4645,18 @@
       "sale": 450,
       "warranty": "1 Year",
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern White Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
+    },
+    {
+      "acuId": "TST230CLIN",
+      "tag": "",
+      "category": "Toasters",
+      "name": "4-SLOT WHITE\nELECTRIC TOASTER",
+      "model": "T2300CLIN",
+      "brand": "Gorenje",
+      "regular": 1200,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Classico Collection | Large Four Slice Capacity At Once | Easy Lift and Lock Lever Setup | 7 Adjustable Browning Precision Settings | Convenient Instant Cancel Button Control | Effortless Removable Crumb Trays Setup | Efficient 2300W Rapid Toasting Power"
     },
     {
       "acuId": "100SMDSMLEDTV",
