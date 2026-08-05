@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:34:08.215Z",
+  "generatedAt": "2026-08-05T21:39:11.230Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -522,7 +522,7 @@
           "model": "FT5K310GSF2",
           "brand": "Hisense",
           "acuId": "310RFGB",
-          "regular": 10500,
+          "regular": null,
           "sale": null,
           "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Total No Frost Cooling Mechanism | Fast Freezing Rapid Functionality | Multi Air Flow Distribution Channels | Electronic Temperature Control System | Upright Refrigerator Design | Flexible Reversible Door Configuration | Eco Friendly Refrigerant Gas R600a",
           "warranty": "5 Years"
@@ -1400,7 +1400,7 @@
           "model": "ARC-661W",
           "brand": "Amcon",
           "acuId": "AM601LCRFGS",
-          "regular": 11000,
+          "regular": null,
           "sale": null,
           "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
@@ -3509,13 +3509,13 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Wall Bracket",
+      "category": "DECODER",
       "name": "DSTVDECODER&ACC",
       "model": "Model 1",
       "brand": "DSTV",
       "acuId": "DSTVDECODER&ACC",
       "regular": 633,
-      "sale": 0.0001,
+      "sale": 358,
       "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
       "warranty": "1 Year"
     },
@@ -3526,7 +3526,7 @@
       "brand": "MTN",
       "acuId": "MTNBDL1",
       "regular": 1020,
-      "sale": 0.0001,
+      "sale": null,
       "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
       "warranty": "Not Applicable"
     },
@@ -5120,6 +5120,7 @@
     "Toshiba TVs": "5m2f",
     "Water Dispensors": "5m2f",
     "Washing Machines": "10m1f",
+    "DECODER": "10m1f",
     "Wall Bracket": "3feat",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat",
