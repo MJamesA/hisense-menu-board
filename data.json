@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:19:06.263Z",
+  "generatedAt": "2026-08-05T21:24:08.458Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3223,7 +3223,7 @@
       "tag": "A7",
       "category": "Kettles",
       "name": "1.7L  CLASSIC WHITE KETTLE",
-      "model": "K15DWS",
+      "model": "",
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
@@ -3775,7 +3775,7 @@
       "tag": "A6",
       "category": "Microwave oven",
       "name": "30L FLATBED MICROWAVE\nDIGITAL CONTROL",
-      "model": "#N/A",
+      "model": "HMBS3010PFG",
       "brand": "Hisense",
       "regular": 2400,
       "sale": null,
