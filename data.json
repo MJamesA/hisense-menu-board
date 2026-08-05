@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:29:05.296Z",
+  "generatedAt": "2026-08-05T21:34:05.680Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -595,7 +595,7 @@
       "tag": "A7",
       "category": "Blenders",
       "name": "MULTIFUNCTIONAL MEAT GRINDER",
-      "model": "#N/A",
+      "model": "MG1701SB",
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
@@ -1327,7 +1327,7 @@
       "tag": "A7",
       "category": "Electric Cooker",
       "name": "8.0L MECHANICAL\nAIR FRYER",
-      "model": "#N/A",
+      "model": "H08AFBK1S1",
       "brand": "Hisense",
       "regular": 900,
       "sale": null,
@@ -2359,7 +2359,7 @@
       "tag": "A6",
       "category": "Amcon White Goods",
       "name": "601L CROSS DOOR\nINVERTER FRIDGE",
-      "model": "#N/A",
+      "model": "ARC-661W",
       "brand": "Amcon",
       "regular": 11000,
       "sale": null,
