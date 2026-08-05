@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T18:04:05.252Z",
+  "generatedAt": "2026-08-05T18:09:05.772Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4557,8 +4557,8 @@
       "name": "2-SLOT SILVER\nELECTRIC TOASTER",
       "model": "TST1000S",
       "brand": "Gorenje",
-      "regular": 500,
-      "sale": 450,
+      "regular": 630,
+      "sale": 560,
       "warranty": "1 Year",
       "features": "Efficient 1000W Rapid Toasting Power | Sleek & Modern Silver Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
     },
@@ -4569,8 +4569,8 @@
       "name": "2-SLOT BLACK \nELECTRIC TOASTER",
       "model": "TST850BK",
       "brand": "Gorenje",
-      "regular": 400,
-      "sale": 360,
+      "regular": 530,
+      "sale": 470,
       "warranty": "1 Year",
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern Black Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
     },
@@ -4593,8 +4593,8 @@
       "name": "2-SLOT WHITE\nELECTRIC TOASTER",
       "model": "TST850WT",
       "brand": "Gorenje",
-      "regular": 380,
-      "sale": 340,
+      "regular": 500,
+      "sale": 450,
       "warranty": "1 Year",
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern White Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
     },
