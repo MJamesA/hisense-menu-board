@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T18:09:08.238Z",
+  "generatedAt": "2026-08-05T21:14:08.702Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -1397,7 +1397,7 @@
         {
           "category": "Refrigerators",
           "name": "601L CROSS DOOR\nINVERTER FRIDGE",
-          "model": "ARC-661W",
+          "model": "#N/A",
           "brand": "Amcon",
           "acuId": "AM601LCRFGS",
           "regular": 11000,
@@ -4967,7 +4967,7 @@
     {
       "category": "Small Items",
       "name": "UNIVERSAL AC REMOTE CONTROL",
-      "model": "",
+      "model": "#N/A",
       "brand": "Hisense",
       "acuId": "ACHIUNIRC",
       "regular": 100,
@@ -5022,7 +5022,7 @@
     {
       "category": "Toasters",
       "name": "2-SLOT SILVER\nELECTRIC TOASTER",
-      "model": "TST1000S",
+      "model": "T1000S",
       "brand": "Gorenje",
       "acuId": "TST1000S",
       "regular": 630,
@@ -5033,7 +5033,7 @@
     {
       "category": "Toasters",
       "name": "2-SLOT BLACK \nELECTRIC TOASTER",
-      "model": "TST850BK",
+      "model": "T850BK",
       "brand": "Gorenje",
       "acuId": "TST850BK",
       "regular": 530,
@@ -5044,7 +5044,7 @@
     {
       "category": "Toasters",
       "name": "2-SLOT BLACK\nELECTRIC TOASTER",
-      "model": "TST850DPB",
+      "model": "T850DPB",
       "brand": "Gorenje",
       "acuId": "TST850DPB",
       "regular": 590,
@@ -5055,7 +5055,7 @@
     {
       "category": "Toasters",
       "name": "2-SLOT WHITE\nELECTRIC TOASTER",
-      "model": "TST850WT",
+      "model": "T850WT",
       "brand": "Gorenje",
       "acuId": "TST850WT",
       "regular": 500,
