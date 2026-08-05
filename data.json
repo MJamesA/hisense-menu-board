@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:14:05.953Z",
+  "generatedAt": "2026-08-05T21:19:06.263Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4159,7 +4159,7 @@
       "tag": "A6",
       "category": "Sound Systems",
       "name": "2.0CH PARTY THUNDER RECHARGABLE SPEAKER",
-      "model": "#N/A",
+      "model": "HP500",
       "brand": "Hisense",
       "regular": 4600,
       "sale": null,
@@ -4963,7 +4963,7 @@
       "tag": "A6",
       "category": "Televisions",
       "name": "55” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
-      "model": "#N/A",
+      "model": "55U7N",
       "brand": "Hisense",
       "regular": 9490,
       "sale": null,
@@ -5251,7 +5251,7 @@
       "tag": "A6",
       "category": "Televisions",
       "name": "85'' SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
-      "model": "85Q7Q",
+      "model": "85U7Q",
       "brand": "Hisense",
       "regular": 25000,
       "sale": null,
@@ -5263,7 +5263,7 @@
       "tag": "A6",
       "category": "Televisions",
       "name": "85'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-      "model": "",
+      "model": "85Q7Q",
       "brand": "Hisense",
       "regular": 18900,
       "sale": null,
