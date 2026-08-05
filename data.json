@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T12:14:06.348Z",
+  "generatedAt": "2026-08-05T14:44:05.598Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -7269,8 +7269,8 @@
       "name": "STATIONARY SHEEPI",
       "model": "",
       "brand": "Design Nest",
-      "regular": 145,
-      "sale": 80,
+      "regular": null,
+      "sale": null,
       "warranty": "",
       "features": ""
     },
