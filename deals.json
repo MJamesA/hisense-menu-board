@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T18:04:09.465Z",
+  "generatedAt": "2026-08-05T18:09:08.238Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -5025,8 +5025,8 @@
       "model": "TST1000S",
       "brand": "Gorenje",
       "acuId": "TST1000S",
-      "regular": 500,
-      "sale": 450,
+      "regular": 630,
+      "sale": 560,
       "features": "Efficient 1000W Rapid Toasting Power | Sleek & Modern Silver Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
       "warranty": "1 Year"
     },
@@ -5036,8 +5036,8 @@
       "model": "TST850BK",
       "brand": "Gorenje",
       "acuId": "TST850BK",
-      "regular": 400,
-      "sale": 360,
+      "regular": 530,
+      "sale": 470,
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern Black Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
       "warranty": "1 Year"
     },
@@ -5058,8 +5058,8 @@
       "model": "TST850WT",
       "brand": "Gorenje",
       "acuId": "TST850WT",
-      "regular": 380,
-      "sale": 340,
+      "regular": 500,
+      "sale": 450,
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern White Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
       "warranty": "1 Year"
     },
