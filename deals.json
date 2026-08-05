@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:29:07.548Z",
+  "generatedAt": "2026-08-05T21:34:08.215Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -694,7 +694,7 @@
         {
           "category": "Electric Cooker",
           "name": "8.0L MECHANICAL\nAIR FRYER",
-          "model": "#N/A",
+          "model": "H08AFBK1S1",
           "brand": "Hisense",
           "acuId": "ECAF80S1H",
           "regular": 900,
@@ -1397,7 +1397,7 @@
         {
           "category": "Refrigerators",
           "name": "601L CROSS DOOR\nINVERTER FRIDGE",
-          "model": "#N/A",
+          "model": "ARC-661W",
           "brand": "Amcon",
           "acuId": "AM601LCRFGS",
           "regular": 11000,
