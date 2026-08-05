@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T18:09:05.772Z",
+  "generatedAt": "2026-08-05T21:04:08.619Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -487,7 +487,7 @@
       "tag": "A7",
       "category": "Blenders",
       "name": "HANDHELD MIXER\n550W",
-      "model": "BM550DC",
+      "model": "#N/A",
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
@@ -499,7 +499,7 @@
       "tag": "A7",
       "category": "Blenders",
       "name": "HANDHELD MIXER\n350W",
-      "model": "BM350W",
+      "model": "#N/A",
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
