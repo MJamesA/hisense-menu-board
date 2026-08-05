@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T14:44:05.598Z",
+  "generatedAt": "2026-08-05T15:19:06.613Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3777,7 +3777,7 @@
       "name": "30L BLACK FLATBED MICROWAVE\nDIGITAL CONTROL",
       "model": "HMBS3010PFG",
       "brand": "Hisense",
-      "regular": null,
+      "regular": 2400,
       "sale": null,
       "warranty": "1 Year",
       "features": "Spacious 30L Flatbed Oven Design | Energy Efficient Cooking Performance | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Sleek Black Premium Exterior Finish | Multiple Cooking Power Level Settings | Smart Weight and Time Defrost Function | Versatile Combination Cooking Setup"
