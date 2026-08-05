@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T21:24:08.458Z",
+  "generatedAt": "2026-08-05T21:29:05.296Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3223,7 +3223,7 @@
       "tag": "A7",
       "category": "Kettles",
       "name": "1.7L  CLASSIC WHITE KETTLE",
-      "model": "",
+      "model": "K17CLIN",
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
@@ -3247,7 +3247,7 @@
       "tag": "A7",
       "category": "Kettles",
       "name": "1.5L STAINLES STEEL KETTLE",
-      "model": "#N/A",
+      "model": "K15DWS",
       "brand": "Gorenje",
       "regular": null,
       "sale": null,
@@ -4927,7 +4927,7 @@
       "tag": "A6",
       "category": "Televisions",
       "name": "50'' SMART\nQLED TELEVISION",
-      "model": "50Q5S",
+      "model": "#N/A",
       "brand": "Hisense",
       "regular": null,
       "sale": null,
@@ -5347,7 +5347,7 @@
       "tag": "A6",
       "category": "Television Laser",
       "name": "120\" L9 \nLASER TELEVISION",
-      "model": "#N/A",
+      "model": "120LASERL9",
       "brand": "Hisense",
       "regular": 60000,
       "sale": 54000,
