@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-06T14:49:08.117Z",
+  "generatedAt": "2026-08-06T14:54:13.910Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -4630,7 +4630,7 @@
       "brand": "Gorenje",
       "acuId": "BLJC805EII",
       "regular": 790,
-      "sale": null,
+      "sale": 700,
       "features": "Powerful 800W High-Efficiency Motor | XL Feeding Tube for Whole Fruits | Large 1.5L Pulp & Juice Containers | 2-Speed Settings for Soft & Hard Fruit | Clean-Flow Anti-Drip Spout System | Integrated Protective Dust Cover | Stainless Steel Micro-Mesh Filter",
       "warranty": "1 Year"
     },
