@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-05T22:09:06.073Z",
+  "generatedAt": "2026-08-06T14:49:05.642Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -586,7 +586,7 @@
       "model": "JC805EII",
       "brand": "Gorenje",
       "regular": 790,
-      "sale": 700,
+      "sale": null,
       "warranty": "1 Year",
       "features": "Powerful 800W High-Efficiency Motor | XL Feeding Tube for Whole Fruits | Large 1.5L Pulp & Juice Containers | 2-Speed Settings for Soft & Hard Fruit | Clean-Flow Anti-Drip Spout System | Integrated Protective Dust Cover | Stainless Steel Micro-Mesh Filter"
     },
