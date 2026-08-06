@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-06T17:39:07.896Z",
+  "generatedAt": "2026-08-06T19:09:05.174Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4969,6 +4969,18 @@
       "sale": 5150,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Smooth 4K 60Hz High Refresh Rate | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design"
+    },
+    {
+      "acuId": "50SMQLED4KTV",
+      "tag": "A6",
+      "category": "Televisions",
+      "name": "50” SMART DIGITAL \n4K QLED TELEVISION",
+      "model": "50Q5S",
+      "brand": "Hisense",
+      "regular": 4600,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "Sleek & Modern Frameless Panel Design | Smart QLED 4K Display | Quantum Dot Color Technology | Ultra Slim Modern Design | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI And USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled"
     },
     {
       "acuId": "55SM4KTV",
