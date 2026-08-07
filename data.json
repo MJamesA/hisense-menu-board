@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-06T19:34:07.574Z",
+  "generatedAt": "2026-08-07T12:09:06.197Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4648,7 +4648,7 @@
     },
     {
       "acuId": "TST230CLIN",
-      "tag": "",
+      "tag": "A7",
       "category": "Toasters",
       "name": "4-SLOT WHITE\nELECTRIC TOASTER",
       "model": "T2300CLIN",
