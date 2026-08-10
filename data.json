@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-10T08:44:05.703Z",
+  "generatedAt": "2026-08-10T15:49:20.483Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1369,6 +1369,18 @@
       "sale": null,
       "warranty": "1 Year",
       "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function"
+    },
+    {
+      "acuId": "ECAF42S5H",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "4.2L DIGITAL\nAIR FRYER",
+      "model": "H04AFBK1S5",
+      "brand": "",
+      "regular": null,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Rapid Heating System | Spacious 4.2L Cooking Capacity | Advanced Digital LED Touch Panel | Rapid 360 Degree Hot Air Circulation | Automatic Preset Cooking Programs | Precision Time and Temp Adjustment | Healthy Low Fat Frying Technology"
     },
     {
       "acuId": "ECBM1400E",
