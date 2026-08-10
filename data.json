@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-10T15:49:20.483Z",
+  "generatedAt": "2026-08-10T17:44:05.919Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -253,6 +253,18 @@
       "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Inverter System | Powerful Cooling and Heating Performance | Versatile Floor or Ceiling Installation | Advanced 2.5HP Operating Capacity | Broad Airflow Distribution Technology | Precision Smart Temperature Control | Durable and Professional Build Quality | Whisper Quiet Operation Mode | Eco-friendly R410A Refrigerant"
+    },
+    {
+      "acuId": "AC2.5HPINVCC/HCACHI",
+      "tag": "A6",
+      "category": "Air Conditioners",
+      "name": "2.5HP INVERTER - COOLING \n& HEATING CASSETTE AC",
+      "model": "AUC-24UTR2SKJA",
+      "brand": "Hisense",
+      "regular": 18000,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "High Energy Efficiency Inverter System | Cooling and Heating Functionality | Advanced 4-way Air Distribution | Sleek Compact Cassette Design | Quiet and Balanced Airflow Performance | Rapid Temperature Control Technology | Smart Inverter Power Management | Powerful 2.5HP Operational Capacity | Eco-friendly R410A Refrigerant"
     },
     {
       "acuId": "2.5HPSAC",
