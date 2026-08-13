@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-12T12:44:10.912Z",
+  "generatedAt": "2026-08-13T16:14:08.745Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2073,7 +2073,7 @@
       "name": "310L UPRIGHT FRIDGE",
       "model": "FT5K310GSF2",
       "brand": "Hisense",
-      "regular": null,
+      "regular": 10500,
       "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Total No Frost Cooling Mechanism | Fast Freezing Rapid Functionality | Multi Air Flow Distribution Channels | Electronic Temperature Control System | Upright Refrigerator Design | Flexible Reversible Door Configuration | Eco Friendly Refrigerant Gas R600a"
