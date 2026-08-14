@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-14T14:34:05.844Z",
+  "generatedAt": "2026-08-14T14:39:05.737Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5835,18 +5835,6 @@
       "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design"
     },
     {
-      "acuId": "HWDT973S1B",
-      "tag": "A6",
-      "category": "Water Dispensors",
-      "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
-      "model": "H97WDTB3S1R",
-      "brand": "Hisense",
-      "regular": 1490,
-      "sale": null,
-      "warranty": "3 years",
-      "features": "Energy Efficient Cooling Performance | Classic Freestanding Top Loading Design | Dual Hot and Cold Water Dispensers | Advanced Fast Compressor Cooling | Sleek Black Premium Exterior Finish | Child Safety Lock for Hot Water | Integrated Storage Cabinet System | Quiet and Low Noise Operation | Eco-Friendly R134a Refrigerant Gas"
-    },
-    {
       "acuId": "10.5KGFLWMW",
       "tag": "A6",
       "category": "Washing Machines",
@@ -5856,7 +5844,7 @@
       "regular": 5450,
       "sale": null,
       "warranty": "5 Years",
-      "features": "Eco-Performance Energy Saving Technology"
+      "features": "Powerful 1400rpm Spin Speed for Rapid Drying | Deep Clean Steam Wash for Ultimate Hygiene | High-Efficiency Quiet Inverter Drive System | Elegant Premier Black Sophisticated Finish | Intelligent Pause & Add Mid-Cycle Function | Smart Fault Alarm Self-Diagnostic System | Eco-Performance Energy Saving Technology"
     },
     {
       "acuId": "10KGFLWMDS",
