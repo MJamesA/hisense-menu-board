@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-15T20:39:06.091Z",
+  "generatedAt": "2026-08-15T21:29:05.697Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1381,18 +1381,6 @@
       "sale": null,
       "warranty": "1 Year",
       "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function"
-    },
-    {
-      "acuId": "ECAF42S5H",
-      "tag": "A7",
-      "category": "Electric Cooker",
-      "name": "4.2L DIGITAL\nAIR FRYER",
-      "model": "H04AFBK1S5",
-      "brand": "",
-      "regular": null,
-      "sale": null,
-      "warranty": "1 Year",
-      "features": "Energy Efficient Rapid Heating System | Spacious 4.2L Cooking Capacity | Advanced Digital LED Touch Panel | Rapid 360 Degree Hot Air Circulation | Automatic Preset Cooking Programs | Precision Time and Temp Adjustment | Healthy Low Fat Frying Technology"
     },
     {
       "acuId": "ECBM1400E",
@@ -5821,18 +5809,6 @@
       "sale": 2000,
       "warranty": "3 Years",
       "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design"
-    },
-    {
-      "acuId": "HWDT973S1B",
-      "tag": "A6",
-      "category": "Water Dispensors",
-      "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
-      "model": "H97WDTB3S1R",
-      "brand": "Hisense",
-      "regular": 1490,
-      "sale": null,
-      "warranty": "1 Year",
-      "features": "Energy Efficient Cooling Performance | Classic Freestanding Top Loading Design | Dual Hot and Cold Water Dispensers | Advanced Fast Compressor Cooling | Sleek Black Premium Exterior Finish | Child Safety Lock for Hot Water | Integrated Storage Cabinet System | Quiet and Low Noise Operation | Eco-Friendly R134a Refrigerant Gas"
     },
     {
       "acuId": "10.5KGFLWMW",
