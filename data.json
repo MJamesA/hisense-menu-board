@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-15T20:09:05.647Z",
+  "generatedAt": "2026-08-15T20:14:04.965Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3927,23 +3927,11 @@
       "features": "High Performance Energy Efficiency"
     },
     {
-      "acuId": "620LDFB",
-      "tag": "A6",
-      "category": "Showcase Fridges",
-      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
-      "model": "FL-81WC",
-      "brand": "Hisense",
-      "regular": 11990,
-      "sale": null,
-      "warranty": "5 Years",
-      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting"
-    },
-    {
       "acuId": "930LDFB",
       "tag": "A6",
       "category": "Showcase Fridges",
       "name": "930L SHOWCASE \nDOUBLE DOOR FRIDGE",
-      "model": "FL121WC",
+      "model": "#N/A",
       "brand": "Hisense",
       "regular": 14500,
       "sale": null,
