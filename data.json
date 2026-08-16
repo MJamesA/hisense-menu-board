@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:34:05.309Z",
+  "generatedAt": "2026-08-16T13:39:06.726Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5377,6 +5377,18 @@
       "sale": 46000,
       "warranty": "5 Years",
       "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket"
+    },
+    {
+      "acuId": "120LASERL9QE",
+      "tag": "A6",
+      "category": "Television Laser",
+      "name": "120\" L9QE\nLASER TELEVISION",
+      "model": "120LASERL9QE",
+      "brand": "Hisense",
+      "regular": 64900,
+      "sale": 58000,
+      "warranty": "5 Years",
+      "features": "Low Energy Consumption Standby Mode | Efficient Power Consumption Design | Smart Power Management Functionality | TriChroma Triple Laser Technology | Ultra HD 4K Resolution | Ambient Light Rejecting Screen | Dolby Atmos Immersive Audio | High Dynamic Range Compatibility | VIDAA Smart Operating System"
     },
     {
       "acuId": "120LASERL9",
