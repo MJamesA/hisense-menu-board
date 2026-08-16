@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:09:08.715Z",
+  "generatedAt": "2026-08-16T13:34:08.305Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -4314,6 +4314,17 @@
       "warranty": "1 Year"
     },
     {
+      "category": "Showcases",
+      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-81WC",
+      "brand": "Hisense",
+      "acuId": "620LDFB",
+      "regular": 11990,
+      "sale": null,
+      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
+      "warranty": "5 Years"
+    },
+    {
       "category": "Sound Systems",
       "name": "2.0CH RECHARGEABLE  WIRELESS PARTY ROCKER",
       "model": "HP110",
@@ -4945,7 +4956,7 @@
     {
       "category": "Small Items",
       "name": "UNIVERSAL AC REMOTE CONTROL",
-      "model": "#N/A",
+      "model": "",
       "brand": "Hisense",
       "acuId": "ACHIUNIRC",
       "regular": 100,
