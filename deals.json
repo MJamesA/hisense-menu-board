@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-15T20:39:09.272Z",
+  "generatedAt": "2026-08-16T13:04:06.894Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -1400,7 +1400,7 @@
           "model": "ARC-661W",
           "brand": "Amcon",
           "acuId": "AM601LCRFGS",
-          "regular": null,
+          "regular": 11000,
           "sale": null,
           "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
