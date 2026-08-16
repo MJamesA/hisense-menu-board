@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-15T21:29:05.697Z",
+  "generatedAt": "2026-08-16T13:04:04.803Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2397,7 +2397,7 @@
       "name": "601L CROSS DOOR\nINVERTER FRIDGE",
       "model": "ARC-661W",
       "brand": "Amcon",
-      "regular": null,
+      "regular": 11000,
       "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas"
