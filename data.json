@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:04:04.803Z",
+  "generatedAt": "2026-08-16T13:09:05.789Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2401,18 +2401,6 @@
       "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas"
-    },
-    {
-      "acuId": "670LRFGB",
-      "tag": "A6",
-      "category": "Refrigerator",
-      "name": "670L CROSS DOOR\nINVERTER FRIDGE",
-      "model": "",
-      "brand": "Hisense",
-      "regular": 17500,
-      "sale": null,
-      "warranty": "5 Years",
-      "features": ""
     },
     {
       "acuId": "688LRFGS",
