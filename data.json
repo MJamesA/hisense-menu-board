@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:29:05.512Z",
+  "generatedAt": "2026-08-16T13:34:05.309Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3915,6 +3915,18 @@
       "features": "Advanced Energy Saving Technology | Instant Direct Cooling Performance | Protective Sun-Proof Cover Cloth | Elegant Sliding Inner Glass Door | Massive 5-Basket Storage System | Secure Key Lock Security System | Bright Internal LED Lighting | Eco-Friendly R290 Refrigerant Gas | Low-Noise Design with Easy-Roll Wheels"
     },
     {
+      "acuId": "620LDFB",
+      "tag": "A6",
+      "category": "Showcase Fridges",
+      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-81WC",
+      "brand": "Hisense",
+      "regular": 11990,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting"
+    },
+    {
       "acuId": "930LDFB",
       "tag": "A6",
       "category": "Showcase Fridges",
@@ -7303,7 +7315,7 @@
       "tag": "A8",
       "category": "Small Items",
       "name": "UNIVERSAL AC REMOTE CONTROL",
-      "model": "#N/A",
+      "model": "",
       "brand": "Hisense",
       "regular": 100,
       "sale": null,
