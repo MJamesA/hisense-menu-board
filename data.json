@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:39:06.726Z",
+  "generatedAt": "2026-08-16T14:44:10.598Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1299,6 +1299,18 @@
       "features": "Durable Mechanical Control Dials | Clear-View Glass Bowl with Handle | Precision Time & Temperature Tuning | Sleek & Elegant Modern Design | Versatile All-in-One Kitchen Helper | Heat-Resistant Easy-Grip Safety Handle | Transparent 360° Cooking Visibility"
     },
     {
+      "acuId": "ECAF42S5H",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "4.20L DIGITAL\nAIR FRYER",
+      "model": "H04AFBK1S5",
+      "brand": "Hisense",
+      "regular": 630,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Rapid Heating System | Spacious 4.2L Cooking Capacity | Advanced Digital LED Touch Panel | Rapid 360 Degree Hot Air Circulation | Automatic Preset Cooking Programs | Precision Time and Temp Adjustment | Healthy Low Fat Frying Technology"
+    },
+    {
       "acuId": "ECAF50S3H",
       "tag": "A7",
       "category": "Electric Cooker",
@@ -1345,6 +1357,18 @@
       "sale": null,
       "warranty": "1 Year",
       "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use"
+    },
+    {
+      "acuId": "ECAF57S5H",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "5.7L DIGITAL\nAIR FRYER",
+      "model": "H06AFBK1S5",
+      "brand": "Hisense",
+      "regular": 690,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Rapid Heating System | Spacious 5.7L Cooking Capacity | Advanced Digital LED Touch Panel | Rapid 360 Degree Hot Air Circulation | Smart Automatic Preset Cooking Modes | Precision Time and Temp Adjustment | Healthy Low Fat Frying Technology"
     },
     {
       "acuId": "ECAF67S3H",
@@ -2557,6 +2581,18 @@
       "sale": null,
       "warranty": "2 Years",
       "features": "4 High-Powered Electric Hot Plates | Massive 85L Electric Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Precision Automatic Ignition | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain"
+    },
+    {
+      "acuId": "GC60321BZA",
+      "tag": "A6",
+      "category": "Gas Cooker",
+      "name": "4 HOT PLATE AND 75L FREE \nSTANDING ELECTRIC OVEN",
+      "model": "HFE60321BZA",
+      "brand": "Hisense",
+      "regular": 4090,
+      "sale": null,
+      "warranty": "3 Years",
+      "features": "Energy Efficient Cooking Performance | Four High-Powered Electric Hot Plates | Spacious 75L Multi-Function Oven | Classic 60x60 Free Standing Design | Integrated Grill and Oven Function | Precision Thermostat Control | Internal Oven Lamp for Visibility | Durable Easy-To-Clean Exterior | Easy-To-Install and Maintain"
     },
     {
       "acuId": "GC60X60M4",
@@ -4779,6 +4815,18 @@
       "features": "Elegant Slim and Sleek Cabinet Design | Cinema-Grade Dolby Atmos Audio Support | Integrated Digital Satellite TV Reception | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 55W Power Consumption | Vivid HD 720p High-Definition Resolution | Unique Smartside Integrated Keyboard | Universal Headphone & AV Input Ports"
     },
     {
+      "acuId": "32SMDQLEDTV",
+      "tag": "A6",
+      "category": "Televisions",
+      "name": "32” DIGITAL SMART \nQLED TELEVISION",
+      "model": "32Q5S",
+      "brand": "Hisense",
+      "regular": 2750,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled"
+    },
+    {
       "acuId": "32SMDSQLEDTV",
       "tag": "A6",
       "category": "Televisions",
@@ -4801,6 +4849,18 @@
       "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Metal Bezelless Modern Design | Integrated Smart TV with In-Built WiFi & LAN | Pre-installed Netflix, YouTube & NBA Apps | One-Touch Remote Access to Top Content | Cinema-Grade Dolby Audio & Equalizer System | Digital Satellite TV Reception (Built-In Tuner) | Smart Screen Mirroring & Content Sharing | Dual (2) HDMI & Dual (2) USB Connectivity | Digital Audio Output"
+    },
+    {
+      "acuId": "40SMDQLEDTV",
+      "tag": "A6",
+      "category": "Televisions",
+      "name": "40” DIGITAL SMART \nQLED TELEVISION",
+      "model": "40Q5S",
+      "brand": "Hisense",
+      "regular": 3590,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled"
     },
     {
       "acuId": "40SMDSQLEDTV",
@@ -5809,6 +5869,18 @@
       "sale": 2000,
       "warranty": "3 Years",
       "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design"
+    },
+    {
+      "acuId": "HWDT973S1B",
+      "tag": "A6",
+      "category": "Water Dispensors",
+      "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
+      "model": "H97WDTB3S1R",
+      "brand": "Hisense",
+      "regular": 1490,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Cooling Performance | Classic Freestanding Top Loading Design | Dual Hot and Cold Water Dispensers | Advanced Fast Compressor Cooling | Sleek Black Premium Exterior Finish | Child Safety Lock for Hot Water | Integrated Storage Cabinet System | Quiet and Low Noise Operation | Eco-Friendly R134a Refrigerant Gas"
     },
     {
       "acuId": "10.5KGFLWMW",
