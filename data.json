@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:19:05.197Z",
+  "generatedAt": "2026-08-16T13:24:06.249Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5380,7 +5380,7 @@
     },
     {
       "acuId": "LASCRLTS120LDS",
-      "tag": "",
+      "tag": "A6",
       "category": "Spare Parts-Television",
       "name": "120\" LASER SCREEN",
       "model": "#N/A",
