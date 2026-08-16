@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:09:05.789Z",
+  "generatedAt": "2026-08-16T13:19:05.197Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -85,6 +85,18 @@
       "sale": 4200,
       "warranty": "5 Years",
       "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE"
+    },
+    {
+      "acuId": "AC1.5HPINVLUX/HCACHI",
+      "tag": "A6",
+      "category": "Air Conditioners",
+      "name": "1.5HP INVERTER - COOLING \n& HEATING LUXURY AC",
+      "model": "KFR-35GW/C200H-X1",
+      "brand": "Hisense",
+      "regular": 12500,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "Luxury AC | Heating and Cooling | In stock and available | Speak to our Corporate Sales team"
     },
     {
       "acuId": "1.5HPSAC",
