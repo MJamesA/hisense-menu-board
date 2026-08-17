@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-17T16:44:06.486Z",
+  "generatedAt": "2026-08-17T17:24:05.010Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3994,7 +3994,7 @@
       "model": "A180X",
       "brand": "Fenda",
       "regular": 700,
-      "sale": null,
+      "sale": 500,
       "warranty": "3 Years",
       "features": "New Classic Geometric Aesthetic | Fingerprint-Free Matte Finish | Premium Wood Cabinet Construction | Advanced 4.0 Bluetooth Connectivity | Plug & Play USB Audio Port | 100 Station FM Radio Storage | Bright Wide-Angle LED Display | High-Output Loudspeaker System | Full-Function Wireless Remote"
     },
