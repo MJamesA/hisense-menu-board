@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-17T16:44:11.172Z",
+  "generatedAt": "2026-08-17T17:24:07.186Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -3834,7 +3834,7 @@
       "brand": "Fenda",
       "acuId": "SS A180X",
       "regular": 700,
-      "sale": null,
+      "sale": 500,
       "features": "New Classic Geometric Aesthetic | Fingerprint-Free Matte Finish | Premium Wood Cabinet Construction | Advanced 4.0 Bluetooth Connectivity | Plug & Play USB Audio Port | 100 Station FM Radio Storage | Bright Wide-Angle LED Display | High-Output Loudspeaker System | Full-Function Wireless Remote",
       "warranty": "3 Years"
     },
