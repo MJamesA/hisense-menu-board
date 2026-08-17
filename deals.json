@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T13:34:08.305Z",
+  "generatedAt": "2026-08-17T14:09:15.976Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
@@ -529,8 +529,8 @@
         },
         {
           "category": "Freezers",
-          "name": "390L UPRIGHT FREEZER",
-          "model": "RL5K370GSF2",
+          "name": "390L UPRIGHT FRIDGE",
+          "model": "",
           "brand": "Hisense",
           "acuId": "390RFGB",
           "regular": 8600,
