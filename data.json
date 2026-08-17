@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-16T14:44:10.598Z",
+  "generatedAt": "2026-08-17T14:09:10.205Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5634,8 +5634,8 @@
       "acuId": "390RFGB",
       "tag": "A6",
       "category": "Upright Freezers",
-      "name": "390L UPRIGHT FREEZER",
-      "model": "RL5K370GSF2",
+      "name": "390L UPRIGHT FRIDGE",
+      "model": "",
       "brand": "Hisense",
       "regular": 8600,
       "sale": null,
