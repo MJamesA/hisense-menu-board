@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-17T18:59:05.781Z",
+  "generatedAt": "2026-08-17T22:19:05.661Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1990,7 +1990,7 @@
       "model": "RD-27DR4SB",
       "brand": "Hisense",
       "regular": 3300,
-      "sale": 2200,
+      "sale": 2400,
       "warranty": "5 Years",
       "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost"
     },
@@ -3406,7 +3406,7 @@
       "model": "H50 Zoom",
       "brand": "Hisense",
       "regular": null,
-      "sale": 0,
+      "sale": null,
       "warranty": "1 Year",
       "features": ""
     },
@@ -3418,7 +3418,7 @@
       "model": "H50 Zoom",
       "brand": "Hisense",
       "regular": null,
-      "sale": 0,
+      "sale": null,
       "warranty": "1 Year",
       "features": ""
     },
@@ -4819,7 +4819,7 @@
       "tag": "A6",
       "category": "Televisions",
       "name": "32” DIGITAL SMART \nQLED TELEVISION",
-      "model": "32Q5S",
+      "model": "#N/A",
       "brand": "Hisense",
       "regular": 2750,
       "sale": 1950,
@@ -4855,7 +4855,7 @@
       "tag": "A6",
       "category": "Televisions",
       "name": "40” DIGITAL SMART \nQLED TELEVISION",
-      "model": "40Q5S",
+      "model": "#N/A",
       "brand": "Hisense",
       "regular": 3590,
       "sale": 2500,
@@ -4963,7 +4963,7 @@
       "tag": "A6",
       "category": "Televisions",
       "name": "43” SMART DIGITAL\nQLED TELEVISION",
-      "model": "43A4Q",
+      "model": "#N/A",
       "brand": "Hisense",
       "regular": 4300,
       "sale": 2800,
