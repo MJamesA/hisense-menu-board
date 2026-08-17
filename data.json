@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-17T17:24:05.010Z",
+  "generatedAt": "2026-08-17T18:59:05.781Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3562,7 +3562,7 @@
       "model": "HS-U963PPC",
       "brand": "Hisense",
       "regular": 30,
-      "sale": null,
+      "sale": 30,
       "warranty": "",
       "features": ""
     },
@@ -4726,7 +4726,7 @@
       "model": "100E75LEVS",
       "brand": "Hisense",
       "regular": 28000,
-      "sale": null,
+      "sale": 19990,
       "warranty": "5 Years",
       "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality"
     },
@@ -4738,7 +4738,7 @@
       "model": "110UXNQ",
       "brand": "Hisense",
       "regular": 185000,
-      "sale": null,
+      "sale": 138000,
       "warranty": "5 Years",
       "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs"
     },
@@ -4750,7 +4750,7 @@
       "model": "116UX",
       "brand": "Hisense",
       "regular": 250000,
-      "sale": null,
+      "sale": 159900,
       "warranty": "5 Years",
       "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating"
     },
