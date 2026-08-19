@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:39:50.587Z",
+  "generatedAt": "2026-08-19T08:40:57.332Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -2129,6 +2129,17 @@
         },
         {
           "category": "Showcases",
+          "name": "282L SHOWCASE \nUPRIGHT FRIDGE",
+          "model": "FL-37FC4SA",
+          "brand": "Hisense",
+          "acuId": "282LDFS",
+          "regular": 5900,
+          "sale": 4900,
+          "features": "High-Performance Energy Efficiency | 4 Heavy-Duty Adjustable Shelves | Forced Air-Ventilation System | Anti-Condensation Glass Technology | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Integrated Lock and Key Security | Eco-Friendly R600a Refrigerant Gas | Interior LED Visibility Lighting",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcases",
           "name": "303L SHOWCASE \nCHEST FREEZER",
           "model": "FL-39DD4HA",
           "brand": "Hisense",
@@ -2151,6 +2162,17 @@
         },
         {
           "category": "Showcases",
+          "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
+          "model": "FL-50FC4SA",
+          "brand": "Hisense",
+          "acuId": "382LDFW",
+          "regular": 7200,
+          "sale": 5800,
+          "features": "High-Performance Energy Efficiency | Forced Air-Ventilation Technology | Anti-Condensation Glass System | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Heavy-Duty Adjustable Shelving | Internal LED Visibility Lighting | Integrated Lock and Key Security | Eco-Friendly Refrigerant System",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcases",
           "name": "518L SHOWCASE\nCHEST FREEZER",
           "model": "FL-67DD4HA",
           "brand": "Hisense",
@@ -2158,6 +2180,17 @@
           "regular": 8400,
           "sale": 6900,
           "features": "Advanced Energy Saving Technology | Instant Direct Cooling Performance | Protective Sun-Proof Cover Cloth | Elegant Sliding Inner Glass Door | Massive 5-Basket Storage System | Secure Key Lock Security System | Bright Internal LED Lighting | Eco-Friendly R290 Refrigerant Gas | Low-Noise Design with Easy-Roll Wheels",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcases",
+          "name": "930L SHOWCASE \nDOUBLE DOOR FRIDGE",
+          "model": "FL121WC",
+          "brand": "Hisense",
+          "acuId": "930LDFB",
+          "regular": 14500,
+          "sale": 11800,
+          "features": "High Performance Energy Efficiency | Commercial Showcase Display Design | Sleek Blue Exterior Finish | Double Layered Tempered Glass Door | Forced Air Ventilation System | Defrost Water Self Evaporating System | Heavy Duty Adjustable Shelving | Internal LED Visibility Lighting | Eco-Friendly R290 Refrigerant Gas",
           "warranty": "5 Years"
         }
       ]
@@ -4111,27 +4144,15 @@
     },
     {
       "category": "Showcases",
-      "name": "282L SHOWCASE \nUPRIGHT FRIDGE",
-      "model": "FL-37FC4SA",
+      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-81WC",
       "brand": "Hisense",
-      "acuId": "282LDFS",
-      "regular": 5900,
-      "sale": 4900,
-      "features": "High-Performance Energy Efficiency | 4 Heavy-Duty Adjustable Shelves | Forced Air-Ventilation System | Anti-Condensation Glass Technology | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Integrated Lock and Key Security | Eco-Friendly R600a Refrigerant Gas | Interior LED Visibility Lighting",
+      "acuId": "620LDFB",
+      "regular": 11990,
+      "sale": 9400,
+      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/1692/image"
-    },
-    {
-      "category": "Showcases",
-      "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
-      "model": "FL-50FC4SA",
-      "brand": "Hisense",
-      "acuId": "382LDFW",
-      "regular": 7200,
-      "sale": 5800,
-      "features": "High-Performance Energy Efficiency | Forced Air-Ventilation Technology | Anti-Condensation Glass System | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Heavy-Duty Adjustable Shelving | Internal LED Visibility Lighting | Integrated Lock and Key Security | Eco-Friendly Refrigerant System",
-      "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/1693/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/7796/image"
     },
     {
       "category": "Sound Systems",
@@ -4653,15 +4674,15 @@
     },
     {
       "category": "Showcases",
-      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
-      "model": "FL-81WC",
+      "name": "1230L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-160WC",
       "brand": "Hisense",
-      "acuId": "620LDFB",
-      "regular": 11990,
-      "sale": 9400,
-      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
+      "acuId": "1230LDFB",
+      "regular": 16900,
+      "sale": 13800,
+      "features": "High Performance Energy Efficiency | Commercial Showcase Display Design | Sleek Blue Exterior Finish | Double Layered Tempered Glass Door | Forced Air Ventilation System | Defrost Water Self Evaporating System | Heavy Duty Adjustable Shelving | Internal LED Visibility Lighting | Eco-Friendly R290 Refrigerant Gas",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/7796/image"
+      "imageUrl": ""
     },
     {
       "category": "Sound Systems",
@@ -5372,7 +5393,7 @@
     "Kettles": "5m2f",
     "Mobile Phones": "5m2f",
     "Microwave oven": "10m1f",
-    "Showcases": "5m2f",
+    "Showcases": "10m1f",
     "Sound Systems": "10m1f",
     "Televisions": "5m2f",
     "HISENSE QLED": "5m2f",
