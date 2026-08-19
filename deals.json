@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T09:06:35.170Z",
+  "generatedAt": "2026-08-19T09:07:14.332Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -755,6 +755,44 @@
           "sale": 730,
           "features": "Precision Digital Touch Control Panel | 8 Smart-Logic Preset Cooking Programs | Clear-View Window for Visible Cooking | Precision Time & Temperature Control | Safe-to-Touch Ergonomic Cool Handle | Versatile All-in-One Kitchen Helper | Rapid 360° Hot Air Circulation Tech",
           "warranty": "1 Year"
+        }
+      ]
+    },
+    {
+      "category": "Built-In Appliances",
+      "items": [
+        {
+          "category": "Built-In Appliances",
+          "name": "BUILT IN OVEN",
+          "model": "OVASBI64S",
+          "brand": "Asko",
+          "acuId": "OVASBI64S",
+          "regular": 18900,
+          "sale": 13000,
+          "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Built-In Appliances",
+          "name": "BUILT IN STEAM OVEN",
+          "model": "OVASBI78G",
+          "brand": "Asko",
+          "acuId": "OVASBI78G",
+          "regular": 24000,
+          "sale": 16500,
+          "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Built-In Appliances",
+          "name": "248L BUILT-IN FRIDGE",
+          "model": "RFN3183I",
+          "brand": "Asko",
+          "acuId": "RFASBIIRFN",
+          "regular": 12500,
+          "sale": 8700,
+          "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
+          "warranty": "3 Years"
         }
       ]
     },
@@ -3823,30 +3861,6 @@
     },
     {
       "category": "Built-In Appliances",
-      "name": "BUILT IN OVEN",
-      "model": "OVASBI64S",
-      "brand": "Asko",
-      "acuId": "OVASBI64S",
-      "regular": 18900,
-      "sale": 13000,
-      "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-      "warranty": "3 Years",
-      "imageUrl": ""
-    },
-    {
-      "category": "Built-In Appliances",
-      "name": "BUILT IN STEAM OVEN",
-      "model": "OVASBI78G",
-      "brand": "Asko",
-      "acuId": "OVASBI78G",
-      "regular": 24000,
-      "sale": 16500,
-      "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-      "warranty": "3 Years",
-      "imageUrl": ""
-    },
-    {
-      "category": "Built-In Appliances",
       "name": "212L BUILT-IN FREEZER",
       "model": "FN31831I",
       "brand": "Asko",
@@ -4628,18 +4642,6 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/13161/image"
     },
     {
-      "category": "Built-In Appliances",
-      "name": "248L BUILT-IN FRIDGE",
-      "model": "RFN3183I",
-      "brand": "Asko",
-      "acuId": "RFASBIIRFN",
-      "regular": 12500,
-      "sale": 8700,
-      "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
-      "warranty": "3 Years",
-      "imageUrl": ""
-    },
-    {
       "category": "Refrigerators",
       "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
       "model": "RC-74WS4S3",
@@ -5390,6 +5392,7 @@
     "CLEANING": "5m2f",
     "Electric Cooker": "5m2f",
     "Air Fryer": "5m2f",
+    "Built-In Appliances": "5m2f",
     "Fan": "10m1f",
     "Refrigerators": "10m1f",
     "Gas Cooker": "10m1f",
@@ -5409,7 +5412,6 @@
     "Water Dispensors": "5m2f",
     "Washing Machines": "5m2f",
     "EFM - Air Conditioners": "3feat",
-    "Built-In Appliances": "3feat",
     "Television Commercial": "3feat"
   },
   "categoryOrder": [
