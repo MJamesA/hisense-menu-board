@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T07:58:16.860Z",
+  "generatedAt": "2026-08-19T07:59:41.435Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -4511,18 +4511,6 @@
       "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/11220/image"
-    },
-    {
-      "category": "DECODER",
-      "name": "DSTVDECODER&ACC",
-      "model": "Model 1",
-      "brand": "DSTV",
-      "acuId": "DSTVDECODER&ACC",
-      "regular": 633,
-      "sale": null,
-      "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
-      "warranty": "1 Year",
-      "imageUrl": ""
     }
   ],
   "essentials": [
@@ -5185,6 +5173,17 @@
       "sale": 1200,
       "features": "Advanced 6-Stage Integrated Filtration Process | Ultrafiltration (UF) 0.1 Micron Precision Membrane | Dual High-Efficiency Encapsulated Filter Cartridges | Premium Mixture of Bamboo & Coconut Carbon | Active Granular Silver-Impregnated Powder | Encapsulated Filter to Prevent Contamination | Easy Tool-Free Filter Replacement Design | Rapid & Simple DIY Self-Installation Kit | Minimal Maintenance & Long-Life Performance",
       "warranty": "1 Year"
+    },
+    {
+      "category": "DECODER",
+      "name": "DSTVDECODER&ACC",
+      "model": "Model 1",
+      "brand": "DSTV",
+      "acuId": "DSTVDECODER&ACC",
+      "regular": 633,
+      "sale": null,
+      "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
+      "warranty": "1 Year"
     }
   ],
   "layouts": {
@@ -5213,8 +5212,7 @@
     "Washing Machines": "10m1f",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat",
-    "Television - Amcon": "5m2f",
-    "DECODER": "10m1f"
+    "Television - Amcon": "5m2f"
   },
   "categoryOrder": [
     "Air Conditioners",
