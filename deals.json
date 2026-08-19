@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:50:08.115Z",
+  "generatedAt": "2026-08-19T08:58:32.994Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -3345,80 +3345,14 @@
         },
         {
           "category": "Washing Machines",
-          "name": "10.5KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WF3S1043BB",
+          "name": "7.5KG TWIN TUB \nWASHING MACHINE",
+          "model": "WSQB753W",
           "brand": "Hisense",
-          "acuId": "10.5KGFLWMW",
-          "regular": 5450,
-          "sale": 4000,
-          "features": "Massive 10.5kg Family-Sized Washing Capacity | Advanced ConnectLife App Smart Integration | Powerful 1400rpm Spin Speed for Rapid Drying | Deep Clean Steam Wash for Ultimate Hygiene | High-Efficiency Quiet Inverter Drive System | Elegant Premier Black Sophisticated Finish | Intelligent Pause & Add Mid-Cycle Function | Smart Fault Alarm Self-Diagnostic System | Eco-Performance Energy Saving Technology",
+          "acuId": "7.5KGTTWM",
+          "regular": 2200,
+          "sale": 1550,
+          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
           "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-          "model": "XQG100-BH148DC1",
-          "brand": "Hisense",
-          "acuId": "10KGFLWMDS",
-          "regular": 21900,
-          "sale": 15000,
-          "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER",
-          "model": "DH7S107BB",
-          "brand": "Hisense",
-          "acuId": "10KGFLDWTP",
-          "regular": 10500,
-          "sale": 7700,
-          "features": "A+++ Energy Efficiency Rating | Intelligent Touch Screen Control Panel | Advanced Wifi Remote Connectivity | Heat Pump Drying Technology | AI Super Dry Humidity Sensors | Steam Function For Wrinkle Removal | Special Allergy Care Cycle | Durable Inverter Motor Performance | Eco Friendly R290 Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-          "model": "WMA10KGFLWD",
-          "brand": "Amcon",
-          "acuId": "WMA10KGFLWD",
-          "regular": 7000,
-          "sale": 5200,
-          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
-          "model": "WMA10KGFLWDTP",
-          "brand": "Amcon",
-          "acuId": "WMA10KGFLWDTP",
-          "regular": 7000,
-          "sale": 5200,
-          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WF3Q1043BT",
-          "brand": "Hisense",
-          "acuId": "10KGFLWMW",
-          "regular": null,
-          "sale": null,
-          "features": "High-Speed 1400rpm Spin for Faster Drying | Advanced ConnectLife App Smart Integration | Deep Clean Steam Wash for Sanitized Laundry | High-Efficiency Built-in Water Heater System | Advanced Energy-Saving Inverter Technology | Eco-Friendly Dedicated Power Save Function | Elegant Titanium Grey Premium Finish | Instant Safety Child Lock Protection | Intelligent Wash Cycle Optimization",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "10KG TOP LOAD \nWASHING MACHINE",
-          "model": "WMA10KGTT",
-          "brand": "Amcon",
-          "acuId": "WMA10KGTL",
-          "regular": 4500,
-          "sale": 3300,
-          "features": "Elegant & Modern Dark Gray Finish | Advanced Fuzzy Logic Smart Technology | Intuitive Digital Touch Screen Control | Durable Waterproof IPX4 Protection | Precision Cold Solenoid Intake Valve | Powerful Air Dry High-Speed Function | Ultra-Quiet Noise Free Technology | Fully Automatic Top Loading System | Secure Child Lock Safety Protection",
-          "warranty": "3 Years"
         },
         {
           "category": "Washing Machines",
@@ -3430,17 +3364,6 @@
           "sale": 1790,
           "features": "Versatile Normal & Delicate Wash Modes | Rapid 15-Minute High-Speed Wash Cycle | Powerful Pulsator for Deep Cleaning | Large 6.0kg High-Speed Spin Capacity | Advanced Air Dry Moisture Removal | Integrated Spin Shower Rinse System | Fine Particle Magic Filter Technology | Energy Efficient & Water Saving Design | Durable & Compact Space-Saving Body",
           "warranty": "3 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "11KG TOP LOAD \nWASHING MACHINE",
-          "model": "WT3K1132UB",
-          "brand": "Hisense",
-          "acuId": "11KGTLWMB",
-          "regular": 3900,
-          "sale": 2900,
-          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
-          "warranty": "5 Years"
         },
         {
           "category": "Washing Machines",
@@ -3466,36 +3389,36 @@
         },
         {
           "category": "Washing Machines",
-          "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE (5I)",
-          "model": "WD5I1245BB",
+          "name": "9KG TOP LOAD \nWASHING MACHINE",
+          "model": "WT3K9032UB",
           "brand": "Hisense",
-          "acuId": "12KGFLWMWTS",
-          "regular": 8000,
-          "sale": 5700,
-          "features": "Energy Efficient Inverter Technology | Highly Efficient Performance Rating | Smart TFT Digital Control Screen | Heavy Duty 12KG Washing Capacity | Integrated Clothes Drying Functionality | Sophisticated Dark Stainless Finish | Professional Front Loading Design | Multiple Advanced Wash Cycles | Durable Model Construction",
+          "acuId": "9KGTLWMB",
+          "regular": 3400,
+          "sale": 2450,
+          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
           "warranty": "5 Years"
         },
         {
           "category": "Washing Machines",
-          "name": "12KG FRONT LOAD \nWASHING MACHINE (7S)",
-          "model": "WF7S1247BB",
-          "brand": "Hisense",
-          "acuId": "12KGFLWMWTP",
-          "regular": 9500,
-          "sale": 6900,
-          "features": "High Energy Efficiency Inverter Motor | Advanced Wifi Connectivity Features | Modern Smart Touch Control Panel | Large 12KG Washing Load Capacity | Sleek Model Design | Professional Front Loading System | Multiple Intelligent Wash Programs | High Speed Spin Performance | Quiet And Stable Operation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "12KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WMA12KGFLTP",
+          "name": "10KG TOP LOAD \nWASHING MACHINE",
+          "model": "WMA10KGTT",
           "brand": "Amcon",
-          "acuId": "WMA12KGFLTP",
-          "regular": 7300,
-          "sale": 5400,
-          "features": "Large 12kg High-Capacity Wash Load | Automatic Front Loading Convenience | Intelligent Wash & Soak System | Smart Digital Touch Screen Control | Versatile Time-Saving Preset Function | Built-in Heater for High-Temp Wash | Secure Child Lock Safety Protection | High-Efficiency Energy Saving System | Advanced Heavy-Duty Motor Technology",
+          "acuId": "WMA10KGTL",
+          "regular": 4500,
+          "sale": 3300,
+          "features": "Elegant & Modern Dark Gray Finish | Advanced Fuzzy Logic Smart Technology | Intuitive Digital Touch Screen Control | Durable Waterproof IPX4 Protection | Precision Cold Solenoid Intake Valve | Powerful Air Dry High-Speed Function | Ultra-Quiet Noise Free Technology | Fully Automatic Top Loading System | Secure Child Lock Safety Protection",
           "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "11KG TOP LOAD \nWASHING MACHINE",
+          "model": "WT3K1132UB",
+          "brand": "Hisense",
+          "acuId": "11KGTLWMB",
+          "regular": 3900,
+          "sale": 2900,
+          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
+          "warranty": "5 Years"
         },
         {
           "category": "Washing Machines",
@@ -3521,36 +3444,58 @@
         },
         {
           "category": "Washing Machines",
-          "name": "22KG TWIN TUB \nWASHING MACHINE",
-          "model": "XPB220-228SE",
-          "brand": "Amcon",
-          "acuId": "WMA22KGTT",
-          "regular": 4200,
-          "sale": 3000,
-          "features": "Large 9kg High-Speed Spin Capacity | Whisper-Quiet Super Silent Operation | Advanced Air Dry Moisture Removal | Integrated Collars & Cuffs Washboard | Heavy & Standard Dual Wash Modes | Wash & Spin Water Supply System | Powerful Pulsator for Deep Cleaning | Durable Rust-Proof Strong Plastic Body | Magic Filter Lint & Debris Collector",
+          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
+          "model": "XQG100-BH148DC1",
+          "brand": "Hisense",
+          "acuId": "10KGFLWMDS",
+          "regular": 21900,
+          "sale": 15000,
+          "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
           "warranty": "3 Years"
         },
         {
           "category": "Washing Machines",
-          "name": "7.5KG TWIN TUB \nWASHING MACHINE",
-          "model": "WSQB753W",
+          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
+          "model": "WMA10KGFLWD",
+          "brand": "Amcon",
+          "acuId": "WMA10KGFLWD",
+          "regular": 7000,
+          "sale": 5200,
+          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "10KG FRONT LOAD DRYER \nAND WASHING MACHINE",
+          "model": "WMA10KGFLWDTP",
+          "brand": "Amcon",
+          "acuId": "WMA10KGFLWDTP",
+          "regular": 7000,
+          "sale": 5200,
+          "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Washing Machines",
+          "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE (5I)",
+          "model": "WD5I1245BB",
           "brand": "Hisense",
-          "acuId": "7.5KGTTWM",
-          "regular": 2200,
-          "sale": 1550,
-          "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
+          "acuId": "12KGFLWMWTS",
+          "regular": 8000,
+          "sale": 5700,
+          "features": "Energy Efficient Inverter Technology | Highly Efficient Performance Rating | Smart TFT Digital Control Screen | Heavy Duty 12KG Washing Capacity | Integrated Clothes Drying Functionality | Sophisticated Dark Stainless Finish | Professional Front Loading Design | Multiple Advanced Wash Cycles | Durable Model Construction",
           "warranty": "5 Years"
         },
         {
           "category": "Washing Machines",
-          "name": "8KG FRONT LOAD \nWASHING MACHINE",
-          "model": "WFQP8014EVMT",
-          "brand": "Hisense",
-          "acuId": "8KGFLWM",
-          "regular": 4550,
-          "sale": 3300,
-          "features": "Advanced Energy-Saving Technology | Super Quick Wash for Time-Saving Performance | Smart Spin Balance Control for Quiet Operation | Deep Drum Self-Cleaning Hygiene Function | Intelligent LED Multi-Function Display | Ergonomic 45° High Handle Comfort Design | Gentle Snowflake Drum for Fabric Protection | Self-Diagnostic Intelligent Fault-Finding System | High-Speed Extraction & Rinse Optimization",
-          "warranty": "5 Years"
+          "name": "12KG FRONT LOAD \nWASHING MACHINE",
+          "model": "WMA12KGFLTP",
+          "brand": "Amcon",
+          "acuId": "WMA12KGFLTP",
+          "regular": 7300,
+          "sale": 5400,
+          "features": "Large 12kg High-Capacity Wash Load | Automatic Front Loading Convenience | Intelligent Wash & Soak System | Smart Digital Touch Screen Control | Versatile Time-Saving Preset Function | Built-in Heater for High-Temp Wash | Secure Child Lock Safety Protection | High-Efficiency Energy Saving System | Advanced Heavy-Duty Motor Technology",
+          "warranty": "3 Years"
         },
         {
           "category": "Washing Machines",
@@ -3576,6 +3521,17 @@
         },
         {
           "category": "Washing Machines",
+          "name": "8KG FRONT LOAD\nTUMBLE DRYER",
+          "model": "TDAS8HX",
+          "brand": "Asko",
+          "acuId": "TDAS8HX",
+          "regular": 18000,
+          "sale": 12000,
+          "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Washing Machines",
           "name": "9KG FRONT LOAD\nWASHING MACHINE",
           "model": "WMASFL96R",
           "brand": "Asko",
@@ -3583,17 +3539,6 @@
           "regular": 15500,
           "sale": 10500,
           "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Smart Auto Dosing Detergent System | Massive 9kg High-Capacity Drum | 23 Pro-Grade Programs & 5 Modes | Vibration-Free Active Drum Tech | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Washing Machines",
-          "name": "9KG TOP LOAD \nWASHING MACHINE",
-          "model": "WT3K9032UB",
-          "brand": "Hisense",
-          "acuId": "9KGTLWMB",
-          "regular": 3400,
-          "sale": 2450,
-          "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
           "warranty": "5 Years"
         }
       ]
@@ -4478,15 +4423,27 @@
     },
     {
       "category": "Washing Machines",
-      "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE",
-      "model": "WD5S1245BB",
+      "name": "16 PLACE CAPACITY\nDISHWASHER",
+      "model": "HS673C90BME",
       "brand": "Hisense",
-      "acuId": "12KGFLWMWD",
-      "regular": 7950,
-      "sale": 5800,
-      "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
-      "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/6620/image"
+      "acuId": "16PSDWTCW-SS",
+      "regular": 7150,
+      "sale": 5200,
+      "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/11220/image"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "22KG TWIN TUB \nWASHING MACHINE",
+      "model": "XPB220-228SE",
+      "brand": "Amcon",
+      "acuId": "WMA22KGTT",
+      "regular": 4200,
+      "sale": 3000,
+      "features": "Large 9kg High-Speed Spin Capacity | Whisper-Quiet Super Silent Operation | Advanced Air Dry Moisture Removal | Integrated Collars & Cuffs Washboard | Heavy & Standard Dual Wash Modes | Wash & Spin Water Supply System | Powerful Pulsator for Deep Cleaning | Durable Rust-Proof Strong Plastic Body | Magic Filter Lint & Debris Collector",
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14270/image"
     },
     {
       "category": "Washing Machines",
@@ -4502,15 +4459,63 @@
     },
     {
       "category": "Washing Machines",
-      "name": "8KG FRONT LOAD\nTUMBLE DRYER",
-      "model": "TDAS8HX",
-      "brand": "Asko",
-      "acuId": "TDAS8HX",
-      "regular": 18000,
-      "sale": 12000,
-      "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
+      "name": "10KG FRONT LOAD DRYER",
+      "model": "DH7S107BB",
+      "brand": "Hisense",
+      "acuId": "10KGFLDWTP",
+      "regular": 10500,
+      "sale": 7700,
+      "features": "A+++ Energy Efficiency Rating | Intelligent Touch Screen Control Panel | Advanced Wifi Remote Connectivity | Heat Pump Drying Technology | AI Super Dry Humidity Sensors | Steam Function For Wrinkle Removal | Special Allergy Care Cycle | Durable Inverter Motor Performance | Eco Friendly R290 Refrigerant",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/4568/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/18952/image"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "10.5KG FRONT LOAD \nWASHING MACHINE",
+      "model": "WF3S1043BB",
+      "brand": "Hisense",
+      "acuId": "10.5KGFLWMW",
+      "regular": 5450,
+      "sale": 4000,
+      "features": "Massive 10.5kg Family-Sized Washing Capacity | Advanced ConnectLife App Smart Integration | Powerful 1400rpm Spin Speed for Rapid Drying | Deep Clean Steam Wash for Ultimate Hygiene | High-Efficiency Quiet Inverter Drive System | Elegant Premier Black Sophisticated Finish | Intelligent Pause & Add Mid-Cycle Function | Smart Fault Alarm Self-Diagnostic System | Eco-Performance Energy Saving Technology",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/10531/image"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "12KG FRONT LOAD DRYER\nAND WASHING MACHINE",
+      "model": "WD5S1245BB",
+      "brand": "Hisense",
+      "acuId": "12KGFLWMWD",
+      "regular": 7950,
+      "sale": 5800,
+      "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6620/image"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "12KG FRONT LOAD \nWASHING MACHINE (7S)",
+      "model": "WF7S1247BB",
+      "brand": "Hisense",
+      "acuId": "12KGFLWMWTP",
+      "regular": 9500,
+      "sale": 6900,
+      "features": "High Energy Efficiency Inverter Motor | Advanced Wifi Connectivity Features | Modern Smart Touch Control Panel | Large 12KG Washing Load Capacity | Sleek Model Design | Professional Front Loading System | Multiple Intelligent Wash Programs | High Speed Spin Performance | Quiet And Stable Operation",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/18926/image"
+    },
+    {
+      "category": "Washing Machines",
+      "name": "8KG FRONT LOAD \nWASHING MACHINE",
+      "model": "WFQP8014EVMT",
+      "brand": "Hisense",
+      "acuId": "8KGFLWM",
+      "regular": 4550,
+      "sale": 3300,
+      "features": "Advanced Energy-Saving Technology | Super Quick Wash for Time-Saving Performance | Smart Spin Balance Control for Quiet Operation | Deep Drum Self-Cleaning Hygiene Function | Intelligent LED Multi-Function Display | Ergonomic 45° High Handle Comfort Design | Gentle Snowflake Drum for Fabric Protection | Self-Diagnostic Intelligent Fault-Finding System | High-Speed Extraction & Rinse Optimization",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1800/image"
     }
   ],
   "spotlights": [
@@ -4801,18 +4806,6 @@
       "features": "High-Performance Instant Heating for Showers | Advanced 3i Electronic Closed-Loop Control | Precision Temperature Selection (20C to 60˚C) | Superior Energy Efficiency via 3i Smart Sensors | Customizable Safety Temperature Locks (43/50/55˚C) | Exceptionally Slimline & Space-Saving Design | Ultra-Compact Modern Architecture for Tight Spaces | Safe-Grounding Protective Installation System | Safe-Grounding Protective Installation System",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/5154/image"
-    },
-    {
-      "category": "Washing Machines",
-      "name": "16 PLACE CAPACITY\nDISHWASHER",
-      "model": "HS673C90BME",
-      "brand": "Hisense",
-      "acuId": "16PSDWTCW-SS",
-      "regular": 7150,
-      "sale": 5200,
-      "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
-      "warranty": "3 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/11220/image"
     }
   ],
   "essentials": [
@@ -5414,7 +5407,7 @@
     "Toshiba TVs": "5m2f",
     "Laser TVs": "5m2f",
     "Water Dispensors": "5m2f",
-    "Washing Machines": "10m1f",
+    "Washing Machines": "5m2f",
     "EFM - Air Conditioners": "3feat",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat"
