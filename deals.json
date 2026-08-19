@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T09:02:57.065Z",
+  "generatedAt": "2026-08-19T09:03:47.858Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -3039,17 +3039,6 @@
       "items": [
         {
           "category": "AMCON QLED",
-          "name": "43\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
-          "model": "SAMCH43M10GP",
-          "brand": "Amcon",
-          "acuId": "AMCH43DSQLEDGTV",
-          "regular": 3300,
-          "sale": 2500,
-          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistant | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with ARC Support | High-Speed Wi-Fi & LAN Connectivity | Eco-Friendly Energy Efficient Design",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "AMCON QLED",
           "name": "50\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
           "model": "SAMCH50M10GP",
           "brand": "Amcon",
@@ -3068,6 +3057,17 @@
           "regular": 5750,
           "sale": 4500,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Smooth 4K 60Hz High Refresh Rate | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "AMCON QLED",
+          "name": "65\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+          "model": "SAMCH65M10GP",
+          "brand": "Amcon",
+          "acuId": "AMCH65DSQLEDGTV",
+          "regular": 7690,
+          "sale": 5790,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
         },
         {
@@ -4303,15 +4303,15 @@
     },
     {
       "category": "AMCON QLED",
-      "name": "65\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
-      "model": "SAMCH65M10GP",
+      "name": "43\" DIGITAL SATELLITE \nQLED GOOGLE TELEVISION",
+      "model": "SAMCH43M10GP",
       "brand": "Amcon",
-      "acuId": "AMCH65DSQLEDGTV",
-      "regular": 7690,
-      "sale": 5790,
-      "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
+      "acuId": "AMCH43DSQLEDGTV",
+      "regular": 3300,
+      "sale": 2500,
+      "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistant | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with ARC Support | High-Speed Wi-Fi & LAN Connectivity | Eco-Friendly Energy Efficient Design",
       "warranty": "3 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/19118/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/13150/image"
     },
     {
       "category": "AMCON QLED",
