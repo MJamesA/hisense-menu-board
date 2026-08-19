@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T21:14:24.224Z",
+  "generatedAt": "2026-08-19T21:19:07.806Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -87,18 +87,6 @@
       "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE"
     },
     {
-      "acuId": "AC1.5HPINVCC/HCACHI",
-      "tag": "A6",
-      "category": "Air Conditioners",
-      "name": "1.5HP INVERTER - COOLING \n& HEATING CASSETTE AC",
-      "model": "ACT-12UR4SSAA3",
-      "brand": "Hisense",
-      "regular": 11000,
-      "sale": 8000,
-      "warranty": "5 Years",
-      "features": "High Energy Efficiency Inverter System | Cooling and Heating Functionality | Advanced 4-way Air Distribution | Sleek Compact Cassette Design | Quiet and Balanced Airflow Performance | Rapid Temperature Control Technology | Smart Inverter Power Management | Powerful 1.5HP Operational Capacity | Eco-friendly R410A Refrigerant"
-    },
-    {
       "acuId": "AC1.5HPINVLUX/HCACHI",
       "tag": "A6",
       "category": "Air Conditioners",
@@ -181,18 +169,6 @@
       "sale": 10950,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Inverter System | Powerful Cooling and Heating Performance | Versatile Floor or Ceiling Installation | Advanced 2.0HP Operating Capacity | Broad Airflow Distribution Technology | Precision Smart Temperature Control | Durable and Professional Build Quality | Whisper Quiet Operation Mode | Eco-friendly R410A Refrigerant"
-    },
-    {
-      "acuId": "AC2.0HPINVCC/HCACHI",
-      "tag": "A6",
-      "category": "Air Conditioners",
-      "name": "2.0HP INVERTER - COOLING \n& HEATING CASSETTE AC",
-      "model": "AUC-18UTR2SJJA",
-      "brand": "Hisense",
-      "regular": 15000,
-      "sale": 10950,
-      "warranty": "5 Years",
-      "features": "High Energy Efficiency Inverter System | Cooling and Heating Functionality | Advanced 4-way Air Distribution | Sleek Compact Cassette Design | Quiet and Balanced Airflow Performance | Rapid Temperature Control Technology | Smart Inverter Power Management | Powerful 2.0HP Operational Capacity | Eco-friendly R410A Refrigerant"
     },
     {
       "acuId": "2.0HPSAC",
@@ -337,18 +313,6 @@
       "sale": 15900,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Inverter System | Powerful Cooling and Heating Performance | Versatile Floor or Ceiling Installation | Advanced 4.0HP Operating Capacity | Broad Airflow Distribution Technology | Precision Smart Temperature Control | Durable and Professional Build Quality | Whisper Quiet Operation Mode | Eco-friendly R410A Refrigerant"
-    },
-    {
-      "acuId": "AC4.0HPINVCC/HCACHI",
-      "tag": "A6",
-      "category": "Air Conditioners",
-      "name": "4.0HP INVERTER - COOLING \n& HEATING CASSETTE AC",
-      "model": "AUC-36UTR2SNKA",
-      "brand": "Hisense",
-      "regular": 22000,
-      "sale": 16000,
-      "warranty": "5 Years",
-      "features": "High Energy Efficiency Inverter System | Cooling and Heating Functionality | Advanced 4-way Air Distribution | Sleek Compact Cassette Design | Quiet and Balanced Airflow Performance | Rapid Temperature Control Technology | Smart Inverter Power Management | Powerful 4.0HP Operational Capacity | Eco-friendly R410A Refrigerant"
     },
     {
       "acuId": "4.5HPFAC",
@@ -5463,18 +5427,6 @@
       "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth"
     },
     {
-      "acuId": "LASSCRDLT100-B",
-      "tag": "",
-      "category": "Spare Parts-Television",
-      "name": "100\" LASER SCREEN",
-      "model": "#N/A",
-      "brand": "Hisense",
-      "regular": 7500,
-      "sale": null,
-      "warranty": "",
-      "features": "Available for Lasers not supplied with screen."
-    },
-    {
       "acuId": "100LASER-L9",
       "tag": "A6",
       "category": "Television Laser",
@@ -5485,18 +5437,6 @@
       "sale": 37000,
       "warranty": "5 Years",
       "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket"
-    },
-    {
-      "acuId": "LASCRLTS120LDS",
-      "tag": "A6",
-      "category": "Spare Parts-Television",
-      "name": "120\" LASER SCREEN",
-      "model": "#N/A",
-      "brand": "Hisense",
-      "regular": 14000,
-      "sale": null,
-      "warranty": "",
-      "features": "Available for Lasers not supplied with screen, or to upsize to 120\""
     },
     {
       "acuId": "120LASERL9QE",
