@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:38:56.631Z",
+  "generatedAt": "2026-08-19T08:39:16.692Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -1888,17 +1888,6 @@
         },
         {
           "category": "Mobile Phones",
-          "name": "H50 ZOOM MOBILE PHONE",
-          "model": "H50 Zoom",
-          "brand": "Hisense",
-          "acuId": "HS-H50 ZOOM",
-          "regular": null,
-          "sale": null,
-          "features": "",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
           "name": "U42 LITE MOBILE PHONE",
           "model": "HWCD102E",
           "brand": "Hisense",
@@ -1917,6 +1906,17 @@
           "regular": 350,
           "sale": 200,
           "features": "Ultra-Compact 4.1” Pocket-Sized Display | Efficient Quad-Core Processing Power | Reliable 3G Network Connectivity | Expandable Storage via MicroSD Slot | Versatile Dual SIM & Single SIM Support | Classic 5MP Rear & 2MP Selfie Cameras | Smooth Android 8.1 Oreo Performance | Built-in 1GB RAM & 8GB ROM Storage | Energy-Efficient 1500mAh Battery",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Mobile Phones",
+          "name": "U53 MOBILE PHONE",
+          "model": "U53",
+          "brand": "Hisense",
+          "acuId": "HS-U53",
+          "regular": 900,
+          "sale": 660,
+          "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
           "warranty": "1 Year"
         }
       ]
@@ -4075,15 +4075,15 @@
     },
     {
       "category": "Mobile Phones",
-      "name": "U53 MOBILE PHONE",
-      "model": "U53",
+      "name": "H72 PRO MOBILE PHONE",
+      "model": "H72 PRO",
       "brand": "Hisense",
-      "acuId": "HS-U53",
-      "regular": 900,
-      "sale": 660,
-      "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
+      "acuId": "HS-H72 Pro",
+      "regular": 1900,
+      "sale": 1350,
+      "features": "Latest Android 15 Go Edition OS | Massive 256GB ROM & 12GB RAM Memory | Ultra-Clear 64MP HD Rear Camera | Large 6.75” HD+ Sleek Design Display | NFC Support for Contactless Payments | All-Day 5000mAh Battery & 15W Fast Charge | Secure Fingerprint & Face Unlock | Fluid 60Hz Refresh Rate Display | Free Premium Cover & Glass Protector",
       "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/13126/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/14229/image"
     },
     {
       "category": "Microwave oven",
@@ -4626,18 +4626,6 @@
       "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/5180/image"
-    },
-    {
-      "category": "Mobile Phones",
-      "name": "H72 PRO MOBILE PHONE",
-      "model": "H72 PRO",
-      "brand": "Hisense",
-      "acuId": "HS-H72 Pro",
-      "regular": 1900,
-      "sale": 1350,
-      "features": "Latest Android 15 Go Edition OS | Massive 256GB ROM & 12GB RAM Memory | Ultra-Clear 64MP HD Rear Camera | Large 6.75” HD+ Sleek Design Display | NFC Support for Contactless Payments | All-Day 5000mAh Battery & 15W Fast Charge | Secure Fingerprint & Face Unlock | Fluid 60Hz Refresh Rate Display | Free Premium Cover & Glass Protector",
-      "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/14229/image"
     },
     {
       "category": "Microwave oven",
