@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:22:41.453Z",
+  "generatedAt": "2026-08-19T08:25:33.831Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -57,13 +57,13 @@
         },
         {
           "category": "Air Conditioners",
-          "name": "4.5HP FLOOR STANDING \nAIR CONDITIONER",
-          "model": "AUF-42CR6SDMPH",
+          "name": "2.5HP FLOOR STANDING \nINVERTER AIR CONDITIONER",
+          "model": "AUF-24UR4RJXB",
           "brand": "Hisense",
-          "acuId": "4.5HPFAC",
-          "regular": 19800,
-          "sale": 14500,
-          "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
+          "acuId": "2.5HPFACINVHCGD",
+          "regular": 17800,
+          "sale": 13000,
+          "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
           "warranty": "5 Years"
         }
       ]
@@ -3444,15 +3444,15 @@
     },
     {
       "category": "Air Conditioners",
-      "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
-      "model": "AUF-96CR6SDA",
+      "name": "4.5HP FLOOR STANDING \nAIR CONDITIONER",
+      "model": "AUF-42CR6SDMPH",
       "brand": "Hisense",
-      "acuId": "10HPFAC",
-      "regular": 49900,
-      "sale": 36000,
-      "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
+      "acuId": "4.5HPFAC",
+      "regular": 19800,
+      "sale": 14500,
+      "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/5447/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/1774/image"
     },
     {
       "category": "Inverter Air Conditioners",
@@ -4178,15 +4178,15 @@
   "spotlights": [
     {
       "category": "Air Conditioners",
-      "name": "2.5HP FLOOR STANDING \nINVERTER AIR CONDITIONER",
-      "model": "AUF-24UR4RJXB",
+      "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
+      "model": "AUF-96CR6SDA",
       "brand": "Hisense",
-      "acuId": "2.5HPFACINVHCGD",
-      "regular": 17800,
-      "sale": 13000,
-      "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
+      "acuId": "10HPFAC",
+      "regular": 49900,
+      "sale": 36000,
+      "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
       "warranty": "5 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/5447/image"
     },
     {
       "category": "Inverter Air Conditioners",
