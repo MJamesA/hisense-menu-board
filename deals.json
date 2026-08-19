@@ -1,9 +1,9 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-17T22:19:09.203Z",
-  "title": "SAVE WITH US",
+  "generatedAt": "2026-08-19T07:04:21.442Z",
+  "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
-  "validText": "VALID JUNE 2026 · INCLUSIVE OF VAT",
+  "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
   "footerText": "UP TO 5-YEAR WARRANTY",
   "nationwideText": "SAME PRICES NATIONWIDE",
   "pricesText": "ALL PRICES IN GH₵",
@@ -3509,17 +3509,6 @@
       "warranty": "5 Years"
     },
     {
-      "category": "DECODER",
-      "name": "DSTVDECODER&ACC",
-      "model": "Model 1",
-      "brand": "DSTV",
-      "acuId": "DSTVDECODER&ACC",
-      "regular": 633,
-      "sale": null,
-      "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
-      "warranty": "1 Year"
-    },
-    {
       "category": "Wall Bracket",
       "name": "MTN PROMOTIONAL OFFER #1",
       "model": "MTN001",
@@ -4101,6 +4090,17 @@
       "sale": 12000,
       "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
       "warranty": "5 Years"
+    },
+    {
+      "category": "DECODER",
+      "name": "DSTVDECODER&ACC",
+      "model": "Model 1",
+      "brand": "DSTV",
+      "acuId": "DSTVDECODER&ACC",
+      "regular": 633,
+      "sale": null,
+      "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
+      "warranty": "1 Year"
     }
   ],
   "spotlights": [
@@ -5109,11 +5109,11 @@
     "Toshiba TVs": "5m2f",
     "Water Dispensors": "5m2f",
     "Washing Machines": "10m1f",
-    "DECODER": "10m1f",
     "Wall Bracket": "3feat",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat",
     "Laser TVs": "3feat",
+    "DECODER": "10m1f",
     "Television - Amcon": "5m2f"
   },
   "categoryOrder": [
@@ -5146,8 +5146,8 @@
     "Television - Amcon",
     "Toshiba TVs",
     "Laser TVs",
-    "Spare Parts-Television",
     "Water Dispensors",
-    "Washing Machines"
+    "Washing Machines",
+    "DECODER"
   ]
 }
