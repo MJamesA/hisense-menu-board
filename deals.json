@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T09:04:53.752Z",
+  "generatedAt": "2026-08-19T09:06:35.170Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -544,17 +544,6 @@
         },
         {
           "category": "Electric Cooker",
-          "name": "BREAD MAKER",
-          "model": "BM1400E",
-          "brand": "Gorenje",
-          "acuId": "ECBM1400E",
-          "regular": 1800,
-          "sale": 1300,
-          "features": "Versatile 3-Size Loaf Pan Settings",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
           "name": "CONTACT GRILL",
           "model": "GCG2000SD",
           "brand": "Gorenje",
@@ -584,6 +573,17 @@
           "regular": 1200,
           "sale": 880,
           "features": "Includes 3 Premium Vacuum Canisters | Versatile 0.7L, 1.4L, & 2L Storage | 2 Adjustable Levels of Suction Power | Specialized Dry & Moist Food Settings | Long-Lasting Freshness Preservation | Built-in Accessory Port for Hoses | Sleek & Compact Countertop Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Electric Cooker",
+          "name": "1L ICE CREAM MAKER",
+          "model": "ICM10W",
+          "brand": "Gorenje",
+          "acuId": "ECICM10W",
+          "regular": 2290,
+          "sale": 1680,
+          "features": "Professional Self-Freezing Compressor | Powerful Motor for Creamy Textures | Large Removable Non-Stick Bowl | No Pre-Freezing Required – Ready Fast | Includes Precision Measuring Cup | Ergonomic Spatula for Easy Serving | Sleek & Durable Modern Construction",
           "warranty": "1 Year"
         },
         {
@@ -3727,6 +3727,18 @@
     },
     {
       "category": "Electric Cooker",
+      "name": "BREAD MAKER",
+      "model": "BM1400E",
+      "brand": "Gorenje",
+      "acuId": "ECBM1400E",
+      "regular": 1800,
+      "sale": 1300,
+      "features": "Versatile 3-Size Loaf Pan Settings",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/4998/image"
+    },
+    {
+      "category": "Electric Cooker",
       "name": "CONTACT GRILL",
       "model": "GCG2100S",
       "brand": "Gorenje",
@@ -3736,18 +3748,6 @@
       "features": "7 Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Intelligent Auto-Cook Sensor Logic | Specialized Healthy Defrost Function | Enhanced Auto Shut-Down System | Uniform Heat Distribution Technology",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/19130/image"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "1L ICE CREAM MAKER",
-      "model": "ICM10W",
-      "brand": "Gorenje",
-      "acuId": "ECICM10W",
-      "regular": 2290,
-      "sale": 1680,
-      "features": "Professional Self-Freezing Compressor | Powerful Motor for Creamy Textures | Large Removable Non-Stick Bowl | No Pre-Freezing Required – Ready Fast | Includes Precision Measuring Cup | Ergonomic Spatula for Easy Serving | Sleek & Durable Modern Construction",
-      "warranty": "1 Year",
-      "imageUrl": ""
     },
     {
       "category": "Electric Cooker",
