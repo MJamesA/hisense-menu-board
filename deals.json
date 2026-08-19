@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:25:33.831Z",
+  "generatedAt": "2026-08-19T08:27:31.295Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -314,17 +314,6 @@
         },
         {
           "category": "Freezers",
-          "name": "240L CHEST FREEZER",
-          "model": "FC-31DD4HA",
-          "brand": "Hisense",
-          "acuId": "240LCFB",
-          "regular": 4000,
-          "sale": 3000,
-          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Internal Sliding Glass Protection Door | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
           "name": "249L CHEST FREEZER",
           "model": "FC-33DD4HA",
           "brand": "Hisense",
@@ -375,6 +364,17 @@
           "acuId": "AM500CFSSS",
           "regular": 6290,
           "sale": 4500,
+          "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Freezers",
+          "name": "700L CHEST FREEZER",
+          "model": "ARC-700",
+          "brand": "Amcon",
+          "acuId": "AM700CFSSS",
+          "regular": 7890,
+          "sale": 5750,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -3564,15 +3564,15 @@
     },
     {
       "category": "Freezers",
-      "name": "700L CHEST FREEZER",
-      "model": "ARC-700",
-      "brand": "Amcon",
-      "acuId": "AM700CFSSS",
-      "regular": 7890,
-      "sale": 5750,
-      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
+      "name": "240L CHEST FREEZER",
+      "model": "FC-31DD4HA",
+      "brand": "Hisense",
+      "acuId": "240LCFB",
+      "regular": 4000,
+      "sale": 3000,
+      "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Internal Sliding Glass Protection Door | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
       "warranty": "5 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/6713/image"
     },
     {
       "category": "Freezers",
