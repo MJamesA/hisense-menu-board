@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:48:38.253Z",
+  "generatedAt": "2026-08-19T08:50:08.115Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -3252,17 +3252,6 @@
         },
         {
           "category": "Water Dispensors",
-          "name": "INSTANTANEOUS \nWATER HEATER - SHOWER",
-          "model": "SEISWHDS60W",
-          "brand": "Steibel Eltron",
-          "acuId": "SEISWHDS60W",
-          "regular": 2280,
-          "sale": 1500,
-          "features": "Complete System Optimized for Single-Shower Luxury | Corrosion-Resistant Copper Heating Element & Tank | Premium 5-in-1 Shower Head with Adjustable Slide Bar | Elegant LED Light Band Operation Status Indicator | Double-Action Thermostat Anti-Scald Protection | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced IP25 Rated Water Ingress Protection | Precision Temperature Adjustment Control Dial | Multi-Point Overheating & Electric Shock Safety",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Water Dispensors",
           "name": "INSTANTANEOUS \nWATER HEATER - TREND",
           "model": "SEIWHDCES68TR",
           "brand": "Steibel Eltron",
@@ -3274,13 +3263,13 @@
         },
         {
           "category": "Water Dispensors",
-          "name": "INSTANTANEOUS \nWATER HEATER - PLUS",
-          "model": "SEIWHDCES68PL",
+          "name": "INSTANTANEOUS \nWATER HEATER - PREMIUM",
+          "model": "SEIWHDCEX68PRE",
           "brand": "Steibel Eltron",
-          "acuId": "SEIWHDCES68PL",
-          "regular": 3320,
-          "sale": 2200,
-          "features": "High-Performance Instant Heating for Showers | Advanced 3i Electronic Closed-Loop Control | Precision Temperature Selection (20C to 60˚C) | Superior Energy Efficiency via 3i Smart Sensors | Customizable Safety Temperature Locks (43/50/55˚C) | Exceptionally Slimline & Space-Saving Design | Ultra-Compact Modern Architecture for Tight Spaces | Safe-Grounding Protective Installation System | Safe-Grounding Protective Installation System",
+          "acuId": "SEIWHDCEX68PRE",
+          "regular": 3600,
+          "sale": 2400,
+          "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
           "warranty": "1 Year"
         },
         {
@@ -3318,14 +3307,25 @@
         },
         {
           "category": "Water Dispensors",
-          "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
-          "model": "AMWDT555S",
+          "name": "FILTRATION COLD/HOT\nWATER DISPENSER",
+          "model": "AMWDT530B",
           "brand": "Amcon",
-          "acuId": "AMWDT555S",
-          "regular": 1550,
-          "sale": 1100,
-          "features": "Classic Freestanding Top-Loading Configuration | Dual Temperature Hot & Cold Water Dispensers | Advanced Compressor Cooling for Instant Chill | High-Efficiency Fast Cooling Performance | Energy-Saving Operation with Low Noise Output | Integrated Storage Cabinet for Cups & Snacks | Sleek & Durable Premium Silver Exterior | High-Capacity 2.0-Litre Internal Water Tank | Instant Safety Child Lock for Hot Water Access",
+          "acuId": "AMWDT530B",
+          "regular": 2750,
+          "sale": 2000,
+          "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
           "warranty": "3 Years"
+        },
+        {
+          "category": "Water Dispensors",
+          "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
+          "model": "H97WDTB3S1R",
+          "brand": "Hisense",
+          "acuId": "HWDT973S1B",
+          "regular": 1490,
+          "sale": 1100,
+          "features": "Energy Efficient Cooling Performance | Classic Freestanding Top Loading Design | Dual Hot and Cold Water Dispensers | Advanced Fast Compressor Cooling | Sleek Black Premium Exterior Finish | Child Safety Lock for Hot Water | Integrated Storage Cabinet System | Quiet and Low Noise Operation | Eco-Friendly R134a Refrigerant Gas",
+          "warranty": "1 Year"
         }
       ]
     },
@@ -4442,15 +4442,15 @@
     },
     {
       "category": "Water Dispensors",
-      "name": "INSTANTANEOUS \nWATER HEATER - PREMIUM",
-      "model": "SEIWHDCEX68PRE",
+      "name": "INSTANTANEOUS \nWATER HEATER - SHOWER",
+      "model": "SEISWHDS60W",
       "brand": "Steibel Eltron",
-      "acuId": "SEIWHDCEX68PRE",
-      "regular": 3600,
-      "sale": 2400,
-      "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
+      "acuId": "SEISWHDS60W",
+      "regular": 2280,
+      "sale": 1500,
+      "features": "Complete System Optimized for Single-Shower Luxury | Corrosion-Resistant Copper Heating Element & Tank | Premium 5-in-1 Shower Head with Adjustable Slide Bar | Elegant LED Light Band Operation Status Indicator | Double-Action Thermostat Anti-Scald Protection | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced IP25 Rated Water Ingress Protection | Precision Temperature Adjustment Control Dial | Multi-Point Overheating & Electric Shock Safety",
       "warranty": "1 Year",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/5152/image"
     },
     {
       "category": "Water Dispensors",
@@ -4466,15 +4466,15 @@
     },
     {
       "category": "Water Dispensors",
-      "name": "FILTRATION COLD/HOT\nWATER DISPENSER",
-      "model": "AMWDT530B",
+      "name": "TOP LOADING COLD/HOT\nWATER DISPENSER",
+      "model": "AMWDT555S",
       "brand": "Amcon",
-      "acuId": "AMWDT530B",
-      "regular": 2750,
-      "sale": 2000,
-      "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
+      "acuId": "AMWDT555S",
+      "regular": 1550,
+      "sale": 1100,
+      "features": "Classic Freestanding Top-Loading Configuration | Dual Temperature Hot & Cold Water Dispensers | Advanced Compressor Cooling for Instant Chill | High-Efficiency Fast Cooling Performance | Energy-Saving Operation with Low Noise Output | Integrated Storage Cabinet for Cups & Snacks | Sleek & Durable Premium Silver Exterior | High-Capacity 2.0-Litre Internal Water Tank | Instant Safety Child Lock for Hot Water Access",
       "warranty": "3 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/5162/image"
     },
     {
       "category": "Washing Machines",
@@ -4789,6 +4789,18 @@
       "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/5149/image"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "INSTANTANEOUS \nWATER HEATER - PLUS",
+      "model": "SEIWHDCES68PL",
+      "brand": "Steibel Eltron",
+      "acuId": "SEIWHDCES68PL",
+      "regular": 3320,
+      "sale": 2200,
+      "features": "High-Performance Instant Heating for Showers | Advanced 3i Electronic Closed-Loop Control | Precision Temperature Selection (20C to 60˚C) | Superior Energy Efficiency via 3i Smart Sensors | Customizable Safety Temperature Locks (43/50/55˚C) | Exceptionally Slimline & Space-Saving Design | Ultra-Compact Modern Architecture for Tight Spaces | Safe-Grounding Protective Installation System | Safe-Grounding Protective Installation System",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5154/image"
     },
     {
       "category": "Washing Machines",
