@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:35:19.549Z",
+  "generatedAt": "2026-08-19T08:38:56.631Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -1455,17 +1455,6 @@
         },
         {
           "category": "Gas Cooker",
-          "name": "4 BURNER FREE \nSTANDING GAS OVEN",
-          "model": "50*60 Gas Oven (Model 2)",
-          "brand": "Amcon",
-          "acuId": "GC50X60M2",
-          "regular": null,
-          "sale": null,
-          "features": "4 High-Efficiency Euro Pool Burners | Durable Heavy-Duty Thick Metal Body | Premium Stainless Steel Top Panel | Instant Auto-Ignition (Top Burners) | Semi-Cast Iron Grids (Matte Black) | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Metal Top Cover | Included Professional Oven Tray",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
           "name": "4 BURNER FREE\nSTANDING GAS OVEN",
           "model": "HFG60121X",
           "brand": "Hisense",
@@ -1584,6 +1573,61 @@
           "sale": 890,
           "features": "Glossy Tempered Glass Surface | Durable Heavy-Duty Enamel Supports | Professional Cast Iron Pan Supports | Enhanced Flame Failure Safety System | Precision High-Efficiency Gas Burners | Sleek & Modern Easy-to-Clean Top | Robust Construction for Long Life",
           "warranty": "1 Year"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "3 BURNER TABLE\nTOP GAS COOKER",
+          "model": "GS3-07RBB",
+          "brand": "Amcon",
+          "acuId": "GS3-07RBB",
+          "regular": 1600,
+          "sale": 1200,
+          "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 HOT PLATE AND 75L FREE \nSTANDING ELECTRIC OVEN",
+          "model": "HFE60321BZA",
+          "brand": "Hisense",
+          "acuId": "GC60321BZA",
+          "regular": 4090,
+          "sale": 2990,
+          "features": "Energy Efficient Cooking Performance | Four High-Powered Electric Hot Plates | Spacious 75L Multi-Function Oven | Classic 60x60 Free Standing Design | Integrated Grill and Oven Function | Precision Thermostat Control | Internal Oven Lamp for Visibility | Durable Easy-To-Clean Exterior | Easy-To-Install and Maintain",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "5 BURNER FREE \nSTANDING GAS OVEN",
+          "model": "HFG90335RX02",
+          "brand": "Hisense",
+          "acuId": "GC90335RX02",
+          "regular": 7100,
+          "sale": 5200,
+          "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER FREE STANDING GAS OVEN SILVER",
+          "model": "HFG60122X",
+          "brand": "Hisense",
+          "acuId": "GC60122X",
+          "regular": 4090,
+          "sale": 2990,
+          "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Stainless Steel Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER FREE STANDING GAS OVEN BLACK",
+          "model": "HFG60122B",
+          "brand": "Hisense",
+          "acuId": "GC60122B",
+          "regular": 3990,
+          "sale": 2990,
+          "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Sleek Black Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
+          "warranty": "3 Years"
         }
       ]
     },
@@ -1707,24 +1751,13 @@
       "items": [
         {
           "category": "Kettles",
-          "name": "1.7L CLEAR GLASS KETTLE",
-          "model": "KEAMGC1.7L",
-          "brand": "Amcon",
-          "acuId": "KEAMGC1.7L",
-          "regular": 360,
-          "sale": 270,
-          "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Kettles",
-          "name": "1.7L RAINBOW GLASS KETTLE",
-          "model": "KEAMGR1.7L",
-          "brand": "Amcon",
-          "acuId": "KEAMGR1.7L",
-          "regular": 420,
-          "sale": 300,
-          "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+          "name": "1.7L DIGITAL PLASTIC KETTLE",
+          "model": "HK17DWD",
+          "brand": "Hisense",
+          "acuId": "KE-9004",
+          "regular": 550,
+          "sale": 400,
+          "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
           "warranty": "1 Year"
         },
         {
@@ -1762,17 +1795,6 @@
         },
         {
           "category": "Kettles",
-          "name": "1.7L BLACK PLASTIC KETTLE",
-          "model": "H17KBKS1",
-          "brand": "Hisense",
-          "acuId": "KE-9001",
-          "regular": 200,
-          "sale": 150,
-          "features": "High-Power 2000W Rapid Boiling | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Ergonomic Handle for Secure Grip | Non-Slip Rubber Feet for Stability | Integrated Boil-Dry Safety System | Simple & Intuitive Easy-to-Use Design",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Kettles",
           "name": "1.7L STAINLES STEEL KETTLE",
           "model": "H17KSSS1",
           "brand": "Hisense",
@@ -1780,17 +1802,6 @@
           "regular": 270,
           "sale": 200,
           "features": "Powerful 2200W Rapid Boiling System | Convenient 360-Degree Cordless Design | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Kettles",
-          "name": "1.8L STAINLESS STEEL KETTLE",
-          "model": "YQ-660",
-          "brand": "Amcon",
-          "acuId": "KE-YQ-660",
-          "regular": 400,
-          "sale": 300,
-          "features": "Efficient 1850W Rapid Boiling System | Durable Stainless Steel Body | Automatic Shut-Off Safety Protection | Integrated Boil-Dry Safety System | On/Off Switch with LED Power Light | 360-Degree Cordless Swivel Base | Sleek & Modern Easy-to-Clean Surface",
           "warranty": "1 Year"
         },
         {
@@ -1813,6 +1824,39 @@
           "regular": 360,
           "sale": 270,
           "features": "Elegant & Sophisticated Premier Style | Large 1.8L Family-Sized Capacity | Durable Stainless Steel Body | Intelligent Keep Warm Function | Efficient 1420W Steady-Boil Power | Safe-to-Touch Cool Touch Handle | Automatic Shut-Off Safety Protection",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L  CLASSIC WHITE KETTLE",
+          "model": "K17CLIN",
+          "brand": "Gorenje",
+          "acuId": "KE17CLIN",
+          "regular": 930,
+          "sale": 690,
+          "features": "Classico Collection | Large 1.7L Water Capacity | 360 Degree Rotational Power Base | Integrated Neat Cord Storage System | Advanced Strix Thermostat Technology | Built In Overheat Safety Protection | Sophisticated Classico Design Collection",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.7L CLEAR GLASS KETTLE",
+          "model": "K17GPD",
+          "brand": "Gorenje",
+          "acuId": "KE17GPD",
+          "regular": 750,
+          "sale": 550,
+          "features": "Powerful 2200W Rapid Heating Performance | Large 1.7L Water Capacity | Premium Clear Glass Stainless Steel Build | Reliable Boil Dry Safety Protection | Advanced Strix Technology Controller | Ergonomic Handle For Easy Pouring | Integrated Removable Limescale Filter",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Kettles",
+          "name": "1.5L STAINLES STEEL KETTLE",
+          "model": "K15DWS",
+          "brand": "Gorenje",
+          "acuId": "K15DWS",
+          "regular": 560,
+          "sale": 400,
+          "features": "Premium Double Wall Insulation | Advanced Strix Technology Controller | Durable Inox Stainless Steel Build | Generous 1.5L Liquid Capacity | Smart Anti Drip Lid Design | Convenient Lid Release Button | Safe Cool Touch Housing Exterior",
           "warranty": "1 Year"
         }
       ]
@@ -3911,51 +3955,51 @@
     },
     {
       "category": "Gas Cooker",
-      "name": "3 BURNER TABLE\nTOP GAS COOKER",
-      "model": "GS3-07RBB",
-      "brand": "Amcon",
-      "acuId": "GS3-07RBB",
-      "regular": 1600,
-      "sale": 1200,
-      "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
-      "warranty": "1 Year",
-      "imageUrl": ""
+      "name": "4 BURNER VITROCERAMIC COOKER & ELECTRIC OVEN",
+      "model": "HFEC60331X",
+      "brand": "Hisense",
+      "acuId": "GC60331X",
+      "regular": 5900,
+      "sale": 4200,
+      "features": "Class A Energy Efficiency | Four Ceramic Cooking Zones | Multifunction Electric Oven | Stainless Steel Durable Finish | Easy To Clean Glass Hob | Integrated Grill Function | Mechanical Control Knobs | Interior Oven Cooking Light | Removable Oven Glass Door",
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/18863/image"
     },
     {
       "category": "Television Commercial",
       "name": "65\" INTERACTIVE\nDISPLAY BOARD",
-      "model": "65WM6FE",
+      "model": "65MR6DE",
       "brand": "Hisense",
-      "acuId": "65ANDIDBFE",
-      "regular": 31200,
+      "acuId": "65ANDIDBDE",
+      "regular": 32000,
       "sale": 23000,
-      "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+      "features": "Stunning 4K Ultra HD Panel & 4K UI | Google Certified with Android 13 OS | Advanced Smart Whiteboard Technology | Cinematic Dolby Atmos Immersive Audio | Integrated 4K Camera with Privacy Cover | Smart Power Ambient Light Sensing | GoBoard Wireless Multi-Screen Sharing | Certified Eye Comfort Technology | 8-Microphone Array with 12m Pickup",
       "warranty": "3 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/7350/image"
     },
     {
       "category": "Television Commercial",
       "name": "75\" INTERACTIVE\nDISPLAY BOARD",
-      "model": "75WM6FE",
+      "model": "75MR6DE",
       "brand": "Hisense",
-      "acuId": "75ANDIDBFE",
-      "regular": 35200,
-      "sale": 25700,
-      "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+      "acuId": "75ANDIDBDE",
+      "regular": 39000,
+      "sale": 28500,
+      "features": "Stunning 4K Ultra HD Panel & 4K UI | Google Certified with Android 13 OS | Advanced Smart Whiteboard Technology | Cinematic Dolby Atmos Immersive Audio | Integrated 4K Camera with Privacy Cover | Smart Power Ambient Light Sensing | GoBoard Wireless Multi-Screen Sharing | Certified Eye Comfort Technology | 8-Microphone Array with 12m Pickup",
       "warranty": "3 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/7351/image"
     },
     {
       "category": "Television Commercial",
       "name": "86\" INTERACTIVE\nDISPLAY BOARD",
-      "model": "86WR6CE",
+      "model": "86MR6DE",
       "brand": "Hisense",
-      "acuId": "86ANDIDBFE",
-      "regular": 42200,
-      "sale": 30800,
-      "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+      "acuId": "86ANDIDBDE",
+      "regular": 46000,
+      "sale": 33600,
+      "features": "Stunning 4K Ultra HD Panel & 4K UI | Google Certified with Android 13 OS | Advanced Smart Whiteboard Technology | Cinematic Dolby Atmos Immersive Audio | Integrated 4K Camera with Privacy Cover | Smart Power Ambient Light Sensing | GoBoard Wireless Multi-Screen Sharing | Certified Eye Comfort Technology | 8-Microphone Array with 12m Pickup",
       "warranty": "3 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/7352/image"
     },
     {
       "category": "Iron",
@@ -3971,15 +4015,51 @@
     },
     {
       "category": "Kettles",
-      "name": "1.7L DIGITAL PLASTIC KETTLE",
-      "model": "HK17DWD",
-      "brand": "Hisense",
-      "acuId": "KE-9004",
-      "regular": 550,
-      "sale": 400,
-      "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
+      "name": "1.7L CLEAR GLASS KETTLE",
+      "model": "KEAMGC1.7L",
+      "brand": "Amcon",
+      "acuId": "KEAMGC1.7L",
+      "regular": 360,
+      "sale": 270,
+      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
       "warranty": "1 Year",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/2018/image"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L RAINBOW GLASS KETTLE",
+      "model": "KEAMGR1.7L",
+      "brand": "Amcon",
+      "acuId": "KEAMGR1.7L",
+      "regular": 420,
+      "sale": 300,
+      "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1987/image"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.7L BLACK PLASTIC KETTLE",
+      "model": "H17KBKS1",
+      "brand": "Hisense",
+      "acuId": "KE-9001",
+      "regular": 200,
+      "sale": 150,
+      "features": "High-Power 2000W Rapid Boiling | Integrated Removable Limescale Filter | Automatic Shut-Off Safety Protection | Ergonomic Handle for Secure Grip | Non-Slip Rubber Feet for Stability | Integrated Boil-Dry Safety System | Simple & Intuitive Easy-to-Use Design",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14232/image"
+    },
+    {
+      "category": "Kettles",
+      "name": "1.8L STAINLESS STEEL KETTLE",
+      "model": "YQ-660",
+      "brand": "Amcon",
+      "acuId": "KE-YQ-660",
+      "regular": 400,
+      "sale": 300,
+      "features": "Efficient 1850W Rapid Boiling System | Durable Stainless Steel Body | Automatic Shut-Off Safety Protection | Integrated Boil-Dry Safety System | On/Off Switch with LED Power Light | 360-Degree Cordless Swivel Base | Sleek & Modern Easy-to-Clean Surface",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1846/image"
     },
     {
       "category": "Mobile Phones",
@@ -4513,18 +4593,6 @@
     },
     {
       "category": "Gas Cooker",
-      "name": "5 BURNER FREE\nSTANDING GAS OVEN",
-      "model": "GC60x90M7",
-      "brand": "Amcon",
-      "acuId": "GC60X90M7",
-      "regular": null,
-      "sale": null,
-      "features": "5 High-Efficiency Euro Pool Burners | Massive Gas Oven with Thermostat | Dual Oven Heating (Top & Bottom) | Integrated Chicken Rotisserie System | Precision Mechanic Cooking Timer | Full Auto-Ignition (Burners & Oven) | Heavy-Duty Cast Iron Top Grids | Double-Layered Black Glass Oven Door | Protective Glass Top Lid / Cover",
-      "warranty": "3 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/1674/image"
-    },
-    {
-      "category": "Gas Cooker",
       "name": "4 BURNER + 1 WOK GAS HOB",
       "model": "HG1986SB",
       "brand": "Asko",
@@ -5048,17 +5116,6 @@
     },
     {
       "category": "Small Items",
-      "name": "SMART WATCH",
-      "model": "HSSWU1",
-      "brand": "Hisense",
-      "acuId": "HSSWU1",
-      "regular": null,
-      "sale": null,
-      "features": "",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Small Items",
       "name": "VACUUM SEALER BAGS",
       "model": "VB12/55",
       "brand": "Gorenje",
@@ -5312,7 +5369,7 @@
     "Refrigerators": "10m1f",
     "Gas Cooker": "10m1f",
     "Iron": "10m1f",
-    "Kettles": "10m1f",
+    "Kettles": "5m2f",
     "Mobile Phones": "5m2f",
     "Microwave oven": "10m1f",
     "Showcases": "5m2f",
