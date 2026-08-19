@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:27:31.295Z",
+  "generatedAt": "2026-08-19T08:28:26.698Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -474,34 +474,56 @@
         {
           "category": "CLEANING",
           "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
-          "model": "SVC180FW",
+          "model": "SVC222230AEW",
           "brand": "Gorenje",
-          "acuId": "CFS180",
-          "regular": 1650,
-          "sale": 1200,
-          "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Power | 2-in-1 Versatile Function | LED Status Indicators | Motorized Turbo Brush | On-Board Attachment Storage | Ergonomic Easy-Grip Handle | Easy-Empty Dirt Container & Nozzle",
+          "acuId": "CFS230AEW",
+          "regular": 1550,
+          "sale": 1140,
+          "features": "22.2V Detachable Long Lasting Battery | Advanced Smart LED Display Panel | Anti Tangle V Shaped Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | 0.7L Dust Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Furniture Bumper | Versatile Dual Crevice Nozzle Attachments",
           "warranty": "1 Year"
         },
         {
           "category": "CLEANING",
           "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
-          "model": "SVCS216FW",
+          "model": "SVC222480AA",
           "brand": "Gorenje",
-          "acuId": "CFS216",
-          "regular": 1500,
-          "sale": 1090,
-          "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Modes | Dual Function Versatility | LED Status Indicators | Motorized Turbo Brush | Precision Suction Nozzle | On-Board Attachment Storage | Ergonomic Handle & Dirt Container",
+          "acuId": "CFS480AA",
+          "regular": 1750,
+          "sale": 1280,
+          "features": "22.2V Detachable InverterPower Battery | Motorized Anti Tangle Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | Advanced Smart LED Display Panel | Generous 0.7L Large Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Soft Bumper | Versatile Dual Crevice Nozzle Attachments",
           "warranty": "1 Year"
         },
         {
           "category": "CLEANING",
-          "name": "G-FORCE AIR PRO\nVACUUM CLEANER",
-          "model": "VCEA03GAPRACY",
+          "name": "G-FORCE AIR VACUUM CLEANER",
+          "model": "VCE01G2AW-air",
           "brand": "Gorenje",
-          "acuId": "CGFAP700W",
-          "regular": 1800,
-          "sale": 1350,
-          "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels",
+          "acuId": "CGFA2AW",
+          "regular": 1300,
+          "sale": 950,
+          "features": "Energy Efficient G200 Series Design | Powerful 800W Suction Performance | Smart Ergonomic Functional Design | Comfortable Hassle Free Cleaning | Versatile Multi Surface Cleaning Mode | Practical Removable Container Setup | Advanced Cyclonic Action Cleaning Setup | Advanced Double Filtration System | Highly Versatile Cleaning Attachments",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "CLEANING",
+          "name": "G-FORCE AIR HARDFLOOR VACUUM CLEANER",
+          "model": "VCE01G4AHGR-air hardfloor",
+          "brand": "Gorenje",
+          "acuId": "CGF4AHGR",
+          "regular": 1650,
+          "sale": 1200,
+          "features": "Energy Efficient G400 Series Design | Powerful 800W Hardfloor Suction Performance | Advanced Cyclonic Action Cleaning Setup | Universal Parquet Brush Accessory Included | Efficient Double Filtration System Setup | Smart Design Comfortable Cleaning Mode | Practical Removable Dust Container Setup | Essential Accessories Pack Included | High Performance G-Force Air Technology",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "CLEANING",
+          "name": "G-FORCE AIR PET VACUUM CLEANER",
+          "model": "VCEA 08 GAPGOCY-VCE08G6AEGO-air expert",
+          "brand": "Gorenje",
+          "acuId": "CGF6AEGO",
+          "regular": 2290,
+          "sale": 1680,
+          "features": "Energy Efficient G600 Series Design | Powerful 850W Air Pet Performance | Professional Cleaning Pro Results | Advanced Cyclonic Action Technology | Efficient Double Filter System Setup | Removable Dust Container For Easy Empty | Intuitive Operation For Seamless Use | Essential Accessories For Daily Upkeep | Complete All In One Cleaning Power",
           "warranty": "1 Year"
         }
       ]
@@ -3587,6 +3609,30 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/1666/image"
     },
     {
+      "category": "CLEANING",
+      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+      "model": "SVC180FW",
+      "brand": "Gorenje",
+      "acuId": "CFS180",
+      "regular": 1650,
+      "sale": 1200,
+      "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Power | 2-in-1 Versatile Function | LED Status Indicators | Motorized Turbo Brush | On-Board Attachment Storage | Ergonomic Easy-Grip Handle | Easy-Empty Dirt Container & Nozzle",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/13117/image"
+    },
+    {
+      "category": "CLEANING",
+      "name": "FREESTYLE LEDVISION \nVACUUM CLEANER",
+      "model": "SVCS216FW",
+      "brand": "Gorenje",
+      "acuId": "CFS216",
+      "regular": 1500,
+      "sale": 1090,
+      "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Modes | Dual Function Versatility | LED Status Indicators | Motorized Turbo Brush | Precision Suction Nozzle | On-Board Attachment Storage | Ergonomic Handle & Dirt Container",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/4994/image"
+    },
+    {
       "category": "Electric Cooker",
       "name": "8.6L DIGITAL\nAIR FRYER",
       "model": "H09AFBK2S5",
@@ -4259,6 +4305,18 @@
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/8671/image"
+    },
+    {
+      "category": "CLEANING",
+      "name": "G-FORCE AIR PRO\nVACUUM CLEANER",
+      "model": "VCEA03GAPRACY",
+      "brand": "Gorenje",
+      "acuId": "CGFAP700W",
+      "regular": 1800,
+      "sale": 1350,
+      "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/4995/image"
     },
     {
       "category": "Electric Cooker",
@@ -5203,7 +5261,7 @@
     "Inverter Air Conditioners": "5m2f",
     "Blenders": "5m2f",
     "Freezers": "10m1f",
-    "CLEANING": "3feat",
+    "CLEANING": "5m2f",
     "Electric Cooker": "10m1f",
     "Fan": "10m1f",
     "Refrigerators": "10m1f",
