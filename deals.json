@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T09:07:14.332Z",
+  "generatedAt": "2026-08-19T09:08:17.066Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -960,17 +960,6 @@
         },
         {
           "category": "Refrigerators",
-          "name": "121L TABLE TOP FRIDGE",
-          "model": "FT1-15SG",
-          "brand": "Amcon",
-          "acuId": "FT1-15SG",
-          "regular": 1990,
-          "sale": 1460,
-          "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "123 DOUBLE DOOR FRIDGE",
           "model": "RT1N123NED1",
           "brand": "Hisense",
@@ -1286,6 +1275,17 @@
           "regular": 8250,
           "sale": 6300,
           "features": "Durable Inverter Technology | Energy Efficient System | Multi Air Flow Cooling System | Fresh Zone & No-Frost Freezer | Large Fruit & Vegetable Crisper | Spill-Proof Glass Shelves | Precision Temperature Control | Low Noise and  LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerators",
+          "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+          "model": "RC-67WS4S3",
+          "brand": "Hisense",
+          "acuId": "518LEFMRFGS",
+          "regular": 12500,
+          "sale": 9100,
+          "features": "3-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -3885,15 +3885,15 @@
     },
     {
       "category": "Refrigerators",
-      "name": "130L TABLE TOP FRIDGE",
-      "model": "RS-13DR4SG",
-      "brand": "Hisense",
-      "acuId": "130LTTS",
-      "regular": 1660,
-      "sale": 1200,
+      "name": "121L TABLE TOP FRIDGE",
+      "model": "FT1-15SG",
+      "brand": "Amcon",
+      "acuId": "FT1-15SG",
+      "regular": 1990,
+      "sale": 1460,
       "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/1799/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/18792/image"
     },
     {
       "category": "Refrigerators",
@@ -3921,18 +3921,6 @@
     },
     {
       "category": "Refrigerators",
-      "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
-      "model": "RC-67WS4S3",
-      "brand": "Hisense",
-      "acuId": "518LEFMRFGS",
-      "regular": 12500,
-      "sale": 9100,
-      "features": "3-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years",
-      "imageUrl": ""
-    },
-    {
-      "category": "Refrigerators",
       "name": "545L CROSS DOOR \nFRIDGE WITH SCREEN",
       "model": "RC-67WC4SA",
       "brand": "Hisense",
@@ -3942,6 +3930,18 @@
       "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/4892/image"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+      "model": "RC-74WS4S3",
+      "brand": "Hisense",
+      "acuId": "570LEFMRFGS",
+      "regular": 13900,
+      "sale": 10000,
+      "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1918/image"
     },
     {
       "category": "Gas Cooker",
@@ -4643,15 +4643,15 @@
     },
     {
       "category": "Refrigerators",
-      "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
-      "model": "RC-74WS4S3",
+      "name": "130L TABLE TOP FRIDGE",
+      "model": "RS-13DR4SG",
       "brand": "Hisense",
-      "acuId": "570LEFMRFGS",
-      "regular": 13900,
-      "sale": 10000,
-      "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
+      "acuId": "130LTTS",
+      "regular": 1660,
+      "sale": 1200,
+      "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/1918/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/1799/image"
     },
     {
       "category": "Refrigerators",
