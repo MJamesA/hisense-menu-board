@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:39:16.692Z",
+  "generatedAt": "2026-08-19T08:39:50.587Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -4638,6 +4638,18 @@
       "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/9410/image"
+    },
+    {
+      "category": "Microwave oven",
+      "name": "30L FLATBED MICROWAVE\nDIGITAL CONTROL",
+      "model": "HMBS3010PFG",
+      "brand": "Hisense",
+      "acuId": "30LMODC-WPBB",
+      "regular": 2400,
+      "sale": 1760,
+      "features": "Spacious 30L Flatbed Oven Design | Energy Efficient Cooking Performance | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Sleek Black Premium Exterior Finish | Multiple Cooking Power Level Settings | Smart Weight and Time Defrost Function | Versatile Combination Cooking Setup",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19129/image"
     },
     {
       "category": "Showcases",
