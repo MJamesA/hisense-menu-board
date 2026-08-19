@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:28:26.698Z",
+  "generatedAt": "2026-08-19T08:35:19.549Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -533,123 +533,13 @@
       "items": [
         {
           "category": "Electric Cooker",
-          "name": "11L DIGITAL\nAIR FRYER",
-          "model": "H11AFBK2S4",
-          "brand": "Hisense",
-          "acuId": "ECAF11DZ4H",
-          "regular": 1350,
-          "sale": 990,
-          "features": "Digital Dual-Zone Independent Cooking | Clear-View Window for Visible Cooking | Smart Color Touch Control Panel | 8 One-Touch Preset Cooking Programs | Synchronized Finish Logic Technology | Removable Non-Stick Baking Trays | Rapid 360° Hot Air Circulation Tech",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "2.5L DIGITAL\nAIR FRYER",
-          "model": "ECAF256T",
+          "name": "18L DIGITAL\nELECTRIC STEAMER",
+          "model": "ECSTEAM18LD",
           "brand": "Amcon",
-          "acuId": "ECAF256T",
-          "regular": 750,
-          "sale": 550,
-          "features": "High-Power Rapid Heating Element | Precision Digital Touch Control Panel | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Smart-Logic Temperature Sensors | Programmable Delay Start & Timer",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "2.5L MECHANICAL\nAIR FRYER",
-          "model": "ECAF256M1",
-          "brand": "Amcon",
-          "acuId": "ECAF256M1",
-          "regular": 620,
-          "sale": 450,
-          "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "4L DIGITAL\nAIR FRYER",
-          "model": "ECAF40DG",
-          "brand": "Amcon",
-          "acuId": "ECAF40DG",
-          "regular": 800,
-          "sale": 590,
-          "features": "Smart Digital Touch Control Panel | Clear-View Glass Bowl with Handle | Precision Time & Temperature Control | Bright LED Interactive Interface | Versatile Multi-Task Kitchen Helper | Heat-Resistant Easy-Grip Safety Handle | Durable & Transparent Cooking Vessel",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "4.0L MECHANICAL\nAIR FRYER",
-          "model": "ECAF40MG",
-          "brand": "Amcon",
-          "acuId": "ECAF40MG",
-          "regular": 760,
-          "sale": 550,
-          "features": "Durable Mechanical Control Dials | Clear-View Glass Bowl with Handle | Precision Time & Temperature Tuning | Sleek & Elegant Modern Design | Versatile All-in-One Kitchen Helper | Heat-Resistant Easy-Grip Safety Handle | Transparent 360° Cooking Visibility",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "5.0L DIGITAL\nAIR FRYER",
-          "model": "H05AFBK1S3",
-          "brand": "Hisense",
-          "acuId": "ECAF50S3H",
-          "regular": 730,
-          "sale": 540,
-          "features": "Energy Efficient 1700W Power System | Rapid 360 Degree Hot Air Circulation | Advanced Digital LED Touch Control | 8 Automatic Preset Cooking Programs | Precision 80 To 200 Degree Thermostat | Integrated 60 Minute Digital Timer | Healthy Low Fat Frying Technology",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "5.2L DIGITAL\nAIR FRYER",
-          "model": "ECAF52S1H",
-          "brand": "Hisense",
-          "acuId": "ECAF52S1H",
-          "regular": 800,
-          "sale": 590,
-          "features": "Unique Circular Digital Touch Display | 7 Smart-Logic Preset Cooking Programs | 360° Full Hot Air Circulation Tech | Precision Time & Temperature Control | Rapid Heating for Faster Meal Prep | Versatile All-in-One Kitchen Helper | Easy-to-Clean Non-Stick Components",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "5.5L DIGITAL\nAIR FRYER",
-          "model": "ECAF558T2",
-          "brand": "Amcon",
-          "acuId": "ECAF558T2",
-          "regular": 990,
-          "sale": 730,
-          "features": "High-Power Rapid Heating Element | Precision Digital Touch Control Panel | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Exterior | Non-Stick Surface for Easy Cleaning | Smart-Logic Temperature Sensors | Programmable Delay Start & Timer",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "5.5L MECHANICAL\nAIR FRYER",
-          "model": "ECAF558M1",
-          "brand": "Amcon",
-          "acuId": "ECAF558M1",
-          "regular": 930,
-          "sale": 680,
-          "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "6.7L DIGITAL\nAIR FRYER",
-          "model": "H06AFBS2S3",
-          "brand": "Hisense",
-          "acuId": "ECAF67S3H",
-          "regular": 1000,
-          "sale": 730,
-          "features": "Precision Digital Touch Control Panel | 8 Smart-Logic Preset Cooking Programs | Clear-View Window for Visible Cooking | Precision Time & Temperature Control | Safe-to-Touch Ergonomic Cool Handle | Versatile All-in-One Kitchen Helper | Rapid 360° Hot Air Circulation Tech",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "8.0L MECHANICAL\nAIR FRYER",
-          "model": "H08AFBK1S1",
-          "brand": "Hisense",
-          "acuId": "ECAF80S1H",
-          "regular": 900,
-          "sale": 650,
-          "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Precision Time & Temperature Tuning | Sleek & Modern Stylish Finish | Versatile Modes for Convenient Cooking | Robust Build for Daily Kitchen Use | Uniform Heat Distribution Technology",
+          "acuId": "ECSTEAM18LD",
+          "regular": 600,
+          "sale": 400,
+          "features": "Elegant & Modern Sleek Design | Intuitive Touch Control Interface | Bright LED Interactive Display | Large 3-Layer Family Cooking Capacity | Durable BPA-Free Plastic Steamers | Simultaneous Multi-Level Cooking | Precision Timer for Perfect Results",
           "warranty": "1 Year"
         },
         {
@@ -661,6 +551,39 @@
           "regular": 1800,
           "sale": 1300,
           "features": "Versatile 3-Size Loaf Pan Settings",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Electric Cooker",
+          "name": "CONTACT GRILL",
+          "model": "GCG2000SD",
+          "brand": "Gorenje",
+          "acuId": "ECGC2000SD",
+          "regular": 1100,
+          "sale": 800,
+          "features": "Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Integrated Grease Drainage System | Removable Tray for Easy Oil Disposal | Enhanced Auto Shut-Down System | Uniform Heat for Perfect Grilling",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Electric Cooker",
+          "name": "SMOKELESS CONTACT GRILL",
+          "model": "TG1800SB",
+          "brand": "Gorenje",
+          "acuId": "ECTG1800SB",
+          "regular": 1400,
+          "sale": 1000,
+          "features": "Advanced Smokeless Extraction Setup | Precise Variable Heat Control Mode | Premium Non Stick Grill Plates | Integrated Smoke Absorbing Air Inlet | Mechanical Control | Efficient Drip Tray And Fan Cover | Easy To Use And Maintain Design",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Electric Cooker",
+          "name": "VACUUM SEALER",
+          "model": "VS120ES",
+          "brand": "Gorenje",
+          "acuId": "EVS120ES",
+          "regular": 1200,
+          "sale": 880,
+          "features": "Includes 3 Premium Vacuum Canisters | Versatile 0.7L, 1.4L, & 2L Storage | 2 Adjustable Levels of Suction Power | Specialized Dry & Moist Food Settings | Long-Lasting Freshness Preservation | Built-in Accessory Port for Hoses | Sleek & Compact Countertop Design",
           "warranty": "1 Year"
         },
         {
@@ -698,13 +621,139 @@
         },
         {
           "category": "Electric Cooker",
-          "name": "1L ICE CREAM MAKER",
-          "model": "ICM10W",
-          "brand": "Gorenje",
-          "acuId": "ECICM10W",
-          "regular": 2290,
-          "sale": 1680,
-          "features": "Professional Self-Freezing Compressor | Powerful Motor for Creamy Textures | Large Removable Non-Stick Bowl | No Pre-Freezing Required – Ready Fast | Includes Precision Measuring Cup | Ergonomic Spatula for Easy Serving | Sleek & Durable Modern Construction",
+          "name": "ELECTRIC RICE COOKER",
+          "model": "ECRC024LMC",
+          "brand": "Amcon",
+          "acuId": "ECRC024LMC",
+          "regular": 400,
+          "sale": 300,
+          "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | Advanced Aluminum Heating Element | Non-Stick Coated Durable Inner Pot | Sleek & Stylish Modern Exterior | Uniform Heat Distribution Technology | Easy-to-Clean Removable Components",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Electric Cooker",
+          "name": "ELECTRIC RICE COOKER",
+          "model": "WG503-E01",
+          "brand": "Amcon",
+          "acuId": "EC-WG503-E01",
+          "regular": 500,
+          "sale": 370,
+          "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | High-Quality Stainless Steel Housing | Perfect Results for Every Rice Type | Non-Stick Coating for Easy Cleaning | Automatic Keep-Warm Functionality | Simple One-Touch Intuitive Operation",
+          "warranty": "1 Year"
+        }
+      ]
+    },
+    {
+      "category": "Air Fryer",
+      "items": [
+        {
+          "category": "Air Fryer",
+          "name": "2.5L MECHANICAL\nAIR FRYER",
+          "model": "ECAF256M1",
+          "brand": "Amcon",
+          "acuId": "ECAF256M1",
+          "regular": 620,
+          "sale": 450,
+          "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "4.0L MECHANICAL\nAIR FRYER",
+          "model": "ECAF40MG",
+          "brand": "Amcon",
+          "acuId": "ECAF40MG",
+          "regular": 760,
+          "sale": 550,
+          "features": "Durable Mechanical Control Dials | Clear-View Glass Bowl with Handle | Precision Time & Temperature Tuning | Sleek & Elegant Modern Design | Versatile All-in-One Kitchen Helper | Heat-Resistant Easy-Grip Safety Handle | Transparent 360° Cooking Visibility",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "5.5L MECHANICAL\nAIR FRYER",
+          "model": "ECAF558M1",
+          "brand": "Amcon",
+          "acuId": "ECAF558M1",
+          "regular": 930,
+          "sale": 680,
+          "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "2.5L DIGITAL\nAIR FRYER",
+          "model": "ECAF256T",
+          "brand": "Amcon",
+          "acuId": "ECAF256T",
+          "regular": 750,
+          "sale": 550,
+          "features": "High-Power Rapid Heating Element | Precision Digital Touch Control Panel | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Smart-Logic Temperature Sensors | Programmable Delay Start & Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "4.20L DIGITAL\nAIR FRYER",
+          "model": "H04AFBK1S5",
+          "brand": "Hisense",
+          "acuId": "ECAF42S5H",
+          "regular": 630,
+          "sale": 450,
+          "features": "Energy Efficient Rapid Heating System | Spacious 4.2L Cooking Capacity | Advanced Digital LED Touch Panel | Rapid 360 Degree Hot Air Circulation | Automatic Preset Cooking Programs | Precision Time and Temp Adjustment | Healthy Low Fat Frying Technology",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "5.0L DIGITAL\nAIR FRYER",
+          "model": "H05AFBK1S3",
+          "brand": "Hisense",
+          "acuId": "ECAF50S3H",
+          "regular": 730,
+          "sale": 540,
+          "features": "Energy Efficient 1700W Power System | Rapid 360 Degree Hot Air Circulation | Advanced Digital LED Touch Control | 8 Automatic Preset Cooking Programs | Precision 80 To 200 Degree Thermostat | Integrated 60 Minute Digital Timer | Healthy Low Fat Frying Technology",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "5.2L DIGITAL\nAIR FRYER",
+          "model": "ECAF52S1H",
+          "brand": "Hisense",
+          "acuId": "ECAF52S1H",
+          "regular": 800,
+          "sale": 590,
+          "features": "Unique Circular Digital Touch Display | 7 Smart-Logic Preset Cooking Programs | 360° Full Hot Air Circulation Tech | Precision Time & Temperature Control | Rapid Heating for Faster Meal Prep | Versatile All-in-One Kitchen Helper | Easy-to-Clean Non-Stick Components",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "5.5L DIGITAL\nAIR FRYER",
+          "model": "ECAF558T2",
+          "brand": "Amcon",
+          "acuId": "ECAF558T2",
+          "regular": 990,
+          "sale": 730,
+          "features": "High-Power Rapid Heating Element | Precision Digital Touch Control Panel | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Exterior | Non-Stick Surface for Easy Cleaning | Smart-Logic Temperature Sensors | Programmable Delay Start & Timer",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "5.7L DIGITAL\nAIR FRYER",
+          "model": "H06AFBK1S5",
+          "brand": "Hisense",
+          "acuId": "ECAF57S5H",
+          "regular": 690,
+          "sale": 490,
+          "features": "Energy Efficient Rapid Heating System | Spacious 5.7L Cooking Capacity | Advanced Digital LED Touch Panel | Rapid 360 Degree Hot Air Circulation | Smart Automatic Preset Cooking Modes | Precision Time and Temp Adjustment | Healthy Low Fat Frying Technology",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Air Fryer",
+          "name": "6.7L DIGITAL\nAIR FRYER",
+          "model": "H06AFBS2S3",
+          "brand": "Hisense",
+          "acuId": "ECAF67S3H",
+          "regular": 1000,
+          "sale": 730,
+          "features": "Precision Digital Touch Control Panel | 8 Smart-Logic Preset Cooking Programs | Clear-View Window for Visible Cooking | Precision Time & Temperature Control | Safe-to-Touch Ergonomic Cool Handle | Versatile All-in-One Kitchen Helper | Rapid 360° Hot Air Circulation Tech",
           "warranty": "1 Year"
         }
       ]
@@ -3501,6 +3550,18 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/1784/image"
     },
     {
+      "category": "Inverter Air Conditioners",
+      "name": "8.6L DIGITAL\nAIR FRYER",
+      "model": "H09AFBK2S5",
+      "brand": "Hisense",
+      "acuId": "ECAF86S5H",
+      "regular": 1200,
+      "sale": 880,
+      "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5129/image"
+    },
+    {
       "category": "EFM - Air Conditioners",
       "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
       "model": "12TR4RMEDJ01",
@@ -3634,15 +3695,27 @@
     },
     {
       "category": "Electric Cooker",
-      "name": "8.6L DIGITAL\nAIR FRYER",
-      "model": "H09AFBK2S5",
-      "brand": "Hisense",
-      "acuId": "ECAF86S5H",
-      "regular": 1200,
-      "sale": 880,
-      "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
+      "name": "CONTACT GRILL",
+      "model": "GCG2100S",
+      "brand": "Gorenje",
+      "acuId": "ECGC2100S",
+      "regular": 1600,
+      "sale": 1150,
+      "features": "7 Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Intelligent Auto-Cook Sensor Logic | Specialized Healthy Defrost Function | Enhanced Auto Shut-Down System | Uniform Heat Distribution Technology",
       "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/5129/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/19130/image"
+    },
+    {
+      "category": "Electric Cooker",
+      "name": "1L ICE CREAM MAKER",
+      "model": "ICM10W",
+      "brand": "Gorenje",
+      "acuId": "ECICM10W",
+      "regular": 2290,
+      "sale": 1680,
+      "features": "Professional Self-Freezing Compressor | Powerful Motor for Creamy Textures | Large Removable Non-Stick Bowl | No Pre-Freezing Required – Ready Fast | Includes Precision Measuring Cup | Ergonomic Spatula for Easy Serving | Sleek & Durable Modern Construction",
+      "warranty": "1 Year",
+      "imageUrl": ""
     },
     {
       "category": "Electric Cooker",
@@ -3655,6 +3728,66 @@
       "features": "High-Power 3-Burner Rapid Heating | Independent Quad-Zone Cooking | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Heat & Flame Control | Robust Build for Daily Heavy Use",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/1984/image"
+    },
+    {
+      "category": "Electric Cooker",
+      "name": "5.7L DIGITAL \nPRESSURE COOKER",
+      "model": "MC6MBK",
+      "brand": "Gorenje",
+      "acuId": "ECMC5.7L",
+      "regular": 1000,
+      "sale": 730,
+      "features": "Large 5.7L Family-Sized Capacity | Versatile All-in-One Kitchen Appliance | 15 Smart-Logic Preset Programs | Convenient 24-Hour Delay Start Timer | Enhanced Multi-Point Lock System | Non-Stick Inner Pot for Easy Cleaning | Precision Pressure & Temp Control",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/4996/image"
+    },
+    {
+      "category": "Air Fryer",
+      "name": "8.0L MECHANICAL\nAIR FRYER",
+      "model": "H08AFBK1S1",
+      "brand": "Hisense",
+      "acuId": "ECAF80S1H",
+      "regular": 900,
+      "sale": 650,
+      "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Precision Time & Temperature Tuning | Sleek & Modern Stylish Finish | Versatile Modes for Convenient Cooking | Robust Build for Daily Kitchen Use | Uniform Heat Distribution Technology",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19126/image"
+    },
+    {
+      "category": "Air Fryer",
+      "name": "4L DIGITAL\nAIR FRYER",
+      "model": "ECAF40DG",
+      "brand": "Amcon",
+      "acuId": "ECAF40DG",
+      "regular": 800,
+      "sale": 590,
+      "features": "Smart Digital Touch Control Panel | Clear-View Glass Bowl with Handle | Precision Time & Temperature Control | Bright LED Interactive Interface | Versatile Multi-Task Kitchen Helper | Heat-Resistant Easy-Grip Safety Handle | Durable & Transparent Cooking Vessel",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7750/image"
+    },
+    {
+      "category": "Air Fryer",
+      "name": "8.0L DUAL ZONE \nDIGITAL AIR FRYER",
+      "model": "H08AFBK2S1",
+      "brand": "Hisense",
+      "acuId": "ECAF80DZ1H",
+      "regular": 1400,
+      "sale": 1000,
+      "features": "Precision Digital Touch Control Panel | Dual Independent Cooking Baskets | 8 Smart-Logic Preset Programs | Synced Finish & Temperature Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7959/image"
+    },
+    {
+      "category": "Air Fryer",
+      "name": "11L DIGITAL\nAIR FRYER",
+      "model": "H11AFBK2S4",
+      "brand": "Hisense",
+      "acuId": "ECAF11DZ4H",
+      "regular": 1350,
+      "sale": 990,
+      "features": "Digital Dual-Zone Independent Cooking | Clear-View Window for Visible Cooking | Smart Color Touch Control Panel | 8 One-Touch Preset Cooking Programs | Synchronized Finish Logic Technology | Removable Non-Stick Baking Trays | Rapid 360° Hot Air Circulation Tech",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/13161/image"
     },
     {
       "category": "Built-In Appliances",
@@ -4331,18 +4464,6 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/1981/image"
     },
     {
-      "category": "Electric Cooker",
-      "name": "8.0L DUAL ZONE \nDIGITAL AIR FRYER",
-      "model": "H08AFBK2S1",
-      "brand": "Hisense",
-      "acuId": "ECAF80DZ1H",
-      "regular": 1400,
-      "sale": 1000,
-      "features": "Precision Digital Touch Control Panel | Dual Independent Cooking Baskets | 8 Smart-Logic Preset Programs | Synced Finish & Temperature Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation",
-      "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/7959/image"
-    },
-    {
       "category": "Built-In Appliances",
       "name": "248L BUILT-IN FRIDGE",
       "model": "RFN3183I",
@@ -4805,83 +4926,6 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Electric Cooker",
-      "name": "ELECTRIC RICE COOKER",
-      "model": "WG503-E01",
-      "brand": "Amcon",
-      "acuId": "EC-WG503-E01",
-      "regular": 500,
-      "sale": 370,
-      "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | High-Quality Stainless Steel Housing | Perfect Results for Every Rice Type | Non-Stick Coating for Easy Cleaning | Automatic Keep-Warm Functionality | Simple One-Touch Intuitive Operation",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "ELECTRIC RICE COOKER",
-      "model": "ECRC024LMC",
-      "brand": "Amcon",
-      "acuId": "ECRC024LMC",
-      "regular": 400,
-      "sale": 300,
-      "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | Advanced Aluminum Heating Element | Non-Stick Coated Durable Inner Pot | Sleek & Stylish Modern Exterior | Uniform Heat Distribution Technology | Easy-to-Clean Removable Components",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "CONTACT GRILL",
-      "model": "GCG2100S",
-      "brand": "Gorenje",
-      "acuId": "ECGC2100S",
-      "regular": 1600,
-      "sale": 1150,
-      "features": "7 Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Intelligent Auto-Cook Sensor Logic | Specialized Healthy Defrost Function | Enhanced Auto Shut-Down System | Uniform Heat Distribution Technology",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "CONTACT GRILL",
-      "model": "GCG2000SD",
-      "brand": "Gorenje",
-      "acuId": "ECGC2000SD",
-      "regular": 1100,
-      "sale": 800,
-      "features": "Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Integrated Grease Drainage System | Removable Tray for Easy Oil Disposal | Enhanced Auto Shut-Down System | Uniform Heat for Perfect Grilling",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "18L DIGITAL\nELECTRIC STEAMER",
-      "model": "ECSTEAM18LD",
-      "brand": "Amcon",
-      "acuId": "ECSTEAM18LD",
-      "regular": 600,
-      "sale": 400,
-      "features": "Elegant & Modern Sleek Design | Intuitive Touch Control Interface | Bright LED Interactive Display | Large 3-Layer Family Cooking Capacity | Durable BPA-Free Plastic Steamers | Simultaneous Multi-Level Cooking | Precision Timer for Perfect Results",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "5.7L DIGITAL \nPRESSURE COOKER",
-      "model": "MC6MBK",
-      "brand": "Gorenje",
-      "acuId": "ECMC5.7L",
-      "regular": 1000,
-      "sale": 730,
-      "features": "Large 5.7L Family-Sized Capacity | Versatile All-in-One Kitchen Appliance | 15 Smart-Logic Preset Programs | Convenient 24-Hour Delay Start Timer | Enhanced Multi-Point Lock System | Non-Stick Inner Pot for Easy Cleaning | Precision Pressure & Temp Control",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Electric Cooker",
-      "name": "VACUUM SEALER",
-      "model": "VS120ES",
-      "brand": "Gorenje",
-      "acuId": "EVS120ES",
-      "regular": 1200,
-      "sale": 880,
-      "features": "Includes 3 Premium Vacuum Canisters | Versatile 0.7L, 1.4L, & 2L Storage | 2 Adjustable Levels of Suction Power | Specialized Dry & Moist Food Settings | Long-Lasting Freshness Preservation | Built-in Accessory Port for Hoses | Sleek & Compact Countertop Design",
-      "warranty": "1 Year"
-    },
-    {
       "category": "Sandwich Makers",
       "name": "3 IN 1 SANDWICH MAKER",
       "model": "HSM703GCG",
@@ -5262,7 +5306,8 @@
     "Blenders": "5m2f",
     "Freezers": "10m1f",
     "CLEANING": "5m2f",
-    "Electric Cooker": "10m1f",
+    "Electric Cooker": "5m2f",
+    "Air Fryer": "5m2f",
     "Fan": "10m1f",
     "Refrigerators": "10m1f",
     "Gas Cooker": "10m1f",
@@ -5295,6 +5340,7 @@
     "Freezers",
     "CLEANING",
     "Electric Cooker",
+    "Air Fryer",
     "Built-In Appliances",
     "Sandwich Makers",
     "Fan",
