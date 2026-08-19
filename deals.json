@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T07:54:30.314Z",
+  "generatedAt": "2026-08-19T07:55:32.861Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -2838,6 +2838,17 @@
         {
           "category": "AMCON DSTV",
           "name": "43” DIGITAL SATELLITE\nTELEVISION",
+          "model": "NAMCH43M10P",
+          "brand": "Amcon",
+          "acuId": "AMCH43DSTV",
+          "regular": 2500,
+          "sale": 1600,
+          "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "AMCON DSTV",
+          "name": "43” DIGITAL SATELLITE\nTELEVISION",
           "model": "HE43M2160HTSQI",
           "brand": "Amcon",
           "acuId": "TVAM43DSTV",
@@ -2892,13 +2903,13 @@
         },
         {
           "category": "AMCON DSTV",
-          "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
-          "model": "43B7101UWSQO",
+          "name": "50'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
+          "model": "50B7101UWSQO",
           "brand": "Amcon",
-          "acuId": "TVAM43ANDSTV",
-          "regular": 3200,
-          "sale": 2300,
-          "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet",
+          "acuId": "TVAM50ANDS4KTV",
+          "regular": null,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Pre-Installed Netflix & Streaming Apps | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
           "warranty": "3 Years"
         },
         {
@@ -3966,13 +3977,13 @@
     },
     {
       "category": "AMCON DSTV",
-      "name": "43” DIGITAL SATELLITE\nTELEVISION",
-      "model": "NAMCH43M10P",
+      "name": "43'' DIGITAL SATELLITE \nANDROID TELEVISION",
+      "model": "43B7101UWSQO",
       "brand": "Amcon",
-      "acuId": "AMCH43DSTV",
-      "regular": 2500,
-      "sale": 1600,
-      "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports",
+      "acuId": "TVAM43ANDSTV",
+      "regular": 3200,
+      "sale": 2300,
+      "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet",
       "warranty": "3 Years"
     },
     {
@@ -4383,17 +4394,6 @@
       "sale": 159900,
       "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
       "warranty": "5 Years"
-    },
-    {
-      "category": "AMCON DSTV",
-      "name": "50'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
-      "model": "50B7101UWSQO",
-      "brand": "Amcon",
-      "acuId": "TVAM50ANDS4KTV",
-      "regular": null,
-      "sale": null,
-      "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Pre-Installed Netflix & Streaming Apps | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
-      "warranty": "3 Years"
     },
     {
       "category": "Television - Amcon",
