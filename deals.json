@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T09:03:47.858Z",
+  "generatedAt": "2026-08-19T09:04:53.752Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -3594,18 +3594,6 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/1784/image"
     },
     {
-      "category": "Inverter Air Conditioners",
-      "name": "8.6L DIGITAL\nAIR FRYER",
-      "model": "H09AFBK2S5",
-      "brand": "Hisense",
-      "acuId": "ECAF86S5H",
-      "regular": 1200,
-      "sale": 880,
-      "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
-      "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/5129/image"
-    },
-    {
       "category": "EFM - Air Conditioners",
       "name": "1.5HP SPLIT INVERTER \n(EFM) AIR CONDITIONER",
       "model": "12TR4RMEDJ01",
@@ -3823,15 +3811,15 @@
     },
     {
       "category": "Air Fryer",
-      "name": "11L DIGITAL\nAIR FRYER",
-      "model": "H11AFBK2S4",
+      "name": "8.6L DIGITAL\nAIR FRYER",
+      "model": "H09AFBK2S5",
       "brand": "Hisense",
-      "acuId": "ECAF11DZ4H",
-      "regular": 1350,
-      "sale": 990,
-      "features": "Digital Dual-Zone Independent Cooking | Clear-View Window for Visible Cooking | Smart Color Touch Control Panel | 8 One-Touch Preset Cooking Programs | Synchronized Finish Logic Technology | Removable Non-Stick Baking Trays | Rapid 360° Hot Air Circulation Tech",
+      "acuId": "ECAF86S5H",
+      "regular": 1200,
+      "sale": 880,
+      "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
       "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/13161/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/5129/image"
     },
     {
       "category": "Built-In Appliances",
@@ -4626,6 +4614,18 @@
       "features": "Powerful 900W High-Efficiency Motor | Extra-Large 5L Net Cooking Capacity | Smart Digital Touch Control Panel | Professional Stainless Steel Finish | Non-Stick Pot for Effortless Cleaning | Precision Heating for Perfect Rice | Multiple Smart-Logic Cooking Modes",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/1981/image"
+    },
+    {
+      "category": "Air Fryer",
+      "name": "11L DIGITAL\nAIR FRYER",
+      "model": "H11AFBK2S4",
+      "brand": "Hisense",
+      "acuId": "ECAF11DZ4H",
+      "regular": 1350,
+      "sale": 990,
+      "features": "Digital Dual-Zone Independent Cooking | Clear-View Window for Visible Cooking | Smart Color Touch Control Panel | 8 One-Touch Preset Cooking Programs | Synchronized Finish Logic Technology | Removable Non-Stick Baking Trays | Rapid 360° Hot Air Circulation Tech",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/13161/image"
     },
     {
       "category": "Built-In Appliances",
