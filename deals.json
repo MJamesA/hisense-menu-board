@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:40:57.332Z",
+  "generatedAt": "2026-08-19T08:47:27.940Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -2508,6 +2508,28 @@
         },
         {
           "category": "Sound Systems",
+          "name": "BLACK WIRELESS \nBLUETOOTH SPEAKER",
+          "model": "SEUF01BK",
+          "brand": "Amcon",
+          "acuId": "SEUF01BK",
+          "regular": 550,
+          "sale": 400,
+          "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "DARK GREY WIRELESS\nBLUETOOTH SPEAKER",
+          "model": "SEUF01DG",
+          "brand": "Amcon",
+          "acuId": "SEUF01DG",
+          "regular": 550,
+          "sale": 400,
+          "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Sound Systems",
           "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
           "model": "11000-G21",
           "brand": "VKER",
@@ -2563,17 +2585,6 @@
         },
         {
           "category": "Sound Systems",
-          "name": "2.2 MULTIMEDIA SPEAKER \nSYSTEM WITH SUBWOOFER",
-          "model": "722-XA900N",
-          "brand": "VKER",
-          "acuId": "SSV722-XA900N",
-          "regular": 7500,
-          "sale": 5480,
-          "features": "Unique Two-in-One Full Operating Sound System | Dual (2) Professional Wireless Microphones | Advanced Dual Bluetooth Audio Streaming | Precision Crystal-Clear High-Fidelity Audio | HDMI ARC & High-Speed Optical Digital Inputs | Integrated FM Radio & USB/Memory Card Playback | Dynamic Multi-Color Integrated LED Speaker Lights | Dedicated Microphone Input for Extra Connectivity | High-Visibility LED Display & Multi-Source Support",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
           "name": "2.0CH MULTIMEDIA \nSPEAKER SYSTEM",
           "model": "L2600 - Y3",
           "brand": "VKER",
@@ -2592,6 +2603,17 @@
           "regular": 6700,
           "sale": 4900,
           "features": "Integrated DVD Player with Video Output | Universal Wireless Smartphone Charging Platform | Anti-Slip Safety Pad for Charging Platform | Dynamic Amp & Speaker Flashing LED Lights | High-Fidelity Optical Digital Audio Input | Advanced Bluetooth Wireless Connectivity | Professional Multi-Band Equalizer System | Independent Bass & Treble Tuning Controls | HDMI Video Output & USB Media Playback",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "PROFESSIONAL PA \nSPEAKER SYSTEM",
+          "model": "PA300A",
+          "brand": "VKER",
+          "acuId": "SSVPA300A",
+          "regular": 6800,
+          "sale": 4970,
+          "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
           "warranty": "3 Years"
         }
       ]
@@ -2798,17 +2820,6 @@
         },
         {
           "category": "HISENSE MINILED",
-          "name": "55” SMART ULTRA PREMIUM \nMINI-LED 4K TELEVISION",
-          "model": "55U7K",
-          "brand": "Hisense",
-          "acuId": "55SMUPMLEDTV",
-          "regular": 9900,
-          "sale": 7200,
-          "features": "Elegant Slim Design with Quality Bass Boost | 4K ULED HDR+ for Flagship Picture Quality | Intelligent Dolby Vision IQ Light Optimization | Dolby Vision Atmos Surround Sound | Mobile Music Playback via TV Sound Output | Wireless Cast Feature & Bluetooth Streaming | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | Optical Audio Output & Headphone Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE MINILED",
           "name": "65” SMART DIGITAL 4K\nMINI-LED TELEVISION",
           "model": "65U6Q PRO",
           "brand": "Hisense",
@@ -2817,28 +2828,6 @@
           "sale": 7600,
           "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
           "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE MINILED",
-          "name": "65” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
-          "model": "65SMPMLEDTV",
-          "brand": "Hisense",
-          "acuId": "65SMPMLEDTV",
-          "regular": 13000,
-          "sale": 10500,
-          "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE MINILED",
-          "name": "75”SMART DIGITAL 8K \nMINI-LED PRO TELEVISION",
-          "model": "75U80H",
-          "brand": "Hisense",
-          "acuId": "75SMDMLED8KTV",
-          "regular": 42500,
-          "sale": 28000,
-          "features": "Ultra-High-Definition Native 8K Resolution | 8K AI Upscaler & Hi-View Engine Pro | Dolby Vision IQ & Dolby Atmos Surround Sound | Professional 8K Ultra-HD Game Mode Pro | Integrated Quality Bass Boost Audio System | Apple AirPlay & Bluetooth Wireless Streaming | High-Speed Dual-Band WiFi & LAN Ethernet | Quad (4) HDMI & Dual (2) USB Connectivity | Digital TV Reception & Multi-Source Inputs",
-          "warranty": "3 Years"
         },
         {
           "category": "HISENSE MINILED",
@@ -2864,17 +2853,6 @@
         },
         {
           "category": "HISENSE MINILED",
-          "name": "85” SMART DIGITAL 4K\nMINI-LED TELEVISION",
-          "model": "85U6N-PRO",
-          "brand": "Hisense",
-          "acuId": "85SMDMLEDTV",
-          "regular": 19500,
-          "sale": 14000,
-          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE MINILED",
           "name": "85'' SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
           "model": "85U7Q",
           "brand": "Hisense",
@@ -2882,6 +2860,28 @@
           "regular": 25000,
           "sale": 18000,
           "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ & Atmos | Vibrant Quantum Dot Colour Technology | Professional 144Hz Game Mode Pro | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed WiFi & Bluetooth | Mobile Music Playback via TV Sound Output | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
+          "model": "110UXNQ",
+          "brand": "Hisense",
+          "acuId": "110SMDSMLEDXTV",
+          "regular": 185000,
+          "sale": 138000,
+          "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE MINILED",
+          "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
+          "model": "116UX",
+          "brand": "Hisense",
+          "acuId": "116SMDSTMLEDX4KTV",
+          "regular": 250000,
+          "sale": 159900,
+          "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
           "warranty": "5 Years"
         }
       ]
@@ -4276,6 +4276,42 @@
     },
     {
       "category": "HISENSE MINILED",
+      "name": "55” SMART ULTRA PREMIUM \nMINI-LED 4K TELEVISION",
+      "model": "55U7K",
+      "brand": "Hisense",
+      "acuId": "55SMUPMLEDTV",
+      "regular": 9900,
+      "sale": 7200,
+      "features": "Elegant Slim Design with Quality Bass Boost | 4K ULED HDR+ for Flagship Picture Quality | Intelligent Dolby Vision IQ Light Optimization | Dolby Vision Atmos Surround Sound | Mobile Music Playback via TV Sound Output | Wireless Cast Feature & Bluetooth Streaming | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | Optical Audio Output & Headphone Connectivity",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7734/image"
+    },
+    {
+      "category": "HISENSE MINILED",
+      "name": "65” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+      "model": "65SMPMLEDTV",
+      "brand": "Hisense",
+      "acuId": "65SMPMLEDTV",
+      "regular": 13000,
+      "sale": 10500,
+      "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output",
+      "warranty": "5 Years",
+      "imageUrl": ""
+    },
+    {
+      "category": "HISENSE MINILED",
+      "name": "85” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+      "model": "85U6N-PRO",
+      "brand": "Hisense",
+      "acuId": "85SMDMLEDTV",
+      "regular": 19500,
+      "sale": 14000,
+      "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6597/image"
+    },
+    {
+      "category": "HISENSE MINILED",
       "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
       "model": "100E80KAVS",
       "brand": "Hisense",
@@ -4686,27 +4722,15 @@
     },
     {
       "category": "Sound Systems",
-      "name": "2.0CH RECHARGEABLE  WIRELESS PARTY ROCKER",
-      "model": "HP110",
-      "brand": "Hisense",
-      "acuId": "SSHP110",
-      "regular": 3700,
-      "sale": 2700,
-      "features": "High Energy Efficiency For Power Savings | Powerful 300W Max Audio Performance | Fast Bluetooth Wireless Audio Streaming | Advanced Bass Boost Sound Technology | Dual 5.25 Inch Woofers And Tweeters | Dynamic Flashing LED Light Effects | Versatile Karaoke And Guitar Inputs | Professional EQ Adjustment Settings | Clear LED Display For Easy Navigation",
-      "warranty": "3 Years",
-      "imageUrl": ""
-    },
-    {
-      "category": "Sound Systems",
-      "name": "PROFESSIONAL PA \nSPEAKER SYSTEM",
-      "model": "PA300A",
+      "name": "2.2 MULTIMEDIA SPEAKER \nSYSTEM WITH SUBWOOFER",
+      "model": "722-XA900N",
       "brand": "VKER",
-      "acuId": "SSVPA300A",
-      "regular": 6800,
-      "sale": 4970,
-      "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
+      "acuId": "SSV722-XA900N",
+      "regular": 7500,
+      "sale": 5480,
+      "features": "Unique Two-in-One Full Operating Sound System | Dual (2) Professional Wireless Microphones | Advanced Dual Bluetooth Audio Streaming | Precision Crystal-Clear High-Fidelity Audio | HDMI ARC & High-Speed Optical Digital Inputs | Integrated FM Radio & USB/Memory Card Playback | Dynamic Multi-Color Integrated LED Speaker Lights | Dedicated Microphone Input for Extra Connectivity | High-Visibility LED Display & Multi-Source Support",
       "warranty": "3 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/18785/image"
     },
     {
       "category": "Televisions",
@@ -4722,27 +4746,15 @@
     },
     {
       "category": "HISENSE MINILED",
-      "name": "110\" SMART DIGITAL 4K\nMINI-LED X TELEVISION",
-      "model": "110UXNQ",
+      "name": "75”SMART DIGITAL 8K \nMINI-LED PRO TELEVISION",
+      "model": "75U80H",
       "brand": "Hisense",
-      "acuId": "110SMDSMLEDXTV",
-      "regular": 185000,
-      "sale": 138000,
-      "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
-      "warranty": "5 Years",
-      "imageUrl": ""
-    },
-    {
-      "category": "HISENSE MINILED",
-      "name": "116\" SMART 4K TRICHROMA\nMINI-LED X TELEVISION",
-      "model": "116UX",
-      "brand": "Hisense",
-      "acuId": "116SMDSTMLEDX4KTV",
-      "regular": 250000,
-      "sale": 159900,
-      "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
-      "warranty": "5 Years",
-      "imageUrl": ""
+      "acuId": "75SMDMLED8KTV",
+      "regular": 42500,
+      "sale": 28000,
+      "features": "Ultra-High-Definition Native 8K Resolution | 8K AI Upscaler & Hi-View Engine Pro | Dolby Vision IQ & Dolby Atmos Surround Sound | Professional 8K Ultra-HD Game Mode Pro | Integrated Quality Bass Boost Audio System | Apple AirPlay & Bluetooth Wireless Streaming | High-Speed Dual-Band WiFi & LAN Ethernet | Quad (4) HDMI & Dual (2) USB Connectivity | Digital TV Reception & Multi-Source Inputs",
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6733/image"
     },
     {
       "category": "Television - Amcon",
@@ -5268,28 +5280,6 @@
       "warranty": ""
     },
     {
-      "category": "Sound Systems",
-      "name": "BLACK WIRELESS \nBLUETOOTH SPEAKER",
-      "model": "SEUF01BK",
-      "brand": "Amcon",
-      "acuId": "SEUF01BK",
-      "regular": 550,
-      "sale": 400,
-      "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Sound Systems",
-      "name": "DARK GREY WIRELESS\nBLUETOOTH SPEAKER",
-      "model": "SEUF01DG",
-      "brand": "Amcon",
-      "acuId": "SEUF01DG",
-      "regular": 550,
-      "sale": 400,
-      "features": "Powerful 22W Speaker & TWS plus Deep Bass | Stable Bluetooth 5.3 Connectivity | Durable IPX5 Waterproof Protection | 7-Hour Playtime Battery with Type-C Charging | Vibrant Multi-Color LED Light Modes | Smart LED Display with Alarm Clock | Versatile Bluetooth & AUX Audio Inputs",
-      "warranty": "1 Year"
-    },
-    {
       "category": "Toasters",
       "name": "2-SLOT SILVER\nELECTRIC TOASTER",
       "model": "T1000S",
@@ -5331,6 +5321,17 @@
       "regular": 500,
       "sale": 370,
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern White Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Toasters",
+      "name": "4-SLOT WHITE\nELECTRIC TOASTER",
+      "model": "T2300CLIN",
+      "brand": "Gorenje",
+      "acuId": "TST230CLIN",
+      "regular": 1200,
+      "sale": 890,
+      "features": "Classico Collection | Large Four Slice Capacity At Once | Easy Lift and Lock Lever Setup | 7 Adjustable Browning Precision Settings | Convenient Instant Cancel Button Control | Effortless Removable Crumb Trays Setup | Efficient 2300W Rapid Toasting Power",
       "warranty": "1 Year"
     },
     {
@@ -5397,7 +5398,7 @@
     "Sound Systems": "10m1f",
     "Televisions": "5m2f",
     "HISENSE QLED": "5m2f",
-    "HISENSE MINILED": "10m1f",
+    "HISENSE MINILED": "5m2f",
     "AMCON DSTV": "10m1f",
     "AMCON QLED": "5m2f",
     "Toshiba TVs": "5m2f",
