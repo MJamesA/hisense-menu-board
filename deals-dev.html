@@ -99,14 +99,14 @@
   .fpanel-now { font-family:'Archivo'; font-weight:900; font-size:62px; line-height:.85; color:var(--pi); white-space:nowrap; }
   .fpanel-now .cur { font-size:30px; vertical-align:12px; margin-right:3px; }
 
-  .card { min-height:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
-    border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 20px;
+  .card { min-height:0; min-width:0; background:linear-gradient(180deg,var(--cream),#ece3cf);
+    border-radius:11px; display:flex; align-items:center; gap:14px; padding:0 20px; overflow:hidden;
     box-shadow:0 4px 0 rgba(0,0,0,.25), inset 0 2px 0 rgba(255,255,255,.5); }
   .c-body { flex:1 1 auto; min-width:0; }
   .c-name { font-weight:900; font-size:22px; line-height:1.04; color:var(--ink); text-transform:uppercase;
     overflow:hidden; text-overflow:ellipsis; display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; }
   .c-sub { margin-top:5px; display:flex; align-items:center; gap:8px; min-width:0; }
-  .c-model { font-size:13px; font-weight:700; color:var(--muted); letter-spacing:1px;
+  .c-model { min-width:0; font-size:13px; font-weight:700; color:var(--muted); letter-spacing:1px;
     text-transform:uppercase; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
   .c-war { flex:0 0 auto; font-size:11px; font-weight:900; letter-spacing:.5px; color:var(--teal-deep);
     background:rgba(14,143,131,.13); border:1px solid rgba(14,143,131,.34); padding:2px 7px;
@@ -534,6 +534,19 @@ function odooImgBox(boxClass, model, imageUrl){
   return `<div class="${boxClass}${src ? ' has-img' : ''}">${inner}</div>`;
 }
 
+// Shrink the header title font until it fits its slot, so a long promo title isn't
+// cut off with an ellipsis. Falls back to ellipsis only past the minimum size.
+function fitTitle(el) {
+  if (!el) return;
+  el.style.fontSize = '';
+  let size = parseFloat(getComputedStyle(el).fontSize) || 54;
+  let guard = 0;
+  while (el.scrollWidth > el.clientWidth + 1 && size > 26 && guard++ < 40) {
+    size -= 2;
+    el.style.fontSize = size + 'px';
+  }
+}
+
 function showPage(idx) {
   if (!PAGES.length) return;
   const newIndex = ((idx % PAGES.length) + PAGES.length) % PAGES.length;
@@ -550,6 +563,7 @@ function showPage(idx) {
   incoming.className = 'page' + (teal ? ' stage-teal' : '');
   incoming.innerHTML = renderPage(page);
   stageEl.appendChild(incoming);
+  fitTitle(incoming.querySelector('.title'));   // shrink long titles to fit (no ellipsis cut)
   void incoming.offsetWidth;
   incoming.classList.add('is-active');
   stageEl.querySelectorAll('.page').forEach(l => {
