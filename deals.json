@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T07:53:08.963Z",
+  "generatedAt": "2026-08-19T07:54:30.314Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -2585,13 +2585,24 @@
       "items": [
         {
           "category": "HISENSE QLED",
-          "name": "32” DIGITAL SATELLITE \nSMART QLED TELEVISION",
-          "model": "32A5Q",
+          "name": "32” DIGITAL SMART \nQLED TELEVISION",
+          "model": "#N/A",
           "brand": "Hisense",
-          "acuId": "32SMDSQLEDTV",
-          "regular": 2800,
+          "acuId": "32SMDQLEDTV",
+          "regular": 2750,
           "sale": 1950,
-          "features": "Full HD 1080p Resolution with HDR10 | Advanced VIDAA Smart Voice Assistance | Cinema-Grade Dolby Atmos Audio Support | High-Speed Dual-Band WiFi & LAN Ethernet | Game Mode Plus for Ultra-Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | High-Speed Optical & Headphone Audio Outs",
+          "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "40” DIGITAL SMART \nQLED TELEVISION",
+          "model": "#N/A",
+          "brand": "Hisense",
+          "acuId": "40SMDQLEDTV",
+          "regular": 3590,
+          "sale": 2500,
+          "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
           "warranty": "5 Years"
         },
         {
@@ -2607,13 +2618,13 @@
         },
         {
           "category": "HISENSE QLED",
-          "name": "43” SMART DIGITAL\nQLED TELEVISION",
+          "name": "50” SMART DIGITAL \n4K QLED TELEVISION",
           "model": "#N/A",
           "brand": "Hisense",
-          "acuId": "43SMDQLEDTV",
-          "regular": 4300,
-          "sale": 2800,
-          "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
+          "acuId": "50SMQLED4KTV",
+          "regular": 4600,
+          "sale": 3300,
+          "features": "Sleek & Modern Frameless Panel Design | Smart QLED 4K Display | Quantum Dot Color Technology | Ultra Slim Modern Design | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI And USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
           "warranty": "5 Years"
         },
         {
@@ -2662,17 +2673,6 @@
         },
         {
           "category": "HISENSE QLED",
-          "name": "75” SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
-          "model": "75Q7Q",
-          "brand": "Hisense",
-          "acuId": "75SMPQLED4KTV",
-          "regular": 14500,
-          "sale": 10600,
-          "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE QLED",
           "name": "85'' SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
           "model": "85Q7Q",
           "brand": "Hisense",
@@ -2691,39 +2691,6 @@
           "regular": 9500,
           "sale": 7300,
           "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE QLED",
-          "name": "50” SMART DIGITAL \n4K QLED TELEVISION",
-          "model": "#N/A",
-          "brand": "Hisense",
-          "acuId": "50SMQLED4KTV",
-          "regular": 4600,
-          "sale": 3300,
-          "features": "Sleek & Modern Frameless Panel Design | Smart QLED 4K Display | Quantum Dot Color Technology | Ultra Slim Modern Design | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI And USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE QLED",
-          "name": "40” DIGITAL SMART \nQLED TELEVISION",
-          "model": "#N/A",
-          "brand": "Hisense",
-          "acuId": "40SMDQLEDTV",
-          "regular": 3590,
-          "sale": 2500,
-          "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "HISENSE QLED",
-          "name": "32” DIGITAL SMART \nQLED TELEVISION",
-          "model": "#N/A",
-          "brand": "Hisense",
-          "acuId": "32SMDQLEDTV",
-          "regular": 2750,
-          "sale": 1950,
-          "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
           "warranty": "5 Years"
         }
       ]
@@ -3944,6 +3911,39 @@
     },
     {
       "category": "HISENSE QLED",
+      "name": "32” DIGITAL SATELLITE \nSMART QLED TELEVISION",
+      "model": "32A5Q",
+      "brand": "Hisense",
+      "acuId": "32SMDSQLEDTV",
+      "regular": 2800,
+      "sale": 1950,
+      "features": "Full HD 1080p Resolution with HDR10 | Advanced VIDAA Smart Voice Assistance | Cinema-Grade Dolby Atmos Audio Support | High-Speed Dual-Band WiFi & LAN Ethernet | Game Mode Plus for Ultra-Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | High-Speed Optical & Headphone Audio Outs",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "HISENSE QLED",
+      "name": "43” SMART DIGITAL\nQLED TELEVISION",
+      "model": "#N/A",
+      "brand": "Hisense",
+      "acuId": "43SMDQLEDTV",
+      "regular": 4300,
+      "sale": 2800,
+      "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "HISENSE QLED",
+      "name": "75” SMART DIGITAL 4K\nPREMIUM QLED TELEVISION",
+      "model": "75Q7Q",
+      "brand": "Hisense",
+      "acuId": "75SMPQLED4KTV",
+      "regular": 14500,
+      "sale": 10600,
+      "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "HISENSE QLED",
       "name": "100'' SMART DIGITAL 4K \nPREMIUM QLED TELEVISION",
       "model": "100E75LEVS",
       "brand": "Hisense",
@@ -5118,7 +5118,7 @@
     "Showcases": "5m2f",
     "Sound Systems": "10m1f",
     "Televisions": "5m2f",
-    "HISENSE QLED": "10m1f",
+    "HISENSE QLED": "5m2f",
     "HISENSE MINILED": "10m1f",
     "AMCON DSTV": "10m1f",
     "AMCON QLED": "5m2f",
