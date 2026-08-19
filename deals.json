@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T08:58:32.994Z",
+  "generatedAt": "2026-08-19T09:01:25.522Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -2162,17 +2162,6 @@
         },
         {
           "category": "Showcases",
-          "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
-          "model": "FL-50FC4SA",
-          "brand": "Hisense",
-          "acuId": "382LDFW",
-          "regular": 7200,
-          "sale": 5800,
-          "features": "High-Performance Energy Efficiency | Forced Air-Ventilation Technology | Anti-Condensation Glass System | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Heavy-Duty Adjustable Shelving | Internal LED Visibility Lighting | Integrated Lock and Key Security | Eco-Friendly Refrigerant System",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Showcases",
           "name": "518L SHOWCASE\nCHEST FREEZER",
           "model": "FL-67DD4HA",
           "brand": "Hisense",
@@ -2190,6 +2179,17 @@
           "acuId": "930LDFB",
           "regular": 14500,
           "sale": 11800,
+          "features": "High Performance Energy Efficiency | Commercial Showcase Display Design | Sleek Blue Exterior Finish | Double Layered Tempered Glass Door | Forced Air Ventilation System | Defrost Water Self Evaporating System | Heavy Duty Adjustable Shelving | Internal LED Visibility Lighting | Eco-Friendly R290 Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Showcases",
+          "name": "1230L SHOWCASE \nDOUBLE DOOR FRIDGE",
+          "model": "FL-160WC",
+          "brand": "Hisense",
+          "acuId": "1230LDFB",
+          "regular": 16900,
+          "sale": 13800,
           "features": "High Performance Energy Efficiency | Commercial Showcase Display Design | Sleek Blue Exterior Finish | Double Layered Tempered Glass Door | Forced Air Ventilation System | Defrost Water Self Evaporating System | Heavy Duty Adjustable Shelving | Internal LED Visibility Lighting | Eco-Friendly R290 Refrigerant Gas",
           "warranty": "5 Years"
         }
@@ -4111,15 +4111,15 @@
     },
     {
       "category": "Showcases",
-      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
-      "model": "FL-81WC",
+      "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
+      "model": "FL-50FC4SA",
       "brand": "Hisense",
-      "acuId": "620LDFB",
-      "regular": 11990,
-      "sale": 9400,
-      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
+      "acuId": "382LDFW",
+      "regular": 7200,
+      "sale": 5800,
+      "features": "High-Performance Energy Efficiency | Forced Air-Ventilation Technology | Anti-Condensation Glass System | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Heavy-Duty Adjustable Shelving | Internal LED Visibility Lighting | Integrated Lock and Key Security | Eco-Friendly Refrigerant System",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/7796/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/1693/image"
     },
     {
       "category": "Sound Systems",
@@ -4737,15 +4737,15 @@
     },
     {
       "category": "Showcases",
-      "name": "1230L SHOWCASE \nDOUBLE DOOR FRIDGE",
-      "model": "FL-160WC",
+      "name": "620L SHOWCASE \nDOUBLE DOOR FRIDGE",
+      "model": "FL-81WC",
       "brand": "Hisense",
-      "acuId": "1230LDFB",
-      "regular": 16900,
-      "sale": 13800,
-      "features": "High Performance Energy Efficiency | Commercial Showcase Display Design | Sleek Blue Exterior Finish | Double Layered Tempered Glass Door | Forced Air Ventilation System | Defrost Water Self Evaporating System | Heavy Duty Adjustable Shelving | Internal LED Visibility Lighting | Eco-Friendly R290 Refrigerant Gas",
+      "acuId": "620LDFB",
+      "regular": 11990,
+      "sale": 9400,
+      "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
       "warranty": "5 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/7796/image"
     },
     {
       "category": "Sound Systems",
