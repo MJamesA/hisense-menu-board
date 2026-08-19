@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T07:05:19.213Z",
+  "generatedAt": "2026-08-19T07:39:35.628Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -216,17 +216,6 @@
         },
         {
           "category": "Blenders",
-          "name": "KITCHEN MACHINE + \nFOOD PROCESSOR",
-          "model": "MMC1500",
-          "brand": "Gorenje",
-          "acuId": "MMC1500BK6.7L",
-          "regular": 3200,
-          "sale": 2350,
-          "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Blenders",
           "name": "KITCHEN MIXER MACHINE",
           "model": "MMC800CW",
           "brand": "Gorenje",
@@ -249,17 +238,6 @@
         },
         {
           "category": "Blenders",
-          "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
-          "model": "BLC2880S",
-          "brand": "Amcon",
-          "acuId": "BLC2880S",
-          "regular": 2500,
-          "sale": 1850,
-          "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Blenders",
           "name": "MECHANICAL BLENDER \n2.0L DT-767",
           "model": "DT-767",
           "brand": "Amcon",
@@ -268,17 +246,6 @@
           "sale": 700,
           "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
           "warranty": "2 Years"
-        },
-        {
-          "category": "Blenders",
-          "name": "DIGITAL BLENDER \n2.2L DT-780",
-          "model": "DT-780",
-          "brand": "Amcon",
-          "acuId": "BL DT-780",
-          "regular": 1250,
-          "sale": 850,
-          "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
-          "warranty": "1 Year"
         },
         {
           "category": "Blenders",
@@ -311,6 +278,39 @@
           "regular": 2390,
           "sale": 1750,
           "features": "Massive 23L Industrial Capacity Jar | Powerful 1680W Commercial-Grade Motor | Integrated Easy-Pour Discharge Tap | Heavy-Duty Manual Mechanical Control | Instant Pulse for Precision Textures | Secure Leak-Resistant Seal Lid | Stable Non-Slip Rubber Grip Feet",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "DIGITAL BLENDER 2L 1500W",
+          "model": "BP1500DE",
+          "brand": "Gorenje",
+          "acuId": "B1500DE2.0L",
+          "regular": 1890,
+          "sale": 1390,
+          "features": "Ultra Powerful 1500W Performance | Large 2L Premium Tritan Jar | Super Silent Operation Function | Smart Digital Touch Control Panel | Six Leaves Stainless Steel Blade | Five Preset Program Options | Efficient Pulse Self Clean Mode",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "FOOD PROCESSOR",
+          "model": "SBR1500E",
+          "brand": "Gorenje",
+          "acuId": "BFPMC1500E",
+          "regular": 1890,
+          "sale": 1380,
+          "features": "Powerful 1500W High Performance Motor | Innovative Fusion Mode Technology | Comprehensive Multi Jar Capacity Setup | 2.0L Main Food Processor Bowl & 1.75L Plastic Blending Jar | 700mL Portable Sports Blender | Extensive Precision Cutting Prep Attachments | 10 Speed Intuitive Control & Programs",
+          "warranty": "1 Year"
+        },
+        {
+          "category": "Blenders",
+          "name": "MULTIFUNCTIONAL MEAT GRINDER",
+          "model": "MG1701SB",
+          "brand": "Gorenje",
+          "acuId": "BMG1701SB",
+          "regular": 1150,
+          "sale": 840,
+          "features": "Powerful 1700W Motor Performance | Integrated Food Pusher Auger | Convenient On & Off Reverse Functional Knob | Safety Lock Protection Base Unit | Durable Stainless Steel Cutting Blade | Versatile Dual Grinding Plates Included | Advanced Slicing Shredding Attachment",
           "warranty": "1 Year"
         }
       ]
@@ -868,6 +868,17 @@
         },
         {
           "category": "Refrigerators",
+          "name": "46 BOTTLE\nWINE COOLER",
+          "model": "RW3N122GSLF",
+          "brand": "Hisense",
+          "acuId": "FC46BB",
+          "regular": 6200,
+          "sale": 4500,
+          "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerators",
           "name": "45L MINI BAR FRIDGE",
           "model": "RS-06DR4SA",
           "brand": "Hisense",
@@ -1132,17 +1143,6 @@
         },
         {
           "category": "Refrigerators",
-          "name": "302L DOUBLE DOOR FRIDGE",
-          "model": "RD-39DR4SA",
-          "brand": "Hisense",
-          "acuId": "302LRFGS",
-          "regular": null,
-          "sale": null,
-          "features": "Double Door Fridge-Freezer | Modern Top-Mounted Freezer Layout | Energy Efficient & Cost-Saving System | Bright & Clear Interior LED Lighting | Dual Grip & Recessed Handle Design | Durable & Flexible Glass Shelves | Sleek & Modern Silver Exterior Finish | Eco-Friendly R600a Gas | Reliable Manual Defrost Technology",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "305L DOUBLE DOOR FRIDGE",
           "model": "RT305N1EG1",
           "brand": "Hisense",
@@ -1242,13 +1242,13 @@
         },
         {
           "category": "Refrigerators",
-          "name": "518L SIDE-BY-SIDE FRIDGE",
-          "model": "RC-67WS4SA",
+          "name": "510L DOUBLE DOOR \nINVERTER FRIDGE",
+          "model": "RD-66WR4SA",
           "brand": "Hisense",
-          "acuId": "518LRFGS",
-          "regular": null,
-          "sale": null,
-          "features": "Sleek Side-by-Side Design | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Precise Temperature Control | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
+          "acuId": "510LRFGS",
+          "regular": 8250,
+          "sale": 6300,
+          "features": "Durable Inverter Technology | Energy Efficient System | Multi Air Flow Cooling System | Fresh Zone & No-Frost Freezer | Large Fruit & Vegetable Crisper | Spill-Proof Glass Shelves | Precision Temperature Control | Low Noise and  LED Interior Lighting | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
         {
@@ -3101,6 +3101,66 @@
       ]
     },
     {
+      "category": "Laser TVs",
+      "items": [
+        {
+          "category": "Laser TVs",
+          "name": "100\" L9\nLASER TELEVISION",
+          "model": "100LASER-L9",
+          "brand": "Hisense",
+          "acuId": "100LASER-L9",
+          "regular": 52000,
+          "sale": 37000,
+          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Laser TVs",
+          "name": "120\" L9 \nLASER TELEVISION",
+          "model": "120LASERL9",
+          "brand": "Hisense",
+          "acuId": "120LASERL9",
+          "regular": 60000,
+          "sale": 43000,
+          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Laser TVs",
+          "name": "150\" T68\nLASER TELEVISION",
+          "model": "T68",
+          "brand": "Hisense",
+          "acuId": "150T68LASER",
+          "regular": 115000,
+          "sale": 83000,
+          "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Laser TVs",
+          "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
+          "model": "PX1-PRO",
+          "brand": "Hisense",
+          "acuId": "PX1PRO LASER",
+          "regular": 36000,
+          "sale": 26000,
+          "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Laser TVs",
+          "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
+          "model": "PX3-PRO",
+          "brand": "Hisense",
+          "acuId": "PX3-PRO LASERTV",
+          "regular": 39000,
+          "sale": 28000,
+          "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
+          "warranty": "5 Years"
+        }
+      ]
+    },
+    {
       "category": "Water Dispensors",
       "items": [
         {
@@ -3509,26 +3569,15 @@
       "warranty": "5 Years"
     },
     {
-      "category": "Wall Bracket",
-      "name": "MTN PROMOTIONAL OFFER #1",
-      "model": "MTN001",
-      "brand": "MTN",
-      "acuId": "MTNBDL1",
-      "regular": null,
-      "sale": null,
-      "features": "Special Offer - 3 months free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-      "warranty": "Not Applicable"
-    },
-    {
-      "category": "Wall Bracket",
-      "name": "MTN PROMOTIONAL OFFER #2",
-      "model": "MTN002",
-      "brand": "MTN",
-      "acuId": "MTNBDL2",
-      "regular": null,
-      "sale": null,
-      "features": "Special Offer - 2nd month free | Ultra-fast fibre | Unstoppable moments | Reliable Connection | Perfect for Streaming | Connect More, Enjoy More | Fibre Installation Included | Terms & Conditions Apply | Eligible purchases only",
-      "warranty": "Not Applicable"
+      "category": "Blenders",
+      "name": "KITCHEN MACHINE + \nFOOD PROCESSOR",
+      "model": "MMC1500",
+      "brand": "Gorenje",
+      "acuId": "MMC1500BK6.7L",
+      "regular": 3200,
+      "sale": 2350,
+      "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock",
+      "warranty": "1 Year"
     },
     {
       "category": "Blenders",
@@ -3539,6 +3588,28 @@
       "regular": 3200,
       "sale": 2350,
       "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "COMMERCIAL BLENDER\n1.8L DIGITAL",
+      "model": "BLC2880S",
+      "brand": "Amcon",
+      "acuId": "BLC2880S",
+      "regular": 2500,
+      "sale": 1850,
+      "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n550W",
+      "model": "M550DC",
+      "brand": "Gorenje",
+      "acuId": "BM550DC",
+      "regular": 550,
+      "sale": 400,
+      "features": "Powerful 600W Performance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design",
       "warranty": "1 Year"
     },
     {
@@ -3631,6 +3702,17 @@
     },
     {
       "category": "Refrigerators",
+      "name": "130L TABLE TOP FRIDGE",
+      "model": "RS-13DR4SG",
+      "brand": "Hisense",
+      "acuId": "130LTTS",
+      "regular": 1660,
+      "sale": 1200,
+      "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Refrigerators",
       "name": "205L DOUBLE DOOR FRIDGE\nWITH WATER DISPENSER",
       "model": "RD-27DR4SB",
       "brand": "Hisense",
@@ -3653,13 +3735,13 @@
     },
     {
       "category": "Refrigerators",
-      "name": "510L DOUBLE DOOR \nINVERTER FRIDGE",
-      "model": "RD-66WR4SA",
+      "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+      "model": "RC-67WS4S3",
       "brand": "Hisense",
-      "acuId": "510LRFGS",
-      "regular": 8250,
-      "sale": 6300,
-      "features": "Durable Inverter Technology | Energy Efficient System | Multi Air Flow Cooling System | Fresh Zone & No-Frost Freezer | Large Fruit & Vegetable Crisper | Spill-Proof Glass Shelves | Precision Temperature Control | Low Noise and  LED Interior Lighting | Eco-Friendly R600a Refrigerant",
+      "acuId": "518LEFMRFGS",
+      "regular": 12500,
+      "sale": 9100,
+      "features": "3-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years"
     },
     {
@@ -3950,39 +4032,6 @@
     },
     {
       "category": "Laser TVs",
-      "name": "100\" L9\nLASER TELEVISION",
-      "model": "100LASER-L9",
-      "brand": "Hisense",
-      "acuId": "100LASER-L9",
-      "regular": 52000,
-      "sale": 37000,
-      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "120\" L9 \nLASER TELEVISION",
-      "model": "120LASERL9",
-      "brand": "Hisense",
-      "acuId": "120LASERL9",
-      "regular": 60000,
-      "sale": 43000,
-      "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "150\" T68\nLASER TELEVISION",
-      "model": "T68",
-      "brand": "Hisense",
-      "acuId": "150T68LASER",
-      "regular": 115000,
-      "sale": 83000,
-      "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
       "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
       "model": "C2ULTRA",
       "brand": "Hisense",
@@ -3994,24 +4043,13 @@
     },
     {
       "category": "Laser TVs",
-      "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
-      "model": "PX1-PRO",
+      "name": "120\" L9QE\nLASER TELEVISION",
+      "model": "120LASERL9QE",
       "brand": "Hisense",
-      "acuId": "PX1PRO LASER",
-      "regular": 36000,
-      "sale": 26000,
-      "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Laser TVs",
-      "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
-      "model": "PX3-PRO",
-      "brand": "Hisense",
-      "acuId": "PX3-PRO LASERTV",
-      "regular": 39000,
-      "sale": 28000,
-      "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
+      "acuId": "120LASERL9QE",
+      "regular": 64900,
+      "sale": 47000,
+      "features": "Low Energy Consumption Standby Mode | Efficient Power Consumption Design | Smart Power Management Functionality | TriChroma Triple Laser Technology | Ultra HD 4K Resolution | Ambient Light Rejecting Screen | Dolby Atmos Immersive Audio | High Dynamic Range Compatibility | VIDAA Smart Operating System",
       "warranty": "5 Years"
     },
     {
@@ -4038,17 +4076,6 @@
     },
     {
       "category": "Water Dispensors",
-      "name": "2.2L TABLETOP ICE MAKER",
-      "model": "ICM10W",
-      "brand": "Gorenje",
-      "acuId": "IMC1200B2.2L",
-      "regular": null,
-      "sale": null,
-      "features": "High-Capacity 12kg Fresh Ice Daily Output | Quick-Cycle Delivery (Fresh Ice in Minutes) | Dual Size Selection (Small & Large Ice Bullets) | Smart Intuitive Soft-Touch Control Panel | Removable Ice Basket for Easy Serving | Intelligent Water Level Low Indicator | High-Efficiency Energy Saving Compressor | Automatic Overflow Protection & Full Indicator | Compact, Portable & User-Friendly Design",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Water Dispensors",
       "name": "3-IN-1 INTELLIGENT\nWATER DISPENSER",
       "model": "AMWDT308BK",
       "brand": "Amcon",
@@ -4056,6 +4083,17 @@
       "regular": 2250,
       "sale": 1650,
       "features": "Premium Freestanding Bottom-Loading Design | Dual-Station: 1L Rapid Kettle & 1.5L Tea Infuser | Smart Heating with Automatic \"Keep Warm\" Mode | Intelligent Motorized Water Sliding Plate System | Intuitive Touch Button Interface with LED Display | Full-Function Remote Control for Effortless Operation | Instant Safety Child Lock for Heat Protection | Integrated Auto Power-Off & Overheat Protection | Hidden Bottle Storage for a Sleek Modern Aesthetic",
+      "warranty": "3 Years"
+    },
+    {
+      "category": "Water Dispensors",
+      "name": "FILTRATION COLD/HOT\nWATER DISPENSER",
+      "model": "AMWDT530B",
+      "brand": "Amcon",
+      "acuId": "AMWDT530B",
+      "regular": 2750,
+      "sale": 2000,
+      "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
       "warranty": "3 Years"
     },
     {
@@ -4127,6 +4165,17 @@
       "warranty": "2 Years"
     },
     {
+      "category": "Blenders",
+      "name": "DIGITAL BLENDER \n2.2L DT-780",
+      "model": "DT-780",
+      "brand": "Amcon",
+      "acuId": "BL DT-780",
+      "regular": 1250,
+      "sale": 850,
+      "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
+      "warranty": "1 Year"
+    },
+    {
       "category": "Freezers",
       "name": "701L CHEST FREEZER",
       "model": "FC-94DD4HA",
@@ -4180,39 +4229,6 @@
       "sale": 8700,
       "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
       "warranty": "3 Years"
-    },
-    {
-      "category": "Refrigerators",
-      "name": "46 BOTTLE\nWINE COOLER",
-      "model": "RW3N122GSLF",
-      "brand": "Hisense",
-      "acuId": "FC46BB",
-      "regular": 6200,
-      "sale": 4500,
-      "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Refrigerators",
-      "name": "130L TABLE TOP FRIDGE",
-      "model": "RS-13DR4SG",
-      "brand": "Hisense",
-      "acuId": "130LTTS",
-      "regular": 1660,
-      "sale": 1200,
-      "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "Refrigerators",
-      "name": "518L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
-      "model": "RC-67WS4S3",
-      "brand": "Hisense",
-      "acuId": "518LEFMRFGS",
-      "regular": 12500,
-      "sale": 9100,
-      "features": "3-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
     },
     {
       "category": "Refrigerators",
@@ -4424,17 +4440,6 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Water Dispensors",
-      "name": "FILTRATION COLD/HOT\nWATER DISPENSER",
-      "model": "AMWDT530B",
-      "brand": "Amcon",
-      "acuId": "AMWDT530B",
-      "regular": 2750,
-      "sale": 2000,
-      "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
-      "warranty": "3 Years"
-    },
-    {
       "category": "Washing Machines",
       "name": "16 PLACE CAPACITY\nDISHWASHER",
       "model": "HS673C90BME",
@@ -4643,6 +4648,28 @@
       "regular": 800,
       "sale": 590,
       "features": "Precision Digital LED Control Panel | Powerful Ice Crushing Technology | Dedicated Dry Grinder Attachment | On-the-Go Drinking Spout Lid | Versatile High, Low & Pulse Speeds | Secure & Stable Non-Slip Suction Feet | Energy Efficient Smart Performance",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "HANDHELD MIXER\n350W",
+      "model": "M350W",
+      "brand": "Gorenje",
+      "acuId": "BM350W",
+      "regular": 450,
+      "sale": 330,
+      "features": "Power 350W Performance | 4 Speed Levels And Pulse Function | Powerful And Efficient AC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design",
+      "warranty": "1 Year"
+    },
+    {
+      "category": "Blenders",
+      "name": "MECHANICAL BLENDER\n1.5L 800W",
+      "model": "B800ORAB",
+      "brand": "Gorenje",
+      "acuId": "B800ORAB1.5L",
+      "regular": 880,
+      "sale": 650,
+      "features": "Powerful 800W High Speed Motor | 1.5L Blender Capacity | Easy Flat Control Panel Setup | Premium Quad Blade System | High Performance Mechanical Design | Smooth Daily Blending Performance | Seamless \"Flat Controls\" with LED Lighting",
       "warranty": "1 Year"
     },
     {
@@ -5088,7 +5115,7 @@
   ],
   "layouts": {
     "Air Conditioners": "10m1f",
-    "Blenders": "10m1f",
+    "Blenders": "5m2f",
     "Freezers": "10m1f",
     "CLEANING": "3feat",
     "Electric Cooker": "10m1f",
@@ -5107,12 +5134,11 @@
     "AMCON DSTV": "10m1f",
     "AMCON QLED": "5m2f",
     "Toshiba TVs": "5m2f",
+    "Laser TVs": "5m2f",
     "Water Dispensors": "5m2f",
     "Washing Machines": "10m1f",
-    "Wall Bracket": "3feat",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat",
-    "Laser TVs": "3feat",
     "DECODER": "10m1f",
     "Television - Amcon": "5m2f"
   },
