@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T07:39:35.628Z",
+  "generatedAt": "2026-08-19T07:53:08.963Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -2558,17 +2558,6 @@
         },
         {
           "category": "Televisions",
-          "name": "43” DIGITAL SATELLITE \nSMART TELEVISION",
-          "model": "43A4Q",
-          "brand": "Hisense",
-          "acuId": "43SMDSTV",
-          "regular": 3450,
-          "sale": 2400,
-          "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
           "name": "50” SMART DIGITAL \n4K T2 TELEVISION",
           "model": "50A6Q",
           "brand": "Hisense",
@@ -2587,50 +2576,6 @@
           "regular": 3990,
           "sale": 2990,
           "features": "Sleek Frameless & Modern Panel Design | Ultra-HD 4K Cinematic Resolution | Advanced Dolby Vision HDR Technology | VIDAA U Smart OS with App Integration | Intelligent VIDAA Voice Assistance | In-Built High-Speed Wi-Fi & LAN Ethernet | Wireless Cast Feature & Content Sharing | Integrated Digital TV Reception Tuner | Triple (3) HDMI & Dual (2) USB Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "55\" SMART DIGITAL\n4K T2 TELEVISION",
-          "model": "55A6H",
-          "brand": "Hisense",
-          "acuId": "55SM4KTV",
-          "regular": null,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Fast & Intuitive VIDAA U Smart OS | Smart VIDAA Voice Assistant Support | Seamless Mobile Casting & Sharing | Built-in WiFi & Digital TV Reception | High-Speed LAN & Digital Audio Ports | One-Touch Quick App Access Hotkeys",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "65” SMART DIGITAL\n4K T2 TELEVISION",
-          "model": "65A6H",
-          "brand": "Hisense",
-          "acuId": "65SM4KTV",
-          "regular": null,
-          "sale": null,
-          "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "75” SMART DIGITAL \n4K T2 TELEVISION",
-          "model": "75A6N",
-          "brand": "Hisense",
-          "acuId": "75SM4KTV",
-          "regular": null,
-          "sale": null,
-          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Televisions",
-          "name": "85'' SMART DIGITAL\n4K T2 TELEVISION",
-          "model": "85A7K",
-          "brand": "Hisense",
-          "acuId": "85SM4KTV",
-          "regular": null,
-          "sale": null,
-          "features": "Super Large Screen Cinematic Display | 4K AI Upscaler with Precision Pixel Tuning | Dolby Vision & Dolby Atmos Integrated | Advanced Wide Colour Gamut Technology | Apple AirPlay & Apple HomeKit Support | VIDAA Smart OS with Voice Control | High-Speed Dual-Band WiFi & Bluetooth | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & LAN Ethernet",
           "warranty": "5 Years"
         }
       ]
@@ -2746,6 +2691,39 @@
           "regular": 9500,
           "sale": 7300,
           "features": "Ultra-Slim & Sleek Architectural Design | 4K ULED HDR+ with Dolby Vision IQ | Full Array Dimming for Deep Blacks | Vibrant Quantum Dot Colour Technology | Cinematic Dolby Vision Atmos Surround Sound | Intelligent VIDAA Voice Assistance System | In-Built Dual-Band WiFi & Bluetooth 5.0 | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Output",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "50” SMART DIGITAL \n4K QLED TELEVISION",
+          "model": "#N/A",
+          "brand": "Hisense",
+          "acuId": "50SMQLED4KTV",
+          "regular": 4600,
+          "sale": 3300,
+          "features": "Sleek & Modern Frameless Panel Design | Smart QLED 4K Display | Quantum Dot Color Technology | Ultra Slim Modern Design | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI And USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "40” DIGITAL SMART \nQLED TELEVISION",
+          "model": "#N/A",
+          "brand": "Hisense",
+          "acuId": "40SMDQLEDTV",
+          "regular": 3590,
+          "sale": 2500,
+          "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "HISENSE QLED",
+          "name": "32” DIGITAL SMART \nQLED TELEVISION",
+          "model": "#N/A",
+          "brand": "Hisense",
+          "acuId": "32SMDQLEDTV",
+          "regular": 2750,
+          "sale": 1950,
+          "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled",
           "warranty": "5 Years"
         }
       ]
@@ -3944,6 +3922,17 @@
     },
     {
       "category": "Televisions",
+      "name": "43” DIGITAL SATELLITE \nSMART TELEVISION",
+      "model": "43A4Q",
+      "brand": "Hisense",
+      "acuId": "43SMDSTV",
+      "regular": 3450,
+      "sale": 2400,
+      "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring",
+      "warranty": "5 Years"
+    },
+    {
+      "category": "Televisions",
       "name": "58” SMART DIGITAL \n4K T2 TELEVISION",
       "model": "58A6N",
       "brand": "Hisense",
@@ -5128,7 +5117,7 @@
     "Microwave oven": "10m1f",
     "Showcases": "5m2f",
     "Sound Systems": "10m1f",
-    "Televisions": "10m1f",
+    "Televisions": "5m2f",
     "HISENSE QLED": "10m1f",
     "HISENSE MINILED": "10m1f",
     "AMCON DSTV": "10m1f",
