@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T09:01:25.522Z",
+  "generatedAt": "2026-08-19T09:02:57.065Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -2387,6 +2387,17 @@
         },
         {
           "category": "Sound Systems",
+          "name": "4.1.2CH HOME THEATRE\nWIRELESS SUBWOOFER",
+          "model": "HT SATURN",
+          "brand": "Hisense",
+          "acuId": "SSHTSATURN",
+          "regular": 5250,
+          "sale": 3840,
+          "features": "Advanced Wireless Subwoofer System | Dual (2) High-Speed HDMI Inputs | HDMI Output with ARC Support | Precision Crystal-Clear Audio Output | Seamless Bluetooth Audio Streaming | High-Fidelity Optical Digital Input | Plug & Play USB Media Playback | Universal Aux-In (3.5mm) Connectivity | Multi-Source Smart Audio Switching",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
           "name": "2.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
           "model": "HT-350",
           "brand": "Fenda",
@@ -2405,17 +2416,6 @@
           "regular": 1750,
           "sale": 1280,
           "features": "Bluetooth 5.0 Wireless Music Streaming | Total Power Output Of 110W RMS | Sleek Design Fits Under Flat Panels | Super Wooden Subwoofer For Deep Bass | Plug And Play USB Reader Decoding | Digital Audio Support Through Optical | Bright LED Display With Wide Angle | Full Function Remote Control Access | Wireless Connectivity For Subwoofer",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
-          "name": "5.1CH SOUNDBAR\nWIRELESS SUBWOOFER",
-          "model": "HT-500DA",
-          "brand": "Fenda",
-          "acuId": "SS HT-500DA",
-          "regular": 3990,
-          "sale": 2920,
-          "features": "5.1.2ch Cinematic Surround Sound | Cinema-Grade Dolby Atmos Support | Dual (2) Dedicated Surround Speakers | High-Fidelity (HiFi) Sound Quality | 190W High-Efficiency Power Output | Smart Mobile App Control Integration | Latest Bluetooth 5.3 Technology | 6 Professional EQ Sound Modes | HDMI ARC, Optical, and Aux Connectivity",
           "warranty": "3 Years"
         },
         {
@@ -2475,17 +2475,6 @@
         },
         {
           "category": "Sound Systems",
-          "name": "2.0CH MULTIMEDIA\nTOWER SPEAKER",
-          "model": "T-88X",
-          "brand": "Fenda",
-          "acuId": "SS T-88X",
-          "regular": 4790,
-          "sale": 3500,
-          "features": "Massive 10-Inch High-Output Subwoofer | Professional Three-Way Acoustic Design | Elegant Hand-Finished Wooden Cabinet | High-Fidelity 5.25\" Woofer & 1\" Tweeter | Integrated Professional Karaoke Function | Advanced Bluetooth Wireless Connectivity | Plug & Play USB & Optical Digital Inputs | Digital FM Radio with 100-Station Memory | Bright Wide-Angle LED Status Display",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
           "name": "TOSHIBA 2.1CH SOUNDBAR WITH WIRELESS SUBWOOFER",
           "model": "C210WR",
           "brand": "Toshiba",
@@ -2504,6 +2493,17 @@
           "regular": 2490,
           "sale": 1900,
           "features": "Energy Efficient Audio Engineering | Powerful Five Hundred Watts Output | Immersive Three Point One Audio Channel | Premium Toshiba Soundbar Quality | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Cinematic Crystal Clear Dialogue | Deep Room Filling Dynamic Bass | High Performance Sound System",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "7.1.2CH SOUNDBAR\nWIRELESS SUBWOOFER",
+          "model": "U5120GW+",
+          "brand": "Hisense",
+          "acuId": "SSU5120GWP",
+          "regular": 7500,
+          "sale": 5480,
+          "features": "Sleek & Stylish High-Profile Soundbar | Cinema-Grade Dolby Atmos Surround Sound | Massive 570W Total High-Output Power | Advanced 7.1.2 Surround System Architecture | High-Performance Wireless Subwoofer | 4K HDR Pass-Through for Ultra-HD Visuals | Advanced HDMI ARC & Optical Connectivity | Bluetooth 4.2 & Type-C/USB Multimedia Ports | Full-Function Wireless Remote Control",
           "warranty": "3 Years"
         },
         {
@@ -2820,13 +2820,13 @@
         },
         {
           "category": "HISENSE MINILED",
-          "name": "65” SMART DIGITAL 4K\nMINI-LED TELEVISION",
-          "model": "65U6Q PRO",
+          "name": "65” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
+          "model": "65SMPMLEDTV",
           "brand": "Hisense",
-          "acuId": "65SMDMLEDTV",
-          "regular": 10750,
-          "sale": 7600,
-          "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
+          "acuId": "65SMPMLEDTV",
+          "regular": 13000,
+          "sale": 10500,
+          "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output",
           "warranty": "5 Years"
         },
         {
@@ -4135,15 +4135,27 @@
     },
     {
       "category": "Sound Systems",
-      "name": "4.1.2CH HOME THEATRE\nWIRELESS SUBWOOFER",
-      "model": "HT SATURN",
-      "brand": "Hisense",
-      "acuId": "SSHTSATURN",
-      "regular": 5250,
-      "sale": 3840,
-      "features": "Advanced Wireless Subwoofer System | Dual (2) High-Speed HDMI Inputs | HDMI Output with ARC Support | Precision Crystal-Clear Audio Output | Seamless Bluetooth Audio Streaming | High-Fidelity Optical Digital Input | Plug & Play USB Media Playback | Universal Aux-In (3.5mm) Connectivity | Multi-Source Smart Audio Switching",
+      "name": "5.1CH SOUNDBAR\nWIRELESS SUBWOOFER",
+      "model": "HT-500DA",
+      "brand": "Fenda",
+      "acuId": "SS HT-500DA",
+      "regular": 3990,
+      "sale": 2920,
+      "features": "5.1.2ch Cinematic Surround Sound | Cinema-Grade Dolby Atmos Support | Dual (2) Dedicated Surround Speakers | High-Fidelity (HiFi) Sound Quality | 190W High-Efficiency Power Output | Smart Mobile App Control Integration | Latest Bluetooth 5.3 Technology | 6 Professional EQ Sound Modes | HDMI ARC, Optical, and Aux Connectivity",
       "warranty": "3 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/8673/image"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "2.0CH MULTIMEDIA\nTOWER SPEAKER",
+      "model": "T-88X",
+      "brand": "Fenda",
+      "acuId": "SS T-88X",
+      "regular": 4790,
+      "sale": 3500,
+      "features": "Massive 10-Inch High-Output Subwoofer | Professional Three-Way Acoustic Design | Elegant Hand-Finished Wooden Cabinet | High-Fidelity 5.25\" Woofer & 1\" Tweeter | Integrated Professional Karaoke Function | Advanced Bluetooth Wireless Connectivity | Plug & Play USB & Optical Digital Inputs | Digital FM Radio with 100-Station Memory | Bright Wide-Angle LED Status Display",
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1749/image"
     },
     {
       "category": "Sound Systems",
@@ -4156,18 +4168,6 @@
       "features": "Energy Efficient Audio Design | Powerful Five Hundred Watts Output | Premium Five Point One Audio Channel | Elite Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Immersive Surround Sound Experience | Deep Rich Dynamic Bass Performance | High Fidelity Home Theater System",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18620/image"
-    },
-    {
-      "category": "Sound Systems",
-      "name": "7.1.2CH SOUNDBAR\nWIRELESS SUBWOOFER",
-      "model": "U5120GW+",
-      "brand": "Hisense",
-      "acuId": "SSU5120GWP",
-      "regular": 7500,
-      "sale": 5480,
-      "features": "Sleek & Stylish High-Profile Soundbar | Cinema-Grade Dolby Atmos Surround Sound | Massive 570W Total High-Output Power | Advanced 7.1.2 Surround System Architecture | High-Performance Wireless Subwoofer | 4K HDR Pass-Through for Ultra-HD Visuals | Advanced HDMI ARC & Optical Connectivity | Bluetooth 4.2 & Type-C/USB Multimedia Ports | Full-Function Wireless Remote Control",
-      "warranty": "3 Years",
-      "imageUrl": ""
     },
     {
       "category": "Televisions",
@@ -4255,15 +4255,15 @@
     },
     {
       "category": "HISENSE MINILED",
-      "name": "65” SMART DIGITAL PREMIUM \nMINI-LED 4K TELEVISION",
-      "model": "65SMPMLEDTV",
+      "name": "65” SMART DIGITAL 4K\nMINI-LED TELEVISION",
+      "model": "65U6Q PRO",
       "brand": "Hisense",
-      "acuId": "65SMPMLEDTV",
-      "regular": 13000,
-      "sale": 10500,
-      "features": "Sleek Elegant Design with Built-In Subwoofer | Mini-LED Pro Technology for Extreme Contrast | 4K ULED HDR+ with Dolby Vision IQ & Atmos | IMAX Enhanced High-Fidelity Experience | 144Hz Game Pro & Hi-View Engine Pro | AI Picture Optimisation for Vivid Realism | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Mobile Music Playback via TV Sound Output",
+      "acuId": "65SMDMLEDTV",
+      "regular": 10750,
+      "sale": 7600,
+      "features": "Glossy Slim & Superior Clarity Design | 4K ULED HDR+ with Dolby Vision IQ | Cinematic Dolby Vision Atmos Surround | Apple AirPlay & Apple HomeKit Integration | In-Built High-Speed Dual-Band WiFi & LAN | Wireless Cast Feature & Bluetooth Streaming | Mobile Music Playback via TV Sound Output | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital TV & Multi-Source Input",
       "warranty": "5 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/6843/image"
     },
     {
       "category": "HISENSE MINILED",
