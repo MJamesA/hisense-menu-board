@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-19T07:55:32.861Z",
+  "generatedAt": "2026-08-19T07:58:16.860Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -3094,6 +3094,17 @@
         },
         {
           "category": "Laser TVs",
+          "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
+          "model": "C2ULTRA",
+          "brand": "Hisense",
+          "acuId": "C2ULTRA LASERTV",
+          "regular": 32000,
+          "sale": 23000,
+          "features": "Features Needed",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Laser TVs",
           "name": "PX1-PRO TRICHROMA\nLASER TELEVISION",
           "model": "PX1-PRO",
           "brand": "Hisense",
@@ -3101,17 +3112,6 @@
           "regular": 36000,
           "sale": 26000,
           "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
-          "model": "PX3-PRO",
-          "brand": "Hisense",
-          "acuId": "PX3-PRO LASERTV",
-          "regular": 39000,
-          "sale": 28000,
-          "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
           "warranty": "5 Years"
         }
       ]
@@ -3511,7 +3511,8 @@
       "regular": 8200,
       "sale": 5790,
       "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/13083/image"
     },
     {
       "category": "Air Conditioners",
@@ -3522,7 +3523,8 @@
       "regular": 49900,
       "sale": 36000,
       "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5447/image"
     },
     {
       "category": "Blenders",
@@ -3533,7 +3535,8 @@
       "regular": 3200,
       "sale": 2350,
       "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/4992/image"
     },
     {
       "category": "Blenders",
@@ -3544,7 +3547,8 @@
       "regular": 3200,
       "sale": 2350,
       "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/8670/image"
     },
     {
       "category": "Blenders",
@@ -3555,7 +3559,8 @@
       "regular": 2500,
       "sale": 1850,
       "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14193/image"
     },
     {
       "category": "Blenders",
@@ -3566,7 +3571,8 @@
       "regular": 550,
       "sale": 400,
       "features": "Powerful 600W Performance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19158/image"
     },
     {
       "category": "Freezers",
@@ -3577,7 +3583,8 @@
       "regular": 7890,
       "sale": 5750,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "Freezers",
@@ -3588,7 +3595,8 @@
       "regular": 7250,
       "sale": 5400,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1666/image"
     },
     {
       "category": "Electric Cooker",
@@ -3599,7 +3607,8 @@
       "regular": 1200,
       "sale": 880,
       "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5129/image"
     },
     {
       "category": "Electric Cooker",
@@ -3610,7 +3619,8 @@
       "regular": 2300,
       "sale": 1680,
       "features": "High-Power 3-Burner Rapid Heating | Independent Quad-Zone Cooking | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Heat & Flame Control | Robust Build for Daily Heavy Use",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1984/image"
     },
     {
       "category": "Built-In Appliances",
@@ -3621,7 +3631,8 @@
       "regular": 18900,
       "sale": 13000,
       "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Built-In Appliances",
@@ -3632,7 +3643,8 @@
       "regular": 24000,
       "sale": 16500,
       "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Built-In Appliances",
@@ -3643,7 +3655,8 @@
       "regular": 13000,
       "sale": 9000,
       "features": "Built-In Integrated Design | Total No-Frost Technology | Energy Efficient Operation | 7 Dedicated Freezer Drawers | Advanced Fast-Freeze Function | Soft-Closing Door System | Flexible Reversible Door | Classic White Exterior Finish | Eco-Friendly R600a Refrigerant",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19139/image"
     },
     {
       "category": "Fan",
@@ -3654,7 +3667,8 @@
       "regular": 950,
       "sale": 700,
       "features": "Long-Lasting 20Hr Lithium Battery | Powerful & Whisper-Quiet DC Motor | Integrated USB Mobile Charging Port | Built-In Soft LED Night Light | 12 Precision Speed Cooling Levels | Adjustable Height Telescopic Stand | Wide-Angle Oscillation & Tilt Head | Full-Function Wireless Remote Control | Ghana Certified 3-Star Energy Rating",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14227/image"
     },
     {
       "category": "Refrigerators",
@@ -3665,7 +3679,8 @@
       "regular": 1660,
       "sale": 1200,
       "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1799/image"
     },
     {
       "category": "Refrigerators",
@@ -3676,7 +3691,8 @@
       "regular": 3300,
       "sale": 2400,
       "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1786/image"
     },
     {
       "category": "Refrigerators",
@@ -3687,7 +3703,8 @@
       "regular": 4500,
       "sale": 3450,
       "features": "Energy Efficient Technology | Integrated Water Dispenser | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1858/image"
     },
     {
       "category": "Refrigerators",
@@ -3698,7 +3715,8 @@
       "regular": 12500,
       "sale": 9100,
       "features": "3-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "Refrigerators",
@@ -3709,7 +3727,8 @@
       "regular": 32000,
       "sale": 24000,
       "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/4892/image"
     },
     {
       "category": "Gas Cooker",
@@ -3720,7 +3739,8 @@
       "regular": 4650,
       "sale": 3400,
       "features": "Hybrid 3 Gas Burners & 1 Electric Hob | 1000W High-Performance Electric Plate | Premium Stainless Steel Top Surface | Instant Auto-Ignition (Top Burners) | Heavy-Duty Cast Iron Top Grids | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Glass Top Lid / Cover | Matte Black Professional Burner Caps",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1672/image"
     },
     {
       "category": "Gas Cooker",
@@ -3731,7 +3751,8 @@
       "regular": 1600,
       "sale": 1200,
       "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": ""
     },
     {
       "category": "Television Commercial",
@@ -3742,7 +3763,8 @@
       "regular": 31200,
       "sale": 23000,
       "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Television Commercial",
@@ -3753,7 +3775,8 @@
       "regular": 35200,
       "sale": 25700,
       "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Television Commercial",
@@ -3764,7 +3787,8 @@
       "regular": 42200,
       "sale": 30800,
       "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Iron",
@@ -3775,7 +3799,8 @@
       "regular": 360,
       "sale": 270,
       "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14277/image"
     },
     {
       "category": "Kettles",
@@ -3786,7 +3811,8 @@
       "regular": 550,
       "sale": 400,
       "features": "Powerful 2200W Rapid Boiling System | Safe-to-Touch Cool Double Wall Body | Smart Digital Screen Temp Display | Hygienic Stainless Steel Interior | Premium Strix Control Technology | Automatic Shut-Off Safety Protection | Sleek & Modern Seamless Design",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": ""
     },
     {
       "category": "Mobile Phones",
@@ -3797,7 +3823,8 @@
       "regular": 1600,
       "sale": 1170,
       "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/13125/image"
     },
     {
       "category": "Mobile Phones",
@@ -3808,7 +3835,8 @@
       "regular": 900,
       "sale": 660,
       "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/13126/image"
     },
     {
       "category": "Microwave oven",
@@ -3819,7 +3847,8 @@
       "regular": 1500,
       "sale": 940,
       "features": "25L Compact Cooking Capacity | 900 Watts Microwave Power | 1000 Watts High-Performance Grill | Sleek Black Finish with Mirror Door | Advanced Digital Control System | 10 Variable Power Level Settings | 25 Automatic Preset Cooking Menus | Specialized Crispy Grill Function | Weight & Time Defrost Technology",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7994/image"
     },
     {
       "category": "Microwave oven",
@@ -3830,7 +3859,8 @@
       "regular": 1700,
       "sale": 1180,
       "features": "Massive 34L Family-Size Capacity | 1000 Watts High-Efficiency Power | Advanced Inverter Cooking Technology | Precision Digital Control System | 10 Variable Power Level Settings | Specialized Crispy Grill Function | Smart Eco & Express Reheat Modes | Sleek Black Finish with Mirror Door | Precision Weight & Time Defrost",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/8682/image"
     },
     {
       "category": "Showcases",
@@ -3841,7 +3871,8 @@
       "regular": 5900,
       "sale": 4900,
       "features": "High-Performance Energy Efficiency | 4 Heavy-Duty Adjustable Shelves | Forced Air-Ventilation System | Anti-Condensation Glass Technology | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Integrated Lock and Key Security | Eco-Friendly R600a Refrigerant Gas | Interior LED Visibility Lighting",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1692/image"
     },
     {
       "category": "Showcases",
@@ -3852,7 +3883,8 @@
       "regular": 7200,
       "sale": 5800,
       "features": "High-Performance Energy Efficiency | Forced Air-Ventilation Technology | Anti-Condensation Glass System | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Heavy-Duty Adjustable Shelving | Internal LED Visibility Lighting | Integrated Lock and Key Security | Eco-Friendly Refrigerant System",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1693/image"
     },
     {
       "category": "Sound Systems",
@@ -3863,7 +3895,8 @@
       "regular": 700,
       "sale": 500,
       "features": "New Classic Geometric Aesthetic | Fingerprint-Free Matte Finish | Premium Wood Cabinet Construction | Advanced 4.0 Bluetooth Connectivity | Plug & Play USB Audio Port | 100 Station FM Radio Storage | Bright Wide-Angle LED Display | High-Output Loudspeaker System | Full-Function Wireless Remote",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1737/image"
     },
     {
       "category": "Sound Systems",
@@ -3874,7 +3907,8 @@
       "regular": 5250,
       "sale": 3840,
       "features": "Advanced Wireless Subwoofer System | Dual (2) High-Speed HDMI Inputs | HDMI Output with ARC Support | Precision Crystal-Clear Audio Output | Seamless Bluetooth Audio Streaming | High-Fidelity Optical Digital Input | Plug & Play USB Media Playback | Universal Aux-In (3.5mm) Connectivity | Multi-Source Smart Audio Switching",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Sound Systems",
@@ -3885,7 +3919,8 @@
       "regular": 2990,
       "sale": 2200,
       "features": "Energy Efficient Audio Design | Powerful Five Hundred Watts Output | Premium Five Point One Audio Channel | Elite Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Immersive Surround Sound Experience | Deep Rich Dynamic Bass Performance | High Fidelity Home Theater System",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/18620/image"
     },
     {
       "category": "Sound Systems",
@@ -3896,7 +3931,8 @@
       "regular": 7500,
       "sale": 5480,
       "features": "Sleek & Stylish High-Profile Soundbar | Cinema-Grade Dolby Atmos Surround Sound | Massive 570W Total High-Output Power | Advanced 7.1.2 Surround System Architecture | High-Performance Wireless Subwoofer | 4K HDR Pass-Through for Ultra-HD Visuals | Advanced HDMI ARC & Optical Connectivity | Bluetooth 4.2 & Type-C/USB Multimedia Ports | Full-Function Wireless Remote Control",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Televisions",
@@ -3907,7 +3943,8 @@
       "regular": 3450,
       "sale": 2400,
       "features": "High-Definition Full HD 1080p Resolution | Vibrant Quantum Dot Colour Technology | HDR10 High Dynamic Range For Vivid Contrast | Cinematic Dolby Atmos Surround Sound | In-Built High-Speed Dual-Band WiFi & LAN | Advanced Game Mode Plus For Smooth Play | High-Speed Type-C & Dual (2) HDMI ARC Ports | Integrated Digital Satellite TV Reception | Wireless Cast Feature & Screen Mirroring",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/2006/image"
     },
     {
       "category": "Televisions",
@@ -3918,7 +3955,8 @@
       "regular": 6150,
       "sale": 4750,
       "features": "Sleek Frameless & Ultra-Slim Panel Design | Ultra-HD 4K Resolution with Dolby Vision HDR | Precision Colour & Contrast Enhancement | VIDAA U Smart OS with Remote App Control | Intelligent VIDAA Voice Assistance System | DTS Studio Sound with Audio Equalizer | Bluetooth & AnyView Wireless Streaming | Integrated Digital TV & Multi-Port Connectivity | In-Built High-Speed Wi-Fi & LAN Ethernet",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/2004/image"
     },
     {
       "category": "HISENSE QLED",
@@ -3929,7 +3967,8 @@
       "regular": 2800,
       "sale": 1950,
       "features": "Full HD 1080p Resolution with HDR10 | Advanced VIDAA Smart Voice Assistance | Cinema-Grade Dolby Atmos Audio Support | High-Speed Dual-Band WiFi & LAN Ethernet | Game Mode Plus for Ultra-Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | High-Speed Optical & Headphone Audio Outs",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7789/image"
     },
     {
       "category": "HISENSE QLED",
@@ -3940,7 +3979,8 @@
       "regular": 4300,
       "sale": 2800,
       "features": "Vibrant Quantum Dot Colour Technology | Dolby Vision IQ & Dolby Atmos Surround | AI Picture Optimization & Smooth Motion | Hands-Free & VIDAA Smart Voice Assistance | Apple AirPlay & HomeKit Integrated | Advanced Game Mode Plus (60Hz Refresh) | Triple (3) HDMI ARC & Dual (2) USB Ports | Integrated Digital TV & Multi-Source Input | High-Speed Optical & Headphone Audio Outs",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/10532/image"
     },
     {
       "category": "HISENSE QLED",
@@ -3951,7 +3991,8 @@
       "regular": 14500,
       "sale": 10600,
       "features": "Ultra-Slim & Sleek Premium Design | 4K Ultra HD with Dolby Vision IQ | HI-View Engine & AI Picture Optimization | Pro-Grade 144Hz Game Mode Pro | Cinematic Dolby Vision Atmos Surround Sound | Apple AirPlay & Apple HomeKit Integration | In-Built Dual-Band WiFi & Bluetooth | Quad (4) HDMI & Dual (2) USB Connectivity | Karaoke & Mobile Music TV Output",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/13154/image"
     },
     {
       "category": "HISENSE QLED",
@@ -3962,7 +4003,8 @@
       "regular": 28000,
       "sale": 19990,
       "features": "Slim & Sleek Design with Built-In Subwoofer | 4K QLED HDR+ with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Pro-Grade 144Hz Game Mode Pro | AI Picture Optimization & AI Sport Mode | Adaptive Light Sensor for Auto-Brightness | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Bluetooth with Mobile Streaming Functionality",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/11176/image"
     },
     {
       "category": "HISENSE MINILED",
@@ -3973,7 +4015,8 @@
       "regular": 38000,
       "sale": 27000,
       "features": "IMAX Enhanced High-Fidelity Experience | 4K ULED HDR+ with Dolby Vision IQ Tech | Advanced VIDAA Smart OS with Voice Control | Cinematic Dolby Vision Atmos Surround Sound | In-Built High-Speed WiFi & Bluetooth | Apple AirPlay & Apple HomeKit Integration | Quad (4) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception Tuner",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6734/image"
     },
     {
       "category": "AMCON DSTV",
@@ -3984,7 +4027,8 @@
       "regular": 3200,
       "sale": 2300,
       "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1812/image"
     },
     {
       "category": "AMCON QLED",
@@ -3995,7 +4039,8 @@
       "regular": 4790,
       "sale": 3660,
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with 4K Support | Eco-Friendly Energy Efficient Design | Bluetooth & High-Speed Wi-Fi Connectivity",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "AMCON QLED",
@@ -4006,7 +4051,8 @@
       "regular": 33000,
       "sale": 25000,
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Toshiba TVs",
@@ -4017,7 +4063,8 @@
       "regular": 2600,
       "sale": 1700,
       "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/18616/image"
     },
     {
       "category": "Toshiba TVs",
@@ -4028,18 +4075,20 @@
       "regular": 29000,
       "sale": 22000,
       "features": "Superior High Energy Efficiency | Premium Quantum Dot Technology | Ultra Precise 4K UHD Resolution | Smart TV Hub With Global Apps | Integrated Digital Satellite Receiver | High Refresh Rate Performance | Immersive Cinematic Sound Quality | Powerful Next Generation Processor | Ultra Slim Modern Aesthetic",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19138/image"
     },
     {
       "category": "Laser TVs",
-      "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
-      "model": "C2ULTRA",
+      "name": "PX3-PRO TRICHROMA \nLASER TELEVISION",
+      "model": "PX3-PRO",
       "brand": "Hisense",
-      "acuId": "C2ULTRA LASERTV",
-      "regular": 32000,
-      "sale": 23000,
-      "features": "Features Needed",
-      "warranty": "3 Years"
+      "acuId": "PX3-PRO LASERTV",
+      "regular": 39000,
+      "sale": 28000,
+      "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7744/image"
     },
     {
       "category": "Laser TVs",
@@ -4050,7 +4099,8 @@
       "regular": 64900,
       "sale": 47000,
       "features": "Low Energy Consumption Standby Mode | Efficient Power Consumption Design | Smart Power Management Functionality | TriChroma Triple Laser Technology | Ultra HD 4K Resolution | Ambient Light Rejecting Screen | Dolby Atmos Immersive Audio | High Dynamic Range Compatibility | VIDAA Smart Operating System",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19137/image"
     },
     {
       "category": "Water Dispensors",
@@ -4061,7 +4111,8 @@
       "regular": 2750,
       "sale": 1870,
       "features": "Massive 100-Litre Hot Water Storage Capacity | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5148/image"
     },
     {
       "category": "Water Dispensors",
@@ -4072,7 +4123,8 @@
       "regular": 3600,
       "sale": 2400,
       "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": ""
     },
     {
       "category": "Water Dispensors",
@@ -4083,7 +4135,8 @@
       "regular": 2250,
       "sale": 1650,
       "features": "Premium Freestanding Bottom-Loading Design | Dual-Station: 1L Rapid Kettle & 1.5L Tea Infuser | Smart Heating with Automatic \"Keep Warm\" Mode | Intelligent Motorized Water Sliding Plate System | Intuitive Touch Button Interface with LED Display | Full-Function Remote Control for Effortless Operation | Instant Safety Child Lock for Heat Protection | Integrated Auto Power-Off & Overheat Protection | Hidden Bottle Storage for a Sleek Modern Aesthetic",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6615/image"
     },
     {
       "category": "Water Dispensors",
@@ -4094,7 +4147,8 @@
       "regular": 2750,
       "sale": 2000,
       "features": "Advanced Direct Pipe-In System for Unlimited Water | Professional 4-Level Integrated Filtration System | High-Capacity 5.0-Litre Hot Water Heating Tank | Rapid Compressor Cooling with 2.0-Litre Cold Tank | Dual Temperature Hot & Cold Water Dispensers | Energy-Efficient Operation with Low Noise Output | Eco-Friendly R134a Industrial-Grade Refrigerant | Instant Safety Child Lock for Hot Water Protection | Sturdy Modern Floor-Standing Commercial Design",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Washing Machines",
@@ -4105,7 +4159,8 @@
       "regular": 7950,
       "sale": 5800,
       "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6620/image"
     },
     {
       "category": "Washing Machines",
@@ -4116,7 +4171,8 @@
       "regular": 6400,
       "sale": 4400,
       "features": "Elegant & Sophisticated Premium Black | Hot & Warm Dual Solenoid Valve System | Advanced Self-Diagnostic & Fault Alarm | Durable Waterproof IPX4 Protection | Intensive Pre-Soak & Air Dry Function | Convenient Time Delay Wash Scheduling | Ultra-Quiet Noise Free Technology | Secure Child Lock Safety Protection | Fully Automatic Top Loading Efficiency",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6617/image"
     },
     {
       "category": "Washing Machines",
@@ -4127,18 +4183,8 @@
       "regular": 18000,
       "sale": 12000,
       "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
-      "warranty": "5 Years"
-    },
-    {
-      "category": "DECODER",
-      "name": "DSTVDECODER&ACC",
-      "model": "Model 1",
-      "brand": "DSTV",
-      "acuId": "DSTVDECODER&ACC",
-      "regular": 633,
-      "sale": null,
-      "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
-      "warranty": "1 Year"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/4568/image"
     }
   ],
   "spotlights": [
@@ -4151,7 +4197,8 @@
       "regular": 5800,
       "sale": 4200,
       "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "Blenders",
@@ -4162,7 +4209,8 @@
       "regular": 1950,
       "sale": 1450,
       "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
-      "warranty": "2 Years"
+      "warranty": "2 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1649/image"
     },
     {
       "category": "Blenders",
@@ -4173,7 +4221,8 @@
       "regular": 1250,
       "sale": 850,
       "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/11218/image"
     },
     {
       "category": "Freezers",
@@ -4184,7 +4233,8 @@
       "regular": 9400,
       "sale": 7500,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1667/image"
     },
     {
       "category": "Freezers",
@@ -4195,7 +4245,8 @@
       "regular": 6800,
       "sale": 4900,
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/8671/image"
     },
     {
       "category": "Electric Cooker",
@@ -4206,7 +4257,8 @@
       "regular": 1200,
       "sale": 880,
       "features": "Powerful 900W High-Efficiency Motor | Extra-Large 5L Net Cooking Capacity | Smart Digital Touch Control Panel | Professional Stainless Steel Finish | Non-Stick Pot for Effortless Cleaning | Precision Heating for Perfect Rice | Multiple Smart-Logic Cooking Modes",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1981/image"
     },
     {
       "category": "Electric Cooker",
@@ -4217,7 +4269,8 @@
       "regular": 1400,
       "sale": 1000,
       "features": "Precision Digital Touch Control Panel | Dual Independent Cooking Baskets | 8 Smart-Logic Preset Programs | Synced Finish & Temperature Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7959/image"
     },
     {
       "category": "Built-In Appliances",
@@ -4228,7 +4281,8 @@
       "regular": 12500,
       "sale": 8700,
       "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Refrigerators",
@@ -4239,7 +4293,8 @@
       "regular": 13900,
       "sale": 10000,
       "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1918/image"
     },
     {
       "category": "Refrigerators",
@@ -4250,7 +4305,8 @@
       "regular": 33000,
       "sale": 24000,
       "features": "Sleek Side-by-Side Design | 21-Inch Smart Display Screen | ConnectLife App Smart Connectivity | Frost-Free Inverter Technology | Ice Cube Maker & Water Dispenser | Multi Air Flow Cooling Technology | Super Freeze & Super Cold Features | LED Control Panel & Child Lock | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/18844/image"
     },
     {
       "category": "Refrigerators",
@@ -4261,7 +4317,8 @@
       "regular": 13500,
       "sale": 9800,
       "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14529/image"
     },
     {
       "category": "Gas Cooker",
@@ -4272,7 +4329,8 @@
       "regular": null,
       "sale": null,
       "features": "5 High-Efficiency Euro Pool Burners | Massive Gas Oven with Thermostat | Dual Oven Heating (Top & Bottom) | Integrated Chicken Rotisserie System | Precision Mechanic Cooking Timer | Full Auto-Ignition (Burners & Oven) | Heavy-Duty Cast Iron Top Grids | Double-Layered Black Glass Oven Door | Protective Glass Top Lid / Cover",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1674/image"
     },
     {
       "category": "Gas Cooker",
@@ -4283,7 +4341,8 @@
       "regular": 10800,
       "sale": 7600,
       "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/18972/image"
     },
     {
       "category": "Iron",
@@ -4294,7 +4353,8 @@
       "regular": 500,
       "sale": 370,
       "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Dry & Vertical Steam Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/1679/image"
     },
     {
       "category": "Iron",
@@ -4305,7 +4365,8 @@
       "regular": 1900,
       "sale": 1400,
       "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5180/image"
     },
     {
       "category": "Mobile Phones",
@@ -4316,7 +4377,8 @@
       "regular": 1900,
       "sale": 1350,
       "features": "Latest Android 15 Go Edition OS | Massive 256GB ROM & 12GB RAM Memory | Ultra-Clear 64MP HD Rear Camera | Large 6.75” HD+ Sleek Design Display | NFC Support for Contactless Payments | All-Day 5000mAh Battery & 15W Fast Charge | Secure Fingerprint & Face Unlock | Fluid 60Hz Refresh Rate Display | Free Premium Cover & Glass Protector",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14229/image"
     },
     {
       "category": "Microwave oven",
@@ -4327,7 +4389,8 @@
       "regular": 1900,
       "sale": 1350,
       "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/9410/image"
     },
     {
       "category": "Showcases",
@@ -4338,7 +4401,8 @@
       "regular": 11990,
       "sale": 9400,
       "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/7796/image"
     },
     {
       "category": "Sound Systems",
@@ -4349,7 +4413,8 @@
       "regular": 3700,
       "sale": 2700,
       "features": "High Energy Efficiency For Power Savings | Powerful 300W Max Audio Performance | Fast Bluetooth Wireless Audio Streaming | Advanced Bass Boost Sound Technology | Dual 5.25 Inch Woofers And Tweeters | Dynamic Flashing LED Light Effects | Versatile Karaoke And Guitar Inputs | Professional EQ Adjustment Settings | Clear LED Display For Easy Navigation",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Sound Systems",
@@ -4360,7 +4425,8 @@
       "regular": 6800,
       "sale": 4970,
       "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Televisions",
@@ -4371,7 +4437,8 @@
       "regular": 37000,
       "sale": 27000,
       "features": "Large Screen with Slim & Sleek Design | 4K ULED HDR with Intelligent Dolby Vision IQ | HDMI 2.1 with Variable Refresh Rate (VRR) | Super IMAX Enhanced & Dolby Atmos Cinema Sound | High-Performance 4GB RAM + 64GB Storage | AI-Powered Picture & Sound Assistance | Apple AirPlay & Apple HomeKit Integration | Integrated Digital Satellite TV Reception Tuner | In-Built WiFi & High-Speed Bluetooth",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5521/image"
     },
     {
       "category": "HISENSE MINILED",
@@ -4382,7 +4449,8 @@
       "regular": 185000,
       "sale": 138000,
       "features": "Sleek Slim Design with Built-In Subwoofer | 4K Ultra HD with Dolby Vision IQ & Atmos | Super IMAX Enhanced Cinematic Experience | Professional 144Hz Game Mode Pro | AI Picture Optimization for Vivid Realism | Hands-Free Voice Control Smart Interaction | Quad (4) HDMI & Dual (2) USB Connectivity | Digital Satellite TV Reception (Built-In Tuner) | High-Speed Optical & Headphone Audio Outs",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "HISENSE MINILED",
@@ -4393,7 +4461,8 @@
       "regular": 250000,
       "sale": 159900,
       "features": "Energy Saving Mode Optimizes Power | Efficient AI Scenario Energy Control | Low Power Standby Energy Usage | TriChroma RGB Mini LED Technology | Hi-View AI Engine X Processor | Native 165Hz Game Mode Ultra | Smart Digital Satellite TV Tuner | Immersive CineStage X Surround Sound | Anti-Reflection Pro Screen Coating",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "Television - Amcon",
@@ -4404,7 +4473,8 @@
       "regular": 8400,
       "sale": 6350,
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Television - Amcon",
@@ -4415,7 +4485,8 @@
       "regular": 12000,
       "sale": 8500,
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": ""
     },
     {
       "category": "Water Dispensors",
@@ -4426,7 +4497,8 @@
       "regular": 3900,
       "sale": 2650,
       "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design",
-      "warranty": "1 Year"
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/5149/image"
     },
     {
       "category": "Washing Machines",
@@ -4437,7 +4509,20 @@
       "regular": 7150,
       "sale": 5200,
       "features": "8 Programs (Quick, Auto & Hygiene) | Auto Door Open & Fan Dry | 42 dB Ultra-Quiet Inverter Motor | Wi-Fi Connectivity (ConnectLife App) | Corner Boost Spray Arm Technology | 3-Level Wash & Cutlery Basket | Durable Stainless Steel Tub | Intuitive Touch Control Display | Dimensions (H x W x D): 84.5 x 59.9 x 59.7 cm",
-      "warranty": "3 Years"
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/11220/image"
+    },
+    {
+      "category": "DECODER",
+      "name": "DSTVDECODER&ACC",
+      "model": "Model 1",
+      "brand": "DSTV",
+      "acuId": "DSTVDECODER&ACC",
+      "regular": 633,
+      "sale": null,
+      "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
+      "warranty": "1 Year",
+      "imageUrl": ""
     }
   ],
   "essentials": [
@@ -5128,8 +5213,8 @@
     "Washing Machines": "10m1f",
     "Built-In Appliances": "3feat",
     "Television Commercial": "3feat",
-    "DECODER": "10m1f",
-    "Television - Amcon": "5m2f"
+    "Television - Amcon": "5m2f",
+    "DECODER": "10m1f"
   },
   "categoryOrder": [
     "Air Conditioners",
