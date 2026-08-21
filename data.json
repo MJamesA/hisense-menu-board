@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-21T12:24:40.850Z",
+  "generatedAt": "2026-08-21T20:44:13.258Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5625,8 +5625,8 @@
       "name": "390L UPRIGHT FRIDGE",
       "model": "RL5K370GSF2",
       "brand": "Hisense",
-      "regular": 8600,
-      "sale": 6250,
+      "regular": null,
+      "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas"
     },
