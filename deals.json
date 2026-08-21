@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-21T09:46:53.489Z",
+  "generatedAt": "2026-08-21T20:44:08.361Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -450,8 +450,8 @@
           "model": "RL5K370GSF2",
           "brand": "Hisense",
           "acuId": "390RFGB",
-          "regular": 8600,
-          "sale": 6250,
+          "regular": null,
+          "sale": null,
           "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         }
