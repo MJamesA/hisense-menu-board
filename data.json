@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-20T05:19:07.358Z",
+  "generatedAt": "2026-08-21T12:24:40.850Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2089,18 +2089,6 @@
       "sale": 3200,
       "warranty": "5 Years",
       "features": "Energy Efficient Cooling Performance | High Performance Inverter Compressor | Modern Top Mount Design Finish | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | High Density Thermal Insulation | Eco Friendly R600a Refrigerant Gas"
-    },
-    {
-      "acuId": "310RFGB",
-      "tag": "A6",
-      "category": "Upright Freezers",
-      "name": "310L UPRIGHT FRIDGE",
-      "model": "FT5K310GSF2",
-      "brand": "Hisense",
-      "regular": 10500,
-      "sale": null,
-      "warranty": "5 Years",
-      "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Total No Frost Cooling Mechanism | Fast Freezing Rapid Functionality | Multi Air Flow Distribution Channels | Electronic Temperature Control System | Upright Refrigerator Design | Flexible Reversible Door Configuration | Eco Friendly Refrigerant Gas R600a"
     },
     {
       "acuId": "AM348LTRFGSS",
