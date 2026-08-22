@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-22T14:59:05.867Z",
+  "generatedAt": "2026-08-22T15:09:07.434Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -4660,8 +4660,8 @@
       "model": "BCD-668W",
       "brand": "Hisense",
       "acuId": "688LRFGS",
-      "regular": 13500,
-      "sale": 9800,
+      "regular": null,
+      "sale": null,
       "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/14529/image"
