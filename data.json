@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-22T14:59:09.630Z",
+  "generatedAt": "2026-08-22T15:09:12.325Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2433,8 +2433,8 @@
       "name": "688L SIDE-BY-SIDE FRIDGE",
       "model": "BCD-668W",
       "brand": "Hisense",
-      "regular": 13500,
-      "sale": 9800,
+      "regular": null,
+      "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant"
     },
