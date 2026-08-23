@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-22T15:09:12.325Z",
+  "generatedAt": "2026-08-23T17:03:14.882Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2433,8 +2433,8 @@
       "name": "688L SIDE-BY-SIDE FRIDGE",
       "model": "BCD-668W",
       "brand": "Hisense",
-      "regular": null,
-      "sale": null,
+      "regular": 13500,
+      "sale": 9800,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant"
     },
@@ -5625,8 +5625,8 @@
       "name": "390L UPRIGHT FRIDGE",
       "model": "RL5K370GSF2",
       "brand": "Hisense",
-      "regular": null,
-      "sale": null,
+      "regular": 8600,
+      "sale": 6250,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas"
     },
