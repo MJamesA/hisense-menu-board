@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:49:10.959Z",
+  "generatedAt": "2026-08-30T20:54:10.106Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1762,7 +1762,7 @@
       "model": "RT1N091NED1",
       "brand": "Hisense",
       "regular": 1950,
-      "sale": null,
+      "sale": 1750,
       "warranty": "5 Years",
       "features": "Spacious & Organized Double Door Design | Sleek & Modern Silver Exterior Finish | Eco-Friendly R600a Natural Refrigerant | Energy Efficient & High-Saving System | Durable & Easy-to-Clean Glass Shelves | Bright & Clear Interior LED Lighting | Simple Mechanical Temperature Control | Stable & Adjustable Leveling Feet | Manual Defrost with Reliable Cooling"
     },
@@ -1774,7 +1774,7 @@
       "model": "ARFB-121",
       "brand": "Amcon",
       "regular": 2600,
-      "sale": null,
+      "sale": 2330,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Shelving | Integrated Bottle Storage Racks | Manual Defrost System"
     },
@@ -1786,7 +1786,7 @@
       "model": "FT1-15SG",
       "brand": "Amcon",
       "regular": 1990,
-      "sale": null,
+      "sale": 1790,
       "warranty": "5 Years",
       "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design"
     },
@@ -1798,7 +1798,7 @@
       "model": "RT1N123NED1",
       "brand": "Hisense",
       "regular": 2460,
-      "sale": null,
+      "sale": 2200,
       "warranty": "5 Years",
       "features": "Spacious & Organized Double Door Design | Energy Efficient Eco-Friendly Cooling | Sleek & Modern Silver Exterior Finish | Bright & Clear Interior LED Lighting | Durable & Easy-to-Clean Glass Shelves | Simple Mechanical Temperature Control | Organized Door Racks for Extra Storage | Stable & Adjustable Leveling Feet | Eco-Safe R600a High-Efficiency Cooling"
     },
@@ -1822,7 +1822,7 @@
       "model": "ARFT-132",
       "brand": "Amcon",
       "regular": 2500,
-      "sale": null,
+      "sale": 2240,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Storage Shelving | High-Visibility Interior | Manual Temperature Control"
     },
@@ -1834,7 +1834,7 @@
       "model": "ARFT-142",
       "brand": "Amcon",
       "regular": 2600,
-      "sale": null,
+      "sale": 2330,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design"
     },
@@ -1858,7 +1858,7 @@
       "model": "RD-20DR4SA",
       "brand": "Hisense",
       "regular": 3000,
-      "sale": null,
+      "sale": 2690,
       "warranty": "5 Years",
       "features": "Double Door Fridge-Freezer | Energy Efficient Technology | Mechanical Temperature Control | Spacious Interior Glass Shelves | Integrated Door Storage Racks | Convenient Manual Defrost | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet"
     },
@@ -1870,7 +1870,7 @@
       "model": "ARFB-159",
       "brand": "Amcon",
       "regular": 2900,
-      "sale": null,
+      "sale": 2600,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | 3 Spacious Freezer Drawers | Deep-Freeze Storage Capacity | Space-Saving Recessed Handle | Adjustable Leveling Feet | Precision Temperature Control"
     },
@@ -1882,7 +1882,7 @@
       "model": "ARFT172",
       "brand": "Amcon",
       "regular": 3000,
-      "sale": null,
+      "sale": 2690,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Storage Shelving | Manual Temperature Control | High-Visibility Interior Lighting"
     },
@@ -1906,7 +1906,7 @@
       "model": "RD-23DC4SA",
       "brand": "Hisense",
       "regular": 4350,
-      "sale": null,
+      "sale": 3900,
       "warranty": "5 Years",
       "features": "5-Star Energy Efficiency Rating | Super Environment Friendly Design | Bottom-Mounted Freezer Section | Flexible Reversible Door System | Sleek Silver Exterior Finish | Precision Temperature Control | Ultra-Low Noise Operation | Convenient Manual Defrost | Eco-Friendly R600a Refrigerant"
     },
@@ -1930,7 +1930,7 @@
       "model": "FC2D-26DI",
       "brand": "Amcon",
       "regular": 3450,
-      "sale": null,
+      "sale": 3100,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Dark Inox Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design"
     },
@@ -1942,7 +1942,7 @@
       "model": "FC2D-26DS",
       "brand": "Amcon",
       "regular": 3400,
-      "sale": null,
+      "sale": 3050,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Dark Stainless Steel Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design"
     },
@@ -1954,7 +1954,7 @@
       "model": "FC2D-26IN",
       "brand": "Amcon",
       "regular": 3350,
-      "sale": null,
+      "sale": 3000,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Inox Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design"
     },
@@ -1966,7 +1966,7 @@
       "model": "ARFT-213",
       "brand": "Amcon",
       "regular": 3180,
-      "sale": null,
+      "sale": 2860,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design"
     },
@@ -2014,7 +2014,7 @@
       "model": "ARFB229",
       "brand": "Amcon",
       "regular": 3900,
-      "sale": null,
+      "sale": 3500,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | 3 Spacious Freezer Drawers | Integrated Bottle Storage Racks | Space-Saving Recessed Handle | Adjustable Leveling Feet | Precision Temperature Control"
     },
@@ -2038,7 +2038,7 @@
       "model": "RFN3183I",
       "brand": "Asko",
       "regular": 12500,
-      "sale": null,
+      "sale": 11000,
       "warranty": "3 Years",
       "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance"
     },
@@ -2098,7 +2098,7 @@
       "model": "ARFT-365W",
       "brand": "Amcon",
       "regular": 4990,
-      "sale": null,
+      "sale": 4450,
       "warranty": "5 Years",
       "features": "Energy Efficient Cooling Performance | Modern Top Mount Design Finish | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | High Density Thermal Insulation | Eco Friendly R600a Refrigerant Gas"
     },
@@ -2122,7 +2122,7 @@
       "model": "ARC-431W",
       "brand": "Amcon",
       "regular": 9390,
-      "sale": null,
+      "sale": 8450,
       "warranty": "5 Years",
       "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Luxury Cross Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas"
     },
@@ -2134,7 +2134,7 @@
       "model": "FR4D-58",
       "brand": "Amcon",
       "regular": 8900,
-      "sale": null,
+      "sale": 7990,
       "warranty": "5 Years",
       "features": "Cross Door Configuration | Energy Efficient Frost-Free Technology | Smart Touch Control Panel | Anti-Bacterial Deodorizer | Fresh Zone & Crisper Drawers | Panel Lock Security Function | Movable Glass Storage Shelving | Sleek Black Exterior Finish | Eco-Friendly R600a Refrigerant"
     },
@@ -2218,7 +2218,7 @@
       "model": "RC-67WS4S3",
       "brand": "Hisense",
       "regular": 12500,
-      "sale": null,
+      "sale": 11250,
       "warranty": "5 Years",
       "features": "3-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant"
     },
@@ -2230,7 +2230,7 @@
       "model": "H680SM1B-WD",
       "brand": "Hisense",
       "regular": 10900,
-      "sale": null,
+      "sale": 9800,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
