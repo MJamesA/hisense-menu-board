@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T21:04:09.413Z",
+  "generatedAt": "2026-08-30T21:09:09.647Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4078,7 +4078,7 @@
       "model": "W15",
       "brand": "Fenda",
       "regular": 400,
-      "sale": null,
+      "sale": 150,
       "warranty": "1 Year",
       "features": ""
     },
@@ -4090,7 +4090,7 @@
       "model": "SSDL504B",
       "brand": "Fenda",
       "regular": 700,
-      "sale": null,
+      "sale": 150,
       "warranty": "1 Year",
       "features": ""
     },
@@ -4102,7 +4102,7 @@
       "model": "SSDL504R",
       "brand": "Fenda",
       "regular": 700,
-      "sale": null,
+      "sale": 150,
       "warranty": "1 Year",
       "features": ""
     },
@@ -4114,7 +4114,7 @@
       "model": "E200PLUS",
       "brand": "Fenda",
       "regular": 380,
-      "sale": null,
+      "sale": 300,
       "warranty": "1 Year",
       "features": ""
     },
@@ -4126,7 +4126,7 @@
       "model": "SSE3",
       "brand": "Fenda",
       "regular": 500,
-      "sale": null,
+      "sale": 200,
       "warranty": "1 Year",
       "features": ""
     },
@@ -4138,7 +4138,7 @@
       "model": "ES13",
       "brand": "Amcon",
       "regular": 1800,
-      "sale": null,
+      "sale": 1600,
       "warranty": "3 Years",
       "features": "Sleek & Stylish High-Profile Design | Powerful 120W Total Audio Output | 6.5-Inch High-Performance Wireless Subwoofer | Advanced Bluetooth Wireless Connectivity | HDMI ARC Input for Seamless TV Sync | Optical & Coaxial Digital Audio Inputs | Plug & Play USB Media Function | Bright Integrated LED Display | Full-Function Wireless Remote Control"
     },
@@ -4150,7 +4150,7 @@
       "model": "SEET510BK",
       "brand": "Amcon",
       "regular": 1350,
-      "sale": null,
+      "sale": 1200,
       "warranty": "1 Year",
       "features": "Powerful 65W High-Output Audio | Dual 4-Inch High-Fidelity Stereo Drivers | IPX5 Professional Waterproof Enclosure | TWS Wireless Surround Sound Pairing | Advanced Bluetooth 5.3 Technology | 8-Hour High-Capacity Rechargeable Battery | Dynamic Multi-Color LED Light Modes | Dedicated Microphone Input for Karaoke | Integrated Heavy-Duty Carrying Handle"
     },
@@ -4162,7 +4162,7 @@
       "model": "SEET510DG",
       "brand": "Amcon",
       "regular": 1350,
-      "sale": null,
+      "sale": 1200,
       "warranty": "1 Year",
       "features": "Powerful 65W High-Output Audio | Dual 4-Inch High-Fidelity Stereo Drivers | IPX5 Professional Waterproof Enclosure | TWS Wireless Surround Sound Pairing | Advanced Bluetooth 5.3 Technology | 8-Hour High-Capacity Rechargeable Battery | Dynamic Multi-Color LED Light Modes | Dedicated Microphone Input for Karaoke | Integrated Heavy-Duty Carrying Handle"
     },
@@ -4378,7 +4378,7 @@
       "model": "SSM111",
       "brand": "Amcon",
       "regular": 1900,
-      "sale": null,
+      "sale": 1700,
       "warranty": "3 Years",
       "features": "Powerful 2.0ch Multimedia Audio System | Dual 8\" Woofers & Dual 4\" Tweeters | Pro Karaoke System with Wireless Microphone | HDMI ARC & Optical Digital Audio Inputs | Advanced Bluetooth Connect Technology | Plug & Play USB and SD/MMC Card Inputs | Integrated Digital FM Radio Tuner | Bright High-Visibility LED Display | Fully Functional Wireless Remote Control"
     },
@@ -4642,7 +4642,7 @@
       "model": "T1000S",
       "brand": "Gorenje",
       "regular": 630,
-      "sale": null,
+      "sale": 560,
       "warranty": "1 Year",
       "features": "Efficient 1000W Rapid Toasting Power | Sleek & Modern Silver Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
     },
@@ -4654,7 +4654,7 @@
       "model": "T850BK",
       "brand": "Gorenje",
       "regular": 530,
-      "sale": null,
+      "sale": 470,
       "warranty": "1 Year",
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern Black Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
     },
@@ -4666,7 +4666,7 @@
       "model": "T850DPB",
       "brand": "Gorenje",
       "regular": 590,
-      "sale": null,
+      "sale": 530,
       "warranty": "1 Year",
       "features": "Efficient 850W Rapid Toasting System | Sleek & Modern Black Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
     },
@@ -4678,7 +4678,7 @@
       "model": "T850WT",
       "brand": "Gorenje",
       "regular": 500,
-      "sale": null,
+      "sale": 450,
       "warranty": "1 Year",
       "features": "Efficient 850W Rapid Toasting Power | Sleek & Modern White Finish | Precision 7-Level Browning Control | Versatile Reheat & Defrost Functions | Integrated Folding Warming Rack | Removable Crumb Tray for Easy Cleaning | Automatic Pop-Up & Shut-Off Safety"
     },
@@ -4750,7 +4750,7 @@
       "model": "TVAM32ANDSTV",
       "brand": "Amcon",
       "regular": 1950,
-      "sale": null,
+      "sale": 1750,
       "warranty": "3 Years",
       "features": "Sleek Frameless & Modern Panel Design | Powerful Android 12 Smart OS Integration | Full HD 1080p High-Definition Clarity | Cinema-Grade Dolby Audio Sound System | Built-in WiFi & High-Speed LAN Ethernet | Screen Mirroring & Kindlink Content Sharing | Pre-installed Netflix, YouTube & Movie Ark | Triple (3) HDMI & Dual (2) USB Connectivity | Integrated Digital Satellite TV Reception"
     },
@@ -4762,7 +4762,7 @@
       "model": "32A5200FS",
       "brand": "Hisense",
       "regular": 1550,
-      "sale": null,
+      "sale": 1200,
       "warranty": "5 Years",
       "features": "Sleek Metal Bezelless Modern Design | Full HD 1080p High-Definition Resolution | Advanced Natural Colour Enhancer Tech | Clear & Immersive Cinematic Picture Quality | Dolby Digital Plus Professional Audio | Integrated Digital Satellite TV Tuner | Dual (2) HDMI Slots & USB Media Player | Smart Parental Rating Lock Security | Wall Bracket & Remote Control Included"
     },
@@ -4774,7 +4774,7 @@
       "model": "TVAM32DSTVDG",
       "brand": "Amcon",
       "regular": 1650,
-      "sale": null,
+      "sale": 980,
       "warranty": "3 Years",
       "features": "Premium Elegant Slim-Profile Design | Full HD 1080p High-Definition Resolution | Ultra-Durable Double Glass Screen Protection | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Ports | Intuitive User-Friendly Smart Interface | Independent Bass & Treble Audio Controls | Universal Headphone & AV Input Ports | Complimentary Wall Bracket Included"
     },
@@ -4786,7 +4786,7 @@
       "model": "NAMCH32M10P",
       "brand": "Amcon",
       "regular": 1500,
-      "sale": null,
+      "sale": 980,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Cabinet Design | Cinema-Grade Dolby Atmos Audio Support | Integrated Digital Satellite TV Reception | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 55W Power Consumption | Vivid HD 720p High-Definition Resolution | Unique Smartside Integrated Keyboard | Universal Headphone & AV Input Ports"
     },
@@ -4798,7 +4798,7 @@
       "model": "HE32M2160HTSQI",
       "brand": "Amcon",
       "regular": 1550,
-      "sale": null,
+      "sale": 980,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Cabinet Design | Cinema-Grade Dolby Atmos Audio Support | Integrated Digital Satellite TV Reception | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 55W Power Consumption | Vivid HD 720p High-Definition Resolution | Unique Smartside Integrated Keyboard | Universal Headphone & AV Input Ports"
     },
@@ -4846,7 +4846,7 @@
       "model": "#N/A",
       "brand": "Hisense",
       "regular": 3590,
-      "sale": null,
+      "sale": 3200,
       "warranty": "5 Years",
       "features": "Energy Efficient Performance | Sleek and Modern Frameless Design | Smart Digital QLED Display | Quantum Dot Color Technology | High Contrast Vivid Images | Advanced Smart Connectivity | Multiple HDMI and USB Inputs | Immersive Premium Sound Quality | Voice Control Assistant Enabled"
     },
@@ -4858,7 +4858,7 @@
       "model": "40A5Q",
       "brand": "Hisense",
       "regular": 3890,
-      "sale": null,
+      "sale": 3480,
       "warranty": "5 Years",
       "features": "Vibrant Quantum Dot Colour Technology | Full HD 1080p Resolution with HDR10 | In-Built High-Speed Dual-Band WiFi & LAN | Cinema-Grade Dolby Atmos Surround Sound | Advanced Game Mode Plus for Smooth Play | Modern Type-C & Dual (2) HDMI ARC Ports | Integrated Digital & Satellite TV Reception | Front-Facing Common Interface (CI) Slot | Wireless Cast Feature & Screen Mirroring"
     },
@@ -4870,7 +4870,7 @@
       "model": "TVAM43ANDDSDG",
       "brand": "Amcon",
       "regular": 2800,
-      "sale": null,
+      "sale": 2200,
       "warranty": "3 Years",
       "features": "Sleek Slim and Frameless Panel Design | Ultra-HD 4K 2160p Cinematic Resolution | Advanced Dolby System Audio Technology | In-Built High-Speed WiFi & LAN Ethernet | Smart Screen Mirroring & Content Casting | Integrated Digital and Satellite TV Tuner | Triple (3) HDMI & Dual (2) USB Connectivity | High-Speed Coaxial Digital Audio Output | Full-Function Remote & Wall Bracket Included"
     },
@@ -4882,7 +4882,7 @@
       "model": "43B7101UWSQO",
       "brand": "Amcon",
       "regular": 3200,
-      "sale": null,
+      "sale": 2500,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Vibrant 1080p High Definition Clarity | Smart Android 12 OS with Dolby Audio | Built-in WiFi & Digital Satellite TV | Seamless Screen Mirroring & Kindlink | Triple HDMI & Dual USB Connectivity | Pre-Installed Netflix & Streaming Apps | Optical, LAN & Bluetooth Connectivity | High-Speed In-Built Wireless Internet"
     },
@@ -4894,7 +4894,7 @@
       "model": "SAMCH43M10GP",
       "brand": "Amcon",
       "regular": 3300,
-      "sale": null,
+      "sale": 2600,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistant | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with ARC Support | High-Speed Wi-Fi & LAN Connectivity | Eco-Friendly Energy Efficient Design"
     },
@@ -4918,7 +4918,7 @@
       "model": "TVAM43DSTVDG",
       "brand": "Amcon",
       "regular": 2500,
-      "sale": null,
+      "sale": 2000,
       "warranty": "3 Years",
       "features": "High-Definition 1080p HD Resolution | Superior Visual Clarity & Brilliant Color | Integrated Digital & Satellite TV Tuner | Access to Diverse Satellite Free Channels | High-Volume Quality Audio Sound System | Intuitive User-Friendly Media Interface | Triple (3) HDMI & Dual (2) USB Connectivity | Sleek & Durable Integrated TV Stand | Energy-Efficient LED Display Technology"
     },
@@ -4930,7 +4930,7 @@
       "model": "NAMCH43M10P",
       "brand": "Amcon",
       "regular": 2500,
-      "sale": null,
+      "sale": 1900,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports"
     },
@@ -4942,7 +4942,7 @@
       "model": "HE43M2160HTSQI",
       "brand": "Amcon",
       "regular": 2600,
-      "sale": null,
+      "sale": 2000,
       "warranty": "3 Years",
       "features": "Elegant Slim and Sleek Modern Design | 1080p Full High-Definition Resolution | Integrated Digital Satellite TV Reception | Unique Smart Side Integrated Keypad | Advanced Dolby System Audio Technology | High-Speed Optical Digital Audio Port | Dual (2) HDMI & Dual (2) USB Connectivity | High-Efficiency 75W Power Consumption | Universal Headphone & AV Input Ports"
     },
@@ -5326,7 +5326,7 @@
       "model": "SAMCH85M9XW",
       "brand": "Amcon",
       "regular": 17900,
-      "sale": null,
+      "sale": 15900,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design"
     },
@@ -5398,7 +5398,7 @@
       "model": "SAMCH98F8TM",
       "brand": "Amcon",
       "regular": 33000,
-      "sale": null,
+      "sale": 29500,
       "warranty": "3 Years",
       "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design"
     },
@@ -5422,7 +5422,7 @@
       "model": "100LASER-L9",
       "brand": "Hisense",
       "regular": 52000,
-      "sale": null,
+      "sale": 46000,
       "warranty": "5 Years",
       "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket"
     },
@@ -5434,7 +5434,7 @@
       "model": "120LASERL9QE",
       "brand": "Hisense",
       "regular": 64900,
-      "sale": null,
+      "sale": 58000,
       "warranty": "5 Years",
       "features": "Low Energy Consumption Standby Mode | Efficient Power Consumption Design | Smart Power Management Functionality | TriChroma Triple Laser Technology | Ultra HD 4K Resolution | Ambient Light Rejecting Screen | Dolby Atmos Immersive Audio | High Dynamic Range Compatibility | VIDAA Smart Operating System"
     },
@@ -5446,7 +5446,7 @@
       "model": "120LASERL9",
       "brand": "Hisense",
       "regular": 60000,
-      "sale": null,
+      "sale": 54000,
       "warranty": "5 Years",
       "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity"
     },
@@ -5470,7 +5470,7 @@
       "model": "C2ULTRA",
       "brand": "Hisense",
       "regular": 32000,
-      "sale": null,
+      "sale": 28500,
       "warranty": "3 Years",
       "features": "Features Needed"
     },
@@ -5494,7 +5494,7 @@
       "model": "PX1-PRO",
       "brand": "Hisense",
       "regular": 36000,
-      "sale": null,
+      "sale": 32000,
       "warranty": "5 Years",
       "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control"
     },
@@ -5506,7 +5506,7 @@
       "model": "PX3-PRO",
       "brand": "Hisense",
       "regular": 39000,
-      "sale": null,
+      "sale": 35000,
       "warranty": "5 Years",
       "features": "Ultra-Short Throw with 80\"–150\" Projection | LPU Digital Laser Engine for Pure Color Accuracy | 4K AI Upscaler & AI Picture Optimisation | Super Wide Colour Gamut & IMAX Enhanced | Vivid Dolby Vision, HDR+ & HDR10 Technology | Cinematic Dolby Atmos & Wireless Music Sharing | VIDAA Voice Assistance & Apple AirPlay Support | In-Built Dual-Band WiFi, Bluetooth & LAN | Triple (3) HDMI ARC & Dual (2) USB Media Ports"
     },
@@ -5602,7 +5602,7 @@
       "model": "FN31831I",
       "brand": "Asko",
       "regular": 13000,
-      "sale": null,
+      "sale": 9000,
       "warranty": "3 Years",
       "features": "Built-In Integrated Design | Total No-Frost Technology | Energy Efficient Operation | 7 Dedicated Freezer Drawers | Advanced Fast-Freeze Function | Soft-Closing Door System | Flexible Reversible Door | Classic White Exterior Finish | Eco-Friendly R600a Refrigerant"
     },
@@ -5638,7 +5638,7 @@
       "model": "SEWHC100W",
       "brand": "Steibel Eltron",
       "regular": 2750,
-      "sale": null,
+      "sale": 1870,
       "warranty": "1 Year",
       "features": "Massive 100-Litre Hot Water Storage Capacity | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design"
     },
@@ -5650,7 +5650,7 @@
       "model": "SEWHC150W",
       "brand": "Steibel Eltron",
       "regular": 3900,
-      "sale": null,
+      "sale": 2650,
       "warranty": "1 Year",
       "features": "Massive 150-Litre Hot Water Storage Capacity | IPX4 Rated Splash-Proof Water Resistance | Sufficient Output for Multiple Draw-Off Points | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced Protection from Electric Shock System | Precision Temperature Adjustment Control | Dual Power and Heating Status Indicators | External Thermometer with Temperature Gauge | Durable Wall-Mounted Space-Saving Design"
     },
@@ -5698,7 +5698,7 @@
       "model": "SEISWHDS60W",
       "brand": "Steibel Eltron",
       "regular": 2280,
-      "sale": null,
+      "sale": 1500,
       "warranty": "1 Year",
       "features": "Complete System Optimized for Single-Shower Luxury | Corrosion-Resistant Copper Heating Element & Tank | Premium 5-in-1 Shower Head with Adjustable Slide Bar | Elegant LED Light Band Operation Status Indicator | Double-Action Thermostat Anti-Scald Protection | Integrated Earth Leakage Circuit Breaker (ELCB) | Advanced IP25 Rated Water Ingress Protection | Precision Temperature Adjustment Control Dial | Multi-Point Overheating & Electric Shock Safety"
     },
@@ -5710,7 +5710,7 @@
       "model": "SEIWHDCES68TR",
       "brand": "Steibel Eltron",
       "regular": 3000,
-      "sale": null,
+      "sale": 2000,
       "warranty": "1 Year",
       "features": "Ultra-Compact Instantaneous Heating Technology | Advanced 2i Electronic Open-Loop Control | High Energy Efficiency via Smart 2i Sensors | Precision-Fixed 55°C Maximum Outlet Temperature | Exceptionally Slimline Space-Saving Architecture | Flexible Temperature Adjustment via Cold Water Mixing | Modern Aesthetic with Minimalist Compact Design | Safe-Grounding Installation Engineering System | On-Demand Heating with No Standby Energy Loss"
     },
@@ -5722,7 +5722,7 @@
       "model": "SEIWHDCES68PL",
       "brand": "Steibel Eltron",
       "regular": 3320,
-      "sale": null,
+      "sale": 2200,
       "warranty": "1 Year",
       "features": "High-Performance Instant Heating for Showers | Advanced 3i Electronic Closed-Loop Control | Precision Temperature Selection (20C to 60˚C) | Superior Energy Efficiency via 3i Smart Sensors | Customizable Safety Temperature Locks (43/50/55˚C) | Exceptionally Slimline & Space-Saving Design | Ultra-Compact Modern Architecture for Tight Spaces | Safe-Grounding Protective Installation System | Safe-Grounding Protective Installation System"
     },
@@ -5734,7 +5734,7 @@
       "model": "SEIWHDCEX68PRE",
       "brand": "Steibel Eltron",
       "regular": 3600,
-      "sale": null,
+      "sale": 2400,
       "warranty": "1 Year",
       "features": "Fully Electronically Controlled Instant Heating | Advanced 4i Technology for Maximum Efficiency | Large Multifunction Digital Display Interface | Precision Temperature Delivery & Selection | Customizable Safety Temperature Locks (43/50/55˚C) | Dual Temperature Memory Buttons for Quick Access | Power-Saving Mode with Optional ECO Function | Exceptionally Slimline & High-Grade Compact Design | Intelligent Flow-Rate Control for Stable Performance"
     },
@@ -5746,7 +5746,7 @@
       "model": "SEIWHDHC6W",
       "brand": "Steibel Eltron",
       "regular": 1940,
-      "sale": null,
+      "sale": 1300,
       "warranty": "1 Year",
       "features": "High-Efficiency Instant Heating Technology | Low-Pressure Compatible (Operates at 1.2LPM) | Precision Thermostat Control Adjustment Knob | Dual Automatic & Manual Reset Thermostat | Integrated Earth Leakage Circuit Breaker (ELCB) | Flame Retardant PCB for Enhanced Fire Safety | Compact Single-Phase Power Configuration | Versatile Residential & Commercial Application | Easy-Install Design with Low Maintenance Build"
     },
@@ -5758,7 +5758,7 @@
       "model": "SEWFFPW",
       "brand": "Steibel Eltron",
       "regular": 350,
-      "sale": null,
+      "sale": 310,
       "warranty": "3 Months",
       "features": "Advanced Ultrafiltration Membrane Technology | Antibacterial Carbon for Odor & Taste Removal | Innovative 5-in-1 Encapsulated Filter System | Smart Filter Lifetime Indicator for Easy Tracking | Compact Space-Saving Countertop Design | Quick & Easy \"Snap-In\" Filter Replacement | 1-Litre Integrated Pure Water Storage Capacity | Ideal for Crystal Clear Hot or Cold Beverages | Superior Bacterial & Microbial Contaminant Shield"
     },
@@ -5770,7 +5770,7 @@
       "model": "SEWFFCG",
       "brand": "Steibel Eltron",
       "regular": 2620,
-      "sale": null,
+      "sale": 1700,
       "warranty": "1 Year",
       "features": "Advanced 0.01 Micron Ultrafiltration Precision | Silverlite™ Stone Anti-Bacterial Growth Shield | Smart Filter Change Alarm for Timely Maintenance | Integrated Manual On/Off Flow Control Valve | Premium Stainless Steel Flexible Output Tube | Hygienic One-Way Nozzle to Prevent Back-Flow | Eco-Friendly Performance (No Electricity Needed) | Quick & Simple Tool-Free Filter Replacement | Pure Gravity-Fed Technology for Silent Operation"
     },
@@ -5782,7 +5782,7 @@
       "model": "SEWFNW",
       "brand": "Steibel Eltron",
       "regular": 2780,
-      "sale": null,
+      "sale": 1800,
       "warranty": "1 Year",
       "features": "Advanced Innovative Nano Alumina Fiber Technology | Optimum Multi-Stage Water Filtration Solution | Elegant, Modern & Exceptionally Slimline Design | Integrated Designer Manual On/Off Flow Valve | Innovative \"Push & Click\" Secure Filter Locking | Quick & Tool-Free Easy Filter Replacement System | Dual Installation Versatility (Wall or Countertop) | Modern Space-Saving Compact Architecture | High-Efficiency Flow with Zero Water Wastage"
     },
@@ -5794,7 +5794,7 @@
       "model": "SEWFRPW",
       "brand": "Steibel Eltron",
       "regular": 1900,
-      "sale": null,
+      "sale": 1200,
       "warranty": "1 Year",
       "features": "Advanced 6-Stage Integrated Filtration Process | Ultrafiltration (UF) 0.1 Micron Precision Membrane | Dual High-Efficiency Encapsulated Filter Cartridges | Premium Mixture of Bamboo & Coconut Carbon | Active Granular Silver-Impregnated Powder | Encapsulated Filter to Prevent Contamination | Easy Tool-Free Filter Replacement Design | Rapid & Simple DIY Self-Installation Kit | Minimal Maintenance & Long-Life Performance"
     },
