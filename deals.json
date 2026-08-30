@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:34:05.646Z",
+  "generatedAt": "2026-08-30T20:39:05.478Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -615,7 +615,7 @@
           "brand": "Amcon",
           "acuId": "ECRC024LMC",
           "regular": 400,
-          "sale": null,
+          "sale": 350,
           "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | Advanced Aluminum Heating Element | Non-Stick Coated Durable Inner Pot | Sleek & Stylish Modern Exterior | Uniform Heat Distribution Technology | Easy-to-Clean Removable Components",
           "warranty": "1 Year"
         },
@@ -625,7 +625,7 @@
           "model": "WG503-E01",
           "brand": "Amcon",
           "acuId": "EC-WG503-E01",
-          "regular": 500,
+          "regular": null,
           "sale": null,
           "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | High-Quality Stainless Steel Housing | Perfect Results for Every Rice Type | Non-Stick Coating for Easy Cleaning | Automatic Keep-Warm Functionality | Simple One-Touch Intuitive Operation",
           "warranty": "1 Year"
@@ -4613,7 +4613,7 @@
       "brand": "Amcon",
       "acuId": "ECRC01",
       "regular": 1200,
-      "sale": null,
+      "sale": 1060,
       "features": "Powerful 900W High-Efficiency Motor | Extra-Large 5L Net Cooking Capacity | Smart Digital Touch Control Panel | Professional Stainless Steel Finish | Non-Stick Pot for Effortless Cleaning | Precision Heating for Perfect Rice | Multiple Smart-Logic Cooking Modes",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/1981/image"
