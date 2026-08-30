@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:19:08.802Z",
+  "generatedAt": "2026-08-30T20:24:08.755Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -394,7 +394,7 @@
       "model": "YT-4673B5G",
       "brand": "Amcon",
       "regular": 300,
-      "sale": null,
+      "sale": 270,
       "warranty": "1 Year",
       "features": "Powerful 600W High-Performance Motor | 6 Premium Stainless Steel Blades | Durable 1.5L Hygienic Glass Jar | Versatile 2-in-1 Blender & Grinder | Precision 5-Speed Cooling Control | Dedicated Rapid Ice Crush Function | Stable Non-Slip Rubber Support Base"
     },
@@ -406,7 +406,7 @@
       "model": "YT-4673B5S",
       "brand": "Amcon",
       "regular": 450,
-      "sale": null,
+      "sale": 400,
       "warranty": "1 Year",
       "features": "Powerful 600W High-Performance Motor | 6 Premium Stainless Steel Blades | Versatile 3-in-1 Blender Grinder Chopper | Durable Domestic & Professional Build | Precision 5-Speed Cooling Control | Dedicated Rapid Ice Crush Function | Stable Non-Slip Rubber Support Base"
     },
@@ -418,7 +418,7 @@
       "model": "S400XG",
       "brand": "Gorenje",
       "regular": 420,
-      "sale": null,
+      "sale": 375,
       "warranty": "1 Year",
       "features": "1L Thermal-Resistant Glass Bowl | Dual-Point Stainless Steel Blades | High-Efficiency 400W Power Motor | Precision Chopping & Smooth Blending | One-Touch Instant Pulse Function | BPA-Free & Easy-to-Clean Design | Compact Versatile Food Processor"
     },
@@ -430,7 +430,7 @@
       "model": "SB801W",
       "brand": "Gorenje",
       "regular": 950,
-      "sale": null,
+      "sale": 850,
       "warranty": "1 Year",
       "features": "High-Torque Powerful 801W Motor Base | Versatile Chopper, Blender & Grinder | Large 2.4L Multi-Purpose Food Bowl | Family-Sized 1.5L Blending Jar | Multi-Blade Stainless Steel Set | Precision Pulse & Ice Crush Modes | Safe & Intuitive One-Touch Controls"
     },
@@ -442,7 +442,7 @@
       "model": "M500DCS",
       "brand": "Gorenje",
       "regular": 550,
-      "sale": null,
+      "sale": 490,
       "warranty": "1 Year",
       "features": "Powerful 500W Energy-Efficient DC Motor | 2-in-1 Handheld & Stand Mixer Design | Automatic Rotating 3L Mixing Bowl | 5-Speed Regulator & Turbo Function | Stainless Steel Beaters & Dough Hooks | Versatile Beating, Whipping & Kneading | Easy-to-Clean Dishwasher Safe Parts"
     },
@@ -454,7 +454,7 @@
       "model": "HBX601XG",
       "brand": "Gorenje",
       "regular": 350,
-      "sale": null,
+      "sale": 310,
       "warranty": "1 Year",
       "features": "600W High-Power DC Motor | Durable Stainless Steel Blending Bar | Large 700ml Clear Blending Jar | High-Performance Chopping Attachment | Precision Whisk & Beater Accessories | Multi-Speed Control for All Textures | Ergonomic Grip for Easy Handling"
     },
@@ -466,7 +466,7 @@
       "model": "HBX1000E",
       "brand": "Gorenje",
       "regular": 670,
-      "sale": null,
+      "sale": 620,
       "warranty": "1 Year",
       "features": "Energy Efficient Durable DC Motor | Powerful Performance 1000W Motor | Adjustable Speed Smart Control Knob | Turbo Function Immediate Power Boost | Efficient Quad Stainless Steel Blade | Ergonomic Softouch Control Handle | Easy Detachable Blending Attachment"
     },
@@ -478,7 +478,7 @@
       "model": "HBC807Q",
       "brand": "Gorenje",
       "regular": 890,
-      "sale": null,
+      "sale": 800,
       "warranty": "1 Year",
       "features": "Powerful 800W High-Efficiency Motor | 6-Level Smart Speed Power Regulator | Bright LED Work Area Illumination | Premium Stainless Steel Blending Bar | Multifunctional Chopper & Whisk Set | Convenient Storage Accessory Holder | Durable Quad-Blade Cutting System"
     },
@@ -489,7 +489,7 @@
       "name": "HANDHELD MIXER\n450W",
       "model": "M450XG",
       "brand": "Gorenje",
-      "regular": 390,
+      "regular": null,
       "sale": null,
       "warranty": "1 Year",
       "features": "Quiet & Powerful 450W DC Motor | Precision 5-Speed Power Regulator | Versatile Chopper & Whisk Attachments | Stainless Steel Beaters & Dough Hooks | Easy-to-Use Push Button Tool Eject | Lightweight Ergonomic Handheld Design | Multi-Purpose Beating & Kneading Set"
@@ -502,7 +502,7 @@
       "model": "M500DC",
       "brand": "Gorenje",
       "regular": 400,
-      "sale": null,
+      "sale": 360,
       "warranty": "1 Year",
       "features": "Ultra-Silent High-Torque 500W DC Motor | Precision 5-Speed Power Regulator | Turbo Boost & Pulse Functionality | Pro-Grade Stainless Steel Dough Hooks | High-Efficiency Wire Whisk Attachments | Versatile Beating, Whipping & Kneading | Lightweight Ergonomic Comfort Handle"
     },
@@ -514,7 +514,7 @@
       "model": "M550DC",
       "brand": "Gorenje",
       "regular": 550,
-      "sale": null,
+      "sale": 490,
       "warranty": "1 Year",
       "features": "Powerful 600W Performance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design"
     },
@@ -526,7 +526,7 @@
       "model": "M350W",
       "brand": "Gorenje",
       "regular": 450,
-      "sale": null,
+      "sale": 400,
       "warranty": "1 Year",
       "features": "Power 350W Performance | 4 Speed Levels And Pulse Function | Powerful And Efficient AC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design"
     },
@@ -562,7 +562,7 @@
       "model": "B1400E",
       "brand": "Gorenje",
       "regular": 890,
-      "sale": null,
+      "sale": 800,
       "warranty": "1 Year",
       "features": "Extreme 1400W High-Performance Motor | Large 1.75L Thermal-Resistant Glass Jar | 4 Smart-Logic Preset Programs | Removable Stainless Steel Blade System | Precision Variable Speed Control | High-Power Dedicated Ice Crush Mode | Auto Clean & Safety Lock Protection"
     },
@@ -598,7 +598,7 @@
       "model": "JC4800VWY",
       "brand": "Gorenje",
       "regular": 1550,
-      "sale": null,
+      "sale": 1400,
       "warranty": "1 Year",
       "features": "Efficient 200W High-Torque Motor | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | Compact Space-Saving Kitchen Design | Quiet Operation & Nutrient Retention"
     },
@@ -610,7 +610,7 @@
       "model": "JC805EII",
       "brand": "Gorenje",
       "regular": 790,
-      "sale": null,
+      "sale": 700,
       "warranty": "1 Year",
       "features": "Powerful 800W High-Efficiency Motor | XL Feeding Tube for Whole Fruits | Large 1.5L Pulp & Juice Containers | 2-Speed Settings for Soft & Hard Fruit | Clean-Flow Anti-Drip Spout System | Integrated Protective Dust Cover | Stainless Steel Micro-Mesh Filter"
     },
@@ -622,7 +622,7 @@
       "model": "MMC1500",
       "brand": "Gorenje",
       "regular": 3200,
-      "sale": null,
+      "sale": 2850,
       "warranty": "1 Year",
       "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock"
     },
@@ -634,7 +634,7 @@
       "model": "SBR1500E",
       "brand": "Gorenje",
       "regular": 1890,
-      "sale": null,
+      "sale": 1690,
       "warranty": "1 Year",
       "features": "Powerful 1500W High Performance Motor | Innovative Fusion Mode Technology | Comprehensive Multi Jar Capacity Setup | 2.0L Main Food Processor Bowl & 1.75L Plastic Blending Jar | 700mL Portable Sports Blender | Extensive Precision Cutting Prep Attachments | 10 Speed Intuitive Control & Programs"
     },
@@ -658,7 +658,7 @@
       "model": "MMC800CW",
       "brand": "Gorenje",
       "regular": 1990,
-      "sale": null,
+      "sale": 1790,
       "warranty": "1 Year",
       "features": "Powerful 800W High-Efficiency Motor | Precision 6-Speed Power Regulator | Instant Pulse Function for Extra Power | High-Performance Beater & Wire Whisk | Robust Design with Easy-to-Use Controls"
     },
@@ -682,7 +682,7 @@
       "model": "MMC800CM",
       "brand": "Gorenje",
       "regular": 800,
-      "sale": null,
+      "sale": 710,
       "warranty": "1 Year",
       "features": "Precision Digital LED Control Panel | Powerful Ice Crushing Technology | Dedicated Dry Grinder Attachment | On-the-Go Drinking Spout Lid | Versatile High, Low & Pulse Speeds | Secure & Stable Non-Slip Suction Feet | Energy Efficient Smart Performance"
     },
@@ -694,7 +694,7 @@
       "model": "DT-K80T",
       "brand": "Amcon",
       "regular": 3200,
-      "sale": null,
+      "sale": 2850,
       "warranty": "1 Year",
       "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning"
     },
@@ -706,7 +706,7 @@
       "model": "DT-8110",
       "brand": "Amcon",
       "regular": 1950,
-      "sale": null,
+      "sale": 1750,
       "warranty": "2 Years",
       "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade"
     },
@@ -718,7 +718,7 @@
       "model": "BLC2880B",
       "brand": "Amcon",
       "regular": 2300,
-      "sale": null,
+      "sale": 2050,
       "warranty": "1 Year",
       "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control"
     },
@@ -730,7 +730,7 @@
       "model": "BLC2880S",
       "brand": "Amcon",
       "regular": 2500,
-      "sale": null,
+      "sale": 2230,
       "warranty": "1 Year",
       "features": "Ultra-Powerful 1680W High-Speed Motor | Generous 1.8L Family-Sized Jar | Quiet-Tech Sound Proof Shield | Advanced Precision Digital Controls | Leak-Resistant Secure Seal Lid | Safe Interlock & Instant Motor Brake | Instant Pulse & Texture Control"
     },
@@ -742,7 +742,7 @@
       "model": "DT-767",
       "brand": "Amcon",
       "regular": 950,
-      "sale": null,
+      "sale": 850,
       "warranty": "2 Years",
       "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs"
     },
@@ -754,7 +754,7 @@
       "model": "DT-780",
       "brand": "Amcon",
       "regular": 1250,
-      "sale": null,
+      "sale": 1120,
       "warranty": "1 Year",
       "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs"
     },
@@ -766,7 +766,7 @@
       "model": "DT-710",
       "brand": "Amcon",
       "regular": 1100,
-      "sale": null,
+      "sale": 990,
       "warranty": "2 Years",
       "features": "Powerful 1800W Heavy-Duty Motor | High-Speed 11,000 RPM Blending | Massive 2.2L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Cutting Blade | Versatile Design for All Kitchen Needs"
     },
@@ -778,7 +778,7 @@
       "model": "BLC1680",
       "brand": "Amcon",
       "regular": 2190,
-      "sale": null,
+      "sale": 1950,
       "warranty": "1 Year",
       "features": "Ultra-Powerful 1680W High-Speed Motor | Massive 2.5L Extra-Large Capacity | Quiet-Tech Sound Dampening Shield | Reliable Manual Mechanical Controls | Heavy-Duty Safety Interlock System | Instant Pulse & Texture Control | Leak-Resistant Secure Seal Lid"
     },
@@ -790,7 +790,7 @@
       "model": "BLC2708A",
       "brand": "Amcon",
       "regular": 2390,
-      "sale": null,
+      "sale": 2140,
       "warranty": "1 Year",
       "features": "Massive 23L Industrial Capacity Jar | Powerful 1680W Commercial-Grade Motor | Integrated Easy-Pour Discharge Tap | Heavy-Duty Manual Mechanical Control | Instant Pulse for Precision Textures | Secure Leak-Resistant Seal Lid | Stable Non-Slip Rubber Grip Feet"
     },
