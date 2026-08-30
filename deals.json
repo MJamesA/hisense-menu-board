@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:24:05.633Z",
+  "generatedAt": "2026-08-30T20:29:05.867Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -170,8 +170,8 @@
           "model": "DT-767",
           "brand": "Amcon",
           "acuId": "BL DT-767",
-          "regular": 950,
-          "sale": 850,
+          "regular": null,
+          "sale": null,
           "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
           "warranty": "2 Years"
         },
@@ -215,7 +215,7 @@
           "brand": "Gorenje",
           "acuId": "B1500DE2.0L",
           "regular": 1890,
-          "sale": null,
+          "sale": 1690,
           "features": "Ultra Powerful 1500W Performance | Large 2L Premium Tritan Jar | Super Silent Operation Function | Smart Digital Touch Control Panel | Six Leaves Stainless Steel Blade | Five Preset Program Options | Efficient Pulse Self Clean Mode",
           "warranty": "1 Year"
         },
@@ -237,7 +237,7 @@
           "brand": "Gorenje",
           "acuId": "BMG1701SB",
           "regular": 1150,
-          "sale": null,
+          "sale": 1030,
           "features": "Powerful 1700W Motor Performance | Integrated Food Pusher Auger | Convenient On & Off Reverse Functional Knob | Safety Lock Protection Base Unit | Durable Stainless Steel Cutting Blade | Versatile Dual Grinding Plates Included | Advanced Slicing Shredding Attachment",
           "warranty": "1 Year"
         }
@@ -3662,8 +3662,8 @@
       "model": "MMC1500",
       "brand": "Gorenje",
       "acuId": "MMC1500BK6.7L",
-      "regular": 3200,
-      "sale": 2850,
+      "regular": null,
+      "sale": null,
       "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/4992/image"
@@ -5016,7 +5016,7 @@
       "brand": "Gorenje",
       "acuId": "B800ORAB1.5L",
       "regular": 880,
-      "sale": null,
+      "sale": 790,
       "features": "Powerful 800W High Speed Motor | 1.5L Blender Capacity | Easy Flat Control Panel Setup | Premium Quad Blade System | High Performance Mechanical Design | Smooth Daily Blending Performance | Seamless \"Flat Controls\" with LED Lighting",
       "warranty": "1 Year"
     },
