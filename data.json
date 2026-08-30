@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:34:09.593Z",
+  "generatedAt": "2026-08-30T20:39:09.385Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1209,7 +1209,7 @@
       "name": "ELECTRIC RICE COOKER",
       "model": "WG503-E01",
       "brand": "Amcon",
-      "regular": 500,
+      "regular": null,
       "sale": null,
       "warranty": "1 Year",
       "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | High-Quality Stainless Steel Housing | Perfect Results for Every Rice Type | Non-Stick Coating for Easy Cleaning | Automatic Keep-Warm Functionality | Simple One-Touch Intuitive Operation"
@@ -1222,7 +1222,7 @@
       "model": "ECRC024LMC",
       "brand": "Amcon",
       "regular": 400,
-      "sale": null,
+      "sale": 350,
       "warranty": "1 Year",
       "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | Advanced Aluminum Heating Element | Non-Stick Coated Durable Inner Pot | Sleek & Stylish Modern Exterior | Uniform Heat Distribution Technology | Easy-to-Clean Removable Components"
     },
@@ -1234,7 +1234,7 @@
       "model": "ECRC01",
       "brand": "Amcon",
       "regular": 1200,
-      "sale": null,
+      "sale": 1060,
       "warranty": "1 Year",
       "features": "Powerful 900W High-Efficiency Motor | Extra-Large 5L Net Cooking Capacity | Smart Digital Touch Control Panel | Professional Stainless Steel Finish | Non-Stick Pot for Effortless Cleaning | Precision Heating for Perfect Rice | Multiple Smart-Logic Cooking Modes"
     },
