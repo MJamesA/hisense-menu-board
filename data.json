@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T21:14:10.210Z",
+  "generatedAt": "2026-08-30T21:54:14.247Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1383,6 +1383,30 @@
       "features": "Precision Digital Touch Control Panel | 8 Smart-Logic Preset Cooking Programs | Clear-View Window for Visible Cooking | Precision Time & Temperature Control | Safe-to-Touch Ergonomic Cool Handle | Versatile All-in-One Kitchen Helper | Rapid 360° Hot Air Circulation Tech"
     },
     {
+      "acuId": "ECAF70SSH",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "7.0L DIGITAL\nAIR FRYER",
+      "model": "H07AFBK1S1S",
+      "brand": "Hisense",
+      "regular": 1380,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Rapid Heating System | Spacious 7.0L Cooking Capacity | Advanced Digital LED Touch Panel | Rapid 360 Degree Hot Air Circulation | Smart Automatic Preset Cooking Modes | Precision Time and Temp Adjustment | Healthy Low Fat Frying Technology"
+    },
+    {
+      "acuId": "ECAF80DS2H",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "8.0L DIGITAL DOUBLE\nSTACK AIR FRYER",
+      "model": "H08AFBK2S2",
+      "brand": "Hisense",
+      "regular": 1250,
+      "sale": null,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Rapid Heating System | Spacious 8.0L Dual Zone Capacity | Precision Digital Touch Control Panel | Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Programs | Synced Finish and Temperature Control | Rapid 360 Degree Hot Air Circulation"
+    },
+    {
       "acuId": "ECAF80DZ1H",
       "tag": "A7",
       "category": "Electric Cooker",
@@ -2091,6 +2115,18 @@
       "features": "Energy Efficient Cooling Performance | High Performance Inverter Compressor | Modern Top Mount Design Finish | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | High Density Thermal Insulation | Eco Friendly R600a Refrigerant Gas"
     },
     {
+      "acuId": "310LUFB",
+      "tag": "A6",
+      "category": "Upright Freezers",
+      "name": "310L UPRIGHT FRIDGE",
+      "model": "#N/A",
+      "brand": "Hisense",
+      "regular": 10500,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Total No Frost Cooling Mechanism | Fast Freezing Rapid Functionality | Multi Air Flow Distribution Channels | Electronic Temperature Control System | Upright Refrigerator Design | Flexible Reversible Door Configuration | Eco Friendly Refrigerant Gas R600a"
+    },
+    {
       "acuId": "AM348LTRFGSS",
       "tag": "A6",
       "category": "Amcon White Goods",
@@ -2245,6 +2281,18 @@
       "sale": null,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Water Dispenser & Ice Maker | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
+    },
+    {
+      "acuId": "528LRFGSS-WD",
+      "tag": "A6",
+      "category": "Refrigerator",
+      "name": "528L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
+      "model": "RS3P428NEDE",
+      "brand": "Hisense",
+      "regular": 8200,
+      "sale": null,
+      "warranty": "5 Years",
+      "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Integrated External Water Dispenser | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
     {
       "acuId": "FR2D-69",
@@ -5617,18 +5665,6 @@
       "sale": null,
       "warranty": "5 Years",
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant"
-    },
-    {
-      "acuId": "390RFGB",
-      "tag": "A6",
-      "category": "Upright Freezers",
-      "name": "390L UPRIGHT FRIDGE",
-      "model": "RL5K370GSF2",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "warranty": "5 Years",
-      "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas"
     },
     {
       "acuId": "SEWHC100W",
