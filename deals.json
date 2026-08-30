@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:59:06.257Z",
+  "generatedAt": "2026-08-30T21:04:05.741Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -1898,7 +1898,7 @@
           "brand": "Amcon",
           "acuId": "AM-C40",
           "regular": 580,
-          "sale": null,
+          "sale": 300,
           "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes",
           "warranty": "1 Year"
         },
@@ -1909,7 +1909,7 @@
           "brand": "Hisense",
           "acuId": "HS-E72",
           "regular": 1300,
-          "sale": null,
+          "sale": 970,
           "features": "Latest Android 16 Operating System | Large 6.52” HD+ Sleek Design Display | Massive 128GB ROM & 6GB RAM Memory | All-Day 5000mAh High-Capacity Battery | High-Speed 4G LTE Reliable Network | Secure Side Fingerprint Smart Unlock | Dual SIM Support for Easy Connectivity | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
           "warranty": "1 Year"
         },
@@ -1920,7 +1920,7 @@
           "brand": "Hisense",
           "acuId": "HS-U42 LITE",
           "regular": 790,
-          "sale": null,
+          "sale": 600,
           "features": "Compact 5.0” Durable Design Display | Reliable 3G Network Connectivity | Efficient Android Go Edition OS | 16GB ROM & 1GB RAM Essential Memory | Dual SIM & Dedicated SD Card Slot | All-Day 2000mAh Power Capacity | 5MP Rear Camera with Built-in Flash | Classic Professional Black Color",
           "warranty": "1 Year"
         },
@@ -1931,7 +1931,7 @@
           "brand": "Hisense",
           "acuId": "HS-U605",
           "regular": 350,
-          "sale": null,
+          "sale": 200,
           "features": "Ultra-Compact 4.1” Pocket-Sized Display | Efficient Quad-Core Processing Power | Reliable 3G Network Connectivity | Expandable Storage via MicroSD Slot | Versatile Dual SIM & Single SIM Support | Classic 5MP Rear & 2MP Selfie Cameras | Smooth Android 8.1 Oreo Performance | Built-in 1GB RAM & 8GB ROM Storage | Energy-Efficient 1500mAh Battery",
           "warranty": "1 Year"
         },
@@ -1942,7 +1942,7 @@
           "brand": "Hisense",
           "acuId": "HS-U53",
           "regular": 900,
-          "sale": null,
+          "sale": 690,
           "features": "Modern Android 13 Operating System | Immersive 6.0” HD+ Sleek Display | Smooth 4GB RAM & 32GB ROM Memory | High-Speed 4G LTE Reliable Network | Reliable 3000mAh All-Day Battery | Dual 8MP Crystal Clear AI Cameras | Instant Screen Record & Flashlight | Dual SIM Support for Easy Connectivity | Stylish Modern Blue Color Finish",
           "warranty": "1 Year"
         }
@@ -1958,7 +1958,7 @@
           "brand": "Amcon",
           "acuId": "AM18LMDC-CSHSS",
           "regular": 4400,
-          "sale": null,
+          "sale": 3950,
           "features": "Commercial Power Input Cooking Design | High Efficiency Energy Performance | Six Precision Cooking Power Levels | Digital Control System Panel Design | Premium Led Screen Display Screen | High Performance Crispy Grill System | 1400 Watt Microwave System | Curated Auto Cook Function Programs | Convenient Cooking End Alert Signal",
           "warranty": "1 Year"
         },
@@ -1969,7 +1969,7 @@
           "brand": "Amcon",
           "acuId": "AM20LMDC-GHS",
           "regular": 1020,
-          "sale": null,
+          "sale": 900,
           "features": "One Star Energy Saving Performance | Efficient Point Five Watt Standby Power | Powerful 1200 Watt Microwave Output | Versatile Grill And Combination Cooking Modes | Intuitive Rotary Dial And Button Controls | Six Precision Microwave Cooking Power Levels",
           "warranty": "1 Year"
         },
@@ -1980,7 +1980,7 @@
           "brand": "Amcon",
           "acuId": "AM20LMDC-GPBS",
           "regular": 990,
-          "sale": null,
+          "sale": 880,
           "features": "Two Star Energy Saving Performance | Versatile Grill And Combination Functions | Eleven Precision Cooking Power Levels | Fast 1100 Watt Microwave Power | Powerful 900 Watt Grill Output | Effortless Touch Panel Digital Controls | Smart Weight And Time Defrost Options | Easy Cleaning Durable Interior Surface | Integrated Automatic Safety Child Lock",
           "warranty": "1 Year"
         },
@@ -1991,7 +1991,7 @@
           "brand": "Amcon",
           "acuId": "AM20LMMC-GPBS",
           "regular": 1050,
-          "sale": null,
+          "sale": 930,
           "features": "One Star Energy Saving Performance | Efficient Point Five Watt Standby Power | Robust Full Stainless Steel Exterior | Powerful Twelve Hundred Watt Microwave Output | Professional Nine Hundred Watt Grill Power | Versatile Grill And Combination Cooking Modes | Instant Express Start Plus Thirty Seconds | Six Precision Microwave Cooking Power Levels | Intuitive Rotary Dial And Button Controls",
           "warranty": "1 Year"
         },
@@ -2079,7 +2079,7 @@
           "brand": "Amcon",
           "acuId": "AM25LMDC-GHS",
           "regular": 1290,
-          "sale": null,
+          "sale": 1150,
           "features": "One Star Energy Saving Performance | Powerful Fourteen Hundred Watt Microwave Output | Professional One Thousand Watt Grill Power | Advanced Multi Parameter LED Digital Display | Versatile Grill And Combination Cooking Modes | Intelligent Speed And Auto Defrost Technology | Efficient Express Cooking Quick Start Mode | Intuitive Rotary Dial And Button Controls | Integrated Automatic Safety Child Lock System",
           "warranty": "1 Year"
         },
@@ -2101,7 +2101,7 @@
           "brand": "Amcon",
           "acuId": "AM30LMDC-GHS",
           "regular": 1490,
-          "sale": null,
+          "sale": 1320,
           "features": "One Star Energy Saving Performance | Powerful Fourteen Hundred Watt Microwave Output | High Performance Ten Fifty Watt Grill Power | Versatile Grill And Combination Cooking Modes | Integrated Safety Automatic Child Lock System | Intelligent Weight Defrost Technology Function | Efficient Express Cooking Quick Start Mode | Intuitive Rotary Dial And Button Controls | Six Precision Microwave Cooking Power Levels",
           "warranty": "1 Year"
         },
@@ -4011,7 +4011,7 @@
       "brand": "Amcon",
       "acuId": "KEAMGC1.7L",
       "regular": 360,
-      "sale": null,
+      "sale": 320,
       "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/2018/image"
@@ -4023,7 +4023,7 @@
       "brand": "Amcon",
       "acuId": "KEAMGR1.7L",
       "regular": 420,
-      "sale": null,
+      "sale": 370,
       "features": "Powerful 2200W Rapid Boiling System | 360-Degree Cordless Swivel Base | Automatic Shut-Off Safety Protection | Clear & Accurate Water Level Indicator | One-Touch Easy-Open Pop-Up Lid | Intuitive LED Power Indicator Light | Integrated Boil-Dry Safety System",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/1987/image"
@@ -4059,7 +4059,7 @@
       "brand": "Hisense",
       "acuId": "HS-H72",
       "regular": 1600,
-      "sale": null,
+      "sale": 1200,
       "features": "Large 6.75” HD+ Sleek Design Display | High-Speed 4G LTE Reliable Network | Massive 128GB ROM & 8GB RAM Memory | All-Day 5000mAh High-Capacity Battery | Secure Side Fingerprint Smart Unlock | Front & Rear 8MP Crystal Clear Cameras | Dual SIM & Dedicated SD Card Slot | Built-in Screen Record & Flashlight | Stylish Modern Blue Color Finish",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/13125/image"
@@ -4071,7 +4071,7 @@
       "brand": "Hisense",
       "acuId": "HS-H72 Pro",
       "regular": 1900,
-      "sale": null,
+      "sale": 1350,
       "features": "Latest Android 15 Go Edition OS | Massive 256GB ROM & 12GB RAM Memory | Ultra-Clear 64MP HD Rear Camera | Large 6.75” HD+ Sleek Design Display | NFC Support for Contactless Payments | All-Day 5000mAh Battery & 15W Fast Charge | Secure Fingerprint & Face Unlock | Fluid 60Hz Refresh Rate Display | Free Premium Cover & Glass Protector",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/14229/image"
@@ -5082,7 +5082,7 @@
       "brand": "Amcon",
       "acuId": "AV-9091",
       "regular": 400,
-      "sale": 290,
+      "sale": 350,
       "features": "Powerful 50km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
       "warranty": "1 Year"
     },
@@ -5103,8 +5103,8 @@
       "model": "JSSP-102UKN",
       "brand": "Smart Power",
       "acuId": "JSSP-102UKN",
-      "regular": 100,
-      "sale": 60,
+      "regular": null,
+      "sale": null,
       "features": "",
       "warranty": "1 Year"
     },
@@ -5148,7 +5148,7 @@
       "brand": "Gorenje",
       "acuId": "IVB12X55",
       "regular": 160,
-      "sale": null,
+      "sale": 90,
       "features": "Includes 30 Quality Plastic Bags (12x55)cm | Durable & Reusable Duoplast Mesh | Heat-Resistant & Suitable for Cooking | Odorless & Taste-Neutral Material | Advanced Air-Channel Mesh Design | BPA-Free & Food-Safe Protection | Heavy-Duty Tear-Resistant Construction",
       "warranty": "Not Applicable"
     },
@@ -5159,7 +5159,7 @@
       "brand": "Gorenje",
       "acuId": "IVB22X300",
       "regular": 190,
-      "sale": null,
+      "sale": 105,
       "features": "Includes 3 Quality Plastic Rolls (22x300)cm | Durable & Reusable Duoplast Mesh | Heat-Resistant & Suitable for Cooking | Odorless & Taste-Neutral Material | Advanced Air-Channel Mesh Design | BPA-Free & Food-Safe Protection | Heavy-Duty Tear-Resistant Construction",
       "warranty": "Not Applicable"
     },
@@ -5170,7 +5170,7 @@
       "brand": "Gorenje",
       "acuId": "IVB28X300",
       "regular": 205,
-      "sale": null,
+      "sale": 115,
       "features": "Includes 3 Quality Plastic Rolls (28x300)cm | Durable & Reusable Duoplast Mesh | Heat-Resistant & Suitable for Cooking | Odorless & Taste-Neutral Material | Advanced Air-Channel Mesh Design | BPA-Free & Food-Safe Protection | Heavy-Duty Tear-Resistant Construction",
       "warranty": "Not Applicable"
     },
@@ -5181,7 +5181,7 @@
       "brand": "Hisense",
       "acuId": "SDCARD-16GB",
       "regular": 50,
-      "sale": null,
+      "sale": 30,
       "features": "",
       "warranty": ""
     },
