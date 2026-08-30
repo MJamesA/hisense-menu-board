@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:39:05.478Z",
+  "generatedAt": "2026-08-30T20:49:06.670Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -527,7 +527,7 @@
           "brand": "Amcon",
           "acuId": "ECSTEAM18LD",
           "regular": 600,
-          "sale": null,
+          "sale": 530,
           "features": "Elegant & Modern Sleek Design | Intuitive Touch Control Interface | Bright LED Interactive Display | Large 3-Layer Family Cooking Capacity | Durable BPA-Free Plastic Steamers | Simultaneous Multi-Level Cooking | Precision Timer for Perfect Results",
           "warranty": "1 Year"
         },
@@ -538,7 +538,7 @@
           "brand": "Gorenje",
           "acuId": "ECGC2000SD",
           "regular": 1100,
-          "sale": null,
+          "sale": 990,
           "features": "Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Integrated Grease Drainage System | Removable Tray for Easy Oil Disposal | Enhanced Auto Shut-Down System | Uniform Heat for Perfect Grilling",
           "warranty": "1 Year"
         },
@@ -549,7 +549,7 @@
           "brand": "Gorenje",
           "acuId": "ECTG1800SB",
           "regular": 1400,
-          "sale": null,
+          "sale": 1260,
           "features": "Advanced Smokeless Extraction Setup | Precise Variable Heat Control Mode | Premium Non Stick Grill Plates | Integrated Smoke Absorbing Air Inlet | Mechanical Control | Efficient Drip Tray And Fan Cover | Easy To Use And Maintain Design",
           "warranty": "1 Year"
         },
@@ -560,7 +560,7 @@
           "brand": "Gorenje",
           "acuId": "EVS120ES",
           "regular": 1200,
-          "sale": null,
+          "sale": 1000,
           "features": "Includes 3 Premium Vacuum Canisters | Versatile 0.7L, 1.4L, & 2L Storage | 2 Adjustable Levels of Suction Power | Specialized Dry & Moist Food Settings | Long-Lasting Freshness Preservation | Built-in Accessory Port for Hoses | Sleek & Compact Countertop Design",
           "warranty": "1 Year"
         },
@@ -571,7 +571,7 @@
           "brand": "Gorenje",
           "acuId": "ECICM10W",
           "regular": 2290,
-          "sale": null,
+          "sale": 2050,
           "features": "Professional Self-Freezing Compressor | Powerful Motor for Creamy Textures | Large Removable Non-Stick Bowl | No Pre-Freezing Required – Ready Fast | Includes Precision Measuring Cup | Ergonomic Spatula for Easy Serving | Sleek & Durable Modern Construction",
           "warranty": "1 Year"
         },
@@ -582,7 +582,7 @@
           "brand": "Amcon",
           "acuId": "B02-ELSAU-SSDT",
           "regular": 680,
-          "sale": null,
+          "sale": 600,
           "features": "High-Power Rapid Heating Element | Compact & Portable Single Burner | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Temperature & Power Control | Robust Design Built for Daily Use",
           "warranty": "1 Year"
         },
@@ -593,7 +593,7 @@
           "brand": "Amcon",
           "acuId": "ECCH240A",
           "regular": 1550,
-          "sale": null,
+          "sale": 1390,
           "features": "High-Power Dual-Burner Rapid Heating | Independent Cooking Zone Controls | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Exterior | Smooth Easy-to-Clean Surface | Precision Temperature & Power Tuning | Compact Design with Robust Build",
           "warranty": "1 Year"
         },
@@ -604,7 +604,7 @@
           "brand": "Amcon",
           "acuId": "ECCH323A",
           "regular": 2100,
-          "sale": null,
+          "sale": 1850,
           "features": "High-Power 3-Burner Rapid Heating | Independent Triple-Zone Cooking | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Heat & Flame Control | Robust Build for Daily Heavy Use",
           "warranty": "1 Year"
         },
@@ -642,7 +642,7 @@
           "brand": "Amcon",
           "acuId": "ECAF256M1",
           "regular": 620,
-          "sale": null,
+          "sale": 550,
           "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
           "warranty": "1 Year"
         },
@@ -653,7 +653,7 @@
           "brand": "Amcon",
           "acuId": "ECAF40MG",
           "regular": 760,
-          "sale": null,
+          "sale": 670,
           "features": "Durable Mechanical Control Dials | Clear-View Glass Bowl with Handle | Precision Time & Temperature Tuning | Sleek & Elegant Modern Design | Versatile All-in-One Kitchen Helper | Heat-Resistant Easy-Grip Safety Handle | Transparent 360° Cooking Visibility",
           "warranty": "1 Year"
         },
@@ -664,7 +664,7 @@
           "brand": "Amcon",
           "acuId": "ECAF558M1",
           "regular": 930,
-          "sale": null,
+          "sale": 830,
           "features": "High-Power Rapid Heating Element | Durable Mechanical Control Dials | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Precision Time & Temperature Settings | Robust Design Built for Daily Use",
           "warranty": "1 Year"
         },
@@ -675,7 +675,7 @@
           "brand": "Amcon",
           "acuId": "ECAF256T",
           "regular": 750,
-          "sale": null,
+          "sale": 670,
           "features": "High-Power Rapid Heating Element | Precision Digital Touch Control Panel | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Non-Stick Surface for Easy Cleaning | Smart-Logic Temperature Sensors | Programmable Delay Start & Timer",
           "warranty": "1 Year"
         },
@@ -719,7 +719,7 @@
           "brand": "Amcon",
           "acuId": "ECAF558T2",
           "regular": 990,
-          "sale": null,
+          "sale": 890,
           "features": "High-Power Rapid Heating Element | Precision Digital Touch Control Panel | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Exterior | Non-Stick Surface for Easy Cleaning | Smart-Logic Temperature Sensors | Programmable Delay Start & Timer",
           "warranty": "1 Year"
         },
@@ -757,7 +757,7 @@
           "brand": "Asko",
           "acuId": "OVASBI64S",
           "regular": 18900,
-          "sale": null,
+          "sale": 13000,
           "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
           "warranty": "3 Years"
         },
@@ -768,7 +768,7 @@
           "brand": "Asko",
           "acuId": "OVASBI78G",
           "regular": 24000,
-          "sale": null,
+          "sale": 16500,
           "features": "Elegant Ergonomic Design | Direct Steam Injection System | Low Ventilation Heating | Advanced Aquaclean Function | Multiphase Step Cooking | AutoRoast & Steam Baking | Fast Defrost Function | 1 Deep & 2 Shallow Trays | Premium Grill Rack",
           "warranty": "3 Years"
         },
@@ -795,7 +795,7 @@
           "brand": "Amcon",
           "acuId": "AMFC113ED",
           "regular": 570,
-          "sale": null,
+          "sale": 500,
           "features": "12’’ High-Performance Circulation Fan | Superior Energy Saving Motor | 4-Speed Precision Control | 0-12 Hour Programmable Timer | Deep Pitched Powerful Blades | Smooth Oscillation & Pivoting | Touch & Remote Control Operation | Low Noise Silent Technology | Overheating Safety Protection",
           "warranty": "1 Year"
         },
@@ -806,7 +806,7 @@
           "brand": "Amcon",
           "acuId": "AMFS3502",
           "regular": 400,
-          "sale": null,
+          "sale": 350,
           "features": "12’’ High-Performance Standing Fan | Energy Efficient Technology | Superior Heavy-Duty Motor | 3-Speed Precision Controller | 50 Watts Efficient Power | Wide Angle Horizontal Oscillation | Smooth Vertical Tilting Function | Grill Safety Cover Protection | Overheating Safety Cut-off",
           "warranty": "1 Year"
         },
@@ -817,7 +817,7 @@
           "brand": "Amcon",
           "acuId": "AMFC40B3",
           "regular": 500,
-          "sale": null,
+          "sale": 350,
           "features": "16’’ Stylish Ceiling Fan | Energy Efficient Technology | Superior Heavy-Duty Motor | 3-Speed Precision Controller | 60 Watts Powerful Output | Durable 3-Blade Design | Smooth Oscillation Function | Super Silent Low Noise | Overheating Safety Protection",
           "warranty": "1 Year"
         },
@@ -828,7 +828,7 @@
           "brand": "Amcon",
           "acuId": "AMFS4069Y",
           "regular": 740,
-          "sale": null,
+          "sale": 660,
           "features": "16\" High-Performance Standing Fan | 7.5 Hour Programmable Timer | 3-Speed Control with Indicator Light | Energy Saving Superior Motor | Durable Aluminium Body | Adjustable Height (Max 145cm) | Touch & Remote Control Operation | Wide Angle Oscillation System | Overheating Safety Protection",
           "warranty": "1 Year"
         },
@@ -839,7 +839,7 @@
           "brand": "Amcon",
           "acuId": "AMFW4015Y",
           "regular": 470,
-          "sale": null,
+          "sale": 420,
           "features": "16’’ Stylish Wall-Mounted Fan | Energy Efficient Technology | Superior Heavy-Duty Motor | 3-Speed Precision Controller | 60 Watts Efficient Power | Aerodynamic 5-Blade Design | Remote Control Operation | Programmable Sleep Timer | Grill Safety & Overheating Protection",
           "warranty": "1 Year"
         },
@@ -861,7 +861,7 @@
           "brand": "Amcon",
           "acuId": "AMFT2101Y",
           "regular": 590,
-          "sale": null,
+          "sale": 530,
           "features": "40’’ Stylish Slim Tower Fan | Energy Efficient Technology | Quiet-Drive Horizontal Motor | 40 Watts Powerful Output | Wide Angle Smooth Oscillation | Normal, Nature & Sleep Modes | Touch Control Interface | Full-Function Remote Control | Ultra-Low Noise Operation",
           "warranty": "1 Year"
         },
@@ -872,7 +872,7 @@
           "brand": "Amcon",
           "acuId": "AMFT09BR1",
           "regular": 690,
-          "sale": null,
+          "sale": 620,
           "features": "42’’ Stylish Slim Tower Fan | 3 Specialized Breeze Modes | 3-Speed Airflow Settings | Superior Heavy-Duty Motor | Wide Angle Horizontal Oscillation | Top-Mounted Touch Controls | Full-Function Remote Control | 40 Watts Energy Efficiency | Ultra-Low Noise Operation",
           "warranty": "1 Year"
         }
@@ -899,7 +899,7 @@
           "brand": "Hisense",
           "acuId": "FC46BB",
           "regular": 6200,
-          "sale": null,
+          "sale": 5500,
           "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
           "warranty": "5 Years"
         },
@@ -910,7 +910,7 @@
           "brand": "Hisense",
           "acuId": "45LRFG",
           "regular": 1280,
-          "sale": null,
+          "sale": 1150,
           "features": "Space-Saving Reversible Door Design | Eco-Friendly R600a Natural Refrigerant | Ultra-Quiet Low Noise Operation | Energy Efficient Environment-Friendly | Adjustable Thermostat Temperature Control | Integrated 2-Liter Bottle Door Rack | Flexible Installation for Tight Spaces | Sustainable Green Cooling Technology | Durable & Compact Interior Layout",
           "warranty": "5 Years"
         },
@@ -921,7 +921,7 @@
           "brand": "Amcon",
           "acuId": "AM86LTFGSS",
           "regular": 2300,
-          "sale": null,
+          "sale": 2060,
           "features": "Classic Top-Mount Freezer Design | Eco-Friendly R600a Natural Refrigerant | Sleek Silver Finish with Recessed Handle | Energy Efficient & Cost-Saving System | Reliable Upper-Mounted Defrost System | Integrated Tall-Bottle Door Racks | Stable & Adjustable Leveling Feet | Durable Rust-Resistant Silver Exterior | Spacious & Organized Interior Storage",
           "warranty": "5 Years"
         },
@@ -3759,7 +3759,7 @@
       "brand": "Gorenje",
       "acuId": "ECBM1400E",
       "regular": 1800,
-      "sale": null,
+      "sale": 1590,
       "features": "Energy Efficient Operation | Powerful 815W Heater Power | 12 Preset Programs and Jam Maker | Customizable Crust Selector Control | Easy Touch Control for 2 Loaves In One",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/4998/image"
@@ -3771,7 +3771,7 @@
       "brand": "Gorenje",
       "acuId": "ECGC2100S",
       "regular": 1600,
-      "sale": null,
+      "sale": 1400,
       "features": "7 Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Intelligent Auto-Cook Sensor Logic | Specialized Healthy Defrost Function | Enhanced Auto Shut-Down System | Uniform Heat Distribution Technology",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/19130/image"
@@ -3783,7 +3783,7 @@
       "brand": "Amcon",
       "acuId": "ECCH433A",
       "regular": 2300,
-      "sale": null,
+      "sale": 2000,
       "features": "High-Power 3-Burner Rapid Heating | Independent Quad-Zone Cooking | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Heat & Flame Control | Robust Build for Daily Heavy Use",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/1984/image"
@@ -3795,7 +3795,7 @@
       "brand": "Gorenje",
       "acuId": "ECMC5.7L",
       "regular": 1000,
-      "sale": null,
+      "sale": 880,
       "features": "Large 5.7L Family-Sized Capacity | Versatile All-in-One Kitchen Appliance | 15 Smart-Logic Preset Programs | Convenient 24-Hour Delay Start Timer | Enhanced Multi-Point Lock System | Non-Stick Inner Pot for Easy Cleaning | Precision Pressure & Temp Control",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/4996/image"
@@ -3819,7 +3819,7 @@
       "brand": "Amcon",
       "acuId": "ECAF40DG",
       "regular": 800,
-      "sale": null,
+      "sale": 700,
       "features": "Smart Digital Touch Control Panel | Clear-View Glass Bowl with Handle | Precision Time & Temperature Control | Bright LED Interactive Interface | Versatile Multi-Task Kitchen Helper | Heat-Resistant Easy-Grip Safety Handle | Durable & Transparent Cooking Vessel",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/7750/image"
@@ -5027,7 +5027,7 @@
       "brand": "Hisense",
       "acuId": "EC-9001",
       "regular": 500,
-      "sale": null,
+      "sale": 450,
       "features": "Powerful 700W Rapid Heating Element | High-Quality Non-Stick Coated Plates | Automatic Temperature Control | Intuitive LED Ready-to-Cook Lights | Smooth Surface for Easy Cleaning | Heat-Resistant Safe-to-Touch Handle | Compact Design for Vertical Storage",
       "warranty": "1 Year"
     },
