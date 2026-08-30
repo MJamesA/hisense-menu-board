@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:29:05.867Z",
+  "generatedAt": "2026-08-30T20:34:05.646Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -264,7 +264,7 @@
           "brand": "Amcon",
           "acuId": "AM99LCFSSS",
           "regular": 2250,
-          "sale": null,
+          "sale": 2000,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Fridge and Freezer Functionality | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -275,7 +275,7 @@
           "brand": "Amcon",
           "acuId": "AM142CFSSS",
           "regular": 2650,
-          "sale": null,
+          "sale": 2380,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -297,7 +297,7 @@
           "brand": "Amcon",
           "acuId": "AM199CFSSS",
           "regular": 3000,
-          "sale": null,
+          "sale": 2690,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -330,7 +330,7 @@
           "brand": "Amcon",
           "acuId": "AM254CFSSS",
           "regular": 3300,
-          "sale": null,
+          "sale": 2960,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -341,7 +341,7 @@
           "brand": "Amcon",
           "acuId": "AM299CFSSS",
           "regular": 3900,
-          "sale": null,
+          "sale": 3500,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -352,7 +352,7 @@
           "brand": "Amcon",
           "acuId": "AM400CFSSS",
           "regular": 5190,
-          "sale": null,
+          "sale": 4660,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -363,7 +363,7 @@
           "brand": "Amcon",
           "acuId": "AM500CFSSS",
           "regular": 6290,
-          "sale": null,
+          "sale": 5660,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -374,7 +374,7 @@
           "brand": "Amcon",
           "acuId": "AM700CFSSS",
           "regular": 7890,
-          "sale": null,
+          "sale": 7090,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -418,7 +418,7 @@
           "brand": "Amcon",
           "acuId": "CFA248LCFS",
           "regular": 3500,
-          "sale": null,
+          "sale": 3150,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -429,7 +429,7 @@
           "brand": "Amcon",
           "acuId": "CFA300LCFS",
           "regular": 3990,
-          "sale": null,
+          "sale": 3590,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -440,7 +440,7 @@
           "brand": "Amcon",
           "acuId": "CFA400LCFS",
           "regular": 4990,
-          "sale": null,
+          "sale": 4590,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -467,7 +467,7 @@
           "brand": "Gorenje",
           "acuId": "CFS230AEW",
           "regular": 1550,
-          "sale": null,
+          "sale": 1390,
           "features": "22.2V Detachable Long Lasting Battery | Advanced Smart LED Display Panel | Anti Tangle V Shaped Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | 0.7L Dust Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Furniture Bumper | Versatile Dual Crevice Nozzle Attachments",
           "warranty": "1 Year"
         },
@@ -478,7 +478,7 @@
           "brand": "Gorenje",
           "acuId": "CFS480AA",
           "regular": 1750,
-          "sale": null,
+          "sale": 1570,
           "features": "22.2V Detachable InverterPower Battery | Motorized Anti Tangle Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | Advanced Smart LED Display Panel | Generous 0.7L Large Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Soft Bumper | Versatile Dual Crevice Nozzle Attachments",
           "warranty": "1 Year"
         },
@@ -489,7 +489,7 @@
           "brand": "Gorenje",
           "acuId": "CGFA2AW",
           "regular": 1300,
-          "sale": null,
+          "sale": 1170,
           "features": "Energy Efficient G200 Series Design | Powerful 800W Suction Performance | Smart Ergonomic Functional Design | Comfortable Hassle Free Cleaning | Versatile Multi Surface Cleaning Mode | Practical Removable Container Setup | Advanced Cyclonic Action Cleaning Setup | Advanced Double Filtration System | Highly Versatile Cleaning Attachments",
           "warranty": "1 Year"
         },
@@ -500,7 +500,7 @@
           "brand": "Gorenje",
           "acuId": "CGF4AHGR",
           "regular": 1650,
-          "sale": null,
+          "sale": 1480,
           "features": "Energy Efficient G400 Series Design | Powerful 800W Hardfloor Suction Performance | Advanced Cyclonic Action Cleaning Setup | Universal Parquet Brush Accessory Included | Efficient Double Filtration System Setup | Smart Design Comfortable Cleaning Mode | Practical Removable Dust Container Setup | Essential Accessories Pack Included | High Performance G-Force Air Technology",
           "warranty": "1 Year"
         },
@@ -511,7 +511,7 @@
           "brand": "Gorenje",
           "acuId": "CGF6AEGO",
           "regular": 2290,
-          "sale": null,
+          "sale": 2050,
           "features": "Energy Efficient G600 Series Design | Powerful 850W Air Pet Performance | Professional Cleaning Pro Results | Advanced Cyclonic Action Technology | Efficient Double Filter System Setup | Removable Dust Container For Easy Empty | Intuitive Operation For Seamless Use | Essential Accessories For Daily Upkeep | Complete All In One Cleaning Power",
           "warranty": "1 Year"
         }
@@ -3735,7 +3735,7 @@
       "brand": "Gorenje",
       "acuId": "CFS180",
       "regular": 1650,
-      "sale": null,
+      "sale": 1480,
       "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Power | 2-in-1 Versatile Function | LED Status Indicators | Motorized Turbo Brush | On-Board Attachment Storage | Ergonomic Easy-Grip Handle | Easy-Empty Dirt Container & Nozzle",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/13117/image"
@@ -3747,7 +3747,7 @@
       "brand": "Gorenje",
       "acuId": "CFS216",
       "regular": 1500,
-      "sale": null,
+      "sale": 1330,
       "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Modes | Dual Function Versatility | LED Status Indicators | Motorized Turbo Brush | Precision Suction Nozzle | On-Board Attachment Storage | Ergonomic Handle & Dirt Container",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/4994/image"
@@ -4601,7 +4601,7 @@
       "brand": "Gorenje",
       "acuId": "CGFAP700W",
       "regular": 1800,
-      "sale": null,
+      "sale": 1600,
       "features": "Energy Efficient Technology | High Performance Motor | Auto Power Cord Roller | Long 9-Metre Power Cord | Touch Control Display | Advanced HEPA Filter | Versatile 5-in-1 Brush | Large Dust Container | Protective Rubber Wheels",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/4995/image"
