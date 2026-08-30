@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-30T20:54:10.106Z",
+  "generatedAt": "2026-08-30T20:59:11.267Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2254,7 +2254,7 @@
       "model": "FR2D-69",
       "brand": "Amcon",
       "regular": 9900,
-      "sale": null,
+      "sale": 8900,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Energy Efficient Technology | Smart & Eco Cooling Modes | Total Frost-Free Technology | Touch Control Panel & LED Display | Sleek Black Finish & Recessed Handle | 3 Star Energy | Movable Glass Storage Shelving | Eco-Friendly R600a Refrigerant"
     },
@@ -2314,7 +2314,7 @@
       "model": "RC-73WC4SB",
       "brand": "Hisense",
       "regular": 26500,
-      "sale": null,
+      "sale": 19500,
       "warranty": "5 Years",
       "features": "Luxury Cross Door Configuration | Premium Graphite Black Finish | Advanced Metal Tech & Triple Zone Cooling | My Fresh Choice Fridge-Freezer Switch | Smart Auto-Adjustable Cantilever Shelves | Quick Cooling & Fast Freezing Modes | Sleek Metal Recessed Handle Design | Integrated Auto Humidity Control Zone | Energy Efficient Smart Performance"
     },
@@ -2338,7 +2338,7 @@
       "model": "FR2D-80",
       "brand": "Amcon",
       "regular": 9900,
-      "sale": null,
+      "sale": 8800,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Rating | Total 595L Large Storage Capacity | Premium Dark Inox Exterior Finish | Side By Side Door Configuration | Advanced Cooling System Technology | Spacious Multi Shelf Organization | Internal Bright Led Lighting | Durable Transparent Storage Bins | Eco Friendly R600a Refrigerant Gas"
     },
@@ -2386,7 +2386,7 @@
       "model": "ARS-646W",
       "brand": "Amcon",
       "regular": 10490,
-      "sale": null,
+      "sale": 9400,
       "warranty": "5 Years",
       "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Modern Side by Side Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas"
     },
@@ -2422,7 +2422,7 @@
       "model": "ARC-661W",
       "brand": "Amcon",
       "regular": 11000,
-      "sale": null,
+      "sale": 9900,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas"
     },
@@ -2686,7 +2686,7 @@
       "model": "HG1986SB",
       "brand": "Asko",
       "regular": 10800,
-      "sale": null,
+      "sale": 7600,
       "warranty": "3 Years",
       "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm"
     },
@@ -2698,7 +2698,7 @@
       "model": "HG1776SB",
       "brand": "Asko",
       "regular": 10500,
-      "sale": null,
+      "sale": 7400,
       "warranty": "3 Years",
       "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 75 × 52.6 cm"
     },
@@ -2746,7 +2746,7 @@
       "model": "65MR6DE",
       "brand": "Hisense",
       "regular": 32000,
-      "sale": null,
+      "sale": 25500,
       "warranty": "3 Years",
       "features": "Stunning 4K Ultra HD Panel & 4K UI | Google Certified with Android 13 OS | Advanced Smart Whiteboard Technology | Cinematic Dolby Atmos Immersive Audio | Integrated 4K Camera with Privacy Cover | Smart Power Ambient Light Sensing | GoBoard Wireless Multi-Screen Sharing | Certified Eye Comfort Technology | 8-Microphone Array with 12m Pickup"
     },
@@ -2818,7 +2818,7 @@
       "model": "A1-8001",
       "brand": "Amcon",
       "regular": 270,
-      "sale": null,
+      "sale": 240,
       "warranty": "1 Year",
       "features": "Powerful 1600W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design"
     },
@@ -2830,7 +2830,7 @@
       "model": "A1-8003",
       "brand": "Amcon",
       "regular": 300,
-      "sale": null,
+      "sale": 260,
       "warranty": "1 Year",
       "features": "Powerful 2200W Rapid Heating System | Smooth-Glide Ceramic Soleplate | Versatile Dry & Steam Ironing Modes | Ergonomic Soft-Touch Comfort Grip | High-Pressure Steam Boost Technology | Precision Tip for Difficult Edges | Efficient Anti-Drip Safety Design"
     },
@@ -2842,7 +2842,7 @@
       "model": "A1-8005",
       "brand": "Amcon",
       "regular": 470,
-      "sale": null,
+      "sale": 420,
       "warranty": "1 Year",
       "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Professional Dry & Steam Iron Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow"
     },
@@ -2854,7 +2854,7 @@
       "model": "A1-8006",
       "brand": "Amcon",
       "regular": 500,
-      "sale": null,
+      "sale": 440,
       "warranty": "1 Year",
       "features": "Powerful 2400W High-Efficiency Motor | Hybrid Corded & Cordless Freedom | Smooth-Glide Ceramic Soleplate | Dry & Vertical Steam Modes | Ergonomic Soft-Touch Comfort Grip | Integrated Self-Clean Scale Removal | High-Pressure Continuous Steam Flow"
     },
@@ -2866,7 +2866,7 @@
       "model": "A1-8008",
       "brand": "Amcon",
       "regular": 370,
-      "sale": null,
+      "sale": 320,
       "warranty": "1 Year",
       "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System"
     },
@@ -2878,7 +2878,7 @@
       "model": "A1-8009",
       "brand": "Amcon",
       "regular": 320,
-      "sale": null,
+      "sale": 285,
       "warranty": "1 Year",
       "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System"
     },
@@ -2890,7 +2890,7 @@
       "model": "A1-8010",
       "brand": "Amcon",
       "regular": 340,
-      "sale": null,
+      "sale": 305,
       "warranty": "1 Year",
       "features": "Powerful 2200W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System"
     },
@@ -2902,7 +2902,7 @@
       "model": "A1-8011",
       "brand": "Amcon",
       "regular": 360,
-      "sale": null,
+      "sale": 320,
       "warranty": "1 Year",
       "features": "Powerful 3100W Rapid Heating System | Nano Ceramic Ultra-Glide Soleplate | Powerful Steam Burst & Spray Function | Dry & Vertical Steam Modes | 2x Faster Ironing & Wrinkle Removal | Wide Easy-Fill Water Inlet Design | Integrated Anti-Drip Safety System"
     },
@@ -2937,7 +2937,7 @@
       "name": "STEAM GENERATOR\nELECTRIC IRON",
       "model": "SIGH2400BB",
       "brand": "Gorenje",
-      "regular": 1900,
+      "regular": null,
       "sale": null,
       "warranty": "1 Year",
       "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety"
@@ -2949,7 +2949,7 @@
       "name": "ELECTRIC IRON\nSTEAMCARE PLUS",
       "model": "SIH2200DGT",
       "brand": "Gorenje",
-      "regular": 360,
+      "regular": null,
       "sale": null,
       "warranty": "1 Year",
       "features": "Powerful 2200W Rapid Heating System | Extra-Long 2.5m Cable for Easy Reach | Convenient 280ml Water Tank Capacity | Professional SteamCare Plus Technology | Integrated Self-Clean & Anti-Drip | Advanced Anti-Calc Scale Prevention | Ergonomic Design for Comfort Grip"
@@ -2974,7 +2974,7 @@
       "model": "XB-D70BT",
       "brand": "Amcon",
       "regular": 1000,
-      "sale": null,
+      "sale": 900,
       "warranty": "1 Year",
       "features": "Energy Efficient Power Consumption | Advanced Imaging CMOS Scanning Principle | Fast Decoding Speed Of 120FPS | Versatile Bluetooth And 2.4G Wireless | Long Range 100 Meter Transmission | Durable ABS And PC Material | High Capacity 2200mAh Lithium Battery | Reliable 1.5 Meter Drop Resistance | Precision Scanning With 3mil Accuracy"
     },
@@ -2986,7 +2986,7 @@
       "model": "AV-163C",
       "brand": "Amcon",
       "regular": 550,
-      "sale": null,
+      "sale": 250,
       "warranty": "1 Year",
       "features": "Powerful 55km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support"
     },
@@ -2998,7 +2998,7 @@
       "model": "AV-167",
       "brand": "Amcon",
       "regular": 590,
-      "sale": null,
+      "sale": 250,
       "warranty": "1 Year",
       "features": "Ultra-Powerful 60km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support"
     },
@@ -3010,7 +3010,7 @@
       "model": "AV-172",
       "brand": "Amcon",
       "regular": 100,
-      "sale": null,
+      "sale": 50,
       "warranty": "Not Applicable",
       "features": "Ultra-Powerful Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support"
     },
@@ -3022,7 +3022,7 @@
       "model": "AV-173",
       "brand": "Amcon",
       "regular": 560,
-      "sale": null,
+      "sale": 250,
       "warranty": "1 Year",
       "features": "Powerful 55km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support"
     },
@@ -3034,7 +3034,7 @@
       "model": "AV-9091",
       "brand": "Amcon",
       "regular": 400,
-      "sale": null,
+      "sale": 290,
       "warranty": "1 Year",
       "features": "Powerful 50km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support"
     },
@@ -3046,7 +3046,7 @@
       "model": "JSSP-SACP30",
       "brand": "Smart Power",
       "regular": 250,
-      "sale": null,
+      "sale": 220,
       "warranty": "1 Year",
       "features": ""
     },
@@ -3058,7 +3058,7 @@
       "model": "JSSP-102UKN",
       "brand": "Smart Power",
       "regular": 100,
-      "sale": null,
+      "sale": 60,
       "warranty": "1 Year",
       "features": ""
     },
