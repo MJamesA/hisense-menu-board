@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-31T12:59:13.623Z",
+  "generatedAt": "2026-08-31T15:19:11.809Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2197,18 +2197,6 @@
       "sale": null,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling For Uniform Temp | Metal Cooling Retains Cold Air | Power Cool For Rapid Chilling | Power Freeze For Fast Ice Making | Large Box For Fresh Fruit And Veg | Durable Tempered Glass Shelving | Eco Friendly R600a Refrigerant Gas"
-    },
-    {
-      "acuId": "504LRFGB-WD",
-      "tag": "A6",
-      "category": "Refrigerator",
-      "name": "504L DOUBLE DOOR FRIDGE\nWITH DISPENSER",
-      "model": "RB3P504NMF1",
-      "brand": "Hisense",
-      "regular": 10500,
-      "sale": null,
-      "warranty": "5 Years",
-      "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling System For Freshness | Optimal Fresh Zone Maintains Flavor | Premium Black Finish | Power Freeze Function For Fast Freezing | Durable Tempered Glass Shelves | Integrated Water Dispenser | Eco Friendly R600a Refrigerant Gas"
     },
     {
       "acuId": "504LRFGS",
