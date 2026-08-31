@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-08-31T11:54:10.980Z",
+  "generatedAt": "2026-08-31T11:59:11.750Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -993,7 +993,7 @@
       "name": "520L CHEST FREEZER",
       "model": "FC-66DD4HA",
       "brand": "Hisense",
-      "regular": null,
+      "regular": 7590,
       "sale": null,
       "warranty": "5 Years",
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation"
