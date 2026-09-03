@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-03T12:44:11.286Z",
+  "generatedAt": "2026-09-03T12:54:16.695Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2297,7 +2297,7 @@
       "name": "310L UPRIGHT FREEZER",
       "model": "310RFGB",
       "brand": "Hisense",
-      "regular": null,
+      "regular": 10500,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -6124,6 +6124,19 @@
       "promo": false,
       "warranty": "5 Years",
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant"
+    },
+    {
+      "acuId": "390RFGB",
+      "tag": "A6",
+      "category": "Upright Freezers",
+      "name": "390L UPRIGHT FRIDGE",
+      "model": "RL5K370GSF2",
+      "brand": "Hisense",
+      "regular": 8600,
+      "sale": null,
+      "promo": false,
+      "warranty": "5 Years",
+      "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas"
     },
     {
       "acuId": "SEWHC100W",
