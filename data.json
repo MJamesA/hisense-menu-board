@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-03T12:54:16.695Z",
+  "generatedAt": "2026-09-03T20:44:11.680Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1088,7 +1088,7 @@
       "name": "701L CHEST FREEZER",
       "model": "FC-94DD4HA",
       "brand": "Hisense",
-      "regular": 9400,
+      "regular": 10200,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -4247,7 +4247,7 @@
       "name": "282L SHOWCASE \nUPRIGHT FRIDGE",
       "model": "FL-37FC4SA",
       "brand": "Hisense",
-      "regular": 5900,
+      "regular": 6000,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -4260,7 +4260,7 @@
       "name": "303L SHOWCASE \nCHEST FREEZER",
       "model": "FL-39DD4HA",
       "brand": "Hisense",
-      "regular": 5500,
+      "regular": 5950,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -4286,7 +4286,7 @@
       "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
       "model": "FL-50FC4SA",
       "brand": "Hisense",
-      "regular": 7200,
+      "regular": 7400,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
