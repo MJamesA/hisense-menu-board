@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-03T21:24:08.748Z",
+  "generatedAt": "2026-09-03T21:34:08.979Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5131,7 +5131,7 @@
       "name": "100'' SMART DIGITAL 4K \nMINI-LED TELEVISION",
       "model": "100E80KAVS",
       "brand": "Hisense",
-      "regular": 38000,
+      "regular": 36000,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -5547,7 +5547,7 @@
       "name": "55” SMART DIGITAL \n4K QLED TELEVISION",
       "model": "55Q6Q",
       "brand": "Hisense",
-      "regular": 6790,
+      "regular": 7400,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -5677,7 +5677,7 @@
       "name": "65” SMART DIGITAL \n4K QLED TELEVISION",
       "model": "65Q6Q",
       "brand": "Hisense",
-      "regular": 8700,
+      "regular": 9800,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
