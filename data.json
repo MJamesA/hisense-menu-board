@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-03T10:44:06.914Z",
+  "generatedAt": "2026-09-03T12:44:11.286Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2294,8 +2294,8 @@
       "acuId": "310LUFB",
       "tag": "A6",
       "category": "Upright Freezers",
-      "name": "310L UPRIGHT FRIDGE",
-      "model": "#N/A",
+      "name": "310L UPRIGHT FREEZER",
+      "model": "310RFGB",
       "brand": "Hisense",
       "regular": null,
       "sale": null,
