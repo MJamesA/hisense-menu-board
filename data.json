@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-04T13:14:07.452Z",
+  "generatedAt": "2026-09-10T11:31:19.419Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -7037,6 +7037,19 @@
     },
     {
       "acuId": "ACUSBMCR",
+      "tag": "ALLOCACOC",
+      "category": "Allocacoc",
+      "name": "MICROUSB CABLE\nCOLOUR - RED",
+      "model": "",
+      "brand": "Design Nest",
+      "regular": 90,
+      "sale": 45,
+      "promo": true,
+      "warranty": "",
+      "features": ""
+    },
+    {
+      "acuId": "ACUSBMBCR",
       "tag": "ALLOCACOC",
       "category": "Allocacoc",
       "name": "MICROUSB CABLE\nCOLOUR - RED",
