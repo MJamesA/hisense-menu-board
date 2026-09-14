@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-10T15:24:05.906Z",
+  "generatedAt": "2026-09-14T15:21:41.259Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -18,17 +18,6 @@
           "brand": "Hisense",
           "acuId": "1.0HPSAC",
           "regular": 3790,
-          "sale": null,
-          "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "1.5HP SPLIT\nAIR CONDITIONER",
-          "model": "12CR4SVDTG01",
-          "brand": "Hisense",
-          "acuId": "1.5HPSAC",
-          "regular": 4290,
           "sale": null,
           "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
           "warranty": "5 Years"
@@ -64,6 +53,17 @@
           "regular": 17800,
           "sale": null,
           "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Air Conditioners",
+          "name": "3.0HP INVERTER FLOOR STANDING\nAIR CONDITIONER",
+          "model": "",
+          "brand": "Hisense",
+          "acuId": "3.0HPFSACINVLUXH/CACGD",
+          "regular": 21000,
+          "sale": null,
+          "features": "Energy Efficient Inverter Technology | Floor Standing Air Conditioner Design | Versatile Heating and Cooling Modes | Luxury TRESOR Series Aesthetic | Elegant Gold Premium Exterior Finish | Multi-Dimensional Air Distribution | Advanced Rapid Cooling Performance | Quiet and Low Noise Operation Mode | Eco-Friendly R410a Refrigerant Gas",
           "warranty": "5 Years"
         }
       ]
@@ -2995,39 +2995,6 @@
         },
         {
           "category": "AMCON DSTV",
-          "name": "50'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
-          "model": "50B7101UWSQO",
-          "brand": "Amcon",
-          "acuId": "TVAM50ANDS4KTV",
-          "regular": null,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Pre-Installed Netflix & Streaming Apps | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "AMCON DSTV",
-          "name": "65'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
-          "model": "65B7101UWSQO",
-          "brand": "Amcon",
-          "acuId": "TVAM65ANDS4KTV",
-          "regular": null,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Pre-Installed Netflix & Streaming Apps | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "AMCON DSTV",
-          "name": "75'' DIGITAL SATELLITE 4K\nANDROID TELEVISION",
-          "model": "75B7101UWSQO",
-          "brand": "Amcon",
-          "acuId": "TVAM75ANDS4KTV",
-          "regular": null,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Superior 4K Ultra High Definition | Smart Android 12 OS with Dolby Audio | Pre-Installed Netflix & Streaming Apps | Triple HDMI & Dual USB Connectivity | Seamless Kindlink Mobile Screen Sharing | Built-in WiFi & Digital Satellite TV | High-Speed LAN Ethernet & Optical Port | Universal Headphone & AV Input Ports",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "AMCON DSTV",
           "name": "65\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
           "model": "SAMCH65N9E",
           "brand": "Amcon",
@@ -4499,6 +4466,18 @@
     }
   ],
   "spotlights": [
+    {
+      "category": "Air Conditioners",
+      "name": "1.5HP SPLIT\nAIR CONDITIONER",
+      "model": "12CR4SVDTG01",
+      "brand": "Hisense",
+      "acuId": "1.5HPSAC",
+      "regular": 4290,
+      "sale": null,
+      "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
+      "warranty": "5 Years",
+      "imageUrl": ""
+    },
     {
       "category": "Air Conditioners",
       "name": "10HP FLOOR STANDING\n AIR CONDITIONER",
