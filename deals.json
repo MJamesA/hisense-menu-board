@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-14T15:39:44.652Z",
+  "generatedAt": "2026-09-14T15:51:19.463Z",
   "title": "FACTORY DIRECT PROMO",
   "accent": "teal",
   "validText": "VALID AUGUST 2026 · INCLUSIVE OF VAT",
@@ -4475,7 +4475,8 @@
       "regular": 4290,
       "sale": null,
       "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "Air Conditioners",
@@ -4498,7 +4499,8 @@
       "regular": 5800,
       "sale": 4200,
       "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "Inverter Air Conditioners",
@@ -4509,7 +4511,8 @@
       "regular": 7790,
       "sale": null,
       "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
-      "warranty": "5 Years"
+      "warranty": "5 Years",
+      "imageUrl": ""
     },
     {
       "category": "Blenders",
