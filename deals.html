@@ -528,8 +528,14 @@ function preloadOdooImages(data){
 // has-img) when present, otherwise the hatched model placeholder.
 function odooImgBox(boxClass, model, imageUrl){
   const src = imageUrl || '';
+  // The panel starts in has-img state so a cached image paints with no flash,
+  // but NEVER stays blank: onerror drops straight back to the hatched model
+  // placeholder, and imageWatchdog() below covers the nastier case where the
+  // image host hangs instead of failing (requests stay pending forever).
   const inner = src
-    ? `<span>${esc(model || '')}</span><img class="odoo-img" src="${src}" alt="">`
+    ? `<span>${esc(model || 'Featured')}</span><img class="odoo-img" src="${src}" alt=""
+         onload="var b=this.closest('.fpanel-img,.fspot-img'); if(b) b.classList.add('has-img');"
+         onerror="var b=this.closest('.fpanel-img,.fspot-img'); if(b) b.classList.remove('has-img'); this.remove();">`
     : `<span>${esc(model || 'Featured')}</span>`;
   return `<div class="${boxClass}${src ? ' has-img' : ''}">${inner}</div>`;
 }
@@ -545,6 +551,21 @@ function fitTitle(el) {
     size -= 2;
     el.style.fontSize = size + 'px';
   }
+}
+
+// A hanging image host leaves requests pending (not errored), so onerror never
+// fires and the panel would sit blank. If an image hasn't decoded within a few
+// seconds, fall back to the hatched placeholder; onload re-promotes it if the
+// image does eventually arrive.
+function imageWatchdog(root, ms) {
+  setTimeout(function () {
+    root.querySelectorAll('img.odoo-img').forEach(function (im) {
+      if (!im.complete || !im.naturalWidth) {
+        const b = im.closest('.fpanel-img,.fspot-img');
+        if (b) b.classList.remove('has-img');
+      }
+    });
+  }, ms || 3500);
 }
 
 function showPage(idx) {
@@ -563,6 +584,7 @@ function showPage(idx) {
   incoming.className = 'page' + (teal ? ' stage-teal' : '');
   incoming.innerHTML = renderPage(page);
   stageEl.appendChild(incoming);
+  imageWatchdog(incoming);                      // never leave a panel blank
   fitTitle(incoming.querySelector('.title'));   // shrink long titles to fit (no ellipsis cut)
   void incoming.offsetWidth;
   incoming.classList.add('is-active');
