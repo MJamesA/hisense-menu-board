@@ -394,7 +394,7 @@ function renderHeader(m) {
       ${m.footerText ? `<div class="warranty-pill">✓ ${esc(m.footerText)}</div>` : ""}
       <div class="hdr-meta">
         <div class="m1">${esc(m.pricesText || 'ALL PRICES IN GH₵')}</div>
-        <div class="m2">${esc(m.validText || '')}</div>
+        <div class="m2">${(m.validText || '').split('·').map(s => esc(s.trim())).filter(Boolean).join('<br>')}</div>
       </div>
     </div>`;
 }
