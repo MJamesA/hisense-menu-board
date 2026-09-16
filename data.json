@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-16T10:11:18.940Z",
+  "generatedAt": "2026-09-16T11:11:18.154Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -872,6 +872,84 @@
       "promo": true,
       "warranty": "1 Year",
       "features": "Massive 23L Industrial Capacity Jar | Powerful 1680W Commercial-Grade Motor | Integrated Easy-Pour Discharge Tap | Heavy-Duty Manual Mechanical Control | Instant Pulse for Precision Textures | Secure Leak-Resistant Seal Lid | Stable Non-Slip Rubber Grip Feet"
+    },
+    {
+      "acuId": "BT4EHHB",
+      "tag": "A6",
+      "category": "Built-In Appliances",
+      "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
+      "model": "H60STEB",
+      "brand": "Hisense",
+      "regular": null,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Powered Electric Hot Plates | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Sleek Black Premium Exterior Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
+    },
+    {
+      "acuId": "BT4BSS",
+      "tag": "A6",
+      "category": "Built-In Appliances",
+      "name": "BUILT IN 4 BURNER MECHANICAL GAS HOB",
+      "model": "HHU60GAGR",
+      "brand": "Hisense",
+      "regular": null,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Efficiency Gas Burners | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Premium Stainless Steel Durable Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
+    },
+    {
+      "acuId": "BTCH4B60DC",
+      "tag": "A6",
+      "category": "Built-In Appliances",
+      "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
+      "model": "HHU60CEEC",
+      "brand": "Hisense",
+      "regular": null,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Energy Efficient Cooking Performance | Seamless Built-In Ceramic Hob Design | Four High Powered Ceramic Burners | Precision Digital Touch Control Panel | Compact 60cm Space Saving Frame | Smooth and Easy To Clean Glass Surface | Sleek and Modern Black Aesthetic"
+    },
+    {
+      "acuId": "BTWMCH60SS",
+      "tag": "A6",
+      "category": "Built-In Appliances",
+      "name": "BUILT IN COOKER HOOD",
+      "model": "HHO60TASS",
+      "brand": "Hisense",
+      "regular": null,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Powerful Smoke and odour Extraction | Wall Mounted Cooker Hood Design | Premium Stainless Steel Finish | Durable Stainless Steel Filter System | Intuitive Push Button Controls | Integrated Bright LED Cooktop Light | Seamless Built-In Modern Aesthetic"
+    },
+    {
+      "acuId": "BTEO6F60MCS",
+      "tag": "A6",
+      "category": "Built-In Appliances",
+      "name": "BUILT IN MECHANICAL ELECTRIC OVEN",
+      "model": "HEO601SSF",
+      "brand": "Hisense",
+      "regular": null,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Seamless Built-In Electric Oven Design | Compact 60cm Space Saving Build | Six Versatile Cooking Function Modes | Intuitive Mechanical Control Knobs | Premium Stainless Steel Exterior Finish | Integrated Oven Light for Visibility | Reliable Multi-Function Baking System"
+    },
+    {
+      "acuId": "BT25LMDC-GPBB",
+      "tag": "A6",
+      "category": "Built-In Appliances",
+      "name": "25L BUILT IN MICROWAVE OVEN",
+      "model": "HB25MOBX7G",
+      "brand": "Hisense",
+      "regular": null,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Spacious 25L Cooking Capacity | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Versatile Combination Cooking Setup | Smart Weight and Time Defrost Function | Sleek Black Premium Exterior Finish | Seamless Built-In Integrated Design | Energy Efficient Cooking Performance"
     },
     {
       "acuId": "97LCFS",
@@ -3019,71 +3097,6 @@
       "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction"
     },
     {
-      "acuId": "BT4EHHB",
-      "tag": "A7",
-      "category": "Built-In Appliances",
-      "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
-      "model": "H60STEB",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "promo": false,
-      "warranty": "1 Year",
-      "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Powered Electric Hot Plates | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Sleek Black Premium Exterior Finish | Durable and Easy To Clean Surface"
-    },
-    {
-      "acuId": "BT4BSS",
-      "tag": "A7",
-      "category": "Built-In Appliances",
-      "name": "BUILT IN 4 BURNER MECHANICAL GAS HOB",
-      "model": "HHU60GAGR",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "promo": false,
-      "warranty": "1 Year",
-      "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Efficiency Gas Burners | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Premium Stainless Steel Durable Finish | Durable and Easy To Clean Surface"
-    },
-    {
-      "acuId": "BTCH4B60DC",
-      "tag": "A7",
-      "category": "Built-In Appliances",
-      "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
-      "model": "HHU60CEEC",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "promo": false,
-      "warranty": "1 Year",
-      "features": "Energy Efficient Cooking Performance | Seamless Built-In Ceramic Hob Design | Four High Powered Ceramic Burners | Precision Digital Touch Control Panel | Compact 60cm Space Saving Frame | Smooth and Easy To Clean Glass Surface | Sleek and Modern Black Aesthetic"
-    },
-    {
-      "acuId": "BTWMCH60SS",
-      "tag": "A7",
-      "category": "Built-In Appliances",
-      "name": "BUILT IN COOKER HOOD",
-      "model": "HHO60TASS",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "promo": false,
-      "warranty": "1 Year",
-      "features": "Powerful Smoke and odour Extraction | Wall Mounted Cooker Hood Design | Premium Stainless Steel Finish | Durable Stainless Steel Filter System | Intuitive Push Button Controls | Integrated Bright LED Cooktop Light | Seamless Built-In Modern Aesthetic"
-    },
-    {
-      "acuId": "BTEO6F60MCS",
-      "tag": "A7",
-      "category": "Built-In Appliances",
-      "name": "BUILT IN MECHANICAL ELECTRIC OVEN",
-      "model": "HEO601SSF",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "promo": false,
-      "warranty": "1 Year",
-      "features": "Seamless Built-In Electric Oven Design | Compact 60cm Space Saving Build | Six Versatile Cooking Function Modes | Intuitive Mechanical Control Knobs | Premium Stainless Steel Exterior Finish | Integrated Oven Light for Visibility | Reliable Multi-Function Baking System"
-    },
-    {
       "acuId": "65ANDIDBDE",
       "tag": "A6",
       "category": "Television Commercial",
@@ -4213,19 +4226,6 @@
       "promo": false,
       "warranty": "1 Year",
       "features": "Family Line Solo Model | Energy Efficient 3 Stars Performance | Dual Mechanical Knobs | Custom Five Distinct Power Levels | Integrated Thirty Five Minute Timer | Reliable Uniform Food Defrost Mode | Elegant Premium Piano Black Finish | Uniform Cooking Heat Penetration | Secure Heavy Duty Construction"
-    },
-    {
-      "acuId": "BT25LMDC-GPBB",
-      "tag": "A6",
-      "category": "Built-In Appliances",
-      "name": "25L BUILT IN MICROWAVE OVEN",
-      "model": "HB25MOBX7G",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "promo": false,
-      "warranty": "1 Year",
-      "features": "Spacious 25L Cooking Capacity | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Versatile Combination Cooking Setup | Smart Weight and Time Defrost Function | Sleek Black Premium Exterior Finish | Seamless Built-In Integrated Design | Energy Efficient Cooking Performance"
     },
     {
       "acuId": "AM30LMDC-GHS",
