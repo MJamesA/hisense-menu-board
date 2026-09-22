@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-16T11:21:23.918Z",
+  "generatedAt": "2026-09-22T11:51:30.442Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -883,7 +883,7 @@
       "regular": null,
       "sale": null,
       "promo": false,
-      "warranty": "1 Year",
+      "warranty": "3 Years",
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Powered Electric Hot Plates | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Sleek Black Premium Exterior Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
     },
     {
@@ -896,7 +896,7 @@
       "regular": null,
       "sale": null,
       "promo": false,
-      "warranty": "1 Year",
+      "warranty": "3 Year",
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Efficiency Gas Burners | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Premium Stainless Steel Durable Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
     },
     {
@@ -909,7 +909,7 @@
       "regular": null,
       "sale": null,
       "promo": false,
-      "warranty": "1 Year",
+      "warranty": "3 Years",
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Ceramic Hob Design | Four High Powered Ceramic Burners | Precision Digital Touch Control Panel | Compact 60cm Space Saving Frame | Smooth and Easy To Clean Glass Surface | Sleek and Modern Black Aesthetic | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
     },
     {
