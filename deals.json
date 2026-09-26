@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-16T10:11:16.660Z",
+  "generatedAt": "2026-09-26T20:59:21.271Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID SEPTEMBER 2026 · INCLUSIVE OF VAT",
@@ -84,17 +84,6 @@
         },
         {
           "category": "Inverter Air Conditioners",
-          "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "ACAMCH12DH",
-          "brand": "Amcon",
-          "acuId": "AC1.5HPINVACAMCON",
-          "regular": 4150,
-          "sale": 2990,
-          "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Inverter Air Conditioners",
           "name": "2.0HP SPLIT INVERTER\nAIR CONDITIONER",
           "model": "ACAMCH18DH",
           "brand": "Amcon",
@@ -106,17 +95,6 @@
         },
         {
           "category": "Inverter Air Conditioners",
-          "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
-          "model": "HAS12TR4RVDTG",
-          "brand": "Hisense",
-          "acuId": "AC1.5HPINVACHISENSE",
-          "regular": 5200,
-          "sale": null,
-          "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Inverter Air Conditioners",
           "name": "2.0HP SPLIT INVERTER \nAIR CONDITIONER",
           "model": "HAS18TR4RGSKG",
           "brand": "Hisense",
@@ -124,6 +102,28 @@
           "regular": 6600,
           "sale": null,
           "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Inverter Air Conditioners",
+          "name": "1.5HP INVERTER - COOLING & \nHEATING AIR CONDITIONER",
+          "model": "12UW4GXETV00",
+          "brand": "Hisense",
+          "acuId": "AC1.5HPINVTVACHISENSE",
+          "regular": 5800,
+          "sale": 4200,
+          "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Inverter Air Conditioners",
+          "name": "1.5HP INVERTER COOL WITH \nWIFI & SMART EYE AC",
+          "model": "AST-12UW4RXVQH00B",
+          "brand": "Hisense",
+          "acuId": "AC1.5HPINVQHACHISENSEBK",
+          "regular": 7790,
+          "sale": null,
+          "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
           "warranty": "5 Years"
         }
       ]
@@ -166,17 +166,6 @@
         },
         {
           "category": "Blenders",
-          "name": "MECHANICAL BLENDER \n2.0L DT-767",
-          "model": "DT-767",
-          "brand": "Amcon",
-          "acuId": "BL DT-767",
-          "regular": null,
-          "sale": null,
-          "features": "Powerful 1200W Heavy-Duty Motor | High-Speed 11,000 RPM Performance | Massive 2.0L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Blades | Versatile Design for All Blending Needs",
-          "warranty": "2 Years"
-        },
-        {
-          "category": "Blenders",
           "name": "MECHANICAL BLENDER \n2.2L DT-710",
           "model": "DT-710",
           "brand": "Amcon",
@@ -199,13 +188,13 @@
         },
         {
           "category": "Blenders",
-          "name": "MECHANICAL BLENDER\n23L EASY-POUR TAP",
-          "model": "BLC2708A",
-          "brand": "Amcon",
-          "acuId": "BLC2780A",
-          "regular": 2390,
-          "sale": 2140,
-          "features": "Massive 23L Industrial Capacity Jar | Powerful 1680W Commercial-Grade Motor | Integrated Easy-Pour Discharge Tap | Heavy-Duty Manual Mechanical Control | Instant Pulse for Precision Textures | Secure Leak-Resistant Seal Lid | Stable Non-Slip Rubber Grip Feet",
+          "name": "HANDHELD MIXER\n550W",
+          "model": "M550DC",
+          "brand": "Gorenje",
+          "acuId": "BM550DC",
+          "regular": 550,
+          "sale": 490,
+          "features": "Powerful 600W Performance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design",
           "warranty": "1 Year"
         },
         {
@@ -217,17 +206,6 @@
           "regular": 1890,
           "sale": 1690,
           "features": "Ultra Powerful 1500W Performance | Large 2L Premium Tritan Jar | Super Silent Operation Function | Smart Digital Touch Control Panel | Six Leaves Stainless Steel Blade | Five Preset Program Options | Efficient Pulse Self Clean Mode",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Blenders",
-          "name": "FOOD PROCESSOR",
-          "model": "SBR1500E",
-          "brand": "Gorenje",
-          "acuId": "BFPMC1500E",
-          "regular": 1890,
-          "sale": 1690,
-          "features": "Powerful 1500W High Performance Motor | Innovative Fusion Mode Technology | Comprehensive Multi Jar Capacity Setup | 2.0L Main Food Processor Bowl & 1.75L Plastic Blending Jar | 700mL Portable Sports Blender | Extensive Precision Cutting Prep Attachments | 10 Speed Intuitive Control & Programs",
           "warranty": "1 Year"
         },
         {
@@ -454,6 +432,17 @@
           "sale": null,
           "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
+        },
+        {
+          "category": "Freezers",
+          "name": "310L UPRIGHT FREEZER",
+          "model": "310RFGB",
+          "brand": "Hisense",
+          "acuId": "310LUFB",
+          "regular": 10500,
+          "sale": null,
+          "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Total No Frost Cooling Mechanism | Fast Freezing Rapid Functionality | Multi Air Flow Distribution Channels | Electronic Temperature Control System | Upright Refrigerator Design | Flexible Reversible Door Configuration | Eco Friendly Refrigerant Gas R600a",
+          "warranty": "5 Years"
         }
       ]
     },
@@ -618,17 +607,6 @@
           "sale": 350,
           "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | Advanced Aluminum Heating Element | Non-Stick Coated Durable Inner Pot | Sleek & Stylish Modern Exterior | Uniform Heat Distribution Technology | Easy-to-Clean Removable Components",
           "warranty": "1 Year"
-        },
-        {
-          "category": "Electric Cooker",
-          "name": "ELECTRIC RICE COOKER",
-          "model": "WG503-E01",
-          "brand": "Amcon",
-          "acuId": "EC-WG503-E01",
-          "regular": null,
-          "sale": null,
-          "features": "Powerful 700W High-Efficiency Motor | Generous 4L Net Cooking Capacity | High-Quality Stainless Steel Housing | Perfect Results for Every Rice Type | Non-Stick Coating for Easy Cleaning | Automatic Keep-Warm Functionality | Simple One-Touch Intuitive Operation",
-          "warranty": "1 Year"
         }
       ]
     },
@@ -782,6 +760,39 @@
           "sale": 11000,
           "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
           "warranty": "3 Years"
+        },
+        {
+          "category": "Built-In Appliances",
+          "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
+          "model": "H60STEB",
+          "brand": "Hisense",
+          "acuId": "BT4EHHB",
+          "regular": null,
+          "sale": null,
+          "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Powered Electric Hot Plates | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Sleek Black Premium Exterior Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Built-In Appliances",
+          "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
+          "model": "HHU60CEEC",
+          "brand": "Hisense",
+          "acuId": "BTCH4B60DC",
+          "regular": null,
+          "sale": null,
+          "features": "Energy Efficient Cooking Performance | Seamless Built-In Ceramic Hob Design | Four High Powered Ceramic Burners | Precision Digital Touch Control Panel | Compact 60cm Space Saving Frame | Smooth and Easy To Clean Glass Surface | Sleek and Modern Black Aesthetic | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Built-In Appliances",
+          "name": "BUILT IN MECHANICAL ELECTRIC OVEN",
+          "model": "HEO601SSF",
+          "brand": "Hisense",
+          "acuId": "BTEO6F60MCS",
+          "regular": null,
+          "sale": null,
+          "features": "Energy Efficient Cooking Performance | Compact 60cm Space Saving Build | Six Versatile Cooking Function Modes | Intuitive Mechanical Control Knobs | Premium Stainless Steel Exterior Finish | Integrated Oven Light for Visibility | Reliable Multi-Function Baking System | Premium Stainless Steel Durable Finish | Seamless Built-In Electric Oven Design",
+          "warranty": "1 Year"
         }
       ]
     },
@@ -890,17 +901,6 @@
           "regular": 2800,
           "sale": null,
           "features": "Energy Efficient Technology | 34-Can Storage Capacity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Advanced Cooling System | Adjustable Internal Shelving | Low Vibration Operation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "46 BOTTLE\nWINE COOLER",
-          "model": "RW3N122GSLF",
-          "brand": "Hisense",
-          "acuId": "FC46BB",
-          "regular": 6200,
-          "sale": 5500,
-          "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
           "warranty": "5 Years"
         },
         {
@@ -1345,6 +1345,17 @@
         },
         {
           "category": "Refrigerators",
+          "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
+          "model": "RC-74WS4S3",
+          "brand": "Hisense",
+          "acuId": "570LEFMRFGS",
+          "regular": 13900,
+          "sale": null,
+          "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerators",
           "name": "595L SIDE-BY-SIDE \nFRIDGE",
           "model": "FR2D-80",
           "brand": "Amcon",
@@ -1352,17 +1363,6 @@
           "regular": 9900,
           "sale": 8800,
           "features": "High Energy Efficiency Rating | Total 595L Large Storage Capacity | Premium Dark Inox Exterior Finish | Side By Side Door Configuration | Advanced Cooling System Technology | Spacious Multi Shelf Organization | Internal Bright Led Lighting | Durable Transparent Storage Bins | Eco Friendly R600a Refrigerant Gas",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "600L CROSS DOOR INVERTER\nFRIDGE WITH WINDOW DOOR",
-          "model": "RQ9P600GTL",
-          "brand": "Hisense",
-          "acuId": "600LRFGB-WID",
-          "regular": 26900,
-          "sale": null,
-          "features": "Energy Efficient A Plus Rating | Total No Frost Cooling Technology | Durable Digital Inverter Compressor | Visible Window For Easy Viewing | Multi Air Flow System For Freshness | Large Capacity Cross Door Design | Triple Zone Temperature Control | Internal Led Lighting For Visibility | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
         {
@@ -1389,17 +1389,6 @@
         },
         {
           "category": "Refrigerators",
-          "name": "622L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
-          "model": "ARS-646W",
-          "brand": "Amcon",
-          "acuId": "AM622LSRFGSS",
-          "regular": 10490,
-          "sale": 9400,
-          "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Modern Side by Side Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
           "name": "630L FRENCH DOOR FRIDGE",
           "model": "RF5P630NMS1",
           "brand": "Hisense",
@@ -1418,6 +1407,17 @@
           "regular": 11000,
           "sale": 9900,
           "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerators",
+          "name": "528L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
+          "model": "RS3P428NEDE",
+          "brand": "Hisense",
+          "acuId": "528LRFGSS-WD",
+          "regular": 8200,
+          "sale": null,
+          "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Integrated External Water Dispenser | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         }
       ]
@@ -1449,17 +1449,6 @@
         },
         {
           "category": "Gas Cooker",
-          "name": "4 BURNER FREE \nSTANDING GAS OVEN",
-          "model": "50*50 Gas Oven (Model1)",
-          "brand": "Amcon",
-          "acuId": "GC50X50M1",
-          "regular": 3300,
-          "sale": null,
-          "features": "4 High-Efficiency Euro Pool Burners | Stainless Steel Top Panel Finish | Instant Auto-Ignition (Top Burners) | Durable Semi-Cast Iron Grids | Matte Black Enamel Burner Caps | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Metal Top Cover | Included Professional Oven Tray",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
           "name": "4 BURNER AND 67L\nFREE STANDING GAS OVEN",
           "model": "GC50X55K52",
           "brand": "Amcon",
@@ -1468,28 +1457,6 @@
           "sale": null,
           "features": "4 High-Efficiency Gas Burners | Extra-Large 67L Gas Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Instant Automatic Ignition System | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
           "warranty": "2 Years"
-        },
-        {
-          "category": "Gas Cooker",
-          "name": "4 BURNER FREE\nSTANDING GAS OVEN",
-          "model": "HFG60121X",
-          "brand": "Hisense",
-          "acuId": "GC60121X",
-          "regular": 4250,
-          "sale": null,
-          "features": "4 Gas Burners & Gas Oven System | Premium Stainless Steel Cooktop | Infrared Cooking & Grill Function | Oven & Grill Convection Fan | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Premium Soft-Closing Oven Door | Easy-Clean Enamel Interior",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
-          "name": "3 GAS + 1 ELECTRIC BURNER FREE STANDING OVEN",
-          "model": "HF631GEES",
-          "brand": "Hisense",
-          "acuId": "GC60631GEES",
-          "regular": 4400,
-          "sale": null,
-          "features": "Energy Efficient Cooking Performance | Premium Stainless Steel Finish | Modern 60 by 60 Centimeter Design | Three High Performance Gas Burners | One Versatile Electric Hotplate | Multifunctional Electric Oven Combi | Free Standing Cooker Configuration | Durable Gas And Electric Components | Eco Friendly Cooking Solution",
-          "warranty": "3 Years"
         },
         {
           "category": "Gas Cooker",
@@ -1526,17 +1493,6 @@
         },
         {
           "category": "Gas Cooker",
-          "name": "4 BURNER FREE \nSTANDING ELECTRIC OVEN",
-          "model": "60*60 Gas Oven (Model 4)",
-          "brand": "Amcon",
-          "acuId": "GC60X60M4",
-          "regular": 5900,
-          "sale": null,
-          "features": "4 High-Efficiency Euro Pool Burners | Advanced Double Cavity Oven Design | Main Oven with Precision Thermostat | Premium Stainless Steel Cooktop | Heavy-Duty Cast Iron Top Grids | Instant Auto-Ignition (Burners & Oven) | Double-Layered Glass Oven Door | Protective Durable Glass Top Lid | Bright Oven Lamp & Included Accessories",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
           "name": "4 GAS + 2 ELECTRIC BURNER FREE STANDING OVEN",
           "model": "HF942GEES",
           "brand": "Hisense",
@@ -1555,6 +1511,17 @@
           "regular": 7200,
           "sale": null,
           "features": "High-Performance Infrared Function | Oven & Grill Convection Fan System | Premium Stainless Steel Cooktop | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Soft-Closing Black Glass Door | Easy-Clean Enamel Interior | Integrated Glass Lid & Adjustable Feet",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
+          "name": "4 BURNER + 1 WOK GAS HOB",
+          "model": "HG1986SB",
+          "brand": "Asko",
+          "acuId": "GHAS5B86SB",
+          "regular": 10800,
+          "sale": 7600,
+          "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
           "warranty": "3 Years"
         },
         {
@@ -1592,17 +1559,6 @@
         },
         {
           "category": "Gas Cooker",
-          "name": "3 BURNER TABLE\nTOP GAS COOKER",
-          "model": "GS3-07RBB",
-          "brand": "Amcon",
-          "acuId": "GS3-07RBB",
-          "regular": 1600,
-          "sale": null,
-          "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Gas Cooker",
           "name": "4 HOT PLATE AND 75L FREE \nSTANDING ELECTRIC OVEN",
           "model": "HFE60321BZA",
           "brand": "Hisense",
@@ -1610,17 +1566,6 @@
           "regular": 4090,
           "sale": null,
           "features": "Energy Efficient Cooking Performance | Four High-Powered Electric Hot Plates | Spacious 75L Multi-Function Oven | Classic 60x60 Free Standing Design | Integrated Grill and Oven Function | Precision Thermostat Control | Internal Oven Lamp for Visibility | Durable Easy-To-Clean Exterior | Easy-To-Install and Maintain",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
-          "name": "5 BURNER FREE \nSTANDING GAS OVEN",
-          "model": "HFG90335RX02",
-          "brand": "Hisense",
-          "acuId": "GC90335RX02",
-          "regular": 7100,
-          "sale": null,
-          "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning",
           "warranty": "3 Years"
         },
         {
@@ -1643,6 +1588,44 @@
           "regular": 3990,
           "sale": null,
           "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Sleek Black Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
+          "warranty": "3 Years"
+        }
+      ]
+    },
+    {
+      "category": "Television Commercial",
+      "items": [
+        {
+          "category": "Television Commercial",
+          "name": "65\" INTERACTIVE\nDISPLAY BOARD",
+          "model": "65WM6FE",
+          "brand": "Hisense",
+          "acuId": "65ANDIDBFE",
+          "regular": 31200,
+          "sale": null,
+          "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television Commercial",
+          "name": "75\" INTERACTIVE\nDISPLAY BOARD",
+          "model": "75WM6FE",
+          "brand": "Hisense",
+          "acuId": "75ANDIDBFE",
+          "regular": 35200,
+          "sale": null,
+          "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television Commercial",
+          "name": "86\" INTERACTIVE\nDISPLAY BOARD",
+          "model": "86WR6CE",
+          "brand": "Hisense",
+          "acuId": "86ANDIDBFE",
+          "regular": 42200,
+          "sale": null,
+          "features": "Energy Efficient Power Management | Ultra High Definition 4K Display | Fast Android 13 Operating System | Google EDLA Certified Performance | High Precision Infrared Touch | Integrated 4K Camera And Microphone | Immersive Dolby Atmos Audio | Anti-glare High Strength Glass | Multi-device Content Sharing",
           "warranty": "3 Years"
         }
       ]
@@ -1736,17 +1719,6 @@
           "regular": 450,
           "sale": null,
           "features": "Ultra-Powerful 2800W Rapid Heating | Premium White Ergonomic Design | Smooth-Glide Ceramic Soleplate | High-Pressure Deep Steam Boost | Integrated Self-Clean Function | Advanced Anti-Drip Protection System | Anti-Calc Mineral Scale Prevention",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Iron",
-          "name": "ELECTRIC IRON\nSTEAMCARE PLUS",
-          "model": "SIH2200DGT",
-          "brand": "Gorenje",
-          "acuId": "SIH2200DGT",
-          "regular": null,
-          "sale": null,
-          "features": "Powerful 2200W Rapid Heating System | Extra-Long 2.5m Cable for Easy Reach | Convenient 280ml Water Tank Capacity | Professional SteamCare Plus Technology | Integrated Self-Clean & Anti-Drip | Advanced Anti-Calc Scale Prevention | Ergonomic Design for Comfort Grip",
           "warranty": "1 Year"
         },
         {
@@ -1882,17 +1854,6 @@
       "items": [
         {
           "category": "Mobile Phones",
-          "name": "C40 MOBILE PHONE",
-          "model": "AM-C40",
-          "brand": "Amcon",
-          "acuId": "AM-C40",
-          "regular": 580,
-          "sale": 300,
-          "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes",
-          "warranty": "1 Year"
-        },
-        {
-          "category": "Mobile Phones",
           "name": "E72 MOBILE PHONE",
           "model": "E72",
           "brand": "Hisense",
@@ -1940,17 +1901,6 @@
     {
       "category": "Microwave oven",
       "items": [
-        {
-          "category": "Microwave oven",
-          "name": "COMMERCIAL 18L MICROWAVE",
-          "model": "AM18LMDC-CSHSS",
-          "brand": "Amcon",
-          "acuId": "AM18LMDC-CSHSS",
-          "regular": 4400,
-          "sale": 3950,
-          "features": "Commercial Power Input Cooking Design | High Efficiency Energy Performance | Six Precision Cooking Power Levels | Digital Control System Panel Design | Premium Led Screen Display Screen | High Performance Crispy Grill System | 2800 Watt Microwave System | Curated Auto Cook Function Programs | Convenient Cooking End Alert Signal",
-          "warranty": "1 Year"
-        },
         {
           "category": "Microwave oven",
           "name": "20L SILVER MICROWAVE \nGRILL DIGITAL CONTROL",
@@ -2415,17 +2365,6 @@
         {
           "category": "Sound Systems",
           "name": "2.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
-          "model": "HT-350",
-          "brand": "Fenda",
-          "acuId": "SS HT-350",
-          "regular": 1750,
-          "sale": null,
-          "features": "Crystal-Clear High-Fidelity Audio | Seamless Bluetooth Wireless Streaming | Advanced HDMI (ARC) Connectivity | Digital Optical Input for HD Sound | High-Visibility LED Digital Display | Multi-Source Device Connectivity | Convenient USB Direct Media Playback | Versatile 3.5mm AUX Audio Input | Sleek & Modern Space-Saving Design",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
-          "name": "2.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
           "model": "HT-360",
           "brand": "Fenda",
           "acuId": "SS HT-360",
@@ -2476,17 +2415,6 @@
           "regular": 1600,
           "sale": null,
           "features": "Massive 8-Inch High-Output Subwoofer | Three-Way Professional Acoustic Design | 1-Inch High-Fidelity Silk Dome Tweeter | In-Built Wireless Microphone System | Advanced Bluetooth & Optical Connectivity | Professional Karaoke Functionality | Digital FM Radio Station Tuner | Plug & Play USB & Analogue Audio Inputs | Bright Wide-Angle LED Status Display",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Sound Systems",
-          "name": "2.0CH TOWER SPEAKER",
-          "model": "T-60X PRO",
-          "brand": "Fenda",
-          "acuId": "SS T-60X PRO",
-          "regular": 2300,
-          "sale": null,
-          "features": "Massive 8-Inch High-Output Subwoofer | Elegant High-Density Wooden Cabinet Design | Powerful Sound Performance in a Slim Profile | Advanced Bluetooth & NFC Wireless Connectivity | High-Fidelity Optical & Coaxial Digital Inputs | Integrated Wireless Karaoke Microphone System | Digital FM Radio with Multi-Station Tuning | Bright Wide-Angle LED Status Display | Full-Function Wireless Remote & Panel Keys",
           "warranty": "3 Years"
         },
         {
@@ -2630,6 +2558,17 @@
           "regular": 6800,
           "sale": null,
           "features": "Powerful Dual 12 Inch Subwoofers | High Performance 650 W Big Power | Advanced Humanization Control Design | Professional Speaker Painting Finish | Versatile Dual System Control Panel | Dual Bluetooth and TWS Connectivity | Integrated Karaoke and XLR Output | Clear LED Display with USB and SD | Coverage for up to 1500 Square Meters",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Sound Systems",
+          "name": "2.0CH RECHARGEABLE  WIRELESS PARTY ROCKER",
+          "model": "HP110",
+          "brand": "Hisense",
+          "acuId": "SSHP110",
+          "regular": 3700,
+          "sale": null,
+          "features": "High Energy Efficiency For Power Savings | Powerful 300W Max Audio Performance | Fast Bluetooth Wireless Audio Streaming | Advanced Bass Boost Sound Technology | Dual 5.25 Inch Woofers And Tweeters | Dynamic Flashing LED Light Effects | Versatile Karaoke And Guitar Inputs | Professional EQ Adjustment Settings | Clear LED Display For Easy Navigation",
           "warranty": "3 Years"
         }
       ]
@@ -2992,28 +2931,6 @@
           "sale": 2200,
           "features": "Sleek Slim and Frameless Panel Design | Ultra-HD 4K 2160p Cinematic Resolution | Advanced Dolby System Audio Technology | In-Built High-Speed WiFi & LAN Ethernet | Smart Screen Mirroring & Content Casting | Integrated Digital and Satellite TV Tuner | Triple (3) HDMI & Dual (2) USB Connectivity | High-Speed Coaxial Digital Audio Output | Full-Function Remote & Wall Bracket Included",
           "warranty": "3 Years"
-        },
-        {
-          "category": "AMCON DSTV",
-          "name": "65\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
-          "model": "SAMCH65N9E",
-          "brand": "Amcon",
-          "acuId": "AMCH65DSMLEDGTV",
-          "regular": 8400,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "AMCON DSTV",
-          "name": "75\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
-          "model": "SAMCH75N9E",
-          "brand": "Amcon",
-          "acuId": "AMCH75DSMLEDGTV",
-          "regular": 12000,
-          "sale": null,
-          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
-          "warranty": "3 Years"
         }
       ]
     },
@@ -3073,6 +2990,33 @@
           "regular": 33000,
           "sale": 29500,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        }
+      ]
+    },
+    {
+      "category": "Television - Amcon",
+      "items": [
+        {
+          "category": "Television - Amcon",
+          "name": "75\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
+          "model": "SAMCH75N9E",
+          "brand": "Amcon",
+          "acuId": "AMCH75DSMLEDGTV",
+          "regular": 12000,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Television - Amcon",
+          "name": "65\" DIGITAL SATELLITE \nMINI-LED GOOGLE TELEVISION",
+          "model": "SAMCH65N9E",
+          "brand": "Amcon",
+          "acuId": "AMCH65DSMLEDGTV",
+          "regular": 8400,
+          "sale": null,
+          "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
         }
       ]
@@ -3140,39 +3084,6 @@
     {
       "category": "Laser TVs",
       "items": [
-        {
-          "category": "Laser TVs",
-          "name": "100\" L9\nLASER TELEVISION",
-          "model": "100LASER-L9",
-          "brand": "Hisense",
-          "acuId": "100LASER-L9",
-          "regular": 52000,
-          "sale": 46000,
-          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Intelligent Audio Equalizer for Balanced Sound | Integrated Digital Satellite TV Reception Tuner | In-Built High-Speed WiFi & LAN Ethernet | Remote Now App Control & Smart Integration | Triple (3) HDMI & Dual (2) USB Connectivity | Safety-First Build Design with Wall Bracket",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "120\" L9 \nLASER TELEVISION",
-          "model": "120LASERL9",
-          "brand": "Hisense",
-          "acuId": "120LASERL9",
-          "regular": 60000,
-          "sale": 54000,
-          "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Laser TVs",
-          "name": "150\" T68\nLASER TELEVISION",
-          "model": "T68",
-          "brand": "Hisense",
-          "acuId": "150T68LASER",
-          "regular": 115000,
-          "sale": null,
-          "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs",
-          "warranty": "5 Years"
-        },
         {
           "category": "Laser TVs",
           "name": "65\" - 300\" C2 ULTRA\n4K LASER TELEVISION",
@@ -3614,27 +3525,27 @@
     },
     {
       "category": "Blenders",
-      "name": "KITCHEN MACHINE + \nFOOD PROCESSOR",
-      "model": "MMC1500",
+      "name": "FOOD PROCESSOR\nSB801W",
+      "model": "SB801W",
       "brand": "Gorenje",
-      "acuId": "MMC1500BK6.7L",
-      "regular": null,
-      "sale": null,
-      "features": "Powerful 1500W High-Performance Motor | Massive 6.7L Stainless Steel Bowl | 8-Speed Regulator for Total Control | 3 Professional Slicing & Shredding Discs | Heavy-Duty Chopper & Whisk Attachments | Durable Metal Dough Hook for Kneading | Robust Design with Enhanced Safety Lock",
+      "acuId": "BFPMC801W",
+      "regular": 950,
+      "sale": 850,
+      "features": "High-Torque Powerful 801W Motor Base | Versatile Chopper, Blender & Grinder | Large 2.4L Multi-Purpose Food Bowl | Family-Sized 1.5L Blending Jar | Multi-Blade Stainless Steel Set | Precision Pulse & Ice Crush Modes | Safe & Intuitive One-Touch Controls",
       "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/4992/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/11223/image"
     },
     {
       "category": "Blenders",
-      "name": "COMMERCIAL BLENDER\n1.5L MECHANICAL",
-      "model": "DT-K80T",
-      "brand": "Amcon",
-      "acuId": "BL DT-K80T",
-      "regular": 3200,
-      "sale": 2850,
-      "features": "Extreme 2200W Professional Motor | Advanced Noise Isolation System | 1.5L High-Impact Strong Plastic Jar | Precision Stainless Steel Blades | Leak-Resistant Secure Sealing Lid | Ultra-Speed Blending & Liquefying | Detachable Parts for Easy Cleaning",
+      "name": "DIGITAL BLENDER\n1.5L 1000W",
+      "model": "HB15TBSSS1",
+      "brand": "Hisense",
+      "acuId": "BL-9002",
+      "regular": 800,
+      "sale": null,
+      "features": "3 Smart Preset Performance Programs | Dedicated High-Speed Ice Crush Mode | Precision Control Knob with LED Light | High-Performance Blending & Liquefying",
       "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/8670/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/14179/image"
     },
     {
       "category": "Blenders",
@@ -3650,15 +3561,15 @@
     },
     {
       "category": "Blenders",
-      "name": "HANDHELD MIXER\n550W",
-      "model": "M550DC",
+      "name": "FOOD PROCESSOR",
+      "model": "SBR1500E",
       "brand": "Gorenje",
-      "acuId": "BM550DC",
-      "regular": 550,
-      "sale": 490,
-      "features": "Powerful 600W Performance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design",
+      "acuId": "BFPMC1500E",
+      "regular": 1890,
+      "sale": 1690,
+      "features": "Powerful 1500W High Performance Motor | Innovative Fusion Mode Technology | Comprehensive Multi Jar Capacity Setup | 2.0L Main Food Processor Bowl & 1.75L Plastic Blending Jar | 700mL Portable Sports Blender | Extensive Precision Cutting Prep Attachments | 10 Speed Intuitive Control & Programs",
       "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/19158/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/19290/image"
     },
     {
       "category": "Freezers",
@@ -3817,6 +3728,42 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/19139/image"
     },
     {
+      "category": "Built-In Appliances",
+      "name": "BUILT IN 4 BURNER MECHANICAL GAS HOB",
+      "model": "HHU60GAGR",
+      "brand": "Hisense",
+      "acuId": "BT4BSS",
+      "regular": null,
+      "sale": null,
+      "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Efficiency Gas Burners | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Premium Stainless Steel Durable Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
+      "warranty": "3 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19342/image"
+    },
+    {
+      "category": "Built-In Appliances",
+      "name": "BUILT IN COOKER HOOD",
+      "model": "HHO60TASS",
+      "brand": "Hisense",
+      "acuId": "BTWMCH60SS",
+      "regular": null,
+      "sale": null,
+      "features": "Energy Efficient Cooking Performance | Powerful Smoke and Oduor Extraction | Wall Mounted Cooker Hood Design | Durable Stainless Steel Filter System | Compact 60cm Space Saving Frame | Integrated Bright LED Cooktop Light | Seamless Built-In Modern Aesthetic | Intuitive Push Button Controls | Premium Stainless Steel Durable Finish",
+      "warranty": "1 Year",
+      "imageUrl": ""
+    },
+    {
+      "category": "Built-In Appliances",
+      "name": "25L BUILT IN MICROWAVE OVEN",
+      "model": "HB25MOBX7G",
+      "brand": "Hisense",
+      "acuId": "BT25LMDC-GPBB",
+      "regular": null,
+      "sale": null,
+      "features": "Spacious 25L Cooking Capacity | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Versatile Combination Cooking Setup | Smart Weight and Time Defrost Function | Sleek Black Premium Exterior Finish | Seamless Built-In Integrated Design | Energy Efficient Cooking Performance",
+      "warranty": "1 Year",
+      "imageUrl": ""
+    },
+    {
       "category": "Fan",
       "name": "18\" RECHARGABLE STANDING FAN",
       "model": "AMFKYS45AC18",
@@ -3878,27 +3825,27 @@
     },
     {
       "category": "Refrigerators",
-      "name": "570L SIDE-BY-SIDE \nINVERTER EFM FRIDGE",
-      "model": "RC-74WS4S3",
-      "brand": "Hisense",
-      "acuId": "570LEFMRFGS",
-      "regular": 13900,
-      "sale": null,
-      "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
+      "name": "622L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
+      "model": "ARS-646W",
+      "brand": "Amcon",
+      "acuId": "AM622LSRFGSS",
+      "regular": 10490,
+      "sale": 9400,
+      "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Modern Side by Side Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
       "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/1918/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/19161/image"
     },
     {
       "category": "Gas Cooker",
-      "name": "3 GAS + 1 ELECTRIC BURNER\nFREE STANDING GAS OVEN",
-      "model": "60*60 Gas Oven (Model 5)",
-      "brand": "Amcon",
-      "acuId": "GC60X60M5",
-      "regular": 4650,
+      "name": "3 GAS + 1 ELECTRIC BURNER FREE STANDING OVEN",
+      "model": "HF631GEES",
+      "brand": "Hisense",
+      "acuId": "GC60631GEES",
+      "regular": 4400,
       "sale": null,
-      "features": "Hybrid 3 Gas Burners & 1 Electric Hob | 1000W High-Performance Electric Plate | Premium Stainless Steel Top Surface | Instant Auto-Ignition (Top Burners) | Heavy-Duty Cast Iron Top Grids | Dual Oven Heating (Top & Bottom) | Double-Layered Glass Oven Door | Protective Glass Top Lid / Cover | Matte Black Professional Burner Caps",
+      "features": "Energy Efficient Cooking Performance | Premium Stainless Steel Finish | Modern 60 by 60 Centimeter Design | Three High Performance Gas Burners | One Versatile Electric Hotplate | Multifunctional Electric Oven Combi | Free Standing Cooker Configuration | Durable Gas And Electric Components | Eco Friendly Cooking Solution",
       "warranty": "3 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/1672/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/16769/image"
     },
     {
       "category": "Gas Cooker",
@@ -4057,6 +4004,18 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/8682/image"
     },
     {
+      "category": "Microwave oven",
+      "name": "42L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
+      "model": "HMMG4210DSG",
+      "brand": "Hisense",
+      "acuId": "42LMODC-GPBB",
+      "regular": 1900,
+      "sale": null,
+      "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/9410/image"
+    },
+    {
       "category": "Showcases",
       "name": "382L SHOWCASE\nUPRIGHT FRIDGE",
       "model": "FL-50FC4SA",
@@ -4091,6 +4050,18 @@
       "features": "5.1.2ch Cinematic Surround Sound | Cinema-Grade Dolby Atmos Support | Dual (2) Dedicated Surround Speakers | High-Fidelity (HiFi) Sound Quality | 190W High-Efficiency Power Output | Smart Mobile App Control Integration | Latest Bluetooth 5.3 Technology | 6 Professional EQ Sound Modes | HDMI ARC, Optical, and Aux Connectivity",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/8673/image"
+    },
+    {
+      "category": "Sound Systems",
+      "name": "2.0CH TOWER SPEAKER",
+      "model": "T-60X PRO",
+      "brand": "Fenda",
+      "acuId": "SS T-60X PRO",
+      "regular": 2300,
+      "sale": null,
+      "features": "Massive 8-Inch High-Output Subwoofer | Elegant High-Density Wooden Cabinet Design | Powerful Sound Performance in a Slim Profile | Advanced Bluetooth & NFC Wireless Connectivity | High-Fidelity Optical & Coaxial Digital Inputs | Integrated Wireless Karaoke Microphone System | Digital FM Radio with Multi-Station Tuning | Bright Wide-Angle LED Status Display | Full-Function Wireless Remote & Panel Keys",
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6598/image"
     },
     {
       "category": "Sound Systems",
@@ -4492,27 +4463,27 @@
     },
     {
       "category": "Inverter Air Conditioners",
-      "name": "1.5HP INVERTER - COOLING & \nHEATING AIR CONDITIONER",
-      "model": "12UW4GXETV00",
-      "brand": "Hisense",
-      "acuId": "AC1.5HPINVTVACHISENSE",
-      "regular": 5800,
-      "sale": 4200,
-      "features": "Top-Class 3-Star Ghana Energy Rating | Advanced Energy-Saving Inverter Technology | Powerful 12,000 BTU (3520W) Cooling | Inbuilt Reliable Over Voltage Guard | Optimized Wide-Angle Precision Airflow | Sleek & Modern Aesthetic Panel Design | Ultra-Low Global Warming Potential @ 0.02 GWP | Extremely Eco-Friendly R290 Refrigerant | SWISS GOVERNMENT FUNDED GREEN AIR CONDITIONER REBATE INCLUDED IN PURCHASE",
+      "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
+      "model": "ACAMCH12DH",
+      "brand": "Amcon",
+      "acuId": "AC1.5HPINVACAMCON",
+      "regular": 4150,
+      "sale": 2990,
+      "features": "Energy Efficient | Low Power Inverter Technology | Auto Restart | Led Temperature Display | Silent Operation | Self-Cleaning | R32 Eco-Friendly Refrigerant | Colour: Indoor - Black | Outdoor - White | High Density Air Filter",
       "warranty": "5 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/13081/image"
     },
     {
       "category": "Inverter Air Conditioners",
-      "name": "1.5HP INVERTER COOL WITH \nWIFI & SMART EYE AC",
-      "model": "AST-12UW4RXVQH00B",
+      "name": "1.5HP SPLIT INVERTER\nAIR CONDITIONER",
+      "model": "HAS12TR4RVDTG",
       "brand": "Hisense",
-      "acuId": "AC1.5HPINVQHACHISENSEBK",
-      "regular": 7790,
+      "acuId": "AC1.5HPINVACHISENSE",
+      "regular": 5200,
       "sale": null,
-      "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
+      "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
       "warranty": "5 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/1777/image"
     },
     {
       "category": "Blenders",
@@ -4537,6 +4508,18 @@
       "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/11218/image"
+    },
+    {
+      "category": "Blenders",
+      "name": "MECHANICAL BLENDER\n23L EASY-POUR TAP",
+      "model": "BLC2708A",
+      "brand": "Amcon",
+      "acuId": "BLC2780A",
+      "regular": 2390,
+      "sale": 2140,
+      "features": "Massive 23L Industrial Capacity Jar | Powerful 1680W Commercial-Grade Motor | Integrated Easy-Pour Discharge Tap | Heavy-Duty Manual Mechanical Control | Instant Pulse for Precision Textures | Secure Leak-Resistant Seal Lid | Stable Non-Slip Rubber Grip Feet",
+      "warranty": "1 Year",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14195/image"
     },
     {
       "category": "Freezers",
@@ -4600,6 +4583,18 @@
     },
     {
       "category": "Refrigerators",
+      "name": "46 BOTTLE\nWINE COOLER",
+      "model": "RW3N122GSLF",
+      "brand": "Hisense",
+      "acuId": "FC46BB",
+      "regular": 6200,
+      "sale": 5500,
+      "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/14225/image"
+    },
+    {
+      "category": "Refrigerators",
       "name": "130L TABLE TOP FRIDGE",
       "model": "RS-13DR4SG",
       "brand": "Hisense",
@@ -4609,6 +4604,18 @@
       "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1799/image"
+    },
+    {
+      "category": "Refrigerators",
+      "name": "600L CROSS DOOR INVERTER\nFRIDGE WITH WINDOW DOOR",
+      "model": "RQ9P600GTL",
+      "brand": "Hisense",
+      "acuId": "600LRFGB-WID",
+      "regular": 26900,
+      "sale": null,
+      "features": "Energy Efficient A Plus Rating | Total No Frost Cooling Technology | Durable Digital Inverter Compressor | Visible Window For Easy Viewing | Multi Air Flow System For Freshness | Large Capacity Cross Door Design | Triple Zone Temperature Control | Internal Led Lighting For Visibility | Eco Friendly R600a Refrigerant Gas",
+      "warranty": "5 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/19110/image"
     },
     {
       "category": "Refrigerators",
@@ -4623,28 +4630,28 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/18844/image"
     },
     {
-      "category": "Refrigerators",
-      "name": "688L SIDE-BY-SIDE FRIDGE",
-      "model": "BCD-668W",
+      "category": "Gas Cooker",
+      "name": "4 BURNER FREE\nSTANDING GAS OVEN",
+      "model": "HFG60121X",
       "brand": "Hisense",
-      "acuId": "688LRFGS",
-      "regular": null,
+      "acuId": "GC60121X",
+      "regular": 4250,
       "sale": null,
-      "features": "Sleek Side-by-Side Design | Inverter Technology System | Energy Efficient Operation | ConnectLife App & Wifi Connectivity | Total Frost-Free Technology | Multi Air Flow Cooling System | Integrated Ice Cube Maker | Smart External Control Panel | Eco-Friendly R600a Refrigerant",
-      "warranty": "5 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/14529/image"
+      "features": "4 Gas Burners & Gas Oven System | Premium Stainless Steel Cooktop | Infrared Cooking & Grill Function | Oven & Grill Convection Fan | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Premium Soft-Closing Oven Door | Easy-Clean Enamel Interior",
+      "warranty": "3 Years",
+      "imageUrl": "https://workatsel.com/api/odoo/products/6719/image"
     },
     {
       "category": "Gas Cooker",
-      "name": "4 BURNER + 1 WOK GAS HOB",
-      "model": "HG1986SB",
-      "brand": "Asko",
-      "acuId": "GHAS5B86SB",
-      "regular": 10800,
-      "sale": 7600,
-      "features": "4 High-Efficiency A+ Hybrid Wok Burners | 1 Dedicated Hotplate Super Flex Wok Burner | Premium Grade Stainless Steel Surface | Advanced Flame Sensor Safety System | Heavy-Duty Cast Iron Pan Supports | Convenient One-Handed Ignition | Precision Ergonomic Control Knobs | Professional Logical Burner Layout | Dimensions (H×W×D): 4.8 × 90 × 52.6 cm",
+      "name": "5 BURNER FREE \nSTANDING GAS OVEN",
+      "model": "HFG90335RX02",
+      "brand": "Hisense",
+      "acuId": "GC90335RX02",
+      "regular": 7100,
+      "sale": null,
+      "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning",
       "warranty": "3 Years",
-      "imageUrl": "https://workatsel.com/api/odoo/products/18972/image"
+      "imageUrl": ""
     },
     {
       "category": "Iron",
@@ -4659,28 +4666,16 @@
       "imageUrl": "https://workatsel.com/api/odoo/products/1679/image"
     },
     {
-      "category": "Iron",
-      "name": "STEAM GENERATOR\nELECTRIC IRON",
-      "model": "SIGH2400BB",
-      "brand": "Gorenje",
-      "acuId": "SIGH2400BB",
-      "regular": null,
-      "sale": null,
-      "features": "Ultra-Powerful 7.5 Bar Steam Pressure | Professional 2400W Rapid Heating | Large 1.7L Removable Water Tank | OptiTemp Smart Heat Technology | Advanced Easy De-Calc Cleaning System | Silent Technology for Quiet Ironing | Eco Care Mode & Auto Shut-Off Safety",
-      "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/5180/image"
-    },
-    {
       "category": "Microwave oven",
-      "name": "42L BLACK MICROWAVE\nGRILL DIGITAL CONTROL",
-      "model": "HMMG4210DSG",
-      "brand": "Hisense",
-      "acuId": "42LMODC-GPBB",
-      "regular": 1900,
-      "sale": null,
-      "features": "Massive 42L Extra-Large Capacity | 1200 Watts High-Efficiency Microwave | Advanced Precision Digital Controls | Extended 95-Minute Cooking Timer | Smart Weight & Time Defrost Function | Energy Efficient 2-Star Rating | Versatile Multi-Stage Cooking Modes",
+      "name": "COMMERCIAL 18L MICROWAVE",
+      "model": "AM18LMDC-CSHSS",
+      "brand": "Amcon",
+      "acuId": "AM18LMDC-CSHSS",
+      "regular": 4400,
+      "sale": 3950,
+      "features": "Commercial Power Input Cooking Design | High Efficiency Energy Performance | Six Precision Cooking Power Levels | Digital Control System Panel Design | Premium Led Screen Display Screen | High Performance Crispy Grill System | 2800 Watt Microwave System | Curated Auto Cook Function Programs | Convenient Cooking End Alert Signal",
       "warranty": "1 Year",
-      "imageUrl": "https://workatsel.com/api/odoo/products/9410/image"
+      "imageUrl": "https://workatsel.com/api/odoo/products/19335/image"
     },
     {
       "category": "Microwave oven",
@@ -4825,17 +4820,6 @@
     },
     {
       "category": "Blenders",
-      "name": "FOOD PROCESSOR\nSB801W",
-      "model": "SB801W",
-      "brand": "Gorenje",
-      "acuId": "BFPMC801W",
-      "regular": 950,
-      "sale": 850,
-      "features": "High-Torque Powerful 801W Motor Base | Versatile Chopper, Blender & Grinder | Large 2.4L Multi-Purpose Food Bowl | Family-Sized 1.5L Blending Jar | Multi-Blade Stainless Steel Set | Precision Pulse & Ice Crush Modes | Safe & Intuitive One-Touch Controls",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Blenders",
       "name": "HANDHELD 2 IN 1 MIXER\nM500DCS",
       "model": "M500DCS",
       "brand": "Gorenje",
@@ -4880,17 +4864,6 @@
     },
     {
       "category": "Blenders",
-      "name": "HANDHELD MIXER\n450W",
-      "model": "M450XG",
-      "brand": "Gorenje",
-      "acuId": "BM450XG",
-      "regular": null,
-      "sale": null,
-      "features": "Quiet & Powerful 450W DC Motor | Precision 5-Speed Power Regulator | Versatile Chopper & Whisk Attachments | Stainless Steel Beaters & Dough Hooks | Easy-to-Use Push Button Tool Eject | Lightweight Ergonomic Handheld Design | Multi-Purpose Beating & Kneading Set",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Blenders",
       "name": "HANDHELD MIXER\n500W",
       "model": "M500DC",
       "brand": "Gorenje",
@@ -4898,17 +4871,6 @@
       "regular": 400,
       "sale": 360,
       "features": "Ultra-Silent High-Torque 500W DC Motor | Precision 5-Speed Power Regulator | Turbo Boost & Pulse Functionality | Pro-Grade Stainless Steel Dough Hooks | High-Efficiency Wire Whisk Attachments | Versatile Beating, Whipping & Kneading | Lightweight Ergonomic Comfort Handle",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Blenders",
-      "name": "DIGITAL BLENDER\n1.5L 1000W",
-      "model": "HB15TBSSS1",
-      "brand": "Hisense",
-      "acuId": "BL-9002",
-      "regular": 800,
-      "sale": null,
-      "features": "3 Smart Preset Performance Programs | Dedicated High-Speed Ice Crush Mode | Precision Control Knob with LED Light | High-Performance Blending & Liquefying",
       "warranty": "1 Year"
     },
     {
@@ -5000,47 +4962,14 @@
       "warranty": "1 Year"
     },
     {
-      "category": "Items",
-      "name": "DIGITAL TV FLAT\nPANEL ANTENNA",
-      "model": "AV-163C",
+      "category": "Gas Cooker",
+      "name": "3 BURNER TABLE\nTOP GAS COOKER",
+      "model": "GS3-07RBB",
       "brand": "Amcon",
-      "acuId": "AV-163C",
-      "regular": 550,
-      "sale": 250,
-      "features": "Powerful 55km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Items",
-      "name": "DIGITAL TV FLAT\nPANEL ANTENNA",
-      "model": "AV-167",
-      "brand": "Amcon",
-      "acuId": "AV-167",
-      "regular": 590,
-      "sale": 250,
-      "features": "Ultra-Powerful 60km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Items",
-      "name": "UNIVERSAL ANTENNA BRACKET",
-      "model": "AV-172",
-      "brand": "Amcon",
-      "acuId": "AV-172BRACKET",
-      "regular": 100,
-      "sale": 50,
-      "features": "Ultra-Powerful Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
-      "warranty": "Not Applicable"
-    },
-    {
-      "category": "Items",
-      "name": "DIGITAL TV FLAT\nPANEL ANTENNA",
-      "model": "AV-173",
-      "brand": "Amcon",
-      "acuId": "AV-173",
-      "regular": 560,
-      "sale": 250,
-      "features": "Powerful 55km Long-Range Reception | Latest Digital Receiver Technology | Versatile Outdoor & Indoor Placement | Quick & Easy DIY Installation | Durable UV-Protected Exterior | Robust Waterproof Weatherproof Body | Crystal-Clear HDTV Signal Support",
+      "acuId": "GS3-07RBB",
+      "regular": 1600,
+      "sale": null,
+      "features": "Glossy Tempered Glass Surface | Professional Cast Iron Pan Supports | Integrated Auto-Ignition Control Knobs | Enhanced Flame Failure Safety System | Precision Heat & Flame Adjustment | Sleek & Modern Easy-to-Clean Design | Heavy-Duty Robust Construction",
       "warranty": "1 Year"
     },
     {
@@ -5062,17 +4991,6 @@
       "acuId": "JSSP-SACP30",
       "regular": 250,
       "sale": 220,
-      "features": "",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Small Items",
-      "name": "AC POWER PROTECTOR",
-      "model": "JSSP-102UKN",
-      "brand": "Smart Power",
-      "acuId": "JSSP-102UKN",
-      "regular": null,
-      "sale": null,
       "features": "",
       "warranty": "1 Year"
     },
@@ -5166,28 +5084,6 @@
     },
     {
       "category": "Small Items",
-      "name": "BLUE DUOLINK SPEAKERBUDS",
-      "model": "SSDL504B",
-      "brand": "Fenda",
-      "acuId": "SSDL504B",
-      "regular": 700,
-      "sale": 150,
-      "features": "",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Small Items",
-      "name": "RED DUOLINK SPEAKERBUDS",
-      "model": "SSDL504R",
-      "brand": "Fenda",
-      "acuId": "SSDL504R",
-      "regular": 700,
-      "sale": 150,
-      "features": "",
-      "warranty": "1 Year"
-    },
-    {
-      "category": "Small Items",
       "name": "E200 PLUS BLUETOOTH SPEAKER",
       "model": "E200PLUS",
       "brand": "Fenda",
@@ -5207,17 +5103,6 @@
       "sale": 200,
       "features": "",
       "warranty": "1 Year"
-    },
-    {
-      "category": "Small Items",
-      "name": "UNIVERSAL AC REMOTE CONTROL",
-      "model": "",
-      "brand": "Hisense",
-      "acuId": "ACHIUNIRC",
-      "regular": 100,
-      "sale": null,
-      "features": "",
-      "warranty": ""
     },
     {
       "category": "Small Items",
@@ -5328,17 +5213,6 @@
       "sale": 1200,
       "features": "Advanced 6-Stage Integrated Filtration Process | Ultrafiltration (UF) 0.1 Micron Precision Membrane | Dual High-Efficiency Encapsulated Filter Cartridges | Premium Mixture of Bamboo & Coconut Carbon | Active Granular Silver-Impregnated Powder | Encapsulated Filter to Prevent Contamination | Easy Tool-Free Filter Replacement Design | Rapid & Simple DIY Self-Installation Kit | Minimal Maintenance & Long-Life Performance",
       "warranty": "1 Year"
-    },
-    {
-      "category": "DECODER",
-      "name": "DSTVDECODER&ACC",
-      "model": "Model 1",
-      "brand": "DSTV",
-      "acuId": "DSTVDECODER&ACC",
-      "regular": 633,
-      "sale": null,
-      "features": "Special Offer | Crystal Clear High Definition Viewing | Extensive Eight Day Television Guide | Reliable Advanced Parental Control Lock | Multi Room Viewing Xtraview Capability | Convenient Live Broadcast Reminders",
-      "warranty": "1 Year"
     }
   ],
   "layouts": {
@@ -5353,6 +5227,7 @@
     "Fan": "10m1f",
     "Refrigerators": "10m1f",
     "Gas Cooker": "10m1f",
+    "Television Commercial": "3feat",
     "Iron": "10m1f",
     "Kettles": "5m2f",
     "Mobile Phones": "5m2f",
@@ -5364,12 +5239,12 @@
     "HISENSE MINILED": "5m2f",
     "AMCON DSTV": "10m1f",
     "AMCON QLED": "5m2f",
+    "Television - Amcon": "5m2f",
     "Toshiba TVs": "5m2f",
     "Laser TVs": "5m2f",
     "Water Dispensors": "5m2f",
     "Washing Machines": "5m2f",
-    "EFM - Air Conditioners": "3feat",
-    "Television Commercial": "3feat"
+    "EFM - Air Conditioners": "3feat"
   },
   "categoryOrder": [
     "Air Conditioners",
