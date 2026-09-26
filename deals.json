@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-26T20:59:21.271Z",
+  "generatedAt": "2026-09-26T21:00:28.005Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID SEPTEMBER 2026 · INCLUSIVE OF VAT",
@@ -1570,6 +1570,17 @@
         },
         {
           "category": "Gas Cooker",
+          "name": "5 BURNER FREE \nSTANDING GAS OVEN",
+          "model": "HFG90335RX02",
+          "brand": "Hisense",
+          "acuId": "GC90335RX02",
+          "regular": 7100,
+          "sale": null,
+          "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning",
+          "warranty": "3 Years"
+        },
+        {
+          "category": "Gas Cooker",
           "name": "4 BURNER FREE STANDING GAS OVEN SILVER",
           "model": "HFG60122X",
           "brand": "Hisense",
@@ -1577,17 +1588,6 @@
           "regular": 4090,
           "sale": null,
           "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Stainless Steel Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
-          "warranty": "3 Years"
-        },
-        {
-          "category": "Gas Cooker",
-          "name": "4 BURNER FREE STANDING GAS OVEN BLACK",
-          "model": "HFG60122B",
-          "brand": "Hisense",
-          "acuId": "GC60122B",
-          "regular": 3990,
-          "sale": null,
-          "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Sleek Black Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
           "warranty": "3 Years"
         }
       ]
@@ -4643,15 +4643,15 @@
     },
     {
       "category": "Gas Cooker",
-      "name": "5 BURNER FREE \nSTANDING GAS OVEN",
-      "model": "HFG90335RX02",
+      "name": "4 BURNER FREE STANDING GAS OVEN BLACK",
+      "model": "HFG60122B",
       "brand": "Hisense",
-      "acuId": "GC90335RX02",
-      "regular": 7100,
+      "acuId": "GC60122B",
+      "regular": 3990,
       "sale": null,
-      "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning",
+      "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Sleek Black Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
       "warranty": "3 Years",
-      "imageUrl": ""
+      "imageUrl": "https://workatsel.com/api/odoo/products/18930/image"
     },
     {
       "category": "Iron",
