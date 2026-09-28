@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-28T13:31:34.470Z",
+  "generatedAt": "2026-09-28T13:41:24.570Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID SEPTEMBER 2026 · INCLUSIVE OF VAT",
@@ -1407,17 +1407,6 @@
           "regular": 11000,
           "sale": 9900,
           "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Refrigerators",
-          "name": "528L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
-          "model": "#N/A",
-          "brand": "Hisense",
-          "acuId": "528LRFGSS-WD",
-          "regular": null,
-          "sale": null,
-          "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Integrated External Water Dispenser | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         }
       ]
