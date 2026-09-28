@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-28T13:51:21.661Z",
+  "generatedAt": "2026-09-28T15:21:20.509Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -217,7 +217,7 @@
       "name": "2.5HP FLOOR STANDING \nINVERTER AIR CONDITIONER",
       "model": "AUF-24UR4RFJ",
       "brand": "Hisense",
-      "regular": null,
+      "regular": 15500,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
