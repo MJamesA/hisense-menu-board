@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-22T11:51:30.442Z",
+  "generatedAt": "2026-09-28T13:31:45.837Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2555,11 +2555,11 @@
       "tag": "A6",
       "category": "Refrigerator",
       "name": "528L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
-      "model": "RS3P428NEDE",
+      "model": "#N/A",
       "brand": "Hisense",
-      "regular": 8200,
+      "regular": null,
       "sale": null,
-      "promo": false,
+      "promo": true,
       "warranty": "5 Years",
       "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Integrated External Water Dispenser | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
