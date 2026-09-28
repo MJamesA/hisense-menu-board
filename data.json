@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-28T13:31:45.837Z",
+  "generatedAt": "2026-09-28T13:41:32.006Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2538,6 +2538,19 @@
       "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
     {
+      "acuId": "441LRFGSS-WD",
+      "tag": "A6",
+      "category": "Refrigerator",
+      "name": "528L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
+      "model": "RS3P428NEDE",
+      "brand": "Hisense",
+      "regular": 8200,
+      "sale": null,
+      "promo": false,
+      "warranty": "5 Years",
+      "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Integrated External Water Dispenser | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
+    },
+    {
       "acuId": "528LRFGS-WD",
       "tag": "A6",
       "category": "Refrigerator",
@@ -2549,19 +2562,6 @@
       "promo": false,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Water Dispenser & Ice Maker | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
-    },
-    {
-      "acuId": "528LRFGSS-WD",
-      "tag": "A6",
-      "category": "Refrigerator",
-      "name": "528L SIDE-BY-SIDE FRIDGE\nWITH WATER DISPENSER",
-      "model": "#N/A",
-      "brand": "Hisense",
-      "regular": null,
-      "sale": null,
-      "promo": true,
-      "warranty": "5 Years",
-      "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Integrated External Water Dispenser | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
     {
       "acuId": "FR2D-69",
