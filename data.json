@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-28T18:31:32.154Z",
+  "generatedAt": "2026-09-28T18:41:21.561Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2555,11 +2555,11 @@
       "tag": "A6",
       "category": "Refrigerator",
       "name": "528L SIDE-BY-SIDE FRIDGE\nWITH ICE MAKER",
-      "model": "#N/A",
+      "model": "RS528P5AS3",
       "brand": "Hisense",
-      "regular": null,
+      "regular": 12500,
       "sale": null,
-      "promo": true,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Water Dispenser & Ice Maker | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
