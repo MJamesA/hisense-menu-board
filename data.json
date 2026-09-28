@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-28T18:41:21.561Z",
+  "generatedAt": "2026-09-28T18:51:25.863Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2115,7 +2115,7 @@
       "name": "150L SINGLE DOOR FRIDGE",
       "model": "RS-20DR4HG",
       "brand": "Hisense",
-      "regular": 2750,
+      "regular": 2650,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
