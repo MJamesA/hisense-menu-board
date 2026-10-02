@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-09-29T15:31:24.104Z",
+  "generatedAt": "2026-10-02T18:11:17.158Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2536,19 +2536,6 @@
       "promo": true,
       "warranty": "5 Years",
       "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
-    },
-    {
-      "acuId": "441LRFGSS",
-      "tag": "A6",
-      "category": "Refrigerator",
-      "name": "441L SIDE-BY-SIDE INVERTER FRIDGE",
-      "model": "RS3P428NEDE",
-      "brand": "Hisense",
-      "regular": 8200,
-      "sale": null,
-      "promo": false,
-      "warranty": "5 Years",
-      "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Durable Tempered Glass Shelving | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
     {
       "acuId": "528LRFGS-WD",
