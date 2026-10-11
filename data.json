@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T21:21:22.018Z",
+  "generatedAt": "2026-10-11T21:31:19.841Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -482,6 +482,19 @@
       "promo": true,
       "warranty": "1 Year",
       "features": "High-Torque Powerful 801W Motor Base | Versatile Chopper, Blender & Grinder | Large 2.4L Multi-Purpose Food Bowl | Family-Sized 1.5L Blending Jar | Multi-Blade Stainless Steel Set | Precision Pulse & Ice Crush Modes | Safe & Intuitive One-Touch Controls"
+    },
+    {
+      "acuId": "BFPMC800XG",
+      "tag": "A7",
+      "category": "Blenders",
+      "name": "FOOD PROCESSOR\nSB800XG",
+      "model": "SB800XG",
+      "brand": "Gorenje",
+      "regular": 790,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Energy Efficient 800W Motor Power | Versatile 2-in-1 MultiChef Function | High-Performance Food Processor | Premium Stainless Steel Blades | Precision Speed Control System | Durable Design for Daily Usage | Secure Non-Slip Rubber Suction Feet"
     },
     {
       "acuId": "BM500DCS",
