@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T20:01:23.629Z",
+  "generatedAt": "2026-10-11T20:11:18.309Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -256,7 +256,7 @@
       "name": "2.5HP SPLIT INVERTER\nAIR CONDITIONER",
       "model": "HAS24TR4RBBDTG",
       "brand": "Hisense",
-      "regular": 8990,
+      "regular": 9400,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -308,7 +308,7 @@
       "name": "2.5HP SPLIT \nAIR CONDITIONER",
       "model": "HAS24CR4SQBTG4",
       "brand": "Hisense",
-      "regular": 8500,
+      "regular": 8700,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
