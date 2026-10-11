@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T20:11:18.309Z",
+  "generatedAt": "2026-10-11T20:21:20.061Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -997,7 +997,7 @@
       "name": "198L CHEST FREEZER",
       "model": "FC-20DT4HA",
       "brand": "Hisense",
-      "regular": 2950,
+      "regular": 3250,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -5599,7 +5599,7 @@
       "name": "55” SMART DIGITAL 4K\nMINI-LED TELEVISION",
       "model": "55U6K-PRO",
       "brand": "Hisense",
-      "regular": 8800,
+      "regular": 9500,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
