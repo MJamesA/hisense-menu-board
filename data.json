@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T19:31:18.948Z",
+  "generatedAt": "2026-10-11T19:41:18.897Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -663,7 +663,7 @@
       "sale": 1420,
       "promo": true,
       "warranty": "1 Year",
-      "features": "Efficient 200W High-Torque Motor | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | Compact Space-Saving Kitchen Design | Quiet Operation & Nutrient Retention"
+      "features": "Energy Efficient 200W Motor Power | Gentle Slow Juice Press Technology | Quiet Operation & Nutrient Retention | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | High-Efficiency Extraction System | Compact Space-Saving Kitchen Design"
     },
     {
       "acuId": "BLJC805EII",
@@ -1179,7 +1179,7 @@
       "name": "701L CHEST FREEZER",
       "model": "FC-94DD4HA",
       "brand": "Hisense",
-      "regular": 10200,
+      "regular": 10600,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
