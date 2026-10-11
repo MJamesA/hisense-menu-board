@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T19:21:31.057Z",
+  "generatedAt": "2026-10-11T19:31:18.948Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -656,11 +656,11 @@
       "acuId": "BLJC4800VWY",
       "tag": "A7",
       "category": "Blenders",
-      "name": "JUICE PRESS",
+      "name": "JUICE PRESS (SLOW JUICER)",
       "model": "JC4800VWY",
       "brand": "Gorenje",
-      "regular": 1550,
-      "sale": 1400,
+      "regular": 1590,
+      "sale": 1420,
       "promo": true,
       "warranty": "1 Year",
       "features": "Efficient 200W High-Torque Motor | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | Compact Space-Saving Kitchen Design | Quiet Operation & Nutrient Retention"
@@ -669,7 +669,7 @@
       "acuId": "BLJC805EII",
       "tag": "A7",
       "category": "Blenders",
-      "name": "2-SPEED JUICER",
+      "name": "2-SPEED JUICER 800W",
       "model": "JC805EII",
       "brand": "Gorenje",
       "regular": 790,
