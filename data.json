@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T20:21:20.061Z",
+  "generatedAt": "2026-10-11T20:31:21.101Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1036,7 +1036,7 @@
       "name": "240L CHEST FREEZER",
       "model": "FC-31DD4HA",
       "brand": "Hisense",
-      "regular": 4000,
+      "regular": 4250,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -1153,7 +1153,7 @@
       "name": "420L CHEST FREEZER",
       "model": "FC-55DD4HA",
       "brand": "Hisense",
-      "regular": 5990,
+      "regular": 6250,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -1998,8 +1998,8 @@
       "name": "45L MINI BAR FRIDGE",
       "model": "RS-06DR4SA",
       "brand": "Hisense",
-      "regular": 1280,
-      "sale": 1150,
+      "regular": 1400,
+      "sale": 1260,
       "promo": true,
       "warranty": "5 Years",
       "features": "Space-Saving Reversible Door Design | Eco-Friendly R600a Natural Refrigerant | Ultra-Quiet Low Noise Operation | Energy Efficient Environment-Friendly | Adjustable Thermostat Temperature Control | Integrated 2-Liter Bottle Door Rack | Flexible Installation for Tight Spaces | Sustainable Green Cooling Technology | Durable & Compact Interior Layout"
@@ -2076,7 +2076,7 @@
       "name": "130L TABLE TOP FRIDGE",
       "model": "RS-13DR4SG",
       "brand": "Hisense",
-      "regular": 1660,
+      "regular": 1800,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
