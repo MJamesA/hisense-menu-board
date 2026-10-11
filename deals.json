@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T20:31:17.886Z",
+  "generatedAt": "2026-10-11T21:01:18.998Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID SEPTEMBER 2026 · INCLUSIVE OF VAT",
@@ -763,36 +763,36 @@
         },
         {
           "category": "Built-In Appliances",
-          "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
+          "name": "BUILT IN 4 BURNER ELECTRIC\nDIGITAL CERAMIC HOB - 60cm",
           "model": "H60STEB",
           "brand": "Hisense",
           "acuId": "BT4EHHB",
-          "regular": null,
+          "regular": 1400,
           "sale": null,
           "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Powered Electric Hot Plates | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Sleek Black Premium Exterior Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
-          "warranty": "3 Years"
+          "warranty": "#N/A"
         },
         {
           "category": "Built-In Appliances",
-          "name": "BUILT IN 4 BURNER DIGITAL CERAMIC HOB",
+          "name": "BUILT IN 4 BURNER \nDIGITAL CERAMIC HOB - 60cm",
           "model": "HHU60CEEC",
           "brand": "Hisense",
           "acuId": "BTCH4B60DC",
-          "regular": null,
+          "regular": 2200,
           "sale": null,
           "features": "Energy Efficient Cooking Performance | Seamless Built-In Ceramic Hob Design | Four High Powered Ceramic Burners | Precision Digital Touch Control Panel | Compact 60cm Space Saving Frame | Smooth and Easy To Clean Glass Surface | Sleek and Modern Black Aesthetic | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
-          "warranty": "3 Years"
+          "warranty": "#N/A"
         },
         {
           "category": "Built-In Appliances",
-          "name": "BUILT IN MECHANICAL ELECTRIC OVEN",
+          "name": "BUILT IN ELECTRIC OVEN\nMECHANICAL - 60cm",
           "model": "HEO601SSF",
           "brand": "Hisense",
           "acuId": "BTEO6F60MCS",
-          "regular": null,
+          "regular": 2400,
           "sale": null,
           "features": "Energy Efficient Cooking Performance | Compact 60cm Space Saving Build | Six Versatile Cooking Function Modes | Intuitive Mechanical Control Knobs | Premium Stainless Steel Exterior Finish | Integrated Oven Light for Visibility | Reliable Multi-Function Baking System | Premium Stainless Steel Durable Finish | Seamless Built-In Electric Oven Design",
-          "warranty": "1 Year"
+          "warranty": "#N/A"
         }
       ]
     },
@@ -3718,38 +3718,38 @@
     },
     {
       "category": "Built-In Appliances",
-      "name": "BUILT IN 4 BURNER MECHANICAL GAS HOB",
+      "name": "BUILT IN 4 BURNER GAS HOB \nSTAINLESS STEEL - 60cm",
       "model": "HHU60GAGR",
       "brand": "Hisense",
       "acuId": "BT4BSS",
-      "regular": null,
+      "regular": 2300,
       "sale": null,
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Efficiency Gas Burners | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Premium Stainless Steel Durable Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
-      "warranty": "3 Year",
+      "warranty": "#N/A",
       "imageUrl": "https://workatsel.com/api/odoo/products/19342/image"
     },
     {
       "category": "Built-In Appliances",
-      "name": "BUILT IN COOKER HOOD",
+      "name": "BUILT IN RANGE HOOD - 60cm",
       "model": "HHO60TASS",
       "brand": "Hisense",
       "acuId": "BTWMCH60SS",
-      "regular": null,
+      "regular": 1300,
       "sale": null,
       "features": "Energy Efficient Cooking Performance | Powerful Smoke and Oduor Extraction | Wall Mounted Cooker Hood Design | Durable Stainless Steel Filter System | Compact 60cm Space Saving Frame | Integrated Bright LED Cooktop Light | Seamless Built-In Modern Aesthetic | Intuitive Push Button Controls | Premium Stainless Steel Durable Finish",
-      "warranty": "1 Year",
+      "warranty": "#N/A",
       "imageUrl": "https://workatsel.com/api/odoo/products/19368/image"
     },
     {
       "category": "Built-In Appliances",
-      "name": "25L BUILT IN MICROWAVE OVEN",
+      "name": "BUILT IN 25L MICROWAVE OVEN\nGRILL PUSH OPEN",
       "model": "HB25MOBX7G",
       "brand": "Hisense",
       "acuId": "BT25LMDC-GPBB",
-      "regular": null,
+      "regular": 2350,
       "sale": null,
       "features": "Spacious 25L Cooking Capacity | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Versatile Combination Cooking Setup | Smart Weight and Time Defrost Function | Sleek Black Premium Exterior Finish | Seamless Built-In Integrated Design | Energy Efficient Cooking Performance",
-      "warranty": "1 Year",
+      "warranty": "#N/A",
       "imageUrl": ""
     },
     {
