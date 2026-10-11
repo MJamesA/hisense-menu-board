@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T21:01:21.358Z",
+  "generatedAt": "2026-10-11T21:21:22.018Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -656,7 +656,7 @@
       "acuId": "BLJC4800VWY",
       "tag": "A7",
       "category": "Blenders",
-      "name": "JUICE PRESS (SLOW JUICER)",
+      "name": "JUICE PRESS \n(SLOW JUICER)",
       "model": "JC4800VWY",
       "brand": "Gorenje",
       "regular": 1590,
@@ -883,7 +883,7 @@
       "regular": 1400,
       "sale": null,
       "promo": false,
-      "warranty": "#N/A",
+      "warranty": "3 Years",
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Powered Electric Hot Plates | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Sleek Black Premium Exterior Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
     },
     {
@@ -896,7 +896,7 @@
       "regular": 2300,
       "sale": null,
       "promo": false,
-      "warranty": "#N/A",
+      "warranty": "3 Years",
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Efficiency Gas Burners | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Premium Stainless Steel Durable Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
     },
     {
@@ -909,7 +909,7 @@
       "regular": 2200,
       "sale": null,
       "promo": false,
-      "warranty": "#N/A",
+      "warranty": "3 Years",
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Ceramic Hob Design | Four High Powered Ceramic Burners | Precision Digital Touch Control Panel | Compact 60cm Space Saving Frame | Smooth and Easy To Clean Glass Surface | Sleek and Modern Black Aesthetic | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance"
     },
     {
@@ -922,7 +922,7 @@
       "regular": 1300,
       "sale": null,
       "promo": false,
-      "warranty": "#N/A",
+      "warranty": "1 Year",
       "features": "Energy Efficient Cooking Performance | Powerful Smoke and Oduor Extraction | Wall Mounted Cooker Hood Design | Durable Stainless Steel Filter System | Compact 60cm Space Saving Frame | Integrated Bright LED Cooktop Light | Seamless Built-In Modern Aesthetic | Intuitive Push Button Controls | Premium Stainless Steel Durable Finish"
     },
     {
@@ -935,20 +935,20 @@
       "regular": 2400,
       "sale": null,
       "promo": false,
-      "warranty": "#N/A",
+      "warranty": "1 Year",
       "features": "Energy Efficient Cooking Performance | Compact 60cm Space Saving Build | Six Versatile Cooking Function Modes | Intuitive Mechanical Control Knobs | Premium Stainless Steel Exterior Finish | Integrated Oven Light for Visibility | Reliable Multi-Function Baking System | Premium Stainless Steel Durable Finish | Seamless Built-In Electric Oven Design"
     },
     {
       "acuId": "BT25LMDC-GPBB",
       "tag": "A6",
       "category": "Built-In Appliances",
-      "name": "BUILT IN 25L MICROWAVE OVEN\nGRILL PUSH OPEN",
+      "name": "BUILT IN 25L MICROWAVE\nGRILL PUSH OPEN",
       "model": "HB25MOBX7G",
       "brand": "Hisense",
       "regular": 2350,
       "sale": null,
       "promo": false,
-      "warranty": "#N/A",
+      "warranty": "1 Year",
       "features": "Spacious 25L Cooking Capacity | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Versatile Combination Cooking Setup | Smart Weight and Time Defrost Function | Sleek Black Premium Exterior Finish | Seamless Built-In Integrated Design | Energy Efficient Cooking Performance"
     },
     {
@@ -1652,6 +1652,19 @@
       "promo": false,
       "warranty": "1 Year",
       "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function"
+    },
+    {
+      "acuId": "ECHSACM20LPO",
+      "tag": "A7",
+      "category": "Electric Cooker",
+      "name": "BARISTA ESPRESSO \nCOFFEE MACHINE",
+      "model": "HSACM20LPO",
+      "brand": "Hisense",
+      "regular": 5300,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": "Energy Efficient 3150W Power System | High-Pressure 20-Bar Extraction | Barista Pro Espresso Coffee Machine | Precision Steam Wand for Milk Frothing | High-Performance Espresso Brewer | Intuitive Control Panel Interface | Premium Stainless Steel Build Quality"
     },
     {
       "acuId": "ECBM1400E",
@@ -2538,6 +2551,19 @@
       "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
     },
     {
+      "acuId": "441LRFGSS",
+      "tag": "A6",
+      "category": "Refrigerator",
+      "name": "441L SIDE-BY-SIDE INVERTER FRIDGE",
+      "model": "RS3P428NEDE",
+      "brand": "Hisense",
+      "regular": 8200,
+      "sale": null,
+      "promo": false,
+      "warranty": "5 Years",
+      "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Durable Tempered Glass Shelving | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant"
+    },
+    {
       "acuId": "528LRFGS-WD",
       "tag": "A6",
       "category": "Refrigerator",
@@ -2978,6 +3004,19 @@
       "promo": false,
       "warranty": "3 Years",
       "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning"
+    },
+    {
+      "acuId": "GC9060I9B20XA",
+      "tag": "A6",
+      "category": "Gas Cooker",
+      "name": "5 BURNER FREE \nSTANDING GAS OVEN",
+      "model": "GGI9B20X-SA",
+      "brand": "Gorenje",
+      "regular": 7900,
+      "sale": null,
+      "promo": false,
+      "warranty": "3 Years",
+      "features": "Energy Efficient Cooking Performance | Five High-Efficiency Gas Burners | Integrated Spacious Gas Oven | Classic 90 by 60 Centimeter Design | Premium Stainless Steel Cooktop | Heavy-Duty Cast Iron Supports | Instant Auto-Ignition System | Double-Layered Glass Oven Door | Freestanding Gas Oven Configuration"
     },
     {
       "acuId": "GC60122X",
