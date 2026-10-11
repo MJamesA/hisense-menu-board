@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-11T19:51:28.147Z",
+  "generatedAt": "2026-10-11T20:01:23.629Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -113,7 +113,7 @@
       "name": "1.5HP SPLIT\nAIR CONDITIONER",
       "model": "12CR4SVDTG01",
       "brand": "Hisense",
-      "regular": 4290,
+      "regular": 4400,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
