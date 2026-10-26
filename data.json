@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-21T19:21:19.234Z",
+  "generatedAt": "2026-10-26T20:31:18.377Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2232,7 +2232,7 @@
       "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
       "model": "FC2D-26DI",
       "brand": "Amcon",
-      "regular": 3450,
+      "regular": 3650,
       "sale": 3100,
       "promo": true,
       "warranty": "5 Years",
@@ -2245,7 +2245,7 @@
       "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
       "model": "FC2D-26DS",
       "brand": "Amcon",
-      "regular": 3400,
+      "regular": 3600,
       "sale": 3050,
       "promo": true,
       "warranty": "5 Years",
@@ -2258,7 +2258,7 @@
       "name": "197L DOUBLE DOOR \nTOP MOUNT FRIDGE",
       "model": "FC2D-26IN",
       "brand": "Amcon",
-      "regular": 3350,
+      "regular": 3550,
       "sale": 3000,
       "promo": true,
       "warranty": "5 Years",
