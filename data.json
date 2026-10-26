@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-26T20:31:18.377Z",
+  "generatedAt": "2026-10-26T22:21:18.424Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4598,9 +4598,9 @@
       "name": "BLUE DUOLINK SPEAKERBUDS",
       "model": "SSDL504B",
       "brand": "Fenda",
-      "regular": 700,
-      "sale": 150,
-      "promo": true,
+      "regular": null,
+      "sale": null,
+      "promo": false,
       "warranty": "1 Year",
       "features": ""
     },
@@ -4611,9 +4611,9 @@
       "name": "RED DUOLINK SPEAKERBUDS",
       "model": "SSDL504R",
       "brand": "Fenda",
-      "regular": 700,
-      "sale": 150,
-      "promo": true,
+      "regular": null,
+      "sale": null,
+      "promo": false,
       "warranty": "1 Year",
       "features": ""
     },
