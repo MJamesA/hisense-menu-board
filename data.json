@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-26T22:21:18.424Z",
+  "generatedAt": "2026-10-27T10:33:20.532Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2471,6 +2471,19 @@
       "promo": true,
       "warranty": "5 Years",
       "features": "Cross Door Configuration | Energy Efficient Frost-Free Technology | Smart Touch Control Panel | Anti-Bacterial Deodorizer | Fresh Zone & Crisper Drawers | Panel Lock Security Function | Movable Glass Storage Shelving | Sleek Black Exterior Finish | Eco-Friendly R600a Refrigerant"
+    },
+    {
+      "acuId": "427LRFGS-WD",
+      "tag": "A6",
+      "category": "Amcon White Goods",
+      "name": "427L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
+      "model": "RQ5P431NMC0",
+      "brand": "Amcon",
+      "regular": 8900,
+      "sale": null,
+      "promo": false,
+      "warranty": "5 Years",
+      "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Luxury Cross Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Sleek Silver Exterior Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas"
     },
     {
       "acuId": "470LRFGS-WD",
