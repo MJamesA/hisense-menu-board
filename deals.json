@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-27T10:51:16.902Z",
+  "generatedAt": "2026-10-27T17:31:17.496Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID SEPTEMBER 2026 · INCLUSIVE OF VAT",
@@ -18,7 +18,7 @@
           "brand": "Hisense",
           "acuId": "1.0HPSAC",
           "regular": 3790,
-          "sale": null,
+          "sale": 2790,
           "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
           "warranty": "5 Years"
         },
@@ -29,7 +29,7 @@
           "brand": "Hisense",
           "acuId": "2.0HPSAC",
           "regular": 6200,
-          "sale": null,
+          "sale": 4500,
           "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
           "warranty": "5 Years"
         },
@@ -40,7 +40,7 @@
           "brand": "Hisense",
           "acuId": "2.5HPFAC",
           "regular": 13500,
-          "sale": null,
+          "sale": 9800,
           "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
           "warranty": "5 Years"
         },
@@ -51,7 +51,7 @@
           "brand": "Hisense",
           "acuId": "2.5HPFACINVHCGD",
           "regular": 17800,
-          "sale": null,
+          "sale": 13000,
           "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
           "warranty": "5 Years"
         }
@@ -89,7 +89,7 @@
           "brand": "Hisense",
           "acuId": "AC2.0HPINVACHISENSE",
           "regular": 6600,
-          "sale": null,
+          "sale": 4900,
           "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
           "warranty": "5 Years"
         },
@@ -111,7 +111,7 @@
           "brand": "Hisense",
           "acuId": "AC1.5HPINVQHACHISENSEBK",
           "regular": 7790,
-          "sale": null,
+          "sale": 5690,
           "features": "Energy Efficient A Plus Plus Plus Rating | Smart Wi-Fi App Control Connectivity | Full Dc Inverter Technology For Savings | Hi-Nano Air Sterilization Technology | Four In One Carbon Filtration System | 3D Air Inlet For Rapid Cooling | Smart Eye Sensor For Air Direction | Ultra Quiet Operation At Eighteen Decibels | Eco Friendly R32 Refrigerant Gas",
           "warranty": "5 Years"
         }
@@ -220,7 +220,7 @@
           "brand": "Hisense",
           "acuId": "97LCFS",
           "regular": 2300,
-          "sale": null,
+          "sale": 1950,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygenic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -231,7 +231,7 @@
           "brand": "Amcon",
           "acuId": "AM99LCFSSS",
           "regular": 2250,
-          "sale": 2000,
+          "sale": 1650,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Fridge and Freezer Functionality | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -242,7 +242,7 @@
           "brand": "Amcon",
           "acuId": "AM142CFSSS",
           "regular": 2650,
-          "sale": 2380,
+          "sale": 1950,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -253,7 +253,7 @@
           "brand": "Hisense",
           "acuId": "198LCFS",
           "regular": 3250,
-          "sale": null,
+          "sale": 2350,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -264,7 +264,7 @@
           "brand": "Amcon",
           "acuId": "AM199CFSSS",
           "regular": 3000,
-          "sale": 2690,
+          "sale": 2190,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -275,7 +275,7 @@
           "brand": "Hisense",
           "acuId": "217LCFB",
           "regular": 3900,
-          "sale": null,
+          "sale": 2800,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -286,7 +286,7 @@
           "brand": "Hisense",
           "acuId": "249LCFS",
           "regular": 3900,
-          "sale": null,
+          "sale": 2900,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -297,7 +297,7 @@
           "brand": "Amcon",
           "acuId": "AM254CFSSS",
           "regular": 3300,
-          "sale": 2960,
+          "sale": 2400,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -308,7 +308,7 @@
           "brand": "Amcon",
           "acuId": "AM299CFSSS",
           "regular": 3900,
-          "sale": 3500,
+          "sale": 2850,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -319,7 +319,7 @@
           "brand": "Amcon",
           "acuId": "AM400CFSSS",
           "regular": 5190,
-          "sale": 4660,
+          "sale": 3790,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -330,7 +330,7 @@
           "brand": "Amcon",
           "acuId": "AM500CFSSS",
           "regular": 6290,
-          "sale": 5660,
+          "sale": 4500,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -341,7 +341,7 @@
           "brand": "Amcon",
           "acuId": "AM700CFSSS",
           "regular": 7890,
-          "sale": 7090,
+          "sale": 5750,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -352,7 +352,7 @@
           "brand": "Hisense",
           "acuId": "310LCFS",
           "regular": 4290,
-          "sale": null,
+          "sale": 3200,
           "features": "Rapid Cooling & Deep Freeze Function | Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -363,7 +363,7 @@
           "brand": "Hisense",
           "acuId": "366LCFB",
           "regular": 5700,
-          "sale": null,
+          "sale": 4000,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -374,7 +374,7 @@
           "brand": "Hisense",
           "acuId": "420LCFS",
           "regular": 6250,
-          "sale": null,
+          "sale": 4500,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Recessed and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -385,7 +385,7 @@
           "brand": "Amcon",
           "acuId": "CFA248LCFS",
           "regular": 3500,
-          "sale": 3150,
+          "sale": 2550,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -396,7 +396,7 @@
           "brand": "Amcon",
           "acuId": "CFA300LCFS",
           "regular": 3990,
-          "sale": 3590,
+          "sale": 2900,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -407,7 +407,7 @@
           "brand": "Amcon",
           "acuId": "CFA400LCFS",
           "regular": 4990,
-          "sale": 4590,
+          "sale": 3650,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -418,7 +418,7 @@
           "brand": "Hisense",
           "acuId": "310LUFB",
           "regular": 10500,
-          "sale": null,
+          "sale": 8400,
           "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Total No Frost Cooling Mechanism | Fast Freezing Rapid Functionality | Multi Air Flow Distribution Channels | Electronic Temperature Control System | Upright Refrigerator Design | Flexible Reversible Door Configuration | Eco Friendly Refrigerant Gas R600a",
           "warranty": "5 Years"
         }
@@ -735,7 +735,7 @@
           "brand": "Asko",
           "acuId": "RFASBIIRFN",
           "regular": 12500,
-          "sale": 11000,
+          "sale": 8700,
           "features": "Seamless Built-in Integrated Design | Modern Bottom-Mounted Freezer Layout | Total No Frost & Fast Freeze Technology | Adaptive Smart Temperature Control | Auto Humidity-Controlled Fresh Zone | Premium Silent Soft Door Closing Hinge | Clean & Classic White Panel Finish | Eco-Friendly Energy Efficient System | Advanced All-Around Cooling Performance",
           "warranty": "3 Years"
         },
@@ -746,7 +746,7 @@
           "brand": "Hisense",
           "acuId": "BT4EHHB",
           "regular": 1400,
-          "sale": null,
+          "sale": 1260,
           "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Powered Electric Hot Plates | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Sleek Black Premium Exterior Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
           "warranty": "3 Years"
         },
@@ -757,7 +757,7 @@
           "brand": "Hisense",
           "acuId": "BTCH4B60DC",
           "regular": 2200,
-          "sale": null,
+          "sale": 1980,
           "features": "Energy Efficient Cooking Performance | Seamless Built-In Ceramic Hob Design | Four High Powered Ceramic Burners | Precision Digital Touch Control Panel | Compact 60cm Space Saving Frame | Smooth and Easy To Clean Glass Surface | Sleek and Modern Black Aesthetic | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
           "warranty": "3 Years"
         },
@@ -768,7 +768,7 @@
           "brand": "Hisense",
           "acuId": "BTEO6F60MCS",
           "regular": 2400,
-          "sale": null,
+          "sale": 2150,
           "features": "Energy Efficient Cooking Performance | Compact 60cm Space Saving Build | Six Versatile Cooking Function Modes | Intuitive Mechanical Control Knobs | Premium Stainless Steel Exterior Finish | Integrated Oven Light for Visibility | Reliable Multi-Function Baking System | Premium Stainless Steel Durable Finish | Seamless Built-In Electric Oven Design",
           "warranty": "1 Year"
         }
@@ -888,7 +888,7 @@
           "brand": "Hisense",
           "acuId": "45LRFG",
           "regular": 1400,
-          "sale": 1260,
+          "sale": 1050,
           "features": "Space-Saving Reversible Door Design | Eco-Friendly R600a Natural Refrigerant | Ultra-Quiet Low Noise Operation | Energy Efficient Environment-Friendly | Adjustable Thermostat Temperature Control | Integrated 2-Liter Bottle Door Rack | Flexible Installation for Tight Spaces | Sustainable Green Cooling Technology | Durable & Compact Interior Layout",
           "warranty": "5 Years"
         },
@@ -899,7 +899,7 @@
           "brand": "Amcon",
           "acuId": "AM86LTFGSS",
           "regular": 2300,
-          "sale": 2060,
+          "sale": 1650,
           "features": "Classic Top-Mount Freezer Design | Eco-Friendly R600a Natural Refrigerant | Sleek Silver Finish with Recessed Handle | Energy Efficient & Cost-Saving System | Reliable Upper-Mounted Defrost System | Integrated Tall-Bottle Door Racks | Stable & Adjustable Leveling Feet | Durable Rust-Resistant Silver Exterior | Spacious & Organized Interior Storage",
           "warranty": "5 Years"
         },
@@ -910,7 +910,7 @@
           "brand": "Hisense",
           "acuId": "91LRFGS",
           "regular": 1950,
-          "sale": 1750,
+          "sale": 1450,
           "features": "Spacious & Organized Double Door Design | Sleek & Modern Silver Exterior Finish | Eco-Friendly R600a Natural Refrigerant | Energy Efficient & High-Saving System | Durable & Easy-to-Clean Glass Shelves | Bright & Clear Interior LED Lighting | Simple Mechanical Temperature Control | Stable & Adjustable Leveling Feet | Manual Defrost with Reliable Cooling",
           "warranty": "5 Years"
         },
@@ -921,7 +921,7 @@
           "brand": "Amcon",
           "acuId": "AM117LBFGSS",
           "regular": 2600,
-          "sale": 2330,
+          "sale": 1850,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Shelving | Integrated Bottle Storage Racks | Manual Defrost System",
           "warranty": "5 Years"
         },
@@ -932,7 +932,7 @@
           "brand": "Hisense",
           "acuId": "123LRFGS",
           "regular": 2460,
-          "sale": 2200,
+          "sale": 1700,
           "features": "Spacious & Organized Double Door Design | Energy Efficient Eco-Friendly Cooling | Sleek & Modern Silver Exterior Finish | Bright & Clear Interior LED Lighting | Durable & Easy-to-Clean Glass Shelves | Simple Mechanical Temperature Control | Organized Door Racks for Extra Storage | Stable & Adjustable Leveling Feet | Eco-Safe R600a High-Efficiency Cooling",
           "warranty": "5 Years"
         },
@@ -943,7 +943,7 @@
           "brand": "Amcon",
           "acuId": "AM130LTFGSS",
           "regular": 2500,
-          "sale": 2240,
+          "sale": 1830,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Storage Shelving | High-Visibility Interior | Manual Temperature Control",
           "warranty": "5 Years"
         },
@@ -954,7 +954,7 @@
           "brand": "Amcon",
           "acuId": "AM138LTFGSS",
           "regular": 2600,
-          "sale": 2330,
+          "sale": 1900,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
           "warranty": "5 Years"
         },
@@ -965,7 +965,7 @@
           "brand": "Hisense",
           "acuId": "150LRFGS",
           "regular": 2650,
-          "sale": null,
+          "sale": 1950,
           "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | Adjustable Leveling Feet",
           "warranty": "5 Years"
         },
@@ -976,7 +976,7 @@
           "brand": "Hisense",
           "acuId": "156LRFGS",
           "regular": 3000,
-          "sale": 2690,
+          "sale": 2150,
           "features": "Double Door Fridge-Freezer | Energy Efficient Technology | Mechanical Temperature Control | Spacious Interior Glass Shelves | Integrated Door Storage Racks | Convenient Manual Defrost | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet",
           "warranty": "5 Years"
         },
@@ -987,7 +987,7 @@
           "brand": "Amcon",
           "acuId": "AM157LBFGSS",
           "regular": 2900,
-          "sale": 2600,
+          "sale": 2100,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | 3 Spacious Freezer Drawers | Deep-Freeze Storage Capacity | Space-Saving Recessed Handle | Adjustable Leveling Feet | Precision Temperature Control",
           "warranty": "5 Years"
         },
@@ -998,7 +998,7 @@
           "brand": "Amcon",
           "acuId": "AM168LTFGSS",
           "regular": 3000,
-          "sale": 2690,
+          "sale": 2190,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Space-Saving Recessed Handle | Adjustable Leveling Feet | Transparent Storage Shelving | Manual Temperature Control | High-Visibility Interior Lighting",
           "warranty": "5 Years"
         },
@@ -1009,7 +1009,7 @@
           "brand": "Hisense",
           "acuId": "171LRFGS",
           "regular": 2990,
-          "sale": null,
+          "sale": 2250,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Deep-Freeze Storage Capacity | Bottom-Mounted Freezer System | Space-Saving Recessed Handle | Adjustable Leveling Feet",
           "warranty": "5 Years"
         },
@@ -1020,7 +1020,7 @@
           "brand": "Hisense",
           "acuId": "171LEFMRFGS",
           "regular": 4350,
-          "sale": 3900,
+          "sale": 2900,
           "features": "5-Star Energy Efficiency Rating | Super Environment Friendly Design | Bottom-Mounted Freezer Section | Flexible Reversible Door System | Sleek Silver Exterior Finish | Precision Temperature Control | Ultra-Low Noise Operation | Convenient Manual Defrost | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1031,7 +1031,7 @@
           "brand": "Hisense",
           "acuId": "176LRFGS-WD",
           "regular": 2750,
-          "sale": null,
+          "sale": 2050,
           "features": "3-Star Energy Efficiency Rating | Super Environment Friendly | Precision Temperature Control | Ultra-Low Noise Operation | Eco-Friendly R600a Refrigerant | Space-Saving Reversible Door | Sleek Silver Exterior Finish | Convenient Manual Defrost | Integrated Freezer Compartment",
           "warranty": "5 Years"
         },
@@ -1042,7 +1042,7 @@
           "brand": "Amcon",
           "acuId": "FC2D-26DI",
           "regular": 3650,
-          "sale": 3100,
+          "sale": 2650,
           "features": "Energy Efficient Technology | Sleek Dark Inox Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
           "warranty": "5 Years"
         },
@@ -1053,7 +1053,7 @@
           "brand": "Amcon",
           "acuId": "FC2D-26DS",
           "regular": 3600,
-          "sale": 3050,
+          "sale": 2600,
           "features": "Energy Efficient Technology | Sleek Dark Stainless Steel Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
           "warranty": "5 Years"
         },
@@ -1064,7 +1064,7 @@
           "brand": "Amcon",
           "acuId": "FC2D-26IN",
           "regular": 3550,
-          "sale": 3000,
+          "sale": 2550,
           "features": "Energy Efficient Technology | Sleek Inox Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
           "warranty": "5 Years"
         },
@@ -1075,7 +1075,7 @@
           "brand": "Amcon",
           "acuId": "AM200LTFGSS",
           "regular": 3180,
-          "sale": 2860,
+          "sale": 2330,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Top-Mounted Freezer Section | Transparent Storage Shelving | Space-Saving Recessed Handle | Adjustable Leveling Feet | Manual Temperature Control | High-Visibility Interior Design",
           "warranty": "5 Years"
         },
@@ -1086,7 +1086,7 @@
           "brand": "Hisense",
           "acuId": "205LRFGS",
           "regular": 3200,
-          "sale": null,
+          "sale": 2250,
           "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Convenient Manual Defrost | Eco-Friendly R600a Gas | Adjustable Leveling Feet",
           "warranty": "5 Years"
         },
@@ -1097,7 +1097,7 @@
           "brand": "Hisense",
           "acuId": "223LRFGS",
           "regular": 4200,
-          "sale": null,
+          "sale": 3200,
           "features": "Energy Efficient Technology | Bottom-Mounted Freezer Section | Sleek Silver Exterior Finish | Premium Glass Storage Shelves | Eco-Friendly R600a Refrigerant | Convenient Manual Defrost | Space-Saving Recessed Handle | Adjustable Leveling Feet | Integrated Door Storage Racks",
           "warranty": "5 Years"
         },
@@ -1108,7 +1108,7 @@
           "brand": "Amcon",
           "acuId": "AM227LBRFGSS",
           "regular": 3900,
-          "sale": 3500,
+          "sale": 2850,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Eco-Friendly R600A Refrigerant | Bottom-Mounted Freezer Section | 3 Spacious Freezer Drawers | Integrated Bottle Storage Racks | Space-Saving Recessed Handle | Adjustable Leveling Feet | Precision Temperature Control",
           "warranty": "5 Years"
         },
@@ -1119,7 +1119,7 @@
           "brand": "Hisense",
           "acuId": "243LRFGS-WD",
           "regular": 4350,
-          "sale": null,
+          "sale": 3350,
           "features": "Energy Efficient Technology | Integrated Water Dispenser | Internal Water Storage Tank | Bottom-Mounted Freezer Section | Mechanical Temperature Control | Premium Glass Storage Shelves | Deep Freezer Storage Drawers | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1130,7 +1130,7 @@
           "brand": "Hisense",
           "acuId": "264LRFGS",
           "regular": 4400,
-          "sale": null,
+          "sale": 3400,
           "features": "Energy Efficient Technology | Sleek Silver Exterior Finish | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | High-Visibility Interior | Adjustable Leveling Feet",
           "warranty": "5 Years"
         },
@@ -1141,7 +1141,7 @@
           "brand": "Hisense",
           "acuId": "305LRFGS",
           "regular": 4400,
-          "sale": null,
+          "sale": 3200,
           "features": "Energy Efficient Cooling Performance | High Performance Inverter Compressor | Modern Top Mount Design Finish | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | High Density Thermal Insulation | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1152,7 +1152,7 @@
           "brand": "Amcon",
           "acuId": "AM348LTRFGSS",
           "regular": 4990,
-          "sale": 4450,
+          "sale": 3700,
           "features": "Energy Efficient Cooling Performance | Modern Top Mount Design Finish | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | High Density Thermal Insulation | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1163,7 +1163,7 @@
           "brand": "Hisense",
           "acuId": "375LRFGW",
           "regular": 4990,
-          "sale": null,
+          "sale": 3700,
           "features": "Energy Efficient 3 Star Rating | Advanced Total No Frost Technology | Consistent Multi Airflow Cooling System | Durable Inverter Compressor Performance | Bright Energy Saving Interior LED Light | Reliable Mechanical Temperature Control | Large Moisture Fresh Crisper Drawer | Flexible Reversible Door Design | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1174,7 +1174,7 @@
           "brand": "Amcon",
           "acuId": "AM415LCRFGSS",
           "regular": 9390,
-          "sale": 8450,
+          "sale": 6860,
           "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Luxury Cross Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1185,7 +1185,7 @@
           "brand": "Amcon",
           "acuId": "FR4D-58",
           "regular": 8900,
-          "sale": 7990,
+          "sale": 6500,
           "features": "Cross Door Configuration | Energy Efficient Frost-Free Technology | Smart Touch Control Panel | Anti-Bacterial Deodorizer | Fresh Zone & Crisper Drawers | Panel Lock Security Function | Movable Glass Storage Shelving | Sleek Black Exterior Finish | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1196,7 +1196,7 @@
           "brand": "Hisense",
           "acuId": "470LRFGS-WD",
           "regular": 11800,
-          "sale": null,
+          "sale": 8500,
           "features": "Cross Door Configuration | Energy Efficient Technology | Total Frost-Free Operation | Multi Air Flow Cooling System | Integrated Water Dispenser | Premium Glass Storage Shelves | Precision Temperature Control | Internal LED Lasting Light | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1207,7 +1207,7 @@
           "brand": "Hisense",
           "acuId": "490LRFGSS-WD",
           "regular": 19900,
-          "sale": null,
+          "sale": 14500,
           "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling For Uniform Temp | Metal Cooling Retains Cold Air | Power Cool For Rapid Chilling | Power Freeze For Fast Ice Making | Large Box For Fresh Fruit And Veg | Durable Tempered Glass Shelving | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1218,7 +1218,7 @@
           "brand": "Hisense",
           "acuId": "504LRFGS",
           "regular": 10250,
-          "sale": null,
+          "sale": 7500,
           "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling For Uniform Temp | Optimal Fresh Zone For Meat And Fish | Power Cool For Quick Food Chilling | Power Freeze For Fast Ice Making | Durable Tempered Glass Shelving | Flexible Storage With Adjustable Bins | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1229,7 +1229,7 @@
           "brand": "Hisense",
           "acuId": "510LRFGS",
           "regular": 8250,
-          "sale": null,
+          "sale": 6300,
           "features": "Durable Inverter Technology | Energy Efficient System | Multi Air Flow Cooling System | Fresh Zone & No-Frost Freezer | Large Fruit & Vegetable Crisper | Spill-Proof Glass Shelves | Precision Temperature Control | Low Noise and  LED Interior Lighting | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1240,7 +1240,7 @@
           "brand": "Hisense",
           "acuId": "518LEFMRFGS",
           "regular": 12500,
-          "sale": 11250,
+          "sale": 9100,
           "features": "3-Star Energy Saving Rating | Freestanding Side-by-Side Design | Advanced Artificial Intelligence | Total No-Frost Technology | Multi Air Flow Cooling System | Super Cool & Super Freeze Modes | Smart Electronic Control System | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1251,7 +1251,7 @@
           "brand": "Hisense",
           "acuId": "518LRFGS-WD",
           "regular": 10900,
-          "sale": 9800,
+          "sale": 7900,
           "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Premium Inox Door Finish | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1262,7 +1262,7 @@
           "brand": "Hisense",
           "acuId": "528LRFGS-WD",
           "regular": 12500,
-          "sale": null,
+          "sale": 9100,
           "features": "Sleek Side-by-Side Design | Water Dispenser & Ice Maker | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1273,7 +1273,7 @@
           "brand": "Amcon",
           "acuId": "FR2D-69",
           "regular": 9900,
-          "sale": 8900,
+          "sale": 7200,
           "features": "Sleek Side-by-Side Design | Energy Efficient Technology | Smart & Eco Cooling Modes | Total Frost-Free Technology | Touch Control Panel & LED Display | Sleek Black Finish & Recessed Handle | 3 Star Energy | Movable Glass Storage Shelving | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1284,7 +1284,7 @@
           "brand": "Hisense",
           "acuId": "535LRFGS",
           "regular": 14500,
-          "sale": null,
+          "sale": 10500,
           "features": "Sleek Side-by-Side Design | Water Dispenser & Ice Maker | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1295,7 +1295,7 @@
           "brand": "Hisense",
           "acuId": "545LRFGS",
           "regular": 23000,
-          "sale": null,
+          "sale": 16000,
           "features": "Cross Door Configuration | Inverter Energy Efficient Tech | Total Frost-Free Operation | Multi-Function Touch Panel | Multi Air Flow Cooling System | 4.2L Water Dispenser & Ice Maker | Triple Zone Storage Compartment | Anti-Bacterial Guard Technology | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1306,7 +1306,7 @@
           "brand": "Hisense",
           "acuId": "558LRFGS-WD",
           "regular": 11500,
-          "sale": null,
+          "sale": 7500,
           "features": "Sleek Side-by-Side Design | Integrated Water Dispenser | Energy Efficient Technology | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool & Freeze Functions | Smart Door Alarm Security | Premium LED Interior Lighting | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1317,7 +1317,7 @@
           "brand": "Hisense",
           "acuId": "560LRFGB",
           "regular": 26500,
-          "sale": 19500,
+          "sale": 19000,
           "features": "Luxury Cross Door Configuration | Premium Graphite Black Finish | Advanced Metal Tech & Triple Zone Cooling | My Fresh Choice Fridge-Freezer Switch | Smart Auto-Adjustable Cantilever Shelves | Quick Cooling & Fast Freezing Modes | Sleek Metal Recessed Handle Design | Integrated Auto Humidity Control Zone | Energy Efficient Smart Performance",
           "warranty": "5 Years"
         },
@@ -1328,7 +1328,7 @@
           "brand": "Hisense",
           "acuId": "570LEFMRFGS",
           "regular": 13900,
-          "sale": null,
+          "sale": 10000,
           "features": "5-Star Energy Saving Rating | Super Cool & Super Freeze Functions | Total Frost-Free Technology | Multi Air Flow Cooling System | Advanced Electronic Control System | 5 Dedicated Internal Glass Shelves | 5 Spacious Door Storage Racks | Super Environment Friendly Design | Eco-Friendly R600a Refrigerant",
           "warranty": "5 Years"
         },
@@ -1339,7 +1339,7 @@
           "brand": "Amcon",
           "acuId": "FR2D-80",
           "regular": 9900,
-          "sale": 8800,
+          "sale": 7200,
           "features": "High Energy Efficiency Rating | Total 595L Large Storage Capacity | Premium Dark Inox Exterior Finish | Side By Side Door Configuration | Advanced Cooling System Technology | Spacious Multi Shelf Organization | Internal Bright Led Lighting | Durable Transparent Storage Bins | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1350,7 +1350,7 @@
           "brand": "Hisense",
           "acuId": "605LINVRFB",
           "regular": 19900,
-          "sale": null,
+          "sale": 13500,
           "features": "Advanced Energy Efficient Inverter | Luxury Cross Door Design Finish | High Performance Inverter Compressor | Sophisticated Black Glass Exterior | Flexible Four Door Configuration | Precision Digital Temperature Control | Optimized Air Flow System | Spacious Interior Storage Shelves | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1361,7 +1361,7 @@
           "brand": "Hisense",
           "acuId": "610LRFGSS-WD",
           "regular": 22900,
-          "sale": null,
+          "sale": 16500,
           "features": "Advanced Energy Efficient Inverter | Luxury French Door Design Finish | High Performance Inverter Compressor | Integrated Water and Ice Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Flexible Interior Storage Shelves | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1372,7 +1372,7 @@
           "brand": "Hisense",
           "acuId": "630LRFGSS-WD",
           "regular": 13990,
-          "sale": null,
+          "sale": 9800,
           "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Modern French Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -1383,7 +1383,7 @@
           "brand": "Amcon",
           "acuId": "AM601LCRFGS",
           "regular": 11000,
-          "sale": 9900,
+          "sale": 8000,
           "features": "High Energy Efficiency Class Rating | Intelligent Inverter Compressor System | Low Power Consumption Design | Total Frost Free Cooling System | Multi Door Cross Door Design | Premium Brushed Finish Material | Adjustable Tempered Glass Shelves | Premium Interior Led Lighting System | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         }
@@ -1410,7 +1410,7 @@
           "brand": "Amcon",
           "acuId": "GC50x50K50",
           "regular": 2700,
-          "sale": null,
+          "sale": 2430,
           "features": "4 High-Efficiency Gas Burners | Spacious 52L Gas Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grill | 2-in-1 Grill & Oven Function | Integrated Rotisserie for Grilling | Instant Automatic Ignition System | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
           "warranty": "2 Years"
         },
@@ -1421,7 +1421,7 @@
           "brand": "Amcon",
           "acuId": "GC50X55K52",
           "regular": 2790,
-          "sale": null,
+          "sale": 2500,
           "features": "4 High-Efficiency Gas Burners | Extra-Large 67L Gas Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Instant Automatic Ignition System | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
           "warranty": "2 Years"
         },
@@ -1432,7 +1432,7 @@
           "brand": "Amcon",
           "acuId": "GC60X60K62",
           "regular": 3400,
-          "sale": null,
+          "sale": 3050,
           "features": "4 High-Efficiency Gas Burners | Massive 85L Large Capacity Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Instant Automatic Ignition System | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
           "warranty": "2 Years"
         },
@@ -1443,7 +1443,7 @@
           "brand": "Amcon",
           "acuId": "GC60X604HP",
           "regular": 3900,
-          "sale": null,
+          "sale": 2800,
           "features": "4 High-Powered Electric Hot Plates | Spacious Multi-Function Electric Oven | Integrated Grill & Oven Function | Precision Thermostat Control | Internal Oven Lamp for Visibility | Protective Metal Top Cover | Included Oven Tray & Storage Grid | Durable Easy-to-Clean Exterior | Easy-to-Install & Maintain",
           "warranty": "3 Years"
         },
@@ -1454,7 +1454,7 @@
           "brand": "Amcon",
           "acuId": "GC60x60K64",
           "regular": 3800,
-          "sale": null,
+          "sale": 3390,
           "features": "4 High-Powered Electric Hot Plates | Massive 85L Electric Oven | Durable Full Stainless Steel Body | Luxurious Cast Iron Top Grills | Integrated Rotisserie System | High-Performance Grill Function | Precision Automatic Ignition | Internal Oven Lamp for Visibility | Easy-to-Install & Maintain",
           "warranty": "2 Years"
         },
@@ -1465,7 +1465,7 @@
           "brand": "Hisense",
           "acuId": "GC90942GEES",
           "regular": 7300,
-          "sale": null,
+          "sale": 6550,
           "features": "Energy Efficient Kitchen Appliance | Durable Stainless Steel Exterior | Classic 90 by 60 Centimeter Design | Four Rapid Heating Gas Burners | Two Powerful Electric Hotplates | Large Capacity Electric Oven Combi | Versatile Free Standing Structure | Robust Gas And Electric System | Eco Friendly Home Cooking Solution",
           "warranty": "3 Years"
         },
@@ -1476,7 +1476,7 @@
           "brand": "Hisense",
           "acuId": "GC90335RX",
           "regular": 7200,
-          "sale": null,
+          "sale": 6450,
           "features": "High-Performance Infrared Function | Oven & Grill Convection Fan System | Premium Stainless Steel Cooktop | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Soft-Closing Black Glass Door | Easy-Clean Enamel Interior | Integrated Glass Lid & Adjustable Feet",
           "warranty": "3 Years"
         },
@@ -1531,7 +1531,7 @@
           "brand": "Hisense",
           "acuId": "GC60321BZA",
           "regular": 4090,
-          "sale": null,
+          "sale": 3660,
           "features": "Energy Efficient Cooking Performance | Four High-Powered Electric Hot Plates | Spacious 75L Multi-Function Oven | Classic 60x60 Free Standing Design | Integrated Grill and Oven Function | Precision Thermostat Control | Internal Oven Lamp for Visibility | Durable Easy-To-Clean Exterior | Easy-To-Install and Maintain",
           "warranty": "3 Years"
         },
@@ -1542,7 +1542,7 @@
           "brand": "Hisense",
           "acuId": "GC90335RX02",
           "regular": 7100,
-          "sale": null,
+          "sale": 6350,
           "features": "Five Gas Burners with Safety Device | Cast Iron Pan Supports For Stability | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Built In Convection Fan For Baking | Stainless Steel And Black Design | Integrated Mechanical Timer Control | Interior Oven Cooking Light | Removable Parts For Easy Cleaning",
           "warranty": "3 Years"
         },
@@ -1553,7 +1553,7 @@
           "brand": "Hisense",
           "acuId": "GC60122X",
           "regular": 4090,
-          "sale": null,
+          "sale": 3670,
           "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Stainless Steel Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
           "warranty": "3 Years"
         }
@@ -2045,7 +2045,7 @@
           "brand": "Hisense",
           "acuId": "213LSCFB",
           "regular": 4600,
-          "sale": null,
+          "sale": 3700,
           "features": "Advanced Energy Saving Performance | Instant Direct Cooling Technology | Elegant Sliding Inner Glass Door | Spacious Dual (2) Basket Storage | Mechanical Temperature Control | Secure Lock and Key Safety System | Eco-Friendly R600a Refrigerant Gas | Low Noise High-Efficiency Compressor | Convenient Manual Defrost System",
           "warranty": "5 Years"
         },
@@ -2056,7 +2056,7 @@
           "brand": "Hisense",
           "acuId": "222LDFS",
           "regular": 5490,
-          "sale": null,
+          "sale": 4600,
           "features": "High-Performance Energy Efficiency | 4 Heavy-Duty Adjustable Shelves | Forced Air-Ventilation System | Anti-Condensation Glass Technology | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Integrated Lock and Key Security | Eco-Friendly R600a Refrigerant Gas | Interior LED Visibility Lighting",
           "warranty": "5 Years"
         },
@@ -2067,7 +2067,7 @@
           "brand": "Hisense",
           "acuId": "282LDFS",
           "regular": 6000,
-          "sale": null,
+          "sale": 5000,
           "features": "High-Performance Energy Efficiency | 4 Heavy-Duty Adjustable Shelves | Forced Air-Ventilation System | Anti-Condensation Glass Technology | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Integrated Lock and Key Security | Eco-Friendly R600a Refrigerant Gas | Interior LED Visibility Lighting",
           "warranty": "5 Years"
         },
@@ -2078,7 +2078,7 @@
           "brand": "Hisense",
           "acuId": "303LSCFB",
           "regular": 5950,
-          "sale": null,
+          "sale": 4950,
           "features": "High-Efficiency Energy Saving | Instant Direct Cooling Technology | Elegant Sliding Inner Glass Door | Spacious Triple (3) Basket Storage | Mechanical Temperature Control | Secure Lock and Key Safety System | Eco-Friendly R290 Refrigerant Gas | Ultra-Low Noise Operation | Convenient Manual Defrost System",
           "warranty": "5 Years"
         },
@@ -2089,7 +2089,7 @@
           "brand": "Hisense",
           "acuId": "353LSCFB",
           "regular": 7500,
-          "sale": null,
+          "sale": 6200,
           "features": "Advanced Energy Saving Technology | Instant Direct Cooling Performance | Protective Sun-Proof Cover Cloth | Elegant Sliding Inner Glass Door | Massive 5-Basket Storage System | Secure Key Lock Security System | Bright Internal LED Lighting | Eco-Friendly R290 Refrigerant Gas | Low-Noise Design with Easy-Roll Wheels",
           "warranty": "5 Years"
         },
@@ -2100,7 +2100,7 @@
           "brand": "Hisense",
           "acuId": "518LSCFB",
           "regular": 8400,
-          "sale": null,
+          "sale": 6900,
           "features": "Advanced Energy Saving Technology | Instant Direct Cooling Performance | Protective Sun-Proof Cover Cloth | Elegant Sliding Inner Glass Door | Massive 5-Basket Storage System | Secure Key Lock Security System | Bright Internal LED Lighting | Eco-Friendly R290 Refrigerant Gas | Low-Noise Design with Easy-Roll Wheels",
           "warranty": "5 Years"
         },
@@ -2111,7 +2111,7 @@
           "brand": "Hisense",
           "acuId": "930LDFB",
           "regular": 14500,
-          "sale": null,
+          "sale": 11800,
           "features": "High Performance Energy Efficiency | Commercial Showcase Display Design | Sleek Blue Exterior Finish | Double Layered Tempered Glass Door | Forced Air Ventilation System | Defrost Water Self Evaporating System | Heavy Duty Adjustable Shelving | Internal LED Visibility Lighting | Eco-Friendly R290 Refrigerant Gas",
           "warranty": "5 Years"
         },
@@ -2122,7 +2122,7 @@
           "brand": "Hisense",
           "acuId": "1230LDFB",
           "regular": 16900,
-          "sale": null,
+          "sale": 13800,
           "features": "High Performance Energy Efficiency | Commercial Showcase Display Design | Sleek Blue Exterior Finish | Double Layered Tempered Glass Door | Forced Air Ventilation System | Defrost Water Self Evaporating System | Heavy Duty Adjustable Shelving | Internal LED Visibility Lighting | Eco-Friendly R290 Refrigerant Gas",
           "warranty": "5 Years"
         }
@@ -2270,7 +2270,7 @@
           "brand": "Hisense",
           "acuId": "SSHS1800",
           "regular": 1150,
-          "sale": null,
+          "sale": 1000,
           "features": "Sleek & Stylish High-Profile Design | 140W Max High-Output Audio Power | 3 Tailored Professional Equalizer Modes | Precision Crystal-Clear Audio Output | HDMI ARC Input for Seamless TV Sync | Advanced Bluetooth Wireless Streaming | Optical, Aux, and USB Playback Inputs | Integrated Wall Mount Fixation System | All-in-One Multi-Source Connectivity",
           "warranty": "3 Years"
         },
@@ -2391,7 +2391,7 @@
           "brand": "Toshiba",
           "acuId": "TOSSC210WR",
           "regular": 1890,
-          "sale": null,
+          "sale": 1400,
           "features": "Energy Efficient Subwoofer System | Impressive Two Point One Audio Channel | Powerful Two Hundred Forty Watts Output | Premium Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Enhanced Cinematic Audio Performance | Deep Dynamic Bass Reproduction | Modern Minimalist Audio Setup",
           "warranty": "3 Years"
         },
@@ -2402,7 +2402,7 @@
           "brand": "Toshiba",
           "acuId": "TOSSM310WR",
           "regular": 2490,
-          "sale": null,
+          "sale": 1900,
           "features": "Energy Efficient Audio Engineering | Powerful Five Hundred Watts Output | Immersive Three Point One Audio Channel | Premium Toshiba Soundbar Quality | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Cinematic Crystal Clear Dialogue | Deep Room Filling Dynamic Bass | High Performance Sound System",
           "warranty": "3 Years"
         },
@@ -2911,7 +2911,7 @@
           "brand": "Amcon",
           "acuId": "AMCH50DSQLEDGTV",
           "regular": 4790,
-          "sale": null,
+          "sale": 4290,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI Ports with 4K Support | Eco-Friendly Energy Efficient Design | Bluetooth & High-Speed Wi-Fi Connectivity",
           "warranty": "3 Years"
         },
@@ -2922,7 +2922,7 @@
           "brand": "Amcon",
           "acuId": "AMCH55DSQLEDGTV",
           "regular": 5750,
-          "sale": null,
+          "sale": 5150,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Smooth 4K 60Hz High Refresh Rate | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
         },
@@ -2933,7 +2933,7 @@
           "brand": "Amcon",
           "acuId": "AMCH65DSQLEDGTV",
           "regular": 7690,
-          "sale": null,
+          "sale": 6850,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
         },
@@ -2944,7 +2944,7 @@
           "brand": "Amcon",
           "acuId": "AMCH75DSQLEDGTV",
           "regular": 10500,
-          "sale": null,
+          "sale": 9400,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 Ultra HD Visuals | Google TV OS with Voice Assistance | Smooth 4K 60Hz High Refresh Rate | Immersive Dolby Audio Sound System | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | Smart Pango App Remote Control | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
         },
@@ -2971,7 +2971,7 @@
           "brand": "Amcon",
           "acuId": "AMCH75DSMLEDGTV",
           "regular": 12000,
-          "sale": null,
+          "sale": 10800,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
         },
@@ -2982,7 +2982,7 @@
           "brand": "Amcon",
           "acuId": "AMCH65DSMLEDGTV",
           "regular": 8400,
-          "sale": null,
+          "sale": 7500,
           "features": "Sleek & Modern Frameless Panel Design | Stunning 4K HDR10 & Dolby Vision | Google TV OS with Voice Assistance | Cinematic Dolby Atmos Audio System | Advanced HDMI eARC for High-End Sound | Built-in Google Cast & Screen Sharing | Quad HDMI & Dual USB Connectivity | High-Speed Wi-Fi & LAN Ethernet | Eco-Friendly Energy Efficient Design",
           "warranty": "3 Years"
         }
@@ -2998,7 +2998,7 @@
           "brand": "Toshiba",
           "acuId": "TOTV43SMD2K",
           "regular": 3600,
-          "sale": null,
+          "sale": 3200,
           "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Immersive DTS Virtual X Audio | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
           "warranty": "5 Years"
         },
@@ -3009,7 +3009,7 @@
           "brand": "Toshiba",
           "acuId": "TOTV50SMQLED4K",
           "regular": 5800,
-          "sale": null,
+          "sale": 5200,
           "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
           "warranty": "5 Years"
         },
@@ -3020,7 +3020,7 @@
           "brand": "Toshiba",
           "acuId": "TOTV65SMQLED4K",
           "regular": 9900,
-          "sale": null,
+          "sale": 8900,
           "features": "Energy Efficient 120W Power Consumption | Stunning QLED 4K Ultra HD Display | Advanced REGZA Engine ZR Processing | Intelligent AI 4K Upscaling Technology | Immersive Dolby Atmos and DTS X Audio | Seamless Far Field Voice Control | Integrated Apple AirPlay and Home | Versatile Digital Satellite TV Reception | Cinematic HDR Dolby Vision Support",
           "warranty": "5 Years"
         },
@@ -3031,7 +3031,7 @@
           "brand": "Toshiba",
           "acuId": "TOTV75SMMLED4K",
           "regular": 17900,
-          "sale": null,
+          "sale": 16000,
           "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
           "warranty": "5 Years"
         },
@@ -3042,7 +3042,7 @@
           "brand": "Toshiba",
           "acuId": "TOTV85SMMLED4K",
           "regular": 24990,
-          "sale": null,
+          "sale": 22400,
           "features": "High Energy Efficiency Rating | Enhanced Mini LED Backlight Technology | Quantum Dot Color Performance | Sharp 4K Ultra HD Resolution | Advanced Smart TV Functionality | Built-in Digital Satellite Receiver | Ultra Slim Modern Design | Powerful Multi-Core Processor | Seamless High Speed Connectivity",
           "warranty": "5 Years"
         }
@@ -3162,7 +3162,7 @@
           "brand": "Amcon",
           "acuId": "AMWDB175B",
           "regular": 2220,
-          "sale": null,
+          "sale": 2000,
           "features": "Energy Efficient Cooling System | Premium Bottom Loading Design | Hot Cold and Room Temperature Water | Fast Flow Dispensing Technology | Durable High Quality Cabinet | Sleek Modern Aesthetic Finish | Easy Access Safety Child Lock | Quiet Operation Compressor | Eco Friendly Refrigerant",
           "warranty": "3 Years"
         },
@@ -3184,7 +3184,7 @@
           "brand": "Hisense",
           "acuId": "HWDT973S1B",
           "regular": 1490,
-          "sale": null,
+          "sale": 1340,
           "features": "Energy Efficient Cooling Performance | Classic Freestanding Top Loading Design | Dual Hot and Cold Water Dispensers | Advanced Fast Compressor Cooling | Sleek Black Premium Exterior Finish | Child Safety Lock for Hot Water | Integrated Storage Cabinet System | Quiet and Low Noise Operation | Eco-Friendly R134a Refrigerant Gas",
           "warranty": "1 Year"
         }
@@ -3211,7 +3211,7 @@
           "brand": "Hisense",
           "acuId": "7.5KGTTWM",
           "regular": 2200,
-          "sale": null,
+          "sale": 1970,
           "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
           "warranty": "5 Years"
         },
@@ -3233,7 +3233,7 @@
           "brand": "Hisense",
           "acuId": "11KGTTWM",
           "regular": 2500,
-          "sale": null,
+          "sale": 2250,
           "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
           "warranty": "5 Years"
         },
@@ -3244,7 +3244,7 @@
           "brand": "Hisense",
           "acuId": "12.5KGTTWM",
           "regular": 2800,
-          "sale": null,
+          "sale": 2520,
           "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design",
           "warranty": "5 Years"
         },
@@ -3255,7 +3255,7 @@
           "brand": "Hisense",
           "acuId": "9KGTLWMB",
           "regular": 3400,
-          "sale": null,
+          "sale": 3000,
           "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
           "warranty": "5 Years"
         },
@@ -3277,7 +3277,7 @@
           "brand": "Hisense",
           "acuId": "11KGTLWMB",
           "regular": 3900,
-          "sale": null,
+          "sale": 3500,
           "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off",
           "warranty": "5 Years"
         },
@@ -3288,7 +3288,7 @@
           "brand": "Hisense",
           "acuId": "17KGTLWM",
           "regular": 5990,
-          "sale": null,
+          "sale": 5350,
           "features": "Premium Soft-Closing Glass Lid | Double Magic Filter for Cleaner Wash | Advanced Fuzzy Logic Smart Control | Custom Self-Programming & Memory | Intelligent LED Display & 12 Programs | Built-in Double Water Outlet & Pump | Hygienic Tub Clean & Pre-Soak Modes | Smart Delay Start & End Function | Secure Child Lock Safety Protection",
           "warranty": "5 Years"
         },
@@ -3310,7 +3310,7 @@
           "brand": "Hisense",
           "acuId": "10KGFLWMDS",
           "regular": 21900,
-          "sale": null,
+          "sale": 15000,
           "features": "Advanced 2-in-1 Washer & Dryer Combo | High-Efficiency Inverter Motor Technology | Super Quick 15-Minute Express Wash Cycle | Rapid 45-Minute Wash & Dry Performance | Specialized Baby & Sensitive Skin Care Mode | Intelligent Pause & Add Mid-Cycle Function | Gentle Snowflake Drum for Fabric Protection | Smart Anti-Foam Sensor & Overflow System | Interactive Multi-Function Intelligent LED Display",
           "warranty": "3 Years"
         },
@@ -3343,7 +3343,7 @@
           "brand": "Hisense",
           "acuId": "12KGFLWMWTS",
           "regular": 8000,
-          "sale": null,
+          "sale": 7150,
           "features": "Energy Efficient Inverter Technology | Highly Efficient Performance Rating | Smart TFT Digital Control Screen | Heavy Duty 12KG Washing Capacity | Integrated Clothes Drying Functionality | Sophisticated Dark Stainless Finish | Professional Front Loading Design | Multiple Advanced Wash Cycles | Durable Model Construction",
           "warranty": "5 Years"
         },
@@ -3365,7 +3365,7 @@
           "brand": "Asko",
           "acuId": "WMASFL86C",
           "regular": 12000,
-          "sale": 9200,
+          "sale": 8200,
           "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | 8kg Capacity with 10 Pre-Programs | Advanced Multi-Filter Lint System | Smart Auto Synthetic Drying Program | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
           "warranty": "5 Years"
         },
@@ -3376,7 +3376,7 @@
           "brand": "Asko",
           "acuId": "TDAS9HS",
           "regular": 15000,
-          "sale": 11500,
+          "sale": 10000,
           "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capicity with 16 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
           "warranty": "5 Years"
         },
@@ -3387,7 +3387,7 @@
           "brand": "Asko",
           "acuId": "TDAS8HX",
           "regular": 18000,
-          "sale": 13600,
+          "sale": 12000,
           "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Gentle & Efficient Heat Pump Tech | Large 8kg Capacity with 18 Pre-Programs | Auto-Cleaning Condenser Filter System | Smart Sensor & Time Controlled Drying | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
           "warranty": "5 Years"
         },
@@ -3398,7 +3398,7 @@
           "brand": "Asko",
           "acuId": "WMASFL96R",
           "regular": 15500,
-          "sale": 11700,
+          "sale": 10500,
           "features": "Premium European-Made Craftsmanship | Hygienic Steel Seal™ Gasketless Door | Smart Auto Dosing Detergent System | Massive 9kg High-Capacity Drum | 23 Pro-Grade Programs & 5 Modes | Vibration-Free Active Drum Tech | Sleek & Modern Silver Exterior Finish | Anti-Crease & Overheating Protection | Energy Efficient with Child Lock",
           "warranty": "5 Years"
         }
@@ -3413,7 +3413,7 @@
       "brand": "Hisense",
       "acuId": "2.5HPSAC",
       "regular": 8700,
-      "sale": null,
+      "sale": 6400,
       "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1773/image"
@@ -3425,7 +3425,7 @@
       "brand": "Hisense",
       "acuId": "4.5HPFAC",
       "regular": 19800,
-      "sale": null,
+      "sale": 14500,
       "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1774/image"
@@ -3449,7 +3449,7 @@
       "brand": "Hisense",
       "acuId": "AC2.5HPINVACHISENSE",
       "regular": 9400,
-      "sale": null,
+      "sale": 6800,
       "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1784/image"
@@ -3461,7 +3461,7 @@
       "brand": "Hisense",
       "acuId": "AC1.5HPINVEFMACHISENSE",
       "regular": 9700,
-      "sale": null,
+      "sale": 6990,
       "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1979/image"
@@ -3473,7 +3473,7 @@
       "brand": "Hisense",
       "acuId": "AC2.0HPINVEFMACHISENSE",
       "regular": 11700,
-      "sale": null,
+      "sale": 8450,
       "features": "Inverter Technology | 4-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1809/image"
@@ -3485,7 +3485,7 @@
       "brand": "Hisense",
       "acuId": "AC2.5HPINVEFMACHISENSE",
       "regular": 13690,
-      "sale": null,
+      "sale": 9900,
       "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1810/image"
@@ -3545,7 +3545,7 @@
       "brand": "Hisense",
       "acuId": "240LCFB",
       "regular": 4250,
-      "sale": null,
+      "sale": 3000,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Internal Sliding Glass Protection Door | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/6713/image"
@@ -3557,7 +3557,7 @@
       "brand": "Hisense",
       "acuId": "520LCFS",
       "regular": 7590,
-      "sale": null,
+      "sale": 5500,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1666/image"
@@ -3701,7 +3701,7 @@
       "brand": "Hisense",
       "acuId": "BT4BSS",
       "regular": 2300,
-      "sale": null,
+      "sale": 2050,
       "features": "Energy Efficient Cooking Performance | Seamless Built-In Integrated Design | Four High Efficiency Gas Burners | Intuitive Precision Mechanical Controls | Compact 60cm Space Saving Frame | Premium Stainless Steel Durable Finish | Durable and Easy To Clean Surface | Four Independent Cooking Zones | Reliable Modern Kitchen Appliance",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/19342/image"
@@ -3713,7 +3713,7 @@
       "brand": "Hisense",
       "acuId": "BTWMCH60SS",
       "regular": 1300,
-      "sale": null,
+      "sale": 1170,
       "features": "Energy Efficient Cooking Performance | Powerful Smoke and Oduor Extraction | Wall Mounted Cooker Hood Design | Durable Stainless Steel Filter System | Compact 60cm Space Saving Frame | Integrated Bright LED Cooktop Light | Seamless Built-In Modern Aesthetic | Intuitive Push Button Controls | Premium Stainless Steel Durable Finish",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/19368/image"
@@ -3725,7 +3725,7 @@
       "brand": "Hisense",
       "acuId": "BT25LMDC-GPBB",
       "regular": 2350,
-      "sale": null,
+      "sale": 2100,
       "features": "Spacious 25L Cooking Capacity | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Versatile Combination Cooking Setup | Smart Weight and Time Defrost Function | Sleek Black Premium Exterior Finish | Seamless Built-In Integrated Design | Energy Efficient Cooking Performance",
       "warranty": "1 Year",
       "imageUrl": ""
@@ -3749,7 +3749,7 @@
       "brand": "Amcon",
       "acuId": "FT1-15SG",
       "regular": 1990,
-      "sale": 1790,
+      "sale": 1460,
       "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18792/image"
@@ -3761,7 +3761,7 @@
       "brand": "Hisense",
       "acuId": "205LRFGS-WD",
       "regular": 3300,
-      "sale": null,
+      "sale": 2300,
       "features": "Double Door Fridge-Freezer | Top-Mounted Freezer Section | Energy Efficient Technology | Integrated Water Dispenser | Security Key Lock System | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Eco-Friendly R600a Gas | Convenient Manual Defrost",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1786/image"
@@ -3773,7 +3773,7 @@
       "brand": "Hisense",
       "acuId": "264LRFGS-WD",
       "regular": 4680,
-      "sale": null,
+      "sale": 3450,
       "features": "Energy Efficient Technology | Integrated Water Dispenser | Bottom-Mounted Freezer Section | 3 Dedicated Freezer Drawers | Premium Glass Storage Shelves | Sleek Silver Exterior Finish | Space-Saving Recessed Handle | Eco-Friendly R600a Refrigerant | Adjustable Leveling Feet",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1858/image"
@@ -3785,7 +3785,7 @@
       "brand": "Hisense",
       "acuId": "545LRFGB-BS",
       "regular": 32000,
-      "sale": null,
+      "sale": 24000,
       "features": "Cross Door Configuration | 21-Inch Smart Display Screen | Triple Zone Cooling System | My Fresh Choice Flexible Zone | Ice & Water Dispenser System | Metal Tech Cooling Technology | ConnectLife App & Diagnostics | Cantilever Adjustable Shelving | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/4892/image"
@@ -3797,7 +3797,7 @@
       "brand": "Amcon",
       "acuId": "AM622LSRFGSS",
       "regular": 10490,
-      "sale": 9400,
+      "sale": 7600,
       "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Modern Side by Side Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/19161/image"
@@ -3809,7 +3809,7 @@
       "brand": "Hisense",
       "acuId": "GC60631GEES",
       "regular": 4400,
-      "sale": null,
+      "sale": 3950,
       "features": "Energy Efficient Cooking Performance | Premium Stainless Steel Finish | Modern 60 by 60 Centimeter Design | Three High Performance Gas Burners | One Versatile Electric Hotplate | Multifunctional Electric Oven Combi | Free Standing Cooker Configuration | Durable Gas And Electric Components | Eco Friendly Cooking Solution",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/16769/image"
@@ -3821,7 +3821,7 @@
       "brand": "Hisense",
       "acuId": "GC60331X",
       "regular": 5900,
-      "sale": null,
+      "sale": 5300,
       "features": "Class A Energy Efficiency | Four Ceramic Cooking Zones | Multifunction Electric Oven | Stainless Steel Durable Finish | Easy To Clean Glass Hob | Integrated Grill Function | Mechanical Control Knobs | Interior Oven Cooking Light | Removable Oven Glass Door",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18863/image"
@@ -3917,7 +3917,7 @@
       "brand": "Amcon",
       "acuId": "KE-YQ-660",
       "regular": 400,
-      "sale": null,
+      "sale": 360,
       "features": "Efficient 1850W Rapid Boiling System | Durable Stainless Steel Body | Automatic Shut-Off Safety Protection | Integrated Boil-Dry Safety System | On/Off Switch with LED Power Light | 360-Degree Cordless Swivel Base | Sleek & Modern Easy-to-Clean Surface",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/1846/image"
@@ -3989,7 +3989,7 @@
       "brand": "Hisense",
       "acuId": "382LDFW",
       "regular": 7400,
-      "sale": null,
+      "sale": 6000,
       "features": "High-Performance Energy Efficiency | Forced Air-Ventilation Technology | Anti-Condensation Glass System | Defrost Water Self-Evaporating System | Sleek Ergonomic Recessed Handle | Heavy-Duty Adjustable Shelving | Internal LED Visibility Lighting | Integrated Lock and Key Security | Eco-Friendly Refrigerant System",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1693/image"
@@ -4049,7 +4049,7 @@
       "brand": "Toshiba",
       "acuId": "TOSSM510WR",
       "regular": 2990,
-      "sale": null,
+      "sale": 2200,
       "features": "Energy Efficient Audio Design | Powerful Five Hundred Watts Output | Premium Five Point One Audio Channel | Elite Toshiba Soundbar Technology | Seamless Wireless Subwoofer Connection | Sleek Stainless Steel Finish Design | Immersive Surround Sound Experience | Deep Rich Dynamic Bass Performance | High Fidelity Home Theater System",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18620/image"
@@ -4217,7 +4217,7 @@
       "brand": "Toshiba",
       "acuId": "TOTV32SMT2",
       "regular": 2600,
-      "sale": null,
+      "sale": 2330,
       "features": "Energy Efficient 2 Star Rating | High Grade REGZA Engine HG Processor | Smart VIDAA U Operating System | Vibrant HD Ready LED Display | Vibrant HD Ready LED Display | Smooth Motion 60 Hz Refresh Rate | Optimized Game Mode For Gaming | Dynamic Color Re-Master Technology | Cinematic Dolby Audio Surround Sound",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18616/image"
@@ -4289,7 +4289,7 @@
       "brand": "Amcon",
       "acuId": "AMWDT308BK",
       "regular": 2250,
-      "sale": null,
+      "sale": 2000,
       "features": "Premium Freestanding Bottom-Loading Design | Dual-Station: 1L Rapid Kettle & 1.5L Tea Infuser | Smart Heating with Automatic \"Keep Warm\" Mode | Intelligent Motorized Water Sliding Plate System | Intuitive Touch Button Interface with LED Display | Full-Function Remote Control for Effortless Operation | Instant Safety Child Lock for Heat Protection | Integrated Auto Power-Off & Overheat Protection | Hidden Bottle Storage for a Sleek Modern Aesthetic",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/6615/image"
@@ -4301,7 +4301,7 @@
       "brand": "Amcon",
       "acuId": "AMWDT555S",
       "regular": 1550,
-      "sale": null,
+      "sale": 1390,
       "features": "Classic Freestanding Top-Loading Configuration | Dual Temperature Hot & Cold Water Dispensers | Advanced Compressor Cooling for Instant Chill | High-Efficiency Fast Cooling Performance | Energy-Saving Operation with Low Noise Output | Integrated Storage Cabinet for Cups & Snacks | Sleek & Durable Premium Silver Exterior | High-Capacity 2.0-Litre Internal Water Tank | Instant Safety Child Lock for Hot Water Access",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/5162/image"
@@ -4337,7 +4337,7 @@
       "brand": "Hisense",
       "acuId": "20KGTLWM",
       "regular": 6400,
-      "sale": null,
+      "sale": 5750,
       "features": "Elegant & Sophisticated Premium Black | Hot & Warm Dual Solenoid Valve System | Advanced Self-Diagnostic & Fault Alarm | Durable Waterproof IPX4 Protection | Intensive Pre-Soak & Air Dry Function | Convenient Time Delay Wash Scheduling | Ultra-Quiet Noise Free Technology | Secure Child Lock Safety Protection | Fully Automatic Top Loading Efficiency",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/6617/image"
@@ -4349,7 +4349,7 @@
       "brand": "Hisense",
       "acuId": "10KGFLDWTP",
       "regular": 10500,
-      "sale": null,
+      "sale": 9400,
       "features": "A+++ Energy Efficiency Rating | Intelligent Touch Screen Control Panel | Advanced Wifi Remote Connectivity | Heat Pump Drying Technology | AI Super Dry Humidity Sensors | Steam Function For Wrinkle Removal | Special Allergy Care Cycle | Durable Inverter Motor Performance | Eco Friendly R290 Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18952/image"
@@ -4361,7 +4361,7 @@
       "brand": "Hisense",
       "acuId": "10.5KGFLWMW",
       "regular": 5450,
-      "sale": null,
+      "sale": 4900,
       "features": "Massive 10.5kg Family-Sized Washing Capacity | Advanced ConnectLife App Smart Integration | Powerful 1400rpm Spin Speed for Rapid Drying | Deep Clean Steam Wash for Ultimate Hygiene | High-Efficiency Quiet Inverter Drive System | Elegant Premier Black Sophisticated Finish | Intelligent Pause & Add Mid-Cycle Function | Smart Fault Alarm Self-Diagnostic System | Eco-Performance Energy Saving Technology",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/10531/image"
@@ -4373,7 +4373,7 @@
       "brand": "Hisense",
       "acuId": "12KGFLWMWD",
       "regular": 7950,
-      "sale": null,
+      "sale": 7150,
       "features": "Massive 12kg Wash & 8kg Dryer Combined Capacity | Intelligent Auto-Dosing Detergent & Softener System | Smart WiFi Connectivity with ConnectLife App | High-Efficiency Ultra-Quiet Inverter Drive System | Premium Digital Touch Screen Command Center | High-Performance Built-in Water Heater System | Instant Pause & Add \"Forgotten Cloth\" Function | Integrated Safety Child Lock Protection System | Fully Automated Front-Loading Wash & Dry Cycle",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/6620/image"
@@ -4385,7 +4385,7 @@
       "brand": "Hisense",
       "acuId": "12KGFLWMWTP",
       "regular": 9500,
-      "sale": null,
+      "sale": 8500,
       "features": "High Energy Efficiency Inverter Motor | Advanced Wifi Connectivity Features | Modern Smart Touch Control Panel | Large 12KG Washing Load Capacity | Sleek Model Design | Professional Front Loading System | Multiple Intelligent Wash Programs | High Speed Spin Performance | Quiet And Stable Operation",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18926/image"
@@ -4397,7 +4397,7 @@
       "brand": "Hisense",
       "acuId": "8KGFLWM",
       "regular": 4550,
-      "sale": null,
+      "sale": 4090,
       "features": "Advanced Energy-Saving Technology | Super Quick Wash for Time-Saving Performance | Smart Spin Balance Control for Quiet Operation | Deep Drum Self-Cleaning Hygiene Function | Intelligent LED Multi-Function Display | Ergonomic 45° High Handle Comfort Design | Gentle Snowflake Drum for Fabric Protection | Self-Diagnostic Intelligent Fault-Finding System | High-Speed Extraction & Rinse Optimization",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1800/image"
@@ -4411,7 +4411,7 @@
       "brand": "Hisense",
       "acuId": "1.5HPSAC",
       "regular": 4400,
-      "sale": null,
+      "sale": 3100,
       "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1770/image"
@@ -4423,7 +4423,7 @@
       "brand": "Hisense",
       "acuId": "10HPFAC",
       "regular": 49900,
-      "sale": 45000,
+      "sale": 36000,
       "features": "Energy Efficient Performance | Super Silent Operation | Slim Design with Hi-Efficiency Evaporator | Auto Defrost Function | Self-Diagnosis & Auto Protection | High Density Filter & Easy Cleaning | Eco-Friendly R410a Gas | 24-Hour Auto On/Off Function | REQUIRES 3-PHASE POWER CONNECTION",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/5447/image"
@@ -4447,7 +4447,7 @@
       "brand": "Hisense",
       "acuId": "AC1.5HPINVACHISENSE",
       "regular": 5200,
-      "sale": null,
+      "sale": 3800,
       "features": "Inverter Technology | Super Cooling & Low Noise Function | Copper Condenser & Evaporator | High-Quality Durable Compressor | \"Gold Fin\" Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification Mode | Easy-Clean Maintenance Design",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1777/image"
@@ -4495,7 +4495,7 @@
       "brand": "Hisense",
       "acuId": "701LCFS",
       "regular": 10600,
-      "sale": null,
+      "sale": 7800,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1667/image"
@@ -4507,7 +4507,7 @@
       "brand": "Hisense",
       "acuId": "235LUF",
       "regular": 6800,
-      "sale": null,
+      "sale": 4900,
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/8671/image"
@@ -4567,7 +4567,7 @@
       "brand": "Hisense",
       "acuId": "130LTTS",
       "regular": 1800,
-      "sale": null,
+      "sale": 1300,
       "features": "Space-Saving Single Door | Energy Efficient Technology | Integrated Freezer Compartment | Sleek Silver Exterior Finish | Security Lock and Key System | Transparent Storage Shelving | Eco-Friendly R600a Gas | Manual Temperature Control | High-Visibility Interior Design",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1799/image"
@@ -4579,7 +4579,7 @@
       "brand": "Hisense",
       "acuId": "600LRFGB-WID",
       "regular": 26900,
-      "sale": null,
+      "sale": 19600,
       "features": "Energy Efficient A Plus Rating | Total No Frost Cooling Technology | Durable Digital Inverter Compressor | Visible Window For Easy Viewing | Multi Air Flow System For Freshness | Large Capacity Cross Door Design | Triple Zone Temperature Control | Internal Led Lighting For Visibility | Eco Friendly R600a Refrigerant Gas",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/19110/image"
@@ -4591,7 +4591,7 @@
       "brand": "Hisense",
       "acuId": "628LRFGB-BS",
       "regular": 33000,
-      "sale": null,
+      "sale": 24000,
       "features": "Sleek Side-by-Side Design | 21-Inch Smart Display Screen | ConnectLife App Smart Connectivity | Frost-Free Inverter Technology | Ice Cube Maker & Water Dispenser | Multi Air Flow Cooling Technology | Super Freeze & Super Cold Features | LED Control Panel & Child Lock | Eco-Friendly R600a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18844/image"
@@ -4603,7 +4603,7 @@
       "brand": "Hisense",
       "acuId": "GC60121X",
       "regular": 4250,
-      "sale": null,
+      "sale": 3800,
       "features": "4 Gas Burners & Gas Oven System | Premium Stainless Steel Cooktop | Infrared Cooking & Grill Function | Oven & Grill Convection Fan | Advanced Closed-Door Grilling | Instant Auto-Electric Ignition | Heavy-Duty Cast Iron Supports | Premium Soft-Closing Oven Door | Easy-Clean Enamel Interior",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/6719/image"
@@ -4615,7 +4615,7 @@
       "brand": "Hisense",
       "acuId": "GC60122B",
       "regular": 3990,
-      "sale": null,
+      "sale": 3580,
       "features": "Four Gas Burners with Safety Device | Flame Failure Device For Protection | Cast Iron Pan Supports For Stability | Premium Sleek Black Design Finish | Integrated Mechanical Timer Control Knobs | Auto Ignition Push Button Mechanism | Versatile Gas Grill Functionality | Interior Oven Cooking Light Feature | Removable Parts For Easy Cleaning",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/18930/image"
@@ -4639,7 +4639,7 @@
       "brand": "Amcon",
       "acuId": "AM18LMDC-CSHSS",
       "regular": 4400,
-      "sale": 3950,
+      "sale": 3500,
       "features": "Commercial Power Input Cooking Design | High Efficiency Energy Performance | Six Precision Cooking Power Levels | Digital Control System Panel Design | Premium Led Screen Display Screen | High Performance Crispy Grill System | 2800 Watt Microwave System | Curated Auto Cook Function Programs | Convenient Cooking End Alert Signal",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/19335/image"
@@ -4651,7 +4651,7 @@
       "brand": "Hisense",
       "acuId": "30LMODC-WPBB",
       "regular": 2400,
-      "sale": null,
+      "sale": 1760,
       "features": "Spacious 30L Flatbed Oven Design | Energy Efficient Cooking Performance | Advanced Microwave and Grill Modes | Precision Digital Control System | Convenient Push Button Door Release | Sleek Black Premium Exterior Finish | Multiple Cooking Power Level Settings | Smart Weight and Time Defrost Function | Versatile Combination Cooking Setup",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/19129/image"
@@ -4663,7 +4663,7 @@
       "brand": "Hisense",
       "acuId": "620LDFB",
       "regular": 11990,
-      "sale": null,
+      "sale": 9400,
       "features": "Advanced No-Frost Cooling System | Eco-Friendly Refrigeration Technology | Self-Evaporation Defrost System | Internal Fan for Even Circulation | Integrated Hook Lock Security | High-Performance Air Blow System | Heavy-Duty Adjustable Shelving | Double-Layered Tempered Glass Door | Internal LED Visibility Lighting",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/7796/image"
@@ -4699,7 +4699,7 @@
       "brand": "Hisense",
       "acuId": "75SMDMLED8KTV",
       "regular": 42500,
-      "sale": null,
+      "sale": 28000,
       "features": "Ultra-High-Definition Native 8K Resolution | 8K AI Upscaler & Hi-View Engine Pro | Dolby Vision IQ & Dolby Atmos Surround Sound | Professional 8K Ultra-HD Game Mode Pro | Integrated Quality Bass Boost Audio System | Apple AirPlay & Bluetooth Wireless Streaming | High-Speed Dual-Band WiFi & LAN Ethernet | Quad (4) HDMI & Dual (2) USB Connectivity | Digital TV Reception & Multi-Source Inputs",
       "warranty": "3 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/6733/image"
@@ -4737,7 +4737,7 @@
       "brand": "Hisense",
       "acuId": "ACBRACKET",
       "regular": 115,
-      "sale": null,
+      "sale": 90,
       "features": "Ideal for 1.0HP & 1.5HP AC Units | Heavy-Duty 120kg Max Load Capacity | Anti-Rust Powder Coating for Outdoors | High-Strength Hard Steel Structure | Universal & Adjustable Mounting Patterns | Complete Installation Hardware Included | Quick & Easy DIY Installation Process | Step-by-Step User Manual Included | Reliable & Secure Wall-Mount Support",
       "warranty": "Not Applicable"
     },
@@ -4748,7 +4748,7 @@
       "brand": "Hisense",
       "acuId": "ACBRACKETT2",
       "regular": 130,
-      "sale": null,
+      "sale": 100,
       "features": "Ideal for 2.0HP & 2.5HP AC Units | Heavy-Duty 180kg Max Load Capacity | Anti-Rust Powder Coating for Outdoors | High-Strength Hard Steel Structure | Universal & Adjustable Mounting Patterns | Complete Installation Hardware Included | Quick & Easy DIY Installation Process | Step-by-Step User Manual Included | Reliable & Secure Wall-Mount Support",
       "warranty": "Not Applicable"
     },
@@ -4968,7 +4968,7 @@
       "brand": "Smart Power",
       "acuId": "JSSP-106EN",
       "regular": 100,
-      "sale": null,
+      "sale": 75,
       "features": "",
       "warranty": "1 Year"
     },
@@ -4979,7 +4979,7 @@
       "brand": "Smart Power",
       "acuId": "JSSP-102EN",
       "regular": 100,
-      "sale": null,
+      "sale": 75,
       "features": "",
       "warranty": "1 Year"
     },
@@ -4990,7 +4990,7 @@
       "brand": "Smart Power",
       "acuId": "JSSP-109EN",
       "regular": 110,
-      "sale": null,
+      "sale": 75,
       "features": "",
       "warranty": "1 Year"
     },
