@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-26T20:31:15.803Z",
+  "generatedAt": "2026-10-27T10:51:16.902Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID SEPTEMBER 2026 · INCLUSIVE OF VAT",
@@ -53,17 +53,6 @@
           "regular": 17800,
           "sale": null,
           "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser | Copper Evaporator | Environmentally Friendly Refrigerant",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Air Conditioners",
-          "name": "3.0HP INVERTER FLOOR STANDING\nAIR CONDITIONER",
-          "model": "",
-          "brand": "Hisense",
-          "acuId": "3.0HPFSACINVLUXH/CACGD",
-          "regular": 21000,
-          "sale": null,
-          "features": "Energy Efficient Inverter Technology | Floor Standing Air Conditioner Design | Versatile Heating and Cooling Modes | Luxury TRESOR Series Aesthetic | Elegant Gold Premium Exterior Finish | Multi-Dimensional Air Distribution | Advanced Rapid Cooling Performance | Quiet and Low Noise Operation Mode | Eco-Friendly R410a Refrigerant Gas",
           "warranty": "5 Years"
         }
       ]
@@ -420,17 +409,6 @@
           "regular": 4990,
           "sale": 4590,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
-          "warranty": "5 Years"
-        },
-        {
-          "category": "Freezers",
-          "name": "390L UPRIGHT FRIDGE",
-          "model": "RL5K370GSF2",
-          "brand": "Hisense",
-          "acuId": "390RFGB",
-          "regular": 8600,
-          "sale": null,
-          "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
         {
