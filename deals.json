@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-27T17:31:17.496Z",
+  "generatedAt": "2026-10-27T22:04:40.868Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID SEPTEMBER 2026 · INCLUSIVE OF VAT",
@@ -1191,6 +1191,28 @@
         },
         {
           "category": "Refrigerators",
+          "name": "427L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
+          "model": "RQ5P431NMC0",
+          "brand": "Amcon",
+          "acuId": "427LRFGS-WD",
+          "regular": 8900,
+          "sale": 6400,
+          "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Luxury Cross Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Sleek Silver Exterior Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerators",
+          "name": "441L SIDE-BY-SIDE \nINVERTER FRIDGE",
+          "model": "RS3P428NEDE",
+          "brand": "Hisense",
+          "acuId": "441LRFGSS",
+          "regular": 8200,
+          "sale": 6100,
+          "features": "Energy Efficient Inverter Technology | Sleek Side-By-Side Design | Durable Tempered Glass Shelving | Total No-Frost Operation | Multi Air Flow Cooling System | Super Cool and Freeze Functions | Precise Temperature Control | Smart Door Alarm Security | Eco-Friendly R600a Refrigerant",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerators",
           "name": "470L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
           "model": "RQ-56WCS",
           "brand": "Hisense",
@@ -1220,6 +1242,17 @@
           "regular": 10250,
           "sale": 7500,
           "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling For Uniform Temp | Optimal Fresh Zone For Meat And Fish | Power Cool For Quick Food Chilling | Power Freeze For Fast Ice Making | Durable Tempered Glass Shelving | Flexible Storage With Adjustable Bins | Eco Friendly R600a Refrigerant Gas",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Refrigerators",
+          "name": "504L DOUBLE DOOR FRIDGE\nWITH DISPENSER",
+          "model": "RB3P504NMF1",
+          "brand": "Hisense",
+          "acuId": "504LRFGB-WD",
+          "regular": 10500,
+          "sale": 7600,
+          "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling System For Freshness | Optimal Fresh Zone Maintains Flavor | Premium Black Finish | Power Freeze Function For Fast Freezing | Durable Tempered Glass Shelves | Integrated Water Dispenser | Eco Friendly R600a Refrigerant Gas",
           "warranty": "5 Years"
         },
         {
@@ -3071,6 +3104,17 @@
           "regular": 36000,
           "sale": 32000,
           "features": "Flagship 90\"–130\" Variable Ultra-Short Throw | 4K Ultra-HD with Triple-Laser TriChroma Engine | Vivid Dolby Vision & HDR10 High Dynamic Range | Cinematic Dolby Atmos 30W Internal Audio System | Smart Android TV OS with Google Play Store Apps | Google Voice Assistant for Hands-Free Control | High-Speed WiFi & Bluetooth Connectivity | Dual (2) HDMI 2.1 & Dual (2) USB Media Ports | Anyview Stream Casting & Remote App Control",
+          "warranty": "5 Years"
+        },
+        {
+          "category": "Laser TVs",
+          "name": "XR10 CINEMA \nLASER TELEVISION",
+          "model": "XR10 Laser",
+          "brand": "",
+          "acuId": "XR10 LASERTV",
+          "regular": 65000,
+          "sale": 58000,
+          "features": "Energy Efficient Performance | Hisense 4K Triple Laser Cinema TV | TVL XR10 LaserTV Cinema Series | Ultra HD 4K Resolution Display | Advanced Triple Laser Engine | Cinematic Dolby Atmos Sound | Smart OS for Seamless Streaming | High-Speed Smart Connectivity | Multiple HDMI and USB Ports",
           "warranty": "5 Years"
         }
       ]
