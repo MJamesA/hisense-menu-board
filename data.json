@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-27T17:31:20.138Z",
+  "generatedAt": "2026-10-27T17:41:16.863Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -6098,19 +6098,6 @@
       "promo": true,
       "warranty": "5 Years",
       "features": "Ultra-HD 4K Resolution with HDR Technology | Precision Colour & Super Contrast Enhancement | VIDAA U Smart OS for Seamless Streaming | Safety-First Build Design with Wall Bracket | Remote Now App Control & Smart Integration | Intelligent Audio Equalizer for Balanced Sound | In-Built High-Speed WiFi & LAN Ethernet | Integrated Digital Satellite TV Reception | Triple (3) HDMI & Dual (2) USB Connectivity"
-    },
-    {
-      "acuId": "150T68LASER",
-      "tag": "A6",
-      "category": "Television Laser",
-      "name": "150\" T68\nLASER TELEVISION",
-      "model": "T68",
-      "brand": "Hisense",
-      "regular": 115000,
-      "sale": null,
-      "promo": false,
-      "warranty": "5 Years",
-      "features": "4K Ultra-Short Throw Projection Technology | Vivid HDR10 & Cinematic Dolby Audio | VIDAA Smart OS with Full Remote Control | One-Click Wireless Screen Sharing Device | Modern USB-C & High-Speed DVI Inputs | In-Built High-Speed WiFi & LAN Ethernet | Bluetooth Connectivity for Wireless Sound | Dual (2) HDMI & Dual (2) USB Media Ports | VGA Input, Headphone & Digital Audio Outs"
     },
     {
       "acuId": "C2ULTRA LASERTV",
