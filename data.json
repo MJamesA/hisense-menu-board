@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-27T10:33:20.532Z",
+  "generatedAt": "2026-10-27T10:51:25.787Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -217,7 +217,7 @@
       "name": "2.5HP FLOOR STANDING \nINVERTER AIR CONDITIONER",
       "model": "AUF-24UR4RFJ",
       "brand": "Hisense",
-      "regular": 15500,
+      "regular": null,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -326,19 +326,6 @@
       "promo": false,
       "warranty": "5 Years",
       "features": "Modern Aesthetics Design | Energy Efficient Inverter Function | Multi-Dimensional Vector | Self-Cleaning Function | Fresh Air Ventilation | Cooling Capacity: 24,500 BTU | Eco-Friendly R410a Refrigerant | Turbo Cooling Mode | Auto Restart & Sleep Mode"
-    },
-    {
-      "acuId": "3.0HPFSACINVLUXH/CACGD",
-      "tag": "A6",
-      "category": "Air Conditioners",
-      "name": "3.0HP INVERTER FLOOR STANDING\nAIR CONDITIONER",
-      "model": "",
-      "brand": "Hisense",
-      "regular": 21000,
-      "sale": null,
-      "promo": false,
-      "warranty": "5 Years",
-      "features": "Energy Efficient Inverter Technology | Floor Standing Air Conditioner Design | Versatile Heating and Cooling Modes | Luxury TRESOR Series Aesthetic | Elegant Gold Premium Exterior Finish | Multi-Dimensional Air Distribution | Advanced Rapid Cooling Performance | Quiet and Low Noise Operation Mode | Eco-Friendly R410a Refrigerant Gas"
     },
     {
       "acuId": "AC4.0HPINVFCH/CACHI",
@@ -2475,7 +2462,7 @@
     {
       "acuId": "427LRFGS-WD",
       "tag": "A6",
-      "category": "Amcon White Goods",
+      "category": "Refrigerator",
       "name": "427L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
       "model": "RQ5P431NMC0",
       "brand": "Amcon",
@@ -2510,6 +2497,19 @@
       "promo": false,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling For Uniform Temp | Metal Cooling Retains Cold Air | Power Cool For Rapid Chilling | Power Freeze For Fast Ice Making | Large Box For Fresh Fruit And Veg | Durable Tempered Glass Shelving | Eco Friendly R600a Refrigerant Gas"
+    },
+    {
+      "acuId": "504LRFGB-WD",
+      "tag": "A6",
+      "category": "Refrigerator",
+      "name": "504L DOUBLE DOOR FRIDGE\nWITH DISPENSER",
+      "model": "RB3P504NMF1",
+      "brand": "Hisense",
+      "regular": 10500,
+      "sale": null,
+      "promo": false,
+      "warranty": "5 Years",
+      "features": "High Energy Efficiency Rating | Digital Inverter Technology Saves Energy | All-around Cooling System For Freshness | Optimal Fresh Zone Maintains Flavor | Premium Black Finish | Power Freeze Function For Fast Freezing | Durable Tempered Glass Shelves | Integrated Water Dispenser | Eco Friendly R600a Refrigerant Gas"
     },
     {
       "acuId": "504LRFGS",
@@ -6074,6 +6074,19 @@
       "features": "Low Energy Consumption Standby Mode | Efficient Power Consumption Design | Smart Power Management Functionality | TriChroma Triple Laser Technology | Ultra HD 4K Resolution | Ambient Light Rejecting Screen | Dolby Atmos Immersive Audio | High Dynamic Range Compatibility | VIDAA Smart Operating System"
     },
     {
+      "acuId": "XR10 LASERTV",
+      "tag": "",
+      "category": "Television Laser",
+      "name": "XR10 CINEMA \nLASER TELEVISION",
+      "model": "XR10 Laser",
+      "brand": "",
+      "regular": 65000,
+      "sale": 58000,
+      "promo": true,
+      "warranty": "5 Years",
+      "features": "Energy Efficient Performance | Hisense 4K Triple Laser Cinema TV | TVL XR10 LaserTV Cinema Series | Ultra HD 4K Resolution Display | Advanced Triple Laser Engine | Cinematic Dolby Atmos Sound | Smart OS for Seamless Streaming | High-Speed Smart Connectivity | Multiple HDMI and USB Ports"
+    },
+    {
       "acuId": "120LASERL9",
       "tag": "A6",
       "category": "Television Laser",
@@ -6267,19 +6280,6 @@
       "promo": false,
       "warranty": "5 Years",
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant"
-    },
-    {
-      "acuId": "390RFGB",
-      "tag": "A6",
-      "category": "Upright Freezers",
-      "name": "390L UPRIGHT FRIDGE",
-      "model": "RL5K370GSF2",
-      "brand": "Hisense",
-      "regular": 8600,
-      "sale": null,
-      "promo": false,
-      "warranty": "5 Years",
-      "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas"
     },
     {
       "acuId": "SEWHC100W",
