@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-27T22:58:48.814Z",
+  "generatedAt": "2026-10-28T07:51:16.197Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID OCTOBER 2026 · INCLUSIVE OF VAT",
@@ -921,7 +921,7 @@
           "brand": "Hisense",
           "acuId": "FC34BB",
           "regular": 2800,
-          "sale": null,
+          "sale": 2000,
           "features": "Energy Efficient Technology | 34-Can Storage Capacity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Advanced Cooling System | Adjustable Internal Shelving | Low Vibration Operation",
           "warranty": "5 Years"
         },
@@ -4578,7 +4578,7 @@
       "brand": "Hisense",
       "acuId": "FC46BB",
       "regular": 6200,
-      "sale": 5500,
+      "sale": 4500,
       "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/14225/image"
