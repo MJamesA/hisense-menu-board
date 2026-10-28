@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-27T17:41:16.863Z",
+  "generatedAt": "2026-10-28T07:51:21.618Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1986,8 +1986,8 @@
       "model": "RW3N094GALF",
       "brand": "Hisense",
       "regular": 2800,
-      "sale": null,
-      "promo": false,
+      "sale": 2000,
+      "promo": true,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | 34-Can Storage Capacity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Advanced Cooling System | Adjustable Internal Shelving | Low Vibration Operation"
     },
@@ -1999,7 +1999,7 @@
       "model": "RW3N122GSLF",
       "brand": "Hisense",
       "regular": 6200,
-      "sale": 5500,
+      "sale": 4500,
       "promo": true,
       "warranty": "5 Years",
       "features": "Energy Efficient Technology | 46-Can Storage Capacity | ConnectLife App Smart Control | Wi-Fi Remote Connectivity | Precision Panel Control | Adjustable Temperature Key | Bright LED Interior Lighting | Space-Saving Reversible Door | Dual-Zone Cooling System"
@@ -6267,6 +6267,19 @@
       "promo": true,
       "warranty": "5 Years",
       "features": "Vertical Upright Freezer | Energy Efficient Technology | Integrated Castors & Adjustable Leveling Feet | 7 Dedicated Freezer Drawers | Rapid Fast-Freeze and No-Frost Technology | Soft-Closing Door System | Flexible Reversible Door | Sleek Silver Exterior Finish | Eco-Friendly R600a Refrigerant"
+    },
+    {
+      "acuId": "390LRFGB",
+      "tag": "A6",
+      "category": "Refrigerator",
+      "name": "390L UPRIGHT FRIDGE",
+      "model": "RL5K370GSF2",
+      "brand": "Hisense",
+      "regular": 8600,
+      "sale": 6250,
+      "promo": true,
+      "warranty": "5 Years",
+      "features": "High Energy Efficiency Performance | Smart Inverter Compression System | Vertical Upright Refrigerator Design | Total No Frost Cooling Mechanism | Electronic Temperature Control System | Multi Air Flow Distribution Channels | Flexible Reversible Door Configuration | Spacious Interior Storage Organization | Eco-Friendly R600a Refrigerant Gas"
     },
     {
       "acuId": "SEWHC100W",
