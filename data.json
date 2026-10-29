@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-29T13:21:19.827Z",
+  "generatedAt": "2026-10-29T16:51:19.064Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2440,9 +2440,9 @@
       "name": "415L CROSS DOOR FRIDGE\nWITH WATER DISPENSER",
       "model": "ARC-431W",
       "brand": "Amcon",
-      "regular": 9390,
-      "sale": 6860,
-      "promo": true,
+      "regular": null,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Advanced Energy Efficient Inverter | High Performance Inverter Compressor | Luxury Cross Door Design Finish | Integrated External Water Dispenser | Smart Digital Temperature Control | Multi Air Flow Cooling System | Premium Fingerprint Resistant Finish | Adjustable Tempered Glass Shelves | Eco Friendly R600a Refrigerant Gas"
     },
