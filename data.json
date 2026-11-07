@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-07T13:01:22.228Z",
+  "generatedAt": "2026-11-07T14:31:20.088Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1192,9 +1192,9 @@
       "name": "248L CHEST FREEZER",
       "model": "DSC-248W",
       "brand": "Amcon",
-      "regular": 3500,
-      "sale": 2550,
-      "promo": true,
+      "regular": null,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation"
     },
@@ -1205,9 +1205,9 @@
       "name": "300L CHEST FREEZER",
       "model": "DSC-300W",
       "brand": "Amcon",
-      "regular": 3990,
-      "sale": 2900,
-      "promo": true,
+      "regular": null,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation"
     },
@@ -1218,9 +1218,9 @@
       "name": "400L CHEST FREEZER",
       "model": "DSC-400W",
       "brand": "Amcon",
-      "regular": 4990,
-      "sale": 3650,
-      "promo": true,
+      "regular": null,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation"
     },
