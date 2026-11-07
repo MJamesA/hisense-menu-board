@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-29T16:51:16.357Z",
+  "generatedAt": "2026-11-07T13:01:18.088Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID OCTOBER 2026 · INCLUSIVE OF VAT",
@@ -4906,8 +4906,8 @@
       "model": "M500DC",
       "brand": "Gorenje",
       "acuId": "BM500DC",
-      "regular": 400,
-      "sale": 360,
+      "regular": null,
+      "sale": null,
       "features": "Ultra-Silent High-Torque 500W DC Motor | Precision 5-Speed Power Regulator | Turbo Boost & Pulse Functionality | Pro-Grade Stainless Steel Dough Hooks | High-Efficiency Wire Whisk Attachments | Versatile Beating, Whipping & Kneading | Lightweight Ergonomic Comfort Handle",
       "warranty": "1 Year"
     },
