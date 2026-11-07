@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-07T13:01:18.088Z",
+  "generatedAt": "2026-11-07T14:31:17.485Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID OCTOBER 2026 · INCLUSIVE OF VAT",
@@ -406,8 +406,8 @@
           "model": "DSC-248W",
           "brand": "Amcon",
           "acuId": "CFA248LCFS",
-          "regular": 3500,
-          "sale": 2550,
+          "regular": null,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -417,8 +417,8 @@
           "model": "DSC-300W",
           "brand": "Amcon",
           "acuId": "CFA300LCFS",
-          "regular": 3990,
-          "sale": 2900,
+          "regular": null,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -428,8 +428,8 @@
           "model": "DSC-400W",
           "brand": "Amcon",
           "acuId": "CFA400LCFS",
-          "regular": 4990,
-          "sale": 3650,
+          "regular": null,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Grip Handle | Hygienic White PCM Interior Lining | Tropical Class T for High Heat Performance | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
