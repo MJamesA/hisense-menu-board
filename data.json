@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-10-29T16:51:19.064Z",
+  "generatedAt": "2026-11-07T13:01:22.228Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -555,9 +555,9 @@
       "name": "HANDHELD MIXER\n500W",
       "model": "M500DC",
       "brand": "Gorenje",
-      "regular": 400,
-      "sale": 360,
-      "promo": true,
+      "regular": null,
+      "sale": null,
+      "promo": false,
       "warranty": "1 Year",
       "features": "Ultra-Silent High-Torque 500W DC Motor | Precision 5-Speed Power Regulator | Turbo Boost & Pulse Functionality | Pro-Grade Stainless Steel Dough Hooks | High-Efficiency Wire Whisk Attachments | Versatile Beating, Whipping & Kneading | Lightweight Ergonomic Comfort Handle"
     },
