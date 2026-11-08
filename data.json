@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-08T17:01:22.265Z",
+  "generatedAt": "2026-11-08T17:11:23.023Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -6588,8 +6588,8 @@
       "model": "WMA10KGFLWD",
       "brand": "Amcon",
       "regular": 7000,
-      "sale": null,
-      "promo": false,
+      "sale": 6300,
+      "promo": true,
       "warranty": "3 Years",
       "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection"
     },
@@ -6601,8 +6601,8 @@
       "model": "WMA10KGFLWDTP",
       "brand": "Amcon",
       "regular": 7000,
-      "sale": null,
-      "promo": false,
+      "sale": 6300,
+      "promo": true,
       "warranty": "3 Years",
       "features": "Massive 10kg Wash & 7kg Dry Combined Capacity | Advanced Direct Drive Inverter Motor System | Intelligent Wash System with Auto-Sensing | Premium Digital Touch Screen Control Interface | High-Efficiency Built-in Water Heater System | Customizable Multi-Cycle Preset Functions | Elegant Titanium Metal High-Grade Exterior | Advanced Energy-Efficient Inverter Performance | Integrated Safety Child Lock Protection"
     },
@@ -6627,8 +6627,8 @@
       "model": "WMA10KGTT",
       "brand": "Amcon",
       "regular": 4500,
-      "sale": null,
-      "promo": false,
+      "sale": 4000,
+      "promo": true,
       "warranty": "3 Years",
       "features": "Elegant & Modern Dark Gray Finish | Advanced Fuzzy Logic Smart Technology | Intuitive Digital Touch Screen Control | Durable Waterproof IPX4 Protection | Precision Cold Solenoid Intake Valve | Powerful Air Dry High-Speed Function | Ultra-Quiet Noise Free Technology | Fully Automatic Top Loading System | Secure Child Lock Safety Protection"
     },
@@ -6640,8 +6640,8 @@
       "model": "XPB100-228SE",
       "brand": "Amcon",
       "regular": 2450,
-      "sale": null,
-      "promo": false,
+      "sale": 2190,
+      "promo": true,
       "warranty": "3 Years",
       "features": "Versatile Normal & Delicate Wash Modes | Rapid 15-Minute High-Speed Wash Cycle | Powerful Pulsator for Deep Cleaning | Large 6.0kg High-Speed Spin Capacity | Advanced Air Dry Moisture Removal | Integrated Spin Shower Rinse System | Fine Particle Magic Filter Technology | Energy Efficient & Water Saving Design | Durable & Compact Space-Saving Body"
     },
@@ -6718,8 +6718,8 @@
       "model": "WF7S1247BB",
       "brand": "Hisense",
       "regular": 9500,
-      "sale": 8500,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "High Energy Efficiency Inverter Motor | Advanced Wifi Connectivity Features | Modern Smart Touch Control Panel | Large 12KG Washing Load Capacity | Sleek Model Design | Professional Front Loading System | Multiple Intelligent Wash Programs | High Speed Spin Performance | Quiet And Stable Operation"
     },
@@ -6770,8 +6770,8 @@
       "model": "WT3T1723UB",
       "brand": "Hisense",
       "regular": 5990,
-      "sale": 5350,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Premium Soft-Closing Glass Lid | Double Magic Filter for Cleaner Wash | Advanced Fuzzy Logic Smart Control | Custom Self-Programming & Memory | Intelligent LED Display & 12 Programs | Built-in Double Water Outlet & Pump | Hygienic Tub Clean & Pre-Soak Modes | Smart Delay Start & End Function | Secure Child Lock Safety Protection"
     },
@@ -6809,8 +6809,8 @@
       "model": "WT3T2023UB",
       "brand": "Hisense",
       "regular": 6400,
-      "sale": 5750,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Elegant & Sophisticated Premium Black | Hot & Warm Dual Solenoid Valve System | Advanced Self-Diagnostic & Fault Alarm | Durable Waterproof IPX4 Protection | Intensive Pre-Soak & Air Dry Function | Convenient Time Delay Wash Scheduling | Ultra-Quiet Noise Free Technology | Secure Child Lock Safety Protection | Fully Automatic Top Loading Efficiency"
     },
@@ -6835,8 +6835,8 @@
       "model": "WSQB753W",
       "brand": "Hisense",
       "regular": 2200,
-      "sale": 1970,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Durable & Rust-Proof Strong Plastic Body | Dual-Tasking Wash & Spin Twin Tub | Versatile Washing Program Selector | Precision Water Level Control Selector | High-Efficiency Energy Saving Design | Integrated High-Speed Spin Dry System | Built-in Lint Filter for Cleaner Clothes | Manual Drain Selector for Full Control | Timeless & Reliable Classic Design"
     },
@@ -6848,8 +6848,8 @@
       "model": "WFQP8014EVMT",
       "brand": "Hisense",
       "regular": 4550,
-      "sale": 4090,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "Advanced Energy-Saving Technology | Super Quick Wash for Time-Saving Performance | Smart Spin Balance Control for Quiet Operation | Deep Drum Self-Cleaning Hygiene Function | Intelligent LED Multi-Function Display | Ergonomic 45° High Handle Comfort Design | Gentle Snowflake Drum for Fabric Protection | Self-Diagnostic Intelligent Fault-Finding System | High-Speed Extraction & Rinse Optimization"
     },
@@ -6913,8 +6913,8 @@
       "model": "WT3K9032UB",
       "brand": "Hisense",
       "regular": 3400,
-      "sale": 3000,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "5 Years",
       "features": "High-Efficiency 7-Star Energy Rating | Advanced Fuzzy Logic Smart Technology | Powerful Air Dry High-Speed Function | Hygienic Tub Clean Maintenance Mode | Intelligent Self-Diagnostic System | Fully Automatic Top Loading System | Cold Valve & Deep Soak Functionality | Ultra-Quiet Noise Free Technology | Secure Child Lock & Auto Power Off"
     },
