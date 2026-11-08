@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-08T16:31:18.305Z",
+  "generatedAt": "2026-11-08T16:41:16.886Z",
   "title": "SAVE WITH US",
   "accent": "teal",
   "validText": "VALID OCTOBER 2026 · INCLUSIVE OF VAT",
@@ -138,7 +138,7 @@
           "brand": "Gorenje",
           "acuId": "B1400E1.75L",
           "regular": 890,
-          "sale": 800,
+          "sale": null,
           "features": "Extreme 1400W High-Performance Motor | Large 1.75L Thermal-Resistant Glass Jar | 4 Smart-Logic Preset Programs | Removable Stainless Steel Blade System | Precision Variable Speed Control | High-Power Dedicated Ice Crush Mode | Auto Clean & Safety Lock Protection",
           "warranty": "1 Year"
         },
@@ -149,7 +149,7 @@
           "brand": "Gorenje",
           "acuId": "BLJC4800VWY",
           "regular": 1590,
-          "sale": 1420,
+          "sale": null,
           "features": "Energy Efficient 200W Motor Power | Gentle Slow Juice Press Technology | Quiet Operation & Nutrient Retention | Dual 0.6L Juice & Pulp Containers | Clean-Flow No-Drip Spout Cap | High-Efficiency Extraction System | Compact Space-Saving Kitchen Design",
           "warranty": "1 Year"
         },
@@ -182,7 +182,7 @@
           "brand": "Amcon",
           "acuId": "BL DT-710",
           "regular": 1100,
-          "sale": 990,
+          "sale": null,
           "features": "Powerful 1800W Heavy-Duty Motor | High-Speed 11,000 RPM Blending | Massive 2.2L Tough-Impact Plastic Jar | Intuitive Mechanical Control Switch | Dedicated Whip & Pulse Functionality | Precision Stainless Steel Cutting Blade | Versatile Design for All Kitchen Needs",
           "warranty": "2 Years"
         },
@@ -204,7 +204,7 @@
           "brand": "Gorenje",
           "acuId": "BM550DC",
           "regular": 550,
-          "sale": 490,
+          "sale": null,
           "features": "Powerful 600W Performance | 4 Speed Levels And Pulse Function | Quiet Durable DC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design",
           "warranty": "1 Year"
         },
@@ -226,7 +226,7 @@
           "brand": "Gorenje",
           "acuId": "BMG1701SB",
           "regular": 1150,
-          "sale": 1030,
+          "sale": null,
           "features": "Powerful 1700W Motor Performance | Integrated Food Pusher Auger | Convenient On & Off Reverse Functional Knob | Safety Lock Protection Base Unit | Durable Stainless Steel Cutting Blade | Versatile Dual Grinding Plates Included | Advanced Slicing Shredding Attachment",
           "warranty": "1 Year"
         }
@@ -242,7 +242,7 @@
           "brand": "Hisense",
           "acuId": "97LCFS",
           "regular": 2300,
-          "sale": 1950,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygenic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -253,7 +253,7 @@
           "brand": "Amcon",
           "acuId": "AM99LCFSSS",
           "regular": 2250,
-          "sale": 1650,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Fridge and Freezer Functionality | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -264,7 +264,7 @@
           "brand": "Amcon",
           "acuId": "AM142CFSSS",
           "regular": 2650,
-          "sale": 1950,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -275,7 +275,7 @@
           "brand": "Hisense",
           "acuId": "198LCFS",
           "regular": 3250,
-          "sale": 2350,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -286,7 +286,7 @@
           "brand": "Amcon",
           "acuId": "AM199CFSSS",
           "regular": 3000,
-          "sale": 2190,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -297,7 +297,7 @@
           "brand": "Hisense",
           "acuId": "217LCFB",
           "regular": 3900,
-          "sale": 2800,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -308,7 +308,7 @@
           "brand": "Hisense",
           "acuId": "249LCFS",
           "regular": 3900,
-          "sale": 2900,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -319,7 +319,7 @@
           "brand": "Amcon",
           "acuId": "AM254CFSSS",
           "regular": 3300,
-          "sale": 2400,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -330,7 +330,7 @@
           "brand": "Amcon",
           "acuId": "AM299CFSSS",
           "regular": 3900,
-          "sale": 2850,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -341,7 +341,7 @@
           "brand": "Amcon",
           "acuId": "AM400CFSSS",
           "regular": 5190,
-          "sale": 3790,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -352,7 +352,7 @@
           "brand": "Amcon",
           "acuId": "AM500CFSSS",
           "regular": 6290,
-          "sale": 4500,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -363,7 +363,7 @@
           "brand": "Amcon",
           "acuId": "AM700CFSSS",
           "regular": 7890,
-          "sale": 5750,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600A Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -374,7 +374,7 @@
           "brand": "Hisense",
           "acuId": "310LCFS",
           "regular": 4290,
-          "sale": 3200,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Sleek Silver Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -385,7 +385,7 @@
           "brand": "Hisense",
           "acuId": "366LCFB",
           "regular": 5700,
-          "sale": 4000,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Easy-to-Clean Hygienic Interior Lining | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -396,7 +396,7 @@
           "brand": "Hisense",
           "acuId": "420LCFS",
           "regular": 6250,
-          "sale": 4500,
+          "sale": null,
           "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Recessed and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
           "warranty": "5 Years"
         },
@@ -456,7 +456,7 @@
           "brand": "Gorenje",
           "acuId": "CFS230AEW",
           "regular": 1550,
-          "sale": 1390,
+          "sale": null,
           "features": "22.2V Detachable Long Lasting Battery | Advanced Smart LED Display Panel | Anti Tangle V Shaped Turbo Brush | Integrated Bright LED Brush Headlights | 5 Stage High Efficiency Filtration System | 0.7L Dust Bin Capacity | Space Saving Wall Mounted Charging Base | Quick Park Protective Furniture Bumper | Versatile Dual Crevice Nozzle Attachments",
           "warranty": "1 Year"
         },
@@ -478,7 +478,7 @@
           "brand": "Gorenje",
           "acuId": "CGFA2AW",
           "regular": 1300,
-          "sale": 1170,
+          "sale": null,
           "features": "Energy Efficient G200 Series Design | Powerful 800W Suction Performance | Smart Ergonomic Functional Design | Comfortable Hassle Free Cleaning | Versatile Multi Surface Cleaning Mode | Practical Removable Container Setup | Advanced Cyclonic Action Cleaning Setup | Advanced Double Filtration System | Highly Versatile Cleaning Attachments",
           "warranty": "1 Year"
         },
@@ -489,7 +489,7 @@
           "brand": "Gorenje",
           "acuId": "CGF4AHGR",
           "regular": 1650,
-          "sale": 1480,
+          "sale": null,
           "features": "Energy Efficient G400 Series Design | Powerful 800W Hardfloor Suction Performance | Advanced Cyclonic Action Cleaning Setup | Universal Parquet Brush Accessory Included | Efficient Double Filtration System Setup | Smart Design Comfortable Cleaning Mode | Practical Removable Dust Container Setup | Essential Accessories Pack Included | High Performance G-Force Air Technology",
           "warranty": "1 Year"
         },
@@ -527,7 +527,7 @@
           "brand": "Gorenje",
           "acuId": "ECGC2000SD",
           "regular": 1100,
-          "sale": 990,
+          "sale": null,
           "features": "Smart-Logic Preset Cooking Programs | 180° Open Grilling for Tabletop BBQ | Dual Non-Stick High-Quality Plates | Integrated Grease Drainage System | Removable Tray for Easy Oil Disposal | Enhanced Auto Shut-Down System | Uniform Heat for Perfect Grilling",
           "warranty": "1 Year"
         },
@@ -538,7 +538,7 @@
           "brand": "Gorenje",
           "acuId": "ECTG1800SB",
           "regular": 1400,
-          "sale": 1260,
+          "sale": null,
           "features": "Advanced Smokeless Extraction Setup | Precise Variable Heat Control Mode | Premium Non Stick Grill Plates | Integrated Smoke Absorbing Air Inlet | Mechanical Control | Efficient Drip Tray And Fan Cover | Easy To Use And Maintain Design",
           "warranty": "1 Year"
         },
@@ -571,7 +571,7 @@
           "brand": "Amcon",
           "acuId": "B02-ELSAU-SSDT",
           "regular": 680,
-          "sale": 600,
+          "sale": null,
           "features": "High-Power Rapid Heating Element | Compact & Portable Single Burner | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Finish | Smooth Easy-to-Clean Surface | Precision Temperature & Power Control | Robust Design Built for Daily Use",
           "warranty": "1 Year"
         },
@@ -582,7 +582,7 @@
           "brand": "Amcon",
           "acuId": "ECCH240A",
           "regular": 1550,
-          "sale": 1390,
+          "sale": null,
           "features": "High-Power Dual-Burner Rapid Heating | Independent Cooking Zone Controls | Versatile Modes for Convenient Cooking | Sleek & Modern Stylish Exterior | Smooth Easy-to-Clean Surface | Precision Temperature & Power Tuning | Compact Design with Robust Build",
           "warranty": "1 Year"
         },
@@ -686,7 +686,7 @@
           "brand": "Hisense",
           "acuId": "ECAF52S1H",
           "regular": 800,
-          "sale": null,
+          "sale": 700,
           "features": "Unique Circular Digital Touch Display | 7 Smart-Logic Preset Cooking Programs | 360° Full Hot Air Circulation Tech | Precision Time & Temperature Control | Rapid Heating for Faster Meal Prep | Versatile All-in-One Kitchen Helper | Easy-to-Clean Non-Stick Components",
           "warranty": "1 Year"
         },
@@ -3496,7 +3496,7 @@
       "brand": "Hisense",
       "acuId": "2.5HPSAC",
       "regular": 8700,
-      "sale": 6400,
+      "sale": null,
       "features": "Energy Efficient Performance | Super Silent Operation | Slim & Modern Design | High-Efficiency Evaporator | Smart Self-Diagnosis & Protection | Auto Defrost Function | High-Density Filter | Programmable 24-Hour Timer | Eco-Friendly R410a Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1773/image"
@@ -3508,7 +3508,7 @@
       "brand": "Hisense",
       "acuId": "4.5HPFAC",
       "regular": 19800,
-      "sale": 14500,
+      "sale": null,
       "features": "Energy Efficient | Sleep Function | Easy Coil Cleaning | PP Anti-Mold Filter | Auto Restart Function | Smart Function | Copper Condenser and Evaporator | REQUIRES 3-PHASE POWER CONNECTION | Environmentally Friendly Refrigerant",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1774/image"
@@ -3568,7 +3568,7 @@
       "brand": "Hisense",
       "acuId": "AC2.5HPINVEFMACHISENSE",
       "regular": 13690,
-      "sale": 9900,
+      "sale": null,
       "features": "Inverter Technology | 5-Star Superior Efficiency | Low Noise Operation | Gold Fin Anti-Corrosive Coating | Long Distance Air Flow | Eco-Friendly R32 Refrigerant | Advanced Dehumidification | Easy Cleaning Design | Auto-Protection Self-Diagnosis",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1810/image"
@@ -3580,7 +3580,7 @@
       "brand": "Gorenje",
       "acuId": "BFPMC801W",
       "regular": 950,
-      "sale": 850,
+      "sale": null,
       "features": "High-Torque Powerful 801W Motor Base | Versatile Chopper, Blender & Grinder | Large 2.4L Multi-Purpose Food Bowl | Family-Sized 1.5L Blending Jar | Multi-Blade Stainless Steel Set | Precision Pulse & Ice Crush Modes | Safe & Intuitive One-Touch Controls",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/11223/image"
@@ -3628,7 +3628,7 @@
       "brand": "Hisense",
       "acuId": "240LCFB",
       "regular": 4250,
-      "sale": 3000,
+      "sale": null,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Refrigerant | Convenient Manual Defrost Function | Energy Efficient & Cost-Saving System | Matte Black Finish with Recessed and Grip Handle | Internal Sliding Glass Protection Door | Precision Adjustable Thermostat | Clear View Power Switch Indicator | Reliable Long-Term Food Preservation",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/6713/image"
@@ -3640,7 +3640,7 @@
       "brand": "Hisense",
       "acuId": "520LCFS",
       "regular": 7590,
-      "sale": 5500,
+      "sale": null,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R600a Natural Gas | Convenient Beam Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1666/image"
@@ -3652,7 +3652,7 @@
       "brand": "Gorenje",
       "acuId": "CFS180",
       "regular": 1650,
-      "sale": 1480,
+      "sale": null,
       "features": "Energy Efficient Technology | Battery Powered Cordless Design | High & Low Suction Power | 2-in-1 Versatile Function | LED Status Indicators | Motorized Turbo Brush | On-Board Attachment Storage | Ergonomic Easy-Grip Handle | Easy-Empty Dirt Container & Nozzle",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/13117/image"
@@ -3712,7 +3712,7 @@
       "brand": "Gorenje",
       "acuId": "ECMC5.7L",
       "regular": 1000,
-      "sale": 880,
+      "sale": null,
       "features": "Large 5.7L Family-Sized Capacity | Versatile All-in-One Kitchen Appliance | 15 Smart-Logic Preset Programs | Convenient 24-Hour Delay Start Timer | Enhanced Multi-Point Lock System | Non-Stick Inner Pot for Easy Cleaning | Precision Pressure & Temp Control",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/4996/image"
@@ -3748,7 +3748,7 @@
       "brand": "Hisense",
       "acuId": "ECAF80DZ1H",
       "regular": 1400,
-      "sale": null,
+      "sale": 1230,
       "features": "Precision Digital Touch Control Panel | Dual Independent Cooking Baskets | 8 Smart-Logic Preset Programs | Synced Finish & Temperature Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/7959/image"
@@ -3760,7 +3760,7 @@
       "brand": "Hisense",
       "acuId": "ECAF86S5H",
       "regular": 1200,
-      "sale": null,
+      "sale": 1060,
       "features": "Dual Independent Air Fryer Baskets | 8 Smart-Logic Preset Cooking Modes | Precision Digital Time & Temp Control | Safe-to-Touch Cool Housing Design | Versatile Double-Zone Kitchen Helper | Rapid 360° Hot Air Circulation Tech | Synchronized Finish Cooking Function",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/5129/image"
@@ -4470,7 +4470,7 @@
       "brand": "Amcon",
       "acuId": "BL DT-8110",
       "regular": 1950,
-      "sale": 1750,
+      "sale": null,
       "features": "Professional 1000W High-Power Motor | High-Speed 18,000 RPM Blending Power | 1.7L Premium Korean-Made Glass Jar | Advanced Thermal Heating Function | Smart Touch Controls & Digital Timer | Multi-Program Preset Function Modes | Precision Stainless Steel Cutting Blade",
       "warranty": "2 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1649/image"
@@ -4482,7 +4482,7 @@
       "brand": "Amcon",
       "acuId": "BL DT-780",
       "regular": 1250,
-      "sale": 1120,
+      "sale": null,
       "features": "Massive 1800W Professional-Grade Motor | Extra-Large 2.2L Tough-Impact Jar | High-Speed Blending & Liquefying | Precision Stainless Steel Cutting Blade | Durable Mechanical Control Interface | Dedicated Whip & Pulse Functionality | Versatile Design for All Kitchen Needs",
       "warranty": "1 Year",
       "imageUrl": "https://workatsel.com/api/odoo/products/11218/image"
@@ -4506,7 +4506,7 @@
       "brand": "Hisense",
       "acuId": "701LCFS",
       "regular": 10600,
-      "sale": 7800,
+      "sale": null,
       "features": "Rapid Cooling & Deep Freeze Function | Eco-Friendly R290 High-Efficiency Gas | Convenient Manual Defrost Function | Energy Efficient Smart Technology | Sleek Silver Finish with Double Door and Grip Handle | Intelligent Over-Temperature Alarm | Precision Adjustable Thermostat | Power Status Indicator and Smart Power Cut-Off | Reliable Long-Term Food Preservation",
       "warranty": "5 Years",
       "imageUrl": "https://workatsel.com/api/odoo/products/1667/image"
@@ -4808,7 +4808,7 @@
       "brand": "Hisense",
       "acuId": "ACBRACKET",
       "regular": 115,
-      "sale": 90,
+      "sale": null,
       "features": "Ideal for 1.0HP & 1.5HP AC Units | Heavy-Duty 120kg Max Load Capacity | Anti-Rust Powder Coating for Outdoors | High-Strength Hard Steel Structure | Universal & Adjustable Mounting Patterns | Complete Installation Hardware Included | Quick & Easy DIY Installation Process | Step-by-Step User Manual Included | Reliable & Secure Wall-Mount Support",
       "warranty": "Not Applicable"
     },
@@ -4819,7 +4819,7 @@
       "brand": "Hisense",
       "acuId": "ACBRACKETT2",
       "regular": 130,
-      "sale": 100,
+      "sale": null,
       "features": "Ideal for 2.0HP & 2.5HP AC Units | Heavy-Duty 180kg Max Load Capacity | Anti-Rust Powder Coating for Outdoors | High-Strength Hard Steel Structure | Universal & Adjustable Mounting Patterns | Complete Installation Hardware Included | Quick & Easy DIY Installation Process | Step-by-Step User Manual Included | Reliable & Secure Wall-Mount Support",
       "warranty": "Not Applicable"
     },
@@ -4830,7 +4830,7 @@
       "brand": "Amcon",
       "acuId": "B21GJSG",
       "regular": 300,
-      "sale": 270,
+      "sale": null,
       "features": "Powerful 600W High-Performance Motor | 6 Premium Stainless Steel Blades | Durable 1.5L Hygienic Glass Jar | Versatile 2-in-1 Blender & Grinder | Precision 5-Speed Cooling Control | Dedicated Rapid Ice Crush Function | Stable Non-Slip Rubber Support Base",
       "warranty": "1 Year"
     },
@@ -4841,7 +4841,7 @@
       "brand": "Amcon",
       "acuId": "B31SSJG",
       "regular": 450,
-      "sale": 400,
+      "sale": null,
       "features": "Powerful 600W High-Performance Motor | 6 Premium Stainless Steel Blades | Versatile 3-in-1 Blender Grinder Chopper | Durable Domestic & Professional Build | Precision 5-Speed Cooling Control | Dedicated Rapid Ice Crush Function | Stable Non-Slip Rubber Support Base",
       "warranty": "1 Year"
     },
@@ -4852,7 +4852,7 @@
       "brand": "Gorenje",
       "acuId": "BCS400XG",
       "regular": 420,
-      "sale": 375,
+      "sale": null,
       "features": "1L Thermal-Resistant Glass Bowl | Dual-Point Stainless Steel Blades | High-Efficiency 400W Power Motor | Precision Chopping & Smooth Blending | One-Touch Instant Pulse Function | BPA-Free & Easy-to-Clean Design | Compact Versatile Food Processor",
       "warranty": "1 Year"
     },
@@ -4885,7 +4885,7 @@
       "brand": "Gorenje",
       "acuId": "BHBX1000E",
       "regular": 670,
-      "sale": 620,
+      "sale": null,
       "features": "Energy Efficient Durable DC Motor | Powerful Performance 1000W Motor | Adjustable Speed Smart Control Knob | Turbo Function Immediate Power Boost | Efficient Quad Stainless Steel Blade | Ergonomic Softouch Control Handle | Easy Detachable Blending Attachment",
       "warranty": "1 Year"
     },
@@ -4896,7 +4896,7 @@
       "brand": "Gorenje",
       "acuId": "BHBC807QD",
       "regular": 890,
-      "sale": 800,
+      "sale": null,
       "features": "Powerful 800W High-Efficiency Motor | 6-Level Smart Speed Power Regulator | Bright LED Work Area Illumination | Premium Stainless Steel Blending Bar | Multifunctional Chopper & Whisk Set | Convenient Storage Accessory Holder | Durable Quad-Blade Cutting System",
       "warranty": "1 Year"
     },
@@ -4918,7 +4918,7 @@
       "brand": "Gorenje",
       "acuId": "BLJC805EII",
       "regular": 790,
-      "sale": 700,
+      "sale": null,
       "features": "Powerful 800W High-Efficiency Motor | XL Feeding Tube for Whole Fruits | Large 1.5L Pulp & Juice Containers | 2-Speed Settings for Soft & Hard Fruit | Clean-Flow Anti-Drip Spout System | Integrated Protective Dust Cover | Stainless Steel Micro-Mesh Filter",
       "warranty": "1 Year"
     },
@@ -4951,7 +4951,7 @@
       "brand": "Gorenje",
       "acuId": "BM350W",
       "regular": 450,
-      "sale": 400,
+      "sale": null,
       "features": "Power 350W Performance | 4 Speed Levels And Pulse Function | Powerful And Efficient AC Motor | Ergonomic Slide Speed Switch | Safety Locked Attachment Eject Button | Stainless Steel Beaters & Stainless Steel Dough Hooks Included | Sleek Classic Handheld Design",
       "warranty": "1 Year"
     },
@@ -4962,7 +4962,7 @@
       "brand": "Gorenje",
       "acuId": "B800ORAB1.5L",
       "regular": 880,
-      "sale": 790,
+      "sale": null,
       "features": "Powerful 800W High Speed Motor | 1.5L Blender Capacity | Easy Flat Control Panel Setup | Premium Quad Blade System | High Performance Mechanical Design | Smooth Daily Blending Performance | Seamless \"Flat Controls\" with LED Lighting",
       "warranty": "1 Year"
     },
