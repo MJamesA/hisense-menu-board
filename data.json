@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-08T17:11:23.023Z",
+  "generatedAt": "2026-11-08T17:21:21.221Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4897,7 +4897,7 @@
       "name": "2.1CH SOUNDBAR \nWIRELESS SUBWOOFER",
       "model": "HT-360",
       "brand": "Fenda",
-      "regular": 1750,
+      "regular": 1800,
       "sale": null,
       "promo": false,
       "warranty": "3 Years",
@@ -4988,7 +4988,7 @@
       "name": "2.0CH TOWER SPEAKER",
       "model": "T-60X PRO",
       "brand": "Fenda",
-      "regular": 2300,
+      "regular": 2350,
       "sale": null,
       "promo": false,
       "warranty": "3 Years",
