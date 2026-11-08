@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-08T17:31:20.133Z",
+  "generatedAt": "2026-11-08T17:41:18.165Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1127,7 +1127,7 @@
       "name": "310L CHEST FREEZER",
       "model": "FC-40DD4HA",
       "brand": "Hisense",
-      "regular": 4290,
+      "regular": 4400,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -5716,7 +5716,7 @@
       "name": "58” SMART DIGITAL \n4K T2 TELEVISION",
       "model": "58A6N",
       "brand": "Hisense",
-      "regular": 6150,
+      "regular": 7200,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -6548,7 +6548,7 @@
       "name": "10.5KG FRONT LOAD \nWASHING MACHINE",
       "model": "WF3S1043BB",
       "brand": "Hisense",
-      "regular": 5450,
+      "regular": 5690,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -6652,7 +6652,7 @@
       "name": "11KG TOP LOAD \nWASHING MACHINE",
       "model": "WT3K1132UB",
       "brand": "Hisense",
-      "regular": 3900,
+      "regular": 4100,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
