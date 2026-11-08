@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-08T17:21:21.221Z",
+  "generatedAt": "2026-11-08T17:31:20.133Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -2297,7 +2297,7 @@
       "name": "223L DOUBLE DOOR FRIDGE",
       "model": "RD-29DC4SA",
       "brand": "Hisense",
-      "regular": 4200,
+      "regular": 4400,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
@@ -2323,7 +2323,7 @@
       "name": "243L DOUBLE DOOR FRIDGE",
       "model": "RD-34DC4SB",
       "brand": "Hisense",
-      "regular": 4350,
+      "regular": 4550,
       "sale": null,
       "promo": false,
       "warranty": "5 Years",
