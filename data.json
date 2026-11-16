@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-08T18:11:22.383Z",
+  "generatedAt": "2026-11-16T14:01:19.322Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -3181,7 +3181,7 @@
       "name": "75\" INTERACTIVE\nDISPLAY BOARD",
       "model": "75MR6DE",
       "brand": "Hisense",
-      "regular": 39000,
+      "regular": null,
       "sale": null,
       "promo": false,
       "warranty": "3 Years",
@@ -3207,7 +3207,7 @@
       "name": "86\" INTERACTIVE\nDISPLAY BOARD",
       "model": "86MR6DE",
       "brand": "Hisense",
-      "regular": 46000,
+      "regular": null,
       "sale": null,
       "promo": false,
       "warranty": "3 Years",
@@ -3780,8 +3780,8 @@
       "model": "AM-C40",
       "brand": "Amcon",
       "regular": 580,
-      "sale": 300,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "1 Year",
       "features": ""
     },
@@ -3793,8 +3793,8 @@
       "model": "AM-C40",
       "brand": "Amcon",
       "regular": 580,
-      "sale": 300,
-      "promo": true,
+      "sale": null,
+      "promo": false,
       "warranty": "1 Year",
       "features": "High-Speed 4G LTE Reliable Network | Massive 4500mAh All-Day Battery | Large 6.0” Immersive Display Screen | 2GB RAM & 16GB Storage Memory | Efficient Android 8.1 Go Edition OS | Dual SIM & SD Card Expansion Slots | Complete Wi-Fi & Bluetooth Connectivity | Modern 8MP Rear & 5MP Selfie Cameras | Stylish Black Gold & Blue Finishes"
     },
