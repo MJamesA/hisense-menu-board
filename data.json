@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-16T14:01:19.322Z",
+  "generatedAt": "2026-11-17T17:11:34.451Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4018,6 +4018,32 @@
       "promo": false,
       "warranty": "1 Year",
       "features": "High-Speed 4G LTE Reliable Network | Compact 5.0” Hand-Friendly Display | Efficient Quad-Core Processing Power | Dual SIM Support for Easy Connectivity | Expandable Storage Up to 32GB MicroSD | Smooth Android 9.1 Operating System | Reliable 2000mAh All-Day Battery | 5MP Rear & 2MP Front Selfie Cameras | Built-in 1GB RAM & 8GB ROM Storage"
+    },
+    {
+      "acuId": "HS-E36",
+      "tag": "A6",
+      "category": "Mobile Phones",
+      "name": "E36 MOBILE PHONE",
+      "model": "HS-E36",
+      "brand": "",
+      "regular": 1490,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": ""
+    },
+    {
+      "acuId": "HS-E74",
+      "tag": "A6",
+      "category": "Mobile Phones",
+      "name": "E73 MOBILE PHONE",
+      "model": "HS-E74",
+      "brand": "",
+      "regular": 2050,
+      "sale": null,
+      "promo": false,
+      "warranty": "1 Year",
+      "features": ""
     },
     {
       "acuId": "HS-U963PPC",
