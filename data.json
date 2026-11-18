@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-18T16:01:19.141Z",
+  "generatedAt": "2026-11-18T16:11:19.357Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4021,7 +4021,7 @@
     },
     {
       "acuId": "HS-E36",
-      "tag": "A6",
+      "tag": "A8",
       "category": "Small Items",
       "name": "E36 MOBILE PHONE",
       "model": "HS-E36",
