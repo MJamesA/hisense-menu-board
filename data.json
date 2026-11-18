@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-17T17:11:34.451Z",
+  "generatedAt": "2026-11-18T16:01:19.141Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4022,7 +4022,7 @@
     {
       "acuId": "HS-E36",
       "tag": "A6",
-      "category": "Mobile Phones",
+      "category": "Small Items",
       "name": "E36 MOBILE PHONE",
       "model": "HS-E36",
       "brand": "",
@@ -4034,8 +4034,8 @@
     },
     {
       "acuId": "HS-E74",
-      "tag": "A6",
-      "category": "Mobile Phones",
+      "tag": "A8",
+      "category": "Small Items",
       "name": "E73 MOBILE PHONE",
       "model": "HS-E74",
       "brand": "",
