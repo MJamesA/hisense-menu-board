@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-18T16:11:19.357Z",
+  "generatedAt": "2026-11-24T14:31:19.301Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4033,11 +4033,11 @@
       "features": ""
     },
     {
-      "acuId": "HS-E74",
+      "acuId": "HS-E73",
       "tag": "A8",
       "category": "Small Items",
       "name": "E73 MOBILE PHONE",
-      "model": "HS-E74",
+      "model": "HS-E73",
       "brand": "",
       "regular": 2050,
       "sale": null,
