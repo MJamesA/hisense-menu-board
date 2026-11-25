@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-25T12:31:28.578Z",
+  "generatedAt": "2026-11-25T13:11:21.712Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5421,6 +5421,7 @@
       "promo": false,
       "warranty": "3 Years",
       "features": "2.1CH Sleek & Stylish Design | 300W Max High-Output Audio Power | Super Quality Bass Boost Technology | Precision Crystal-Clear Audio Output | Advanced Bluetooth Audio Streaming | Dual HDMI & Optical Digital Inputs | Aux-In & Coaxial Audio Connectivity | Smart Multi-Source Switching | Bright Integrated LED Display",
+      "link": "https://www.hisense.com.gh/shop/ax2107g-2-1ch-soundbar-with-wireless-subwoofer-140w-20704",
       "selfServiceCode": "SS034",
       "barcode": "6942147475973"
     },
@@ -5451,6 +5452,7 @@
       "promo": false,
       "warranty": "3 Years",
       "features": "High Energy Efficiency For Power Savings | Powerful 500W Total Output Performance | Immersive 3.1 Channel Audio Experience | Fast Bluetooth 5.3 Wireless Connectivity | Dolby Atmos And Dolby Digital Audio | Advanced Hi-Concerto Smart Function | Powerful 6.5 Inch Wireless Subwoofer | Versatile 7 Preset Equalizer Modes | Clear LED Display With HDMI ARC",
+      "link": "https://www.hisense.com.gh/shop/ax3100q-ax3100q-3-1ch-soundbar-with-wireless-subwoofer-500w-19188",
       "selfServiceCode": "SS054",
       "barcode": "6942351412658"
     },
@@ -5466,7 +5468,6 @@
       "promo": false,
       "warranty": "3 Years",
       "features": "3.1.2ch Immmersive Surround Sound | Cinema-Grade Dolby Atmos Support | 360W Max High-Output Audio Power | 7 Tailored Professional Sound Modes | Advanced Roku TV Ready Integration | Super Quality Bass Boost Technology | High-Fidelity Dolby Digital Audio | Advanced Bluetooth & USB Streaming | Optical, AV, and Multi-Port Connectivity",
-      "link": "https://www.hisense.com.gh/shop/3-1-2ch-sound-bar-with-wireless-subwoofer-360w-8702?category=15",
       "selfServiceCode": "SS035",
       "barcode": "6942147495063"
     },
