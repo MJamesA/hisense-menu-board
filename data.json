@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-25T16:31:19.661Z",
+  "generatedAt": "2026-11-25T16:41:20.082Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -1588,7 +1588,7 @@
       "name": "DSTVDECODER&ACC",
       "model": "Model 1",
       "brand": "DSTV",
-      "regular": 633,
+      "regular": null,
       "sale": null,
       "promo": false,
       "warranty": "1 Year",
