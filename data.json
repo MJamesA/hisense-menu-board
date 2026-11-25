@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-25T13:41:18.344Z",
+  "generatedAt": "2026-11-25T15:41:17.722Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4793,6 +4793,7 @@
       "promo": false,
       "warranty": "1 Year",
       "features": "",
+      "link": "https://www.hisense.com.gh/shop/hisense-mobile-phone-hs-e36-20723",
       "selfServiceCode": "MP024"
     },
     {
@@ -4821,6 +4822,7 @@
       "promo": false,
       "warranty": "1 Year",
       "features": "",
+      "link": "https://www.hisense.com.gh/shop/hs-e73-hisense-mobile-phone-hs-e73-20722",
       "selfServiceCode": "MP024"
     },
     {
@@ -4907,7 +4909,6 @@
       "promo": false,
       "warranty": "1 Year",
       "features": "",
-      "link": "https://www.hisense.com.gh/shop/am-x8-leiat-feature-phone-14286?category=13",
       "selfServiceCode": "MP016"
     },
     {
