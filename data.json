@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-25T16:41:20.082Z",
+  "generatedAt": "2026-11-25T23:21:17.081Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -4783,8 +4783,8 @@
     },
     {
       "acuId": "HS-E36",
-      "tag": "A8",
-      "category": "Small Items",
+      "tag": "A6",
+      "category": "Mobile Phones",
       "name": "E36 MOBILE PHONE",
       "model": "E36",
       "brand": "Hisense",
@@ -4798,8 +4798,8 @@
     },
     {
       "acuId": "HS-E73",
-      "tag": "A8",
-      "category": "Small Items",
+      "tag": "A6",
+      "category": "Mobile Phones",
       "name": "E73 MOBILE PHONE",
       "model": "E73",
       "brand": "Hisense",
