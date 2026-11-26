@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-26T00:01:17.840Z",
+  "generatedAt": "2026-11-26T01:41:16.422Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -8985,7 +8985,7 @@
       "selfServiceCode": "AL046"
     },
     {
-      "acuId": "ACFLDBBPBK",
+      "acuId": "ACFLDBBPB",
       "tag": "ALLOCACOC",
       "category": "Allocacoc",
       "name": "FOLD BAG BACK PACK\nCOLOUR - BLUE",
@@ -8997,10 +8997,10 @@
       "warranty": "",
       "features": "",
       "link": "https://www.hisense.com.gh/shop/acfldbbpb-foldbag-backpack-blue-4422",
-      "selfServiceCode": "AL046"
+      "selfServiceCode": "AL047"
     },
     {
-      "acuId": "ACFLDBBPB",
+      "acuId": "ACALOFLPBG",
       "tag": "ALLOCACOC",
       "category": "Allocacoc",
       "name": "FOLD BAG LAPTOP\nCOLOUR - BEIGE",
@@ -9012,7 +9012,7 @@
       "warranty": "",
       "features": "",
       "link": "https://www.hisense.com.gh/shop/acaloflpbg-foldbag-laptop-beige-4413",
-      "selfServiceCode": "AL047"
+      "selfServiceCode": "AL048"
     },
     {
       "acuId": "ACALOFLPBK",
