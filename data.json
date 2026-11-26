@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-25T23:31:19.453Z",
+  "generatedAt": "2026-11-26T00:01:17.840Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -397,7 +397,7 @@
       "tag": "A6",
       "category": "Air Conditioners",
       "name": "3.0HP INVERTER FLOOR STANDING\nAIR CONDITIONER",
-      "model": "",
+      "model": "#N/A",
       "brand": "Hisense",
       "regular": 21000,
       "sale": 14500,
