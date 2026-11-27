@@ -1,6 +1,6 @@
 {
   "ok": true,
-  "generatedAt": "2026-11-27T08:51:16.507Z",
+  "generatedAt": "2026-11-27T12:21:21.689Z",
   "products": [
     {
       "acuId": "AC1.0HPINVACAMCON",
@@ -5797,6 +5797,7 @@
       "promo": true,
       "warranty": "3 Years",
       "features": "2.1ch Sleek & Stylish Design | Cinema-Grade Dolby Atmos Support | Superior Loud & Deep Bass Technology | HDMI ARC Output for Seamless TV Sync | Professional Multi-EQ Sound Modes | Advanced Bluetooth Wireless Streaming | High-Fidelity Optical Digital Input | Aux-In & Specialized TV Audio Modes | Plug & Play USB Port & Remote Control",
+      "link": "https://owia.odoo.com/shop/hs2100fm-2-1ch-soundbar-with-wireless-subwoofer-fm-20735",
       "selfServiceCode": "SS041",
       "barcode": "6942351413150"
     },
